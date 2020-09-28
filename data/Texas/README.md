@@ -11,9 +11,13 @@ Much of election administration in Texas is overseen by local officials in small
 
 The files received were sometimes clean Excel documents, but often messy Word documents or PDFs. The locations were sometimes incomplete, missing addresses or missing precinct identifiers. Reporters researched the addresses when possible, but gaps still remain.
 
+Can you help us complete the polling locations for a missing year or spot an error? Pull requests or emails to data@publicintegity.org welcome.
+
 ### Coverage
 
 The following is the record count for each county. Some records include multiple precincts that voted at one location (separated by commas), others list a location multiple times — once for each precinct that voted there.
+
+If a county had zero records in a particular year, it was generally either because we couldn't obtain documents showing the polling places or the documents we did obtain were unclear.
 
 | county        | 2012 | 2014 | 2016 | 2018 |
 | ------------- | ---- | ---- | ---- | ---- |
@@ -271,6 +275,7 @@ The following is the record count for each county. Some records include multiple
 | Young         | 9    | 0    | 5    | 5    |
 | Zapata        | 7    | 7    | 7    | 7    |
 | Zavala        | 0    | 0    | 6    | 5    |
+
 
 ### Credits
 
