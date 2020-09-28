@@ -4,6 +4,12 @@
 
 This data release contains standardized data on polling locations that were used in each election cycle since 2012 for all the states covered by the dataset. The initial release contains 30 states, with more to be added in the coming weeks.
 
+### Status
+
+The initial release of this data contains data for the following states:
+
+*Alaska, Arizona, Arkansas, Connecticut, Delaware, Illinois, Indiana, Iowa, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Mississippi, Montana, Nebraska, New Jersey, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, Rhode Island, South Carolina, South Dakota, Vermont, Virginia, West Virginia and Wisconsin.*
+
 ### Geocodes
 
 Wherever possible, we have also included a geocode for each polling location. This geocode represents a “best guess” based on cross referencing responses from 3 different services. While we have made every effort to ensure the accuracy of the location information, geocoding is an imperfect science and we recommend that users perform manual validation when drawing conclusions from this data.
@@ -35,6 +41,6 @@ The following reporters were instrumental in preparing this dataset.
 
 ### License & Attribution
 
-This data is being released under a CC BY 4.0 license. You are free to copy, redistribute and adapt this data. All that we ask is that you provide appropriate credit and a link to this license. You can [view the full LICENSE here](LICENSE.md).
+This data is being released under a CC BY 4.0 license. You are free to copy, redistribute and adapt this data. All that we ask is that you provide appropriate credit and a link to this license. You can [view the full LICENSE here](LICENSE).
 
 If you use this data for academic work, please use the citation included in each individual state’s README file.
