@@ -34,6 +34,7 @@ The following reporters were instrumental in preparing this dataset.
 - Kimberly Cataudella
 - Chris Zubak-Skees
 - Joe Yerardi
+- Joe Wertz
 
 **Stateline**:
 - Matt Vasilogambros
