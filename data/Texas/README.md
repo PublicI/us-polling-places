@@ -1,7 +1,7 @@
 
 ## Texas Polling Places (2012-2018)
 
-This collection of polling locations in Texas contains 24,962 records. It covers general elections held from 2012 to 2018. It is drawn from 505 documents obtained via open records requests and research by the Center for Public Integrity. The records cover 245 of Texas's 254 counties.
+This collection of polling locations in Texas contains 25,643 records. It covers general elections held from 2012 to 2018. It is drawn from 505 documents obtained via open records requests and research by the Center for Public Integrity. The records cover 245 of Texas's 254 counties.
 
 ### Caveats
 
@@ -123,7 +123,7 @@ This dataset focuses on election day polling places, so early voting locations w
 | Hansford      | 10   | 10   | 10   | 10   |
 | Hardeman      | 4    | 4    | 4    | 4    |
 | Hardin        | 6    | 6    | 6    | 19   |
-| Harris        | 1064 | 1069 | 1012 | 331  |
+| Harris        | 1064 | 1069 | 1012 | 1012 |
 | Harrison      | 0    | 0    | 25   | 0    |
 | Hartley       | 6    | 6    | 6    | 6    |
 | Haskell       | 10   | 0    | 0    | 13   |
