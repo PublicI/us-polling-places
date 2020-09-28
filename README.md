@@ -2,6 +2,8 @@
 
 > :warning: **This data is scheduled to be released on September 29th, 2020. We are preparing for the release and contents of this repo are currently incomplete. If you want to access pre-release data, check the `Pull Requests` tab.**
 
+Learn more about this data here: [National data release sheds light on past polling place changes.](https://publicintegrity.org/politics/elections/ballotboxbarriers/data-release-sheds-light-on-past-polling-place-changes)
+
 This data release contains standardized data on polling locations that were used in each election cycle since 2012 for all the states covered by the dataset. The initial release contains 30 states, with more to be added in the coming weeks.
 
 ### Status
