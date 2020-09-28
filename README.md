@@ -6,7 +6,7 @@ This data release contains standardized data on polling locations that were used
 
 ### Status
 
-The initial release of this data contains data for the following states:
+The initial release (2020-09-29) of this data contains data for the following states:
 
 *Alaska, Arizona, Arkansas, Connecticut, Delaware, Illinois, Indiana, Iowa, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Mississippi, Montana, Nebraska, New Jersey, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, Rhode Island, South Carolina, South Dakota, Vermont, Virginia, West Virginia and Wisconsin.*
 
