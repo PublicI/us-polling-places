@@ -10,6 +10,12 @@ The initial release (2020-09-29) of this data contains data for the following st
 
 *Alaska, Arizona, Arkansas, Connecticut, Delaware, Illinois, Indiana, Iowa, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Mississippi, Montana, Nebraska, New Jersey, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, Rhode Island, South Carolina, South Dakota, Vermont, Virginia, West Virginia and Wisconsin.*
 
+This release also includes data for the following states but they are missing one or more election cycles:
+
+*Georgia, Michigan, Minnesota, New Hampshire, New Mexico*
+
+Detailed information about current and future coverage in each state is available on the [Status page](STATUS.md).
+
 ### Provenance
 
 This data was primarily acquired through public records requests to state or county election officials. In some cases, when state election officials no longer had the data, they authorized the Voting Information Project to release any data that was available in their archives. The source of each election year’s data is mentioned in the state’s README file. Additionally, the state README file contains any additional caveats about the data that you need to be aware of.
