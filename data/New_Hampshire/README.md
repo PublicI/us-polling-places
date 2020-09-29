@@ -6,7 +6,7 @@
 
 - 2012 General
 - 2014 General
-- 2016 Primary
+- **2016 Primary**
 - 2018 General
 
 ### Source
