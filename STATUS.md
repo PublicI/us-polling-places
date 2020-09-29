@@ -14,7 +14,7 @@ Here is the current status of data acquisition/cleaning/geocoding/release of dat
 |Delaware      |Released       |Released       |Released       |Released       |
 |Florida       |Data Entry     |Data Entry     |Data Entry     |Data Entry     |
 |Georgia       |Awaiting Review|Awaiting Review|Released       |Released       |
-|Hawaii        |               |               |               |               |
+|Hawaii        |Excluded       |Excluded       |Excluded       |Excluded       |
 |Idaho         |Data Entry     |Data Entry     |Data Entry     |Data Entry     |
 |Illinois      |Released       |Released       |Released       |Released       |
 |Indiana       |Awaiting Review|Awaiting Review|Awaiting Review|Awaiting Review|
@@ -40,7 +40,7 @@ Here is the current status of data acquisition/cleaning/geocoding/release of dat
 |North Dakota  |Released       |Released       |Released       |Released       |
 |Ohio          |Released       |Released       |Released       |Released       |
 |Oklahoma      |Released       |Released       |Released       |Released       |
-|Oregon        |               |               |               |               |
+|Oregon        |Excluded       |Excluded       |Excluded       |Excluded       |
 |Pennsylvania  |Released       |Released       |Released       |Released       |
 |Rhode Island  |Released       |Released       |Released       |Released       |
 |South Carolina|Released       |Released       |Released       |Released       |
@@ -50,7 +50,7 @@ Here is the current status of data acquisition/cleaning/geocoding/release of dat
 |Utah          |Released       |Released       |Released       |Released       |
 |Vermont       |Released       |Released       |Released       |Released       |
 |Virginia      |Released       |Released       |Released       |Released       |
-|Washington    |               |               |               |               |
+|Washington    |Excluded       |Excluded       |Excluded       |Excluded       |
 |West Virginia |Released       |Released       |Released       |Released       |
 |Wisconsin     |Released       |Released       |Released       |Released       |
 |Wyoming       |Data Entry     |Data Entry     |Data Entry     |Data Entry     |
