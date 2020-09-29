@@ -1,0 +1,514 @@
+county_name,precinct_id,name,address,polling_place_type
+Adams,01,Adams County Courthouse,"602 Adams Ave, Hettinger, ND, 58639",unknown
+Adams,01,Adams County VBM Polling Place,"602 Adams Ave, Hettinger, ND, 58639",unknown
+Barnes,01,Barnes Co. Courthouse 11,"230 4th St NW, Valley City, ND, 58072",unknown
+Barnes,02,Barnes Co. Courthouse 11,"230 4th St NW, Valley City, ND, 58072",unknown
+Barnes,03,Barnes Co. Courthouse 11,"230 4th St NW, Valley City, ND, 58072",unknown
+Barnes,04,Barnes Co. Courthouse 11,"230 4th St NW, Valley City, ND, 58072",unknown
+Barnes,05,Barnes Co. Courthouse 11,"230 4th St NW, Valley City, ND, 58072",unknown
+Barnes,06,Barnes Co. Courthouse 11,"230 4th St NW, Valley City, ND, 58072",unknown
+Barnes,07,Barnes Co. Courthouse 11,"230 4th St NW, Valley City, ND, 58072",unknown
+Barnes,08,Barnes Co. Courthouse 11,"230 4th St NW, Valley City, ND, 58072",unknown
+Barnes,09,Barnes Co. Courthouse 11,"230 4th St NW, Valley City, ND, 58072",unknown
+Barnes,10,Barnes Co. Courthouse 11,"230 4th St NW, Valley City, ND, 58072",unknown
+Barnes,11,Barnes Co. Courthouse,"230 4th St NW, Valley City, ND, 58072",unknown
+Barnes,12,Barnes Co. Courthouse 11,"230 4th St NW, Valley City, ND, 58072",unknown
+Barnes,13,Barnes Co. Courthouse 11,"230 4th St NW, Valley City, ND, 58072",unknown
+Barnes,14,Barnes Co. Courthouse 11,"230 4th St NW, Valley City, ND, 58072",unknown
+Barnes,15,Barnes Co. Courthouse 11,"230 4th St NW, Valley City, ND, 58072",unknown
+Benson,01,Precinct 1 & 2 - Benson County Courthouse,"311 B Ave S, Minnewaukan, ND, 58351",unknown
+Benson,02,Precinct 1 & 2 - Benson County Courthouse,"311 B Ave S, Minnewaukan, ND, 58351",unknown
+Benson,03,Precinct 3 - Ft. Totten Community Center,"816 3rd Ave. N, Fort Totten, ND, 58335",unknown
+Benson,04,Precinct 4 - Warwick Fire Hall,"215 Griffin St., Warwick, ND, 58381",unknown
+Billings,01,Fairfield Firehall,"12825 20th St SW, Fairfield, ND, 58627",unknown
+Billings,01,Medora Courthouse Courtroom,"495 4th St, Medora, ND, 58645",unknown
+Billings,02,Fairfield Firehall,"12825 20th St SW, Fairfield, ND, 58627",unknown
+Billings,02,Medora Courthouse Courtroom,"495 4th St, Medora, ND, 58645",unknown
+Billings,03,Fairfield Firehall,"12825 20th St SW, Fairfield, ND, 58627",unknown
+Billings,03,Medora Courthouse Courtroom,"495 4th St, Medora, ND, 58645",unknown
+Bottineau,01,Bottineau County Courthouse,"314 W 5th Street, Bottineau, ND, 58318",unknown
+Bottineau,01,Lansford Mall,"783 Main Street, Lansford, ND, 58750",unknown
+Bottineau,01,Westhope City Hall,"95 1st Ave W, Westhope, ND, 58793",unknown
+Bottineau,02,Bottineau County Courthouse,"314 W 5th Street, Bottineau, ND, 58318",unknown
+Bottineau,02,Lansford Mall,"783 Main Street, Lansford, ND, 58750",unknown
+Bottineau,02,Westhope City Hall,"95 1st Ave W, Westhope, ND, 58793",unknown
+Bottineau,03,Bottineau County Courthouse,"314 W 5th Street, Bottineau, ND, 58318",unknown
+Bottineau,03,Lansford Mall,"783 Main Street, Lansford, ND, 58750",unknown
+Bottineau,03,Westhope City Hall,"95 1st Ave W, Westhope, ND, 58793",unknown
+Bottineau,04,Bottineau County Courthouse,"314 W 5th Street, Bottineau, ND, 58318",unknown
+Bottineau,04,Lansford Mall,"783 Main Street, Lansford, ND, 58750",unknown
+Bottineau,04,Westhope City Hall,"95 1st Ave W, Westhope, ND, 58793",unknown
+Bottineau,05,Bottineau County Courthouse,"314 W 5th Street, Bottineau, ND, 58318",unknown
+Bottineau,05,Lansford Mall,"783 Main Street, Lansford, ND, 58750",unknown
+Bottineau,05,Westhope City Hall,"95 1st Ave W, Westhope, ND, 58793",unknown
+Bowman,01,Bowman City # 1 - Bowman City Hall,"101 First St NE, Bowman, ND, 58623",unknown
+Bowman,02,South - Four Seasons # 2 - Bowman Four Seasons Bld,"12 Hwy 12 East, Bowman, ND, 58623",unknown
+Bowman,03,West - Rhame # 3 - Rhame American Legion Hall,"56 Main Street North, Rhame, ND, 58651",unknown
+Bowman,04,East - Scranton # 4 - Scranton Fire Hall,"103 Main Street, Scranton, ND, 58653",unknown
+Burke,01,Burke County Courthouse-Vote by Mail Polling Place,"103 Main St NW, Bowbells, ND, 58721",unknown
+Burke,02,Burke County Courthouse-Vote by Mail Polling Place,"103 Main St NW, Bowbells, ND, 58721",unknown
+Burke,03,Burke County Courthouse-Vote by Mail Polling Place,"103 Main St NW, Bowbells, ND, 58721",unknown
+Burke,04,Burke County Courthouse-Vote by Mail Polling Place,"103 Main St NW, Bowbells, ND, 58721",unknown
+Burke,05,Burke County Courthouse-Vote by Mail Polling Place,"103 Main St NW, Bowbells, ND, 58721",unknown
+Burke,06,Burke County Courthouse-Vote by Mail Polling Place,"103 Main St NW, Bowbells, ND, 58721",unknown
+Burleigh,01,Lincoln City Hall,"74 Santee Rd, Lincoln, ND, 58504",unknown
+Burleigh,02,GracePoint Church,"205 43rd Ave NE, Bismarck, ND, 58503",unknown
+Burleigh,03,Sunrise School,"3800 Nickerson Ave, Bismarck, ND, 58503",unknown
+Burleigh,04,County 4-H Building,"3715 E Bismarck Expressway, Bismarck, ND, 58501",unknown
+Burleigh,05,Evangel Assembly of God,"3225 N 14th St, Bismarck, ND, 58503",unknown
+Burleigh,06,Liberty School,"5400 Onyx Dr, Bismarck, ND, 58503",unknown
+Burleigh,07,East Auditorum (fka: The Element),"3220 N 19th Street, Bismarck, ND, 58503",unknown
+Burleigh,08,Legacy High School,"3400 E Calgary Ave, Bismarck, ND, 58503",unknown
+Burleigh,01,Wilton County Shop,"30300 93rd St NE, Wilton, ND, 58579",unknown
+Burleigh,02,Wilton County Shop,"30300 93rd St NE, Wilton, ND, 58579",unknown
+Burleigh,03,Wing Fire Hall,"2 2nd Ave W, Wing, ND, 58494",unknown
+Burleigh,01,Sterling School,"118 McKenzie St, Sterling, ND, 58572",unknown
+Burleigh,02,Menoken School,"412 Bismarck St N, Menoken, ND, 58558",unknown
+Burleigh,03,County 4-H Building,"3715 E Bismarck Expressway, Bismarck, ND, 58501",unknown
+Burleigh,01,United Tribes Technical College,"3315 University Dr, Bismarck, ND, 58504",unknown
+Burleigh,02,Senior Center,"315 N 20th St, Bismarck, ND, 58501",unknown
+Burleigh,03,Lord of Life Lutheran Church,"1143 N 26th St, Bismarck, ND, 58501",unknown
+Burleigh,04,Solheim School,"325 Munich Dr, Bismarck, ND, 58504",unknown
+Burleigh,01,South Central High School,"406 S Anderson St, Bismarck, ND, 58504",unknown
+Burleigh,02,Roosevelt School,"613 W Avenue B, Bismarck, ND, 58501",unknown
+Burleigh,03,Bismarck Civic Center,"315 South 5th Street, Bismarck, ND, 58504",unknown
+Burleigh,04,Bismarck Civic Center,"315 South 5th Street, Bismarck, ND, 58504",unknown
+Burleigh,05,Bismarck Civic Center,"315 South 5th Street, Bismarck, ND, 58504",unknown
+Burleigh,06,Bismarck Civic Center,"315 South 5th Street, Bismarck, ND, 58504",unknown
+Burleigh,07,Bismarck Civic Center,"315 South 5th Street, Bismarck, ND, 58504",unknown
+Burleigh,01,Highland Acres School,"1200 Prairie Dr, Bismarck, ND, 58501",unknown
+Burleigh,02,State Capitol Building,"600 E Boulevard Ave, Bismarck, ND, 58501",unknown
+Burleigh,03,Northridge School,"1727 N 3rd St, Bismarck, ND, 58501",unknown
+Burleigh,04,Pioneer School,"1400 E Braman Ave, Bismarck, ND, 58501",unknown
+Burleigh,05,Robert Miller School,"1989 N 20th St, Bismarck, ND, 58501",unknown
+Burleigh,06,Simle Middle School,"1215 N 19th St, Bismarck, ND, 58501",unknown
+Burleigh,01,Century Baptist Church,"205 Colt Ave, Bismarck, ND, 58503",unknown
+Burleigh,03,Grimsrud School,"716 W St Benedict Dr, Bismarck, ND, 58501",unknown
+Burleigh,04,Century Baptist Church,"205 Colt Ave, Bismarck, ND, 58503",unknown
+Cass,01,Olivet Lutheran,"1330 University Drive South, Fargo, ND, 58103",unknown
+Cass,02,Ramada Inn (formerly Baymont),"3333 13th Avenue South, Fargo, ND, 58103",unknown
+Cass,01,Westside Elementary,"945 7th Ave W, West Fargo, ND, 58078",unknown
+Cass,02,West Fargo City Hall,"800 4th Ave E, West Fargo, ND, 58078",unknown
+Cass,01,Meadowridge Chapel,"2198 2nd Avenue East, West Fargo, ND, 58078",unknown
+Cass,02,Lutheran Church of the Cross,"1402 16th St E, West Fargo, ND, 58078",unknown
+Cass,03,Scheels Arena,"5225 31st Ave S, Fargo, ND, 58104",unknown
+Cass,04,Journey in Faith Church,"650 40th Avenue East, West Fargo, ND, 58078",unknown
+Cass,01,Northern Cass PSD,"16021 18th St Se, Hunter, ND, 58048",unknown
+Cass,01,Robert Johnson Rec Ctr,"1104 2nd Avenue South, Fargo, ND, 58103",unknown
+Cass,02,Fargo Public Library,"102 3rd ST N, Fargo, ND, 58102",unknown
+Cass,01,Page Senior Center,"124 Morton Avenue, Page, ND, 58064",unknown
+Cass,02,Arthur Community Hall,"550 Main St, Arthur, ND, 58006",unknown
+Cass,03,Buffalo Community Center,"507 Main St, Buffalo, ND, 58011",unknown
+Cass,04,Casselton City Auditorium,"702 1st St N, Casselton, ND, 58012",unknown
+Cass,05,Mapleton Community Ctr,"615 2nd St, Mapleton, ND, 58059",unknown
+Cass,06,Triumph West,"3745 Sheyenne St, West Fargo, ND, 58078",unknown
+Cass,07,Davenport Community Center,"120 Main Street, Davenport, ND, 58021",unknown
+Cass,08,Horace Senior Ctr,"214 Thue Ct, Horace, ND, 58047",unknown
+Cass,01,Tower City Community Center,"507 Broadway St, Tower City, ND, 58071",unknown
+Cass,02,Alice Quality Seed Office,"307 3rd St, Alice, ND, 58031",unknown
+Cass,01,Hickson Community Ctr,"Main St, Hickson, ND, 58047",unknown
+Cass,02,Kindred City Hall,"31 5th Ave N, Kindred, ND, 58051",unknown
+Cass,01,West Acres,"3920 13th Avenue South, Fargo, ND, 58103",unknown
+Cass,02,Edgewood Vista & Village,"4420 37th Ave S, Fargo, ND, 58104",unknown
+Cass,03,Calvary United Methodist,"4575 45th Street South, Fargo, ND, 58104",unknown
+Cass,01,Bethel Evangelical Free Church,"2702 30th Ave S, Fargo, ND, 58103",unknown
+Cass,02,First Assembly,"3401 25th St S, Fargo, ND, 58104",unknown
+Cass,02,Grace Covenant (formerly Knollbrook),"3030 Broadway North, Fargo, ND, 58102",unknown
+Cass,01,FargoDome,"1800 University Drive North, Fargo, ND, 58102",unknown
+Cass,02,Reiles Acres Community Center,"4635 35th Ave N, Reiles Acres, ND, 58102",unknown
+Cass,03,Harwood Community Center,"210 Freedland Drive, Harwood, ND, 58042",unknown
+Cass,04,Argusville Community Center,"107 Northern Dr, Argusville, ND, 58005",unknown
+Cass,01,The Bowler,"2630 University Dr S, Fargo, ND, 58103",unknown
+Cass,02,First United Methodist Church South Campus,"3910 25th Street South, Fargo, ND, 58103",unknown
+Cass,03,Riverview Place,"5300 12th St S, Fargo, ND, 58104",unknown
+Cavalier,01,Cavalier County Courthouse,"901 3rd Street, Langdon, ND, 58249",unknown
+Dickey,02,Precinct 2 - Fullerton - Fullerton City Hall,"33 North Monroe, Fullerton, ND, 58441",unknown
+Dickey,03,Precinct 3 -Oakes City - Oakes Armory,"124 5th St S, Oakes, ND, 58474",unknown
+Dickey,01,Precinct 1 -Ellendale City - Senior Citizen Center,"67 1st Ave S, Ellendale, ND, 58436",unknown
+Divide,01,Precinct 1-Divide County Courthouse,"200 N Main ST, Crosby, ND, 58730",unknown
+Divide,02,Precinct 2-Divide County Courthouse,"200 N Main ST, Crosby, ND, 58730",unknown
+Divide,03,Precinct 3-Fortuna Senior Citizens,"250 MAIN ST, Fortuna, ND, 58844",unknown
+Divide,04,Precinct 4-Noonan Community Center,"605 MAIN ST S, Noonan, ND, 58765",unknown
+Dunn,01,Dunn County Courthouse,"205 Owens Street, Manning, ND, 58642",unknown
+Dunn,01,TAT Tribal Office,"708 79E Ave NW, Twin Buttes, No, 58636",unknown
+Dunn,02,Dunn County Courthouse,"205 Owens Street, Manning, ND, 58642",unknown
+Dunn,02,TAT Tribal Office,"708 79E Ave NW, Twin Buttes, No, 58636",unknown
+Dunn,03,Dunn County Courthouse,"205 Owens Street, Manning, ND, 58642",unknown
+Dunn,03,TAT Tribal Office,"708 79E Ave NW, Twin Buttes, No, 58636",unknown
+Dunn,11,Dunn County Courthouse,"205 Owens Street, Manning, ND, 58642",unknown
+Dunn,11,TAT Tribal Office,"708 79E Ave NW, Twin Buttes, No, 58636",unknown
+Dunn,15,Dunn County Courthouse,"205 Owens Street, Manning, ND, 58642",unknown
+Dunn,15,TAT Tribal Office,"708 79E Ave NW, Twin Buttes, No, 58636",unknown
+Dunn,07,Dunn County Courthouse,"205 Owens Street, Manning, ND, 58642",unknown
+Dunn,07,TAT Tribal Office,"708 79E Ave NW, Twin Buttes, No, 58636",unknown
+Dunn,10,Dunn County Courthouse,"205 Owens Street, Manning, ND, 58642",unknown
+Dunn,10,TAT Tribal Office,"708 79E Ave NW, Twin Buttes, No, 58636",unknown
+Dunn,12,Dunn County Courthouse,"205 Owens Street, Manning, ND, 58642",unknown
+Dunn,12,TAT Tribal Office,"708 79E Ave NW, Twin Buttes, No, 58636",unknown
+Dunn,14,Dunn County Courthouse,"205 Owens Street, Manning, ND, 58642",unknown
+Dunn,14,TAT Tribal Office,"708 79E Ave NW, Twin Buttes, No, 58636",unknown
+Dunn,08,Dunn County Courthouse,"205 Owens Street, Manning, ND, 58642",unknown
+Dunn,08,TAT Tribal Office,"708 79E Ave NW, Twin Buttes, No, 58636",unknown
+Dunn,09,Dunn County Courthouse,"205 Owens Street, Manning, ND, 58642",unknown
+Dunn,09,TAT Tribal Office,"708 79E Ave NW, Twin Buttes, No, 58636",unknown
+Dunn,16,Dunn County Courthouse,"205 Owens Street, Manning, ND, 58642",unknown
+Dunn,16,TAT Tribal Office,"708 79E Ave NW, Twin Buttes, No, 58636",unknown
+Eddy,01,Brown Memorial,"3  7th Street South, New Rockford, ND, 58356",unknown
+Eddy,02,Brown Memorial,"3  7th Street South, New Rockford, ND, 58356",unknown
+Emmons,01,Emmons County Voting Center,"Emmons County Courthouse, Linton, ND, 58552",unknown
+Emmons,02,Emmons County Voting Center,"Emmons County Courthouse, Linton, ND, 58552",unknown
+Emmons,03,Emmons County Voting Center,"Emmons County Courthouse, Linton, ND, 58552",unknown
+Emmons,04,Emmons County Voting Center,"Emmons County Courthouse, Linton, ND, 58552",unknown
+Emmons,05,Emmons County Voting Center,"Emmons County Courthouse, Linton, ND, 58552",unknown
+Foster,01,Carrington City Hall,"103 10th Ave N, Carrington, ND, 58421",unknown
+Foster,02,Carrington City Hall,"103 10th Ave N, Carrington, ND, 58421",unknown
+Foster,03,Carrington City Hall,"103 10th Ave N, Carrington, ND, 58421",unknown
+Foster,04,Carrington City Hall,"103 10th Ave N, Carrington, ND, 58421",unknown
+Foster,05,Carrington City Hall,"103 10th Ave N, Carrington, ND, 58421",unknown
+Foster,06,Carrington City Hall,"103 10th Ave N, Carrington, ND, 58421",unknown
+Golden Valley,01,Beach Community Center,"153 Main St., Beach, ND, 58621",unknown
+Grand Forks,01,Alerus Center Election Day,"1200 42nd St S, Grand Forks, ND, 58203",unknown
+Grand Forks,02,Holy Family Church,"1001 S 17th Ave, Grand Forks, ND, 58201",unknown
+Grand Forks,03,First Presbyterian Church,"5555 S Washington St, Grand Forks, ND, 58201",unknown
+Grand Forks,04,ICON Arena/Park Dist Offices,"1060 47th Ave S, Grand Forks, ND, 58201",unknown
+Grand Forks,05,Alerus Center Election Day,"1200 42nd St S, Grand Forks, ND, 58203",unknown
+Grand Forks,06,Bible Baptist Church,"6367 Gateway Dr, Grand Forks, ND, 58203",unknown
+Grand Forks,07,UND Wellness Center,"801 Princeton St, Grand Forks, ND, 58203",unknown
+Grand Forks,08,GF City Hall,"255 N 4th St, Grand Forks, ND, 58203",unknown
+Grand Forks,09,GF City Hall,"255 N 4th St, Grand Forks, ND, 58203",unknown
+Grand Forks,10,GF City Hall,"255 N 4th St, Grand Forks, ND, 58203",unknown
+Grand Forks,11,Holy Family Church,"1001 S 17th Ave, Grand Forks, ND, 58201",unknown
+Grand Forks,12,Holy Family Church,"1001 S 17th Ave, Grand Forks, ND, 58201",unknown
+Grand Forks,13,Gilby Presbyterian Church,"125 3rd St, Gilby, ND, 58235",unknown
+Grand Forks,14,Larimore Senior Citizens Center,"116 Towner Ave, Larimore, ND, 58251",unknown
+Grand Forks,15,Manvel Public School,"801 Oldham Ave, Manvel, ND, 58256",unknown
+Grand Forks,16,Northwood Community Center,"12 N Raymond St, Northwood, ND, 58267",unknown
+Grand Forks,17,Emerado Community Hall,"300 Main Street, Emerado, ND, 58228",unknown
+Grand Forks,18,Thompson Community Center,"306 Pacific Ave, Thompson, ND, 58278",unknown
+Grand Forks,19,Public Works,"724 N 47th St, Grand Forks, ND, 58201",unknown
+Grand Forks,20,Public Works,"724 N 47th St, Grand Forks, ND, 58201",unknown
+Grand Forks,21,UND Wellness Center,"801 Princeton St, Grand Forks, ND, 58203",unknown
+Grand Forks,22,UND Wellness Center,"801 Princeton St, Grand Forks, ND, 58203",unknown
+Grand Forks,23,ICON Arena/Park Dist Offices,"1060 47th Ave S, Grand Forks, ND, 58201",unknown
+Grand Forks,24,Alerus Center Election Day,"1200 42nd St S, Grand Forks, ND, 58203",unknown
+Grand Forks,25,Alerus Center Election Day,"1200 42nd St S, Grand Forks, ND, 58203",unknown
+Grand Forks,26,Alerus Center Election Day,"1200 42nd St S, Grand Forks, ND, 58203",unknown
+Grand Forks,27,Alerus Center Election Day,"1200 42nd St S, Grand Forks, ND, 58203",unknown
+Grant,01,Elgin Community Center,"305 Main Street North, Elgin, ND, 58533",unknown
+Grant,01,Grant County Courthouse,"106 2nd AVE NE, Carson, ND, 58529",unknown
+Grant,02,Elgin Community Center,"305 Main Street North, Elgin, ND, 58533",unknown
+Grant,02,Grant County Courthouse,"106 2nd AVE NE, Carson, ND, 58529",unknown
+Grant,03,Elgin Community Center,"305 Main Street North, Elgin, ND, 58533",unknown
+Grant,03,Grant County Courthouse,"106 2nd AVE NE, Carson, ND, 58529",unknown
+Grant,04,Elgin Community Center,"305 Main Street North, Elgin, ND, 58533",unknown
+Grant,04,Grant County Courthouse,"106 2nd AVE NE, Carson, ND, 58529",unknown
+Griggs,01,Griggs County Courthouse,"805 Odegard Ave SW, Cooperstown, No, 58425",unknown
+Griggs,02,Griggs County Courthouse,"805 Odegard Ave SW, Cooperstown, No, 58425",unknown
+Griggs,03,Griggs County Courthouse,"805 Odegard Ave SW, Cooperstown, No, 58425",unknown
+Griggs,04,Griggs County Courthouse,"805 Odegard Ave SW, Cooperstown, No, 58425",unknown
+Griggs,05,Griggs County Courthouse,"805 Odegard Ave SW, Cooperstown, No, 58425",unknown
+Hettinger,01,Hettinger County Court House,"336 Pacific Avenue, Mott, ND, 58646",unknown
+Hettinger,02,Hettinger County Court House,"336 Pacific Avenue, Mott, ND, 58646",unknown
+Hettinger,03,Hettinger County Court House,"336 Pacific Avenue, Mott, ND, 58646",unknown
+Hettinger,03,New England School,"1200 Main Street, New England, ND, 58647",unknown
+Hettinger,04,Hettinger County Court House,"336 Pacific Avenue, Mott, ND, 58646",unknown
+Kidder,01,Steele Ambulance Building,"120 Mitchell Ave N, Steele, ND, 58482",unknown
+Kidder,02,Steele Ambulance Building,"120 Mitchell Ave N, Steele, ND, 58482",unknown
+Kidder,03,Steele Ambulance Building,"120 Mitchell Ave N, Steele, ND, 58482",unknown
+Kidder,04,Steele Ambulance Building,"120 Mitchell Ave N, Steele, ND, 58482",unknown
+Kidder,05,Steele Ambulance Building,"120 Mitchell Ave N, Steele, ND, 58482",unknown
+Kidder,06,Steele Ambulance Building,"120 Mitchell Ave N, Steele, ND, 58482",unknown
+LaMoure,04,"Precinct 1,2,3,4(Edgeley National Guard Armory)","508 1st Ave W, Edgeley, ND, 58433",unknown
+LaMoure,04,"Precinct 1,2,3,4(LaMoure Civic Center)","33 Center Ave E, LaMoure, ND, 58458",unknown
+LaMoure,01,"Precinct 1,2,3,4(Edgeley National Guard Armory)","508 1st Ave W, Edgeley, ND, 58433",unknown
+LaMoure,01,"Precinct 1,2,3,4(LaMoure Civic Center)","33 Center Ave E, LaMoure, ND, 58458",unknown
+LaMoure,02,"Precinct 1,2,3,4(Edgeley National Guard Armory)","508 1st Ave W, Edgeley, ND, 58433",unknown
+LaMoure,02,"Precinct 1,2,3,4(LaMoure Civic Center)","33 Center Ave E, LaMoure, ND, 58458",unknown
+LaMoure,03,"Precinct 1,2,3,4(Edgeley National Guard Armory)","508 1st Ave W, Edgeley, ND, 58433",unknown
+LaMoure,03,"Precinct 1,2,3,4(LaMoure Civic Center)","33 Center Ave E, LaMoure, ND, 58458",unknown
+Logan,01,Napoleon American Legion Hall,"69 Broadway St, Napoleon, ND, 58561",unknown
+Logan,02,Napoleon American Legion Hall,"69 Broadway St, Napoleon, ND, 58561",unknown
+Logan,03,Napoleon American Legion Hall,"69 Broadway St, Napoleon, ND, 58561",unknown
+Logan,04,Napoleon American Legion Hall,"69 Broadway St, Napoleon, ND, 58561",unknown
+Logan,05,Napoleon American Legion Hall,"69 Broadway St, Napoleon, ND, 58561",unknown
+McHenry,16,McHenry County Courthouse,"407 Main St S, Towner, ND, 58788",unknown
+McHenry,18,McHenry County Courthouse,"407 Main St S, Towner, ND, 58788",unknown
+McHenry,27,McHenry County Courthouse,"407 Main St S, Towner, ND, 58788",unknown
+McHenry,41,McHenry County Courthouse,"407 Main St S, Towner, ND, 58788",unknown
+McHenry,47,McHenry County Courthouse,"407 Main St S, Towner, ND, 58788",unknown
+McHenry,55,McHenry County Courthouse,"407 Main St S, Towner, ND, 58788",unknown
+McHenry,58,McHenry County Courthouse,"407 Main St S, Towner, ND, 58788",unknown
+McHenry,62,McHenry County Courthouse,"407 Main St S, Towner, ND, 58788",unknown
+McIntosh,01,McIntosh County Courthouse,"112 1st St NE, Ashley, ND, 58413",unknown
+McIntosh,01,National Guard Armory,"1210 1st Ave S, Wishek, ND, 58495",unknown
+McIntosh,02,McIntosh County Courthouse,"112 1st St NE, Ashley, ND, 58413",unknown
+McIntosh,02,National Guard Armory,"1210 1st Ave S, Wishek, ND, 58495",unknown
+McIntosh,03,McIntosh County Courthouse,"112 1st St NE, Ashley, ND, 58413",unknown
+McIntosh,03,National Guard Armory,"1210 1st Ave S, Wishek, ND, 58495",unknown
+McIntosh,04,McIntosh County Courthouse,"112 1st St NE, Ashley, ND, 58413",unknown
+McIntosh,04,National Guard Armory,"1210 1st Ave S, Wishek, ND, 58495",unknown
+McIntosh,05,McIntosh County Courthouse,"112 1st St NE, Ashley, ND, 58413",unknown
+McIntosh,05,National Guard Armory,"1210 1st Ave S, Wishek, ND, 58495",unknown
+McIntosh,06,McIntosh County Courthouse,"112 1st St NE, Ashley, ND, 58413",unknown
+McIntosh,06,National Guard Armory,"1210 1st Ave S, Wishek, ND, 58495",unknown
+McKenzie,01,Cartwright Hall,"213 Main St, Cartwright, ND, 58838",unknown
+McKenzie,01,Mandaree Community Center,"212 Ridge Road, Mandaree, ND, 58757",unknown
+McKenzie,01,Watford City City Hall,"213 2nd ST NE, Watford City, ND, 58854",unknown
+McKenzie,02,Cartwright Hall,"213 Main St, Cartwright, ND, 58838",unknown
+McKenzie,02,Mandaree Community Center,"212 Ridge Road, Mandaree, ND, 58757",unknown
+McKenzie,02,Watford City City Hall,"213 2nd ST NE, Watford City, ND, 58854",unknown
+McKenzie,03,Cartwright Hall,"213 Main St, Cartwright, ND, 58838",unknown
+McKenzie,03,Mandaree Community Center,"212 Ridge Road, Mandaree, ND, 58757",unknown
+McKenzie,03,Watford City City Hall,"213 2nd ST NE, Watford City, ND, 58854",unknown
+McKenzie,04,Cartwright Hall,"213 Main St, Cartwright, ND, 58838",unknown
+McKenzie,04,Mandaree Community Center,"212 Ridge Road, Mandaree, ND, 58757",unknown
+McKenzie,04,Watford City City Hall,"213 2nd ST NE, Watford City, ND, 58854",unknown
+McKenzie,05,Cartwright Hall,"213 Main St, Cartwright, ND, 58838",unknown
+McKenzie,05,Mandaree Community Center,"212 Ridge Road, Mandaree, ND, 58757",unknown
+McKenzie,05,Watford City City Hall,"213 2nd ST NE, Watford City, ND, 58854",unknown
+McKenzie,06,Cartwright Hall,"213 Main St, Cartwright, ND, 58838",unknown
+McKenzie,06,Mandaree Community Center,"212 Ridge Road, Mandaree, ND, 58757",unknown
+McKenzie,06,Watford City City Hall,"213 2nd ST NE, Watford City, ND, 58854",unknown
+McKenzie,07,Cartwright Hall,"213 Main St, Cartwright, ND, 58838",unknown
+McKenzie,07,Mandaree Community Center,"212 Ridge Road, Mandaree, ND, 58757",unknown
+McKenzie,07,Watford City City Hall,"213 2nd ST NE, Watford City, ND, 58854",unknown
+McKenzie,08,Cartwright Hall,"213 Main St, Cartwright, ND, 58838",unknown
+McKenzie,08,Mandaree Community Center,"212 Ridge Road, Mandaree, ND, 58757",unknown
+McKenzie,08,Watford City City Hall,"213 2nd ST NE, Watford City, ND, 58854",unknown
+McKenzie,09,Cartwright Hall,"213 Main St, Cartwright, ND, 58838",unknown
+McKenzie,09,Mandaree Community Center,"212 Ridge Road, Mandaree, ND, 58757",unknown
+McKenzie,09,Watford City City Hall,"213 2nd ST NE, Watford City, ND, 58854",unknown
+McKenzie,11,Cartwright Hall,"213 Main St, Cartwright, ND, 58838",unknown
+McKenzie,11,Mandaree Community Center,"212 Ridge Road, Mandaree, ND, 58757",unknown
+McKenzie,11,Watford City City Hall,"213 2nd ST NE, Watford City, ND, 58854",unknown
+McKenzie,12,Cartwright Hall,"213 Main St, Cartwright, ND, 58838",unknown
+McKenzie,12,Mandaree Community Center,"212 Ridge Road, Mandaree, ND, 58757",unknown
+McKenzie,12,Watford City City Hall,"213 2nd ST NE, Watford City, ND, 58854",unknown
+McLean,02,Vote Ctr-Garrison City Auditorium,"15 Main St South, Garrison, ND, 58540",unknown
+McLean,02,Vote Ctr-Turtle Lake Legion,"23 2nd Ave East, Turtle Lake, ND, 58575",unknown
+McLean,02,Vote Ctr-Washburn Memorial Bldg,"805 Main Avenue, Washburn, ND, 58577",unknown
+McLean,02,White Shield Complex,"1620 61st Ave NW, Whiteshield, ND, 58540",unknown
+McLean,03,Vote Ctr-Garrison City Auditorium,"15 Main St South, Garrison, ND, 58540",unknown
+McLean,03,Vote Ctr-Turtle Lake Legion,"23 2nd Ave East, Turtle Lake, ND, 58575",unknown
+McLean,03,Vote Ctr-Washburn Memorial Bldg,"805 Main Avenue, Washburn, ND, 58577",unknown
+McLean,01,Vote Ctr-Garrison City Auditorium,"15 Main St South, Garrison, ND, 58540",unknown
+McLean,01,Vote Ctr-Turtle Lake Legion,"23 2nd Ave East, Turtle Lake, ND, 58575",unknown
+McLean,01,Vote Ctr-Washburn Memorial Bldg,"805 Main Avenue, Washburn, ND, 58577",unknown
+Mercer,01,Mercer County Vote Center,"120 7th St NE, Beulah, ND, 58523",unknown
+Mercer,01,Vote by Mail (Mercer County Auditor's Office),"PO Box 39, Stanton, ND, 58571",unknown
+Mercer,03,Mercer County Vote Center,"120 7th St NE, Beulah, ND, 58523",unknown
+Mercer,03,Vote by Mail (Mercer County Auditor's Office),"PO Box 39, Stanton, ND, 58571",unknown
+Mercer,13,Mercer County Vote Center,"120 7th St NE, Beulah, ND, 58523",unknown
+Mercer,13,Vote by Mail (Mercer County Auditor's Office),"PO Box 39, Stanton, ND, 58571",unknown
+Mercer,14,Mercer County Vote Center,"120 7th St NE, Beulah, ND, 58523",unknown
+Mercer,14,Vote by Mail (Mercer County Auditor's Office),"PO Box 39, Stanton, ND, 58571",unknown
+Mercer,16,Mercer County Vote Center,"120 7th St NE, Beulah, ND, 58523",unknown
+Mercer,16,Vote by Mail (Mercer County Auditor's Office),"PO Box 39, Stanton, ND, 58571",unknown
+Mercer,20,Mercer County Vote Center,"120 7th St NE, Beulah, ND, 58523",unknown
+Mercer,20,Vote by Mail (Mercer County Auditor's Office),"PO Box 39, Stanton, ND, 58571",unknown
+Mercer,21,Mercer County Vote Center,"120 7th St NE, Beulah, ND, 58523",unknown
+Mercer,21,Vote by Mail (Mercer County Auditor's Office),"PO Box 39, Stanton, ND, 58571",unknown
+Mercer,22,Mercer County Vote Center,"120 7th St NE, Beulah, ND, 58523",unknown
+Mercer,22,Vote by Mail (Mercer County Auditor's Office),"PO Box 39, Stanton, ND, 58571",unknown
+Mercer,23,Mercer County Vote Center,"120 7th St NE, Beulah, ND, 58523",unknown
+Mercer,23,Vote by Mail (Mercer County Auditor's Office),"PO Box 39, Stanton, ND, 58571",unknown
+Mercer,24,Mercer County Vote Center,"120 7th St NE, Beulah, ND, 58523",unknown
+Mercer,24,Vote by Mail (Mercer County Auditor's Office),"PO Box 39, Stanton, ND, 58571",unknown
+Mercer,81,Mercer County Vote Center,"120 7th St NE, Beulah, ND, 58523",unknown
+Mercer,81,Vote by Mail (Mercer County Auditor's Office),"PO Box 39, Stanton, ND, 58571",unknown
+Mercer,82,Mercer County Vote Center,"120 7th St NE, Beulah, ND, 58523",unknown
+Mercer,82,Vote by Mail (Mercer County Auditor's Office),"PO Box 39, Stanton, ND, 58571",unknown
+Mercer,83,Mercer County Vote Center,"120 7th St NE, Beulah, ND, 58523",unknown
+Mercer,83,Vote by Mail (Mercer County Auditor's Office),"PO Box 39, Stanton, ND, 58571",unknown
+Morton,05,Eagles Club,"1400 Collins Ave, Mandan, ND, 58554",unknown
+Morton,17,Engage Church,"4209 Old Red Trail, Mandan, ND, 58554",unknown
+Morton,18,Midway Lanes,"3327 Memorial Hwy, Mandan, ND, 58554",unknown
+Morton,20,Flasher Community Credit Union,"105 Main St N, Flasher, ND, 58535",unknown
+Morton,23,St. Anthony Hall,"2332 Co Rd 136, Saint Anthony, ND, 58566",unknown
+Morton,24,Mandan Airport,"4490 Hwy 6, Mandan, ND, 58554",unknown
+Morton,32,Engage Church,"4209 Old Red Trail, Mandan, ND, 58554",unknown
+Morton,33,New Salem City Auditorium,"400 Main Ave, New Salem, ND, 58563",unknown
+Morton,34,Almont Memorial Hall,"108 Burt Ave, Almont, ND, 58520",unknown
+Morton,01,Spirit of Life Catholic Church,"801 1st St SE, Mandan, ND, 58554",unknown
+Morton,02,Midway Lanes,"3327 Memorial Hwy, Mandan, ND, 58554",unknown
+Morton,03,Eagles Club,"1400 Collins Ave, Mandan, ND, 58554",unknown
+Morton,04,Eagles Club,"1400 Collins Ave, Mandan, ND, 58554",unknown
+Morton,06,First Lutheran Church,"408 9th St NW, Mandan, ND, 58554",unknown
+Morton,07,First Lutheran Church,"408 9th St NW, Mandan, ND, 58554",unknown
+Morton,08,Spirit of Life Catholic Church,"801 1st St SE, Mandan, ND, 58554",unknown
+Morton,36,Glen Ullin Municipal Building,"119 Main St S, Glen Ullin, ND, 58631",unknown
+Morton,38,Hebron Community Center,"600 Washington Ave, Hebron, ND, 58638",unknown
+Mountrail,01,Pct 1 Stanley Grade School Gym,"118 4th Ave SW, Stanley, ND, 58784",unknown
+Mountrail,06,Pct 6 White Earth City Hall,"23 Hill St, White Earth, ND, 58794",unknown
+Mountrail,07,Pct 7 Ross Community Building,"300 Main St, Ross, ND, 58776",unknown
+Mountrail,02,Pct 2 New Town Civic Center Auditorium,"103 Soo Place, New Town, ND, 58763",unknown
+Mountrail,03,Pct 3 Parshall American Legion Building,"16 Main St N, Parshall, ND, 58770",unknown
+Mountrail,04,Pct 4 Palermo Corporation Building,"249 Broadway St, Palermo, ND, 58769",unknown
+Mountrail,05,Pct 5 Mountrail County South Complex,"8103 61st St NW, Stanley, ND, 58784",unknown
+Mountrail,08,Pct 8 New Town Civic Center Auditorium,"103 Soo Place, New Town, ND, 58763",unknown
+Mountrail,09,Pct 9 Plaza City Senior Citizens Building,"403 Covell St, Plaza, ND, 58771",unknown
+Nelson,01,Nelson County Courthouse - Community Room,"210 B Ave W, Lakota, ND, 58344",unknown
+Oliver,01,Civic Center,"312 Lincoln Ave N, Center, ND, 58530",unknown
+Oliver,02,Civic Center East Room,"312 Lincoln Ave N, Center, ND, 58530",unknown
+Oliver,03,Civic Center,"312 Lincoln Ave N, Center, ND, 58530",unknown
+Oliver,04,Civic Center,"312 Lincoln Ave N, Center, ND, 58530",unknown
+Oliver,05,St Peter's Lutheran Church,"2095 Highway 31, Hannover, ND, 58563",unknown
+Oliver,06,St Peter's Lutheran Church,"2095 Highway 31, Hannover, ND, 58563",unknown
+Oliver,07,Civic Center East Room,"312 Lincoln Ave N, Center, ND, 58530",unknown
+Pembina,01,Pembina Co Courthouse Meeting Rm-Vbm Polling Place,"310 Dakota St W, Cavalier, ND, 58220",unknown
+Pembina,02,Pembina Co Courthouse Meeting Rm-Vbm Polling Place,"310 Dakota St W, Cavalier, ND, 58220",unknown
+Pembina,03,Pembina Co Courthouse Meeting Rm-Vbm Polling Place,"310 Dakota St W, Cavalier, ND, 58220",unknown
+Pembina,04,Pembina Co Courthouse Meeting Rm-Vbm Polling Place,"310 Dakota St W, Cavalier, ND, 58220",unknown
+Pembina,05,Pembina Co Courthouse Meeting Rm-Vbm Polling Place,"310 Dakota St W, Cavalier, ND, 58220",unknown
+Pembina,06,Pembina Co Courthouse Meeting Rm-Vbm Polling Place,"310 Dakota St W, Cavalier, ND, 58220",unknown
+Pierce,01,Pierce County Courthouse,"240 2nd St SE, Suite 6, Rugby, ND, 58368",unknown
+Pierce,02,Pierce County Courthouse,"240 2nd St SE, Suite 6, Rugby, ND, 58368",unknown
+Pierce,03,Pierce County Courthouse,"240 2nd St SE, Suite 6, Rugby, ND, 58368",unknown
+Pierce,04,Pierce County Courthouse,"240 2nd St SE, Suite 6, Rugby, ND, 58368",unknown
+Pierce,05,Pierce County Courthouse,"240 2nd St SE, Suite 6, Rugby, ND, 58368",unknown
+Pierce,06,Pierce County Courthouse,"240 2nd St SE, Suite 6, Rugby, ND, 58368",unknown
+Pierce,07,Pierce County Courthouse,"240 2nd St SE, Suite 6, Rugby, ND, 58368",unknown
+Pierce,08,Pierce County Courthouse,"240 2nd St SE, Suite 6, Rugby, ND, 58368",unknown
+Ramsey,01,Memorial Building-Ramsey County Courthouse,"524 4th Ave NE, Devils  Lake, ND, 58301",unknown
+Ramsey,02,Memorial Building-Ramsey County Courthouse,"524 4th Ave NE, Devils  Lake, ND, 58301",unknown
+Ramsey,03,Memorial Building-Ramsey County Courthouse,"524 4th Ave NE, Devils  Lake, ND, 58301",unknown
+Ramsey,04,Memorial Building-Ramsey County Courthouse,"524 4th Ave NE, Devils  Lake, ND, 58301",unknown
+Ransom,01,Ransom County Courthouse-Community Room,"Ransom County Courthouse Community Room, Lisbon, ND, 58054",unknown
+Ransom,02,Ransom County Courthouse-Community Room,"Ransom County Courthouse Community Room, Lisbon, ND, 58054",unknown
+Ransom,03,Ransom County Courthouse-Community Room,"Ransom County Courthouse Community Room, Lisbon, ND, 58054",unknown
+Ransom,04,Ransom County Courthouse-Community Room,"Ransom County Courthouse Community Room, Lisbon, ND, 58054",unknown
+Renville,01,Renville County Courthouse,"Renville County Courthouse, Mohall, ND, 58761",unknown
+Renville,02,Renville County Courthouse,"Renville County Courthouse, Mohall, ND, 58761",unknown
+Renville,03,Renville County Courthouse,"Renville County Courthouse, Mohall, ND, 58761",unknown
+Renville,04,Renville County Courthouse,"Renville County Courthouse, Mohall, ND, 58761",unknown
+Renville,05,Renville County Courthouse,"Renville County Courthouse, Mohall, ND, 58761",unknown
+Richland,37,Walcott Lutheran Church,"537 3rd St, Walcott, ND, 58077",unknown
+Richland,39,Abercrombie Community Hall,"516 Broadway, Abercrombie, ND, 58001",unknown
+Richland,41,Mooreton Fire Hall,"201 Mooreton Ave S, Mooreton, ND, 58061",unknown
+Richland,46,Fairmount Community Center,"113 Main Ave, Fairmount, ND, 58030",unknown
+Richland,48,Hankinson Community Center,"112 Main Ave S, Hankinson, ND, 58041",unknown
+Richland,49,Christine Community Center,"201 Main St, Christine, ND, 58015",unknown
+Richland,51,Wahpeton Community Center,"304 5th St S, Wahpeton, ND, 58075",unknown
+Richland,52,Richland County Law Enforcement Center,"413 3rd Ave N, Wahpeton, ND, 58075",unknown
+Richland,53,Wahpeton City Hall,"1900 4th St, Wahpeton, ND, 58075",unknown
+Richland,54,Wahpeton Faith Church,"1589 11th St. N, Wahpeton, ND, 58075",unknown
+Richland,38,Colfax Community Hall,"209 Broadway St, Colfax, ND, 58018",unknown
+Richland,45,Wyndmere Fire Hall,"306 Cedar Ave, Wyndmere, ND, 58081",unknown
+Richland,47,Lidgerwood American Legion Hall,"23 Wiley Ave. N, Lidgerwood, ND, 58053",unknown
+Rolette,01,Rolla City Hall,"14 1st ST SE, Rolla, ND, 58367",unknown
+Rolette,02,St John Senior Center,"200 Foussard Ave SW, St John, ND, 58369",unknown
+Rolette,03,Knights Of Columbus Hall,"4330 Hwy 281, Belcourt, ND, 58316",unknown
+Rolette,04,Dunseith City Hall,"13 1st St NW, Dunseith, ND, 58329",unknown
+Rolette,05,WWI Memorial Building,"503 2nd Ave, Rolette, ND, 58366",unknown
+Sargent,01,Sargent County Courthouse,"355 Main St S, Forman, ND, 58032",unknown
+Sargent,02,Sargent County Courthouse,"355 Main St S, Forman, ND, 58032",unknown
+Sargent,03,Sargent County Courthouse,"355 Main St S, Forman, ND, 58032",unknown
+Sargent,04,Sargent County Courthouse,"355 Main St S, Forman, ND, 58032",unknown
+Sargent,05,Sargent County Courthouse,"355 Main St S, Forman, ND, 58032",unknown
+Sheridan,01,McClusky City Hall,"McClusky City Hall, McClusky, ND, 58463",unknown
+Sioux,01,Cannonball Activity Center,"440 Horseshoe Road, Cannon Ball, ND, 58528",unknown
+Sioux,01,Sioux County Courthouse,"303 2nd Ave, Fort Yates, ND, 58538",unknown
+Sioux,02,Sioux County Courthouse,"303 2nd Ave, Fort Yates, ND, 58538",unknown
+Sioux,02,Solen Firehouse,"306 Leach St, Solen, ND, 58570",unknown
+Sioux,03,Sioux County Courthouse,"303 2nd Ave, Fort Yates, ND, 58538",unknown
+Sioux,03,Sioux County Courthouse (FY East),"303 2nd Ave, Fort Yates, ND, 58538",unknown
+Sioux,04,Sioux County Courthouse,"303 2nd Ave, Fort Yates, ND, 58538",unknown
+Sioux,04,Sioux County Courthouse (FY East),"303 2nd Ave, Fort Yates, ND, 58538",unknown
+Sioux,05,Selfridge High School,"210 2nd Ave S, Selfridge, ND, 58568",unknown
+Sioux,05,Sioux County Courthouse,"303 2nd Ave, Fort Yates, ND, 58538",unknown
+Sioux,06,Porcupine Community Center,"3457 BIA Rd 7, Porcupine, ND, 58569",unknown
+Sioux,06,Sioux County Courthouse,"303 2nd Ave, Fort Yates, ND, 58538",unknown
+Slope,01,Pierce Congregational Church,"13001 73rd St SW, Scranton, ND, 58653",unknown
+Slope,01,Slope County Courthouse,"206 S Main St, Amidon, ND, 58620",unknown
+Slope,02,Slope County Courthouse,"206 S Main St, Amidon, ND, 58620",unknown
+Slope,03,Marmarth Community Center,"911 Main St, Marmarth, ND, 58643",unknown
+Slope,03,Slope County Courthouse,"206 S Main St, Amidon, ND, 58620",unknown
+Steele,01,Steele County Courthouse,"201 Washington Ave W, Finley, ND, 58230",unknown
+Steele,02,Steele County Courthouse,"201 Washington Ave W, Finley, ND, 58230",unknown
+Steele,03,Steele County Courthouse,"201 Washington Ave W, Finley, ND, 58230",unknown
+Steele,04,Steele County Courthouse,"201 Washington Ave W, Finley, ND, 58230",unknown
+Steele,05,Steele County Courthouse,"201 Washington Ave W, Finley, ND, 58230",unknown
+Stutsman,91,Vote Center Polling Site,"Jamestown Civic Center, Jamestown, ND, 58401",unknown
+Stutsman,92,Vote Center Polling Site,"Jamestown Civic Center, Jamestown, ND, 58401",unknown
+Stutsman,93,Vote Center Polling Site,"Jamestown Civic Center, Jamestown, ND, 58401",unknown
+Stutsman,95,Vote Center Polling Site,"Jamestown Civic Center, Jamestown, ND, 58401",unknown
+Stutsman,96,Vote Center Polling Site,"Jamestown Civic Center, Jamestown, ND, 58401",unknown
+Stutsman,01,Precinct 1 - Pingree Community Center,"Pingree Community Center, Pingree, ND, 58476",unknown
+Stutsman,01,Vote Center Polling Site,"Jamestown Civic Center, Jamestown, ND, 58401",unknown
+Stutsman,02,Precinct 2 - Kensal Memorial Hall,"Kensal Memorial Hall, Kensal, ND, 58455",unknown
+Stutsman,02,Vote Center Polling Site,"Jamestown Civic Center, Jamestown, ND, 58401",unknown
+Stutsman,03,Vote Center Polling Site,"Jamestown Civic Center, Jamestown, ND, 58401",unknown
+Stutsman,04,Vote Center Polling Site,"Jamestown Civic Center, Jamestown, ND, 58401",unknown
+Stutsman,05,Precinct 5 - Medina City Hall,"Medina City Hall, Medina, ND, 58467",unknown
+Stutsman,05,Vote Center Polling Site,"Jamestown Civic Center, Jamestown, ND, 58401",unknown
+Stutsman,06,Vote Center Polling Site,"Jamestown Civic Center, Jamestown, ND, 58401",unknown
+Stutsman,94,Vote Center Polling Site,"Jamestown Civic Center, Jamestown, ND, 58401",unknown
+Towner,01,Precinct 1 Cando Armory,"408 5th Ave, Cando, ND, 58324",unknown
+Towner,02,Precinct 1 Cando Armory,"408 5th Ave, Cando, ND, 58324",unknown
+Towner,03,Precinct 1 Cando Armory,"408 5th Ave, Cando, ND, 58324",unknown
+Traill,01,Mayville Armory,"332 Center Ave S, Mayille, ND, 58257",unknown
+Traill,01,Traill County Courthouse,"114 West Caledonia, Hillsboro, ND, 58045",unknown
+Traill,02,Mayville Armory,"332 Center Ave S, Mayille, ND, 58257",unknown
+Traill,02,Traill County Courthouse,"114 West Caledonia, Hillsboro, ND, 58045",unknown
+Traill,03,Mayville Armory,"332 Center Ave S, Mayille, ND, 58257",unknown
+Traill,03,Traill County Courthouse,"114 West Caledonia, Hillsboro, ND, 58045",unknown
+Traill,04,Mayville Armory,"332 Center Ave S, Mayille, ND, 58257",unknown
+Traill,04,Traill County Courthouse,"114 West Caledonia, Hillsboro, ND, 58045",unknown
+Traill,05,Mayville Armory,"332 Center Ave S, Mayille, ND, 58257",unknown
+Traill,05,Traill County Courthouse,"114 West Caledonia, Hillsboro, ND, 58045",unknown
+Traill,06,Mayville Armory,"332 Center Ave S, Mayille, ND, 58257",unknown
+Traill,06,Traill County Courthouse,"114 West Caledonia, Hillsboro, ND, 58045",unknown
+Traill,07,Mayville Armory,"332 Center Ave S, Mayille, ND, 58257",unknown
+Traill,07,Traill County Courthouse,"114 West Caledonia, Hillsboro, ND, 58045",unknown
+Traill,08,Mayville Armory,"332 Center Ave S, Mayille, ND, 58257",unknown
+Traill,08,Traill County Courthouse,"114 West Caledonia, Hillsboro, ND, 58045",unknown
+Traill,09,Mayville Armory,"332 Center Ave S, Mayille, ND, 58257",unknown
+Traill,09,Traill County Courthouse,"114 West Caledonia, Hillsboro, ND, 58045",unknown
+Traill,10,Mayville Armory,"332 Center Ave S, Mayille, ND, 58257",unknown
+Traill,10,Traill County Courthouse,"114 West Caledonia, Hillsboro, ND, 58045",unknown
+Traill,11,Mayville Armory,"332 Center Ave S, Mayille, ND, 58257",unknown
+Traill,11,Traill County Courthouse,"114 West Caledonia, Hillsboro, ND, 58045",unknown
+Traill,12,Mayville Armory,"332 Center Ave S, Mayille, ND, 58257",unknown
+Traill,12,Traill County Courthouse,"114 West Caledonia, Hillsboro, ND, 58045",unknown
+Walsh,02,Walsh County Courthouse,"600 Cooper Ave, Grafton, ND, 58237",unknown
+Walsh,01,Walsh County Courthouse,"600 Cooper Ave, Grafton, ND, 58237",unknown
+Ward,08,Nedrose All Seasons Arena,"2005 E Burdick Expressway, Minot, ND, 58701",unknown
+Ward,14,Sundre All Seasons Arena,"2005 E Burdick Expressway, Minot, ND, 58701",unknown
+Ward,15,Surrey City Hall,"100 Pleasant Ave S, Surrey, ND, 58785",unknown
+Ward,16,Minot Municipal Auditorium,"420 3rd Ave SW, Minot, ND, 58701",unknown
+Ward,02,Berthold Sr Citizen Center,"Main Street, Berthold, ND, 58718",unknown
+Ward,06,Kenmare Memorial Hall,"5 3rd St NE, Kenmare, ND, 58746",unknown
+Ward,07,Ward County Administration Building Election Day,"225 3rd St SE, Minot, ND, 58701",unknown
+Ward,11,Ward County Administration Building Election Day,"225 3rd St SE, Minot, ND, 58701",unknown
+Ward,12,Sawyer City Hall,"104 Dakota Ave S, Sawyer, ND, 58781",unknown
+Ward,13,Ward County Administration Building Election Day,"225 3rd St SE, Minot, ND, 58701",unknown
+Ward,17,Minot Municipal Auditorium,"420 3rd Ave SW, Minot, ND, 58701",unknown
+Ward,01,Afton Our Savior Lutheran,"3705 11th St SW, Minot, ND, 58701",unknown
+Ward,03,Burlington City Hall,"225 Wallace Street, Burlington, ND, 58722",unknown
+Ward,04,Ward County Administration Building Election Day,"225 3rd St SE, Minot, ND, 58701",unknown
+Ward,05,Ward County Administration Building Election Day,"225 3rd St SE, Minot, ND, 58701",unknown
+Ward,09,Faith United Methodist Church,"6000 Hwy 83 N, Minot, ND, 58703",unknown
+Ward,18,Minot Municipal Auditorium,"420 3rd Ave SW, Minot, ND, 58701",unknown
+Ward,10,Faith United Methodist Church,"6000 Hwy 83 N, Minot, ND, 58703",unknown
+Ward,19,Minot Municipal Auditorium,"420 3rd Ave SW, Minot, ND, 58701",unknown
+Wells,01,KTL Building,"600 Railway St N, Fessenden, ND, 58438",unknown
+Wells,02,KTL Building,"600 Railway St N, Fessenden, ND, 58438",unknown
+Wells,03,KTL Building,"600 Railway St N, Fessenden, ND, 58438",unknown
+Wells,04,KTL Building,"600 Railway St N, Fessenden, ND, 58438",unknown
+Wells,05,KTL Building,"600 Railway St N, Fessenden, ND, 58438",unknown
+Wells,06,KTL Building,"600 Railway St N, Fessenden, ND, 58438",unknown
+Williams,59,ARC,"822 18th St E, Williston, ND, 58801",unknown
+Williams,60,ARC,"822 18th St E, Williston, ND, 58801",unknown
+Williams,74,ARC,"822 18th St E, Williston, ND, 58801",unknown
+Williams,75,ARC,"822 18th St E, Williston, ND, 58801",unknown
+Williams,43,ARC,"822 18th St E, Williston, ND, 58801",unknown
+Williams,45,West Prairie Luth Ch,"5729 151st Ave NW, Williston, ND, 58801",unknown
+Williams,48,Ernie French Center,"14120 Hwy 2, Williston, ND, 58801",unknown
+Williams,53,Beaver Creek Lutheran Church,"5244 108th Ave NW, Ray, ND, 58849",unknown
+Williams,55,Trenton Twp Hall,"331 4th Ave E, Trenton, ND, 58853",unknown
+Williams,62,Epping City Hall,"214 2nd St, Epping, ND, 58843",unknown
+Williams,63,Ray City Hall,"101 Main St, Ray, ND, 58849",unknown
+Williams,64,Tioga Senior Center,"17 N Benson St, Tioga, ND, 58852",unknown
+Williams,65,Wildrose Fire Hall,"410 Main St, Wildrose, ND, 58795",unknown
+Williams,67,Grenora Senior Center,"120 Main St, Grenora, ND, 58845",unknown
+Williams,76,ARC,"822 18th St E, Williston, ND, 58801",unknown
