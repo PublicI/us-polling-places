@@ -20,7 +20,7 @@ This data was primarily acquired through public records requests to state or cou
 
 ### Acknowledgements
 
-This data release is the result of a year-long effort and would not be possible without work of nearly a dozen staff members from the Center for Public Integrity & Stateline. If you find this data useful, we request that you please consider making a tax-deductible contribution to Public Integrity here: https://publicintegrity.org/support-us
+This data release is the result of a year-long effort and would not be possible without work of nearly a dozen staff members from the Center for Public Integrity & Stateline. If you find this data useful, we request that you please consider making a [tax-deductible contribution to Public Integrity here](https://checkout.fundjournalism.org/memberform?org_id=cpi&campaign=701f4000000FOWIAA4).
 
 The following reporters were instrumental in preparing this dataset.
 
