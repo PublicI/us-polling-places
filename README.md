@@ -40,5 +40,3 @@ The following reporters were instrumental in preparing this dataset.
 ### License & Attribution
 
 This data is being released under a CC BY 4.0 license. You are free to copy, redistribute and adapt this data. All that we ask is that you provide appropriate credit and a link to this license. You can [view the full LICENSE here](LICENSE).
-
-If you use this data for academic work, please use the citation included in each individual state’s README file.
