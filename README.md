@@ -10,9 +10,6 @@ The initial release (2020-09-29) of this data contains data for the following st
 
 *Alaska, Arizona, Arkansas, Connecticut, Delaware, Illinois, Indiana, Iowa, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Mississippi, Montana, Nebraska, New Jersey, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, Rhode Island, South Carolina, South Dakota, Vermont, Virginia, West Virginia and Wisconsin.*
 
-### Geocodes
-
-Wherever possible, we have also included a geocode for each polling location. This geocode represents a “best guess” based on cross referencing responses from 3 different services. While we have made every effort to ensure the accuracy of the location information, geocoding is an imperfect science and we recommend that users perform manual validation when drawing conclusions from this data.
 
 ### Provenance
 
