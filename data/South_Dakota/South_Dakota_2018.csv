@@ -1,0 +1,716 @@
+state,county_name,municipality,precinct_name,name,address,polling_place_type
+SD,Aurora,Stickney,Precinct-1,Stickney Community Building,"400 Main St, Stickney",polling_place
+SD,Aurora,Stickney,Precinct-2,Stickney Community Building,"400 Main St, Stickney",polling_place
+SD,Aurora,White Lake,Precinct-3,White Lake City Hall,"111 Main St, White Lake",polling_place
+SD,Aurora,Plankinton,Precinct-5,Aurora County Ag Building,"1302 E 1st St, Plankinton",polling_place
+SD,Aurora,Plankinton,Precinct-7,Plankinton Fire Hall,"304 N Main St, Plankinton",polling_place
+SD,Beadle,Huron,Precinct 1,Huron Arena,"150 5th St SW, Huron",polling_place
+SD,Beadle,Huron,Precinct 2,Huron Arena,"150 5th St SW, Huron",polling_place
+SD,Beadle,Huron,Precinct 3,Huron Arena,"150 5th St SW, Huron",polling_place
+SD,Beadle,Huron,Precinct 7-1,Huron Arena,"150 5th St SW, Huron",polling_place
+SD,Beadle,Huron,Precinct 7-2,Huron Arena,"150 5th St SW, Huron",polling_place
+SD,Beadle,Huron,Precinct 8-1,Huron Arena,"150 5th St SW, Huron",polling_place
+SD,Beadle,Huron,Precinct 8-2,Huron Arena,"150 5th St SW, Huron",polling_place
+SD,Beadle,Wolsey,Precinct-12,Wolsey Community Center,"305 Commercial Ave SW, Wolsey",polling_place
+SD,Beadle,Huron,Precinct-15,Byron Bible Camp,"40546 S Shore Road, Huron",polling_place
+SD,Beadle,Cavour,Precinct-17,Cavour Town Hall,"412 Albert St, Cavour",polling_place
+SD,Bennett,Allen,Allen Precinct,American Horse School,"28451 Allen Rd, Allen",polling_place
+SD,Bennett,Martin,Martin City Precinct,Martin Community Room,"101 First Ave, Martin",polling_place
+SD,Bennett,Martin,Martin Rural 26/27 Precinct,Lacreek Electric Building,"121 N. Harold St, Martin",polling_place
+SD,Bennett,Vetal,Vetal/Tuthill Precinct,Vetal Fire Hall,"23688 US Hwy 18, Vetal",polling_place
+SD,Bon Homme,Scotland,Precinct-1,Scotland City Meeting Room,"530 Juniper Street, Scotland",polling_place
+SD,Bon Homme,Avon,Precinct-2,Avon Fire Hall,"E 1st Avenue, Avon",polling_place
+SD,Bon Homme,Tyndall,Precinct-3,Tyndall Community Center,"1609 Laurel St, Tyndall",polling_place
+SD,Bon Homme,Tabor,Precinct-4,Tabor Senior Citizens Center,"138 N Lidice St, Tabor",polling_place
+SD,Bon Homme,Springfield,Precinct-5,Springfield Community Center,"807 8th Street, Springfield",polling_place
+SD,Brookings,Brookings,Precinct-01,1-1 Brookings Activity Center,"320 5th Ave., Brookings",vote_center
+SD,Brookings,Volga,Precinct-01,1-10 Volga Community Center,"109 Samara Ave., Volga",vote_center
+SD,Brookings,Brookings,Precinct-01,1-11 Holy Life Tabernacle,"241 Mustang Pass, Brookings",vote_center
+SD,Brookings,Brookings,Precinct-01,1-2 Bethel Baptist Church,"714 17th Ave. S., Brookings",vote_center
+SD,Brookings,Brookings,Precinct-01,1-3 Swiftel Center,"824 32nd Ave, Brookings",vote_center
+SD,Brookings,Aurora,Precinct-01,1-4 Aurora Little Hall,"Nicollett St., Aurora",vote_center
+SD,Brookings,Elkton,Precinct-01,1-5 Elkton Community Center,"109 Elk St. S., Elkton",vote_center
+SD,Brookings,Bruce,Precinct-01,1-7 Bruce City Hall,"507 Jay St., Bruce",vote_center
+SD,Brookings,Arlington,Precinct-01,1-8 Trinity Lutheran Church,"321 S. Main, Arlington",vote_center
+SD,Brookings,Sinai,Precinct-01,1-9 Sinai American Legion,"Main Ave., Sinai",vote_center
+SD,Brookings,White,Precinct-02,1-6 McKnight Hall,"228 W. Main St., White",vote_center
+SD,Brown,NULL,Precinct-01,Absentee,"NULL, NULL",vote_center
+SD,Brown,Aberdeen,Precinct-01,AmericInn Event Center,"301 Centennial Street, Aberdeen",vote_center
+SD,Brown,Aberdeen,Precinct-01,Best Western Ramkota Hotel andConvention Center,"1400 8th Ave NW, Aberdeen",vote_center
+SD,Brown,Claremont,Precinct-01,Claremont Fire Station,"505 6th St., Claremont",vote_center
+SD,Brown,Columbia,Precinct-01,Columbia American Legion,"102 N Broadway, Columbia",vote_center
+SD,Brown,Aberdeen,Precinct-01,Courthouse Community Room,"25 Market St., Aberdeen",vote_center
+SD,Brown,Frederick,Precinct-01,Frederick Community Center,"2nd Ave., Frederick",vote_center
+SD,Brown,Groton,Precinct-01,Groton Community Center,"109 N 3rd St, Groton",vote_center
+SD,Brown,Hecla,Precinct-01,Hecla Community Center,"206 Main St., Hecla",vote_center
+SD,Brown,Stratford,Precinct-01,Stratford Communty Center,"293 E Rondell Ave., Stratford",vote_center
+SD,Brown,Warner,Precinct-01,Warner Community Center,"11 W Main St., Warner",vote_center
+SD,Brown,Westport,Precinct-01,Westport Community Center,"13 W Main St., Westport",vote_center
+SD,Brown,NULL,Precinct-02,Express Vote,"NULL, NULL",vote_center
+SD,Brule,Chamberlain,Precinct-01,Brule County Courthouse,"300 S Courtland, Chamberlain",polling_place
+SD,Brule,Kimball,Precinct-02,Kimball Legion Hall,"Main Street, Kimball",polling_place
+SD,Brule,Pukwana,Precinct-03,Brule County Ag Building,"200 County Rd 122, Pukwana",polling_place
+SD,Brule,Platte,Precinct-04,Academy Fire Hall,"26886 SD Hwy 50, Platte",polling_place
+SD,Brule,Chamberlain,Precinct-05,Ola Church,"26096 349 Ave, Chamberlain",polling_place
+SD,Buffalo,Gann Valley,Precinct-1,Elm Creek Election Bldg.,"35190 SD HWY 34, Gann Valley",polling_place
+SD,Buffalo,CCST Reservation,Precinct-2,Crow Creek Housing Dist Recr. Bldg.,"210 A Avenue, CCST Reservation",polling_place
+SD,Buffalo,Fort Thompson,Precinct-3,St. Joseph Catholic Hall,"817 HWY 47, Fort Thompson",polling_place
+SD,Butte,Newell,Precinct-06,Castle Rock - Moreau River Hall,"16111 Old Hwy 79, Newell",polling_place
+SD,Butte,Newell,Precinct-08,Newell Community Hall,"108 3rd Street, Newell",polling_place
+SD,Butte,Belle Fourche,Precinct-11,Belle Fourche Community Hall,"508 6th Avenue, Belle Fourche",polling_place
+SD,Butte,Nisland,Precinct-12,American Legion Hall,"505 2nd Street, Nisland",polling_place
+SD,Butte,Newell,Precinct-13,Newell Community Hall,"108 3rd Street, Newell",polling_place
+SD,Butte,Newell,Precinct-14,Newell Community Hall,"108 3rd Street, Newell",polling_place
+SD,Butte,Belle Fourche,Precinct-16,Belle Fourche Community Hall,"508 6th Avenue, Belle Fourche",polling_place
+SD,Butte,Belle Fourche,Precinct-17,Belle Fourche Community Hall,"508 6th Avenue, Belle Fourche",polling_place
+SD,Butte,Nisland,Precinct-18,American Legion Hall,"505 2nd Street, Nisland",polling_place
+SD,Butte,Newell,Precinct-20,Newell Community Hall,"108 3rd Street, Newell",polling_place
+SD,Butte,Belle Fourche,Precinct-21,Belle Fourche Community Hall,"508 6th Avenue, Belle Fourche",polling_place
+SD,Butte,Belle Fourche,Precinct-22,Belle Fourche Community Hall,"508 6th Avenue, Belle Fourche",polling_place
+SD,Butte,Belle Fourche,Precinct-23,Belle Fourche Community Hall,"508 6th Avenue, Belle Fourche",polling_place
+SD,Butte,Belle Fourche,Precinct-24,Belle Fourche Community Hall,"508 6th Avenue, Belle Fourche",polling_place
+SD,Butte,Belle Fourche,Precinct-25,Belle Fourche Community Hall,"508 6th Avenue, Belle Fourche",polling_place
+SD,Butte,Belle Fourche,Precinct-26,Belle Fourche Community Hall,"508 6th Avenue, Belle Fourche",polling_place
+SD,Butte,Belle Fourche,Precinct-27,Belle Fourche Community Hall,"508 6th Avenue, Belle Fourche",polling_place
+SD,Campbell,Herreid,Precinct-1,Herreid Senior Citizens Center,"202 Main St N, Herreid",polling_place
+SD,Campbell,Pollock,Precinct-2,Pollock Visitors Center,"119 Main St, Pollock",polling_place
+SD,Campbell,Herreid,Precinct-3,Herreid Senior Citizens Center,"202 Main St N, Herreid",polling_place
+SD,Campbell,Mound City,Precinct-4,Mound City Community Center,"349 Campbell St NW, Mound City",polling_place
+SD,Campbell,Mound City,Precinct-5,Campbell County Courthouse/CourtRoom,"111 2nd St NE, Mound City",polling_place
+SD,Charles Mix,Wagner,Precinct-01,Wagner Armory,"610 E SD Hwy 46, Wagner",polling_place
+SD,Charles Mix,Dante,Precinct-02,Dante Church,"103 Church Dr, Dante",polling_place
+SD,Charles Mix,Wagner,Precinct-03,Wagner Armory,"610 E SD Hwy 46, Wagner",polling_place
+SD,Charles Mix,Marty,Precinct-04,Ihanktonwan Community College,"200 S Main, Marty",polling_place
+SD,Charles Mix,Lake Andes,Precinct-05,Lake Andes 4-H Center,"100 School St, Lake Andes",polling_place
+SD,Charles Mix,Lake Andes,Precinct-06,Lake Andes 4-H Center,"100 School St, Lake Andes",polling_place
+SD,Charles Mix,Pickstown,Precinct-07,Pickstown Rainbow Room,"310 White Swan Dr, Pickstown",polling_place
+SD,Charles Mix,Geddes,Precinct-08,Multi Purpose Center,"409 Michigan Ave, Geddes",polling_place
+SD,Charles Mix,Platte,Precinct-09,Platte Community Bldg,"310 S Main St, Platte",polling_place
+SD,Charles Mix,Academy,Precinct-10,Academy Fire Hall,"SD Hwy 44, Academy",polling_place
+SD,Charles Mix,Platte,Precinct-11,Platte Community Bldg,"310 S Main St, Platte",polling_place
+SD,Charles Mix,Geddes,Precinct-12,Multi Purpose Center,"409 Michigan Ave, Geddes",polling_place
+SD,Charles Mix,Ravinia,Precinct-13,Ravinia Fire Hall,"Main St, Ravinia",polling_place
+SD,Clark,Bradley,Precinct-01,Bradley Community Center,"Main Street, Bradley",polling_place
+SD,Clark,Clark,Precinct-02,Clark County Courthouse,"200 N. Commercial, Clark",polling_place
+SD,Clark,Raymond,Precinct-03,Raymond Fire Hall,"201 Flower Street, Raymond",polling_place
+SD,Clark,Garden City,Precinct-04,Prairie Ridge Lodge,"110 1st St NE, Garden City",polling_place
+SD,Clark,Clark,Precinct-05,Clark County Courthouse,"200 N. Commercial, Clark",polling_place
+SD,Clark,Clark,Precinct-06,Clark County Courthouse,"200 N. Commercial, Clark",polling_place
+SD,Clark,Willow Lake,Precinct-07,Willow Lake Grace Lutheran Church,"610 3rd Street, Willow Lake",polling_place
+SD,Clark,Willow Lake,Precinct-08,Willow Lake Community Center,"213 Garfield Ave, Willow Lake",polling_place
+SD,Clark,Vienna,Precinct-09,Vienna Town Hall,"228 Main Street, Vienna",polling_place
+SD,Clark,Carpenter,Precinct-10,Carpenter Community Center,"524 415th Ave, Carpenter",polling_place
+SD,Clark,Clark,Precinct-12,Clark Senior Citizens - Ullyot Bldg,"100 N. Commercial, Clark",polling_place
+SD,Clark,Clark,Precinct-13,Clark Senior Citizens - Ullyot Bldg,"100 N. Commercial, Clark",polling_place
+SD,Clay,Beresford,Precinct-01,SESD Experimental Farm,"29974 University Rd, Beresford",polling_place
+SD,Clay,Wakonda,Precinct-02,Wakonda Senior Center,"119 Ohio St, Wakonda",polling_place
+SD,Clay,Vermillion,Precinct-03,Vermillion 4-H Center,"515 High St, Vermillion",polling_place
+SD,Clay,Vermillion,Precinct-C1,National Guard Armory,"603 Princeton St, Vermillion",polling_place
+SD,Clay,Vermillion,Precinct-C2,National Guard Armory,"603 Princeton St, Vermillion",polling_place
+SD,Clay,Vermillion,Precinct-E1,National Guard Armory,"603 Princeton St, Vermillion",polling_place
+SD,Clay,Vermillion,Precinct-E2,National Guard Armory,"603 Princeton St, Vermillion",polling_place
+SD,Clay,Vermillion,Precinct-S1,National Guard Armory,"603 Princeton St, Vermillion",polling_place
+SD,Clay,Vermillion,Precinct-S2,National Guard Armory,"603 Princeton St, Vermillion",polling_place
+SD,Clay,Vermillion,Precinct-W1,National Guard Armory,"603 Princeton St, Vermillion",polling_place
+SD,Clay,Vermillion,Precinct-W2,National Guard Armory,"603 Princeton St, Vermillion",polling_place
+SD,Codington,Florence,DEXTER,Florence Community Center,"Main Street, Florence",polling_place
+SD,Codington,Wallace,"EDEN, PHIPPS, WALLACE",Wallace Community Center,"Main Street, Wallace",polling_place
+SD,Codington,Watertown,ELMIRA,Lincoln School,"1100 13 St NE, Watertown",polling_place
+SD,Codington,Florence,"FULLER, FLORENCE",Florence Community Center,"Main Street, Florence",polling_place
+SD,Codington,Watertown,GERMANTOWN,County Extension Complex,"1910 W Kemp Ave, Watertown",polling_place
+SD,Codington,Henry,"GRACELAND, HENRY, HENRY",Henry Town Hall,"Main Street, Henry",polling_place
+SD,Codington,Watertown,KAMPESKA,County Extension Complex,"1910 W Kemp Ave, Watertown",polling_place
+SD,Codington,Kranzburg,"KRANZBURG, KRANZBURG",Holy Rosary School Auditorium,"Minnesota Ave, Kranzburg",polling_place
+SD,Codington,Watertown,LAKE,County Extension Complex,"1910 W Kemp Ave, Watertown",polling_place
+SD,Codington,South Shore,"LEOLA, SOUTH SHORE",South Shore Community Center,"Main Street, South Shore",polling_place
+SD,Codington,Watertown,PELICAN,County Extension Complex,"1910 W Kemp Ave, Watertown",polling_place
+SD,Codington,Watertown,Precinct-A1,County Extension Complex,"1910 W Kemp Ave, Watertown",polling_place
+SD,Codington,Watertown,Precinct-A2,County Extension Complex,"1910 W Kemp Ave, Watertown",polling_place
+SD,Codington,Watertown,Precinct-A3,County Extension Complex,"1910 W Kemp Ave, Watertown",polling_place
+SD,Codington,Watertown,Precinct-B1,County Extension Complex,"1910 W Kemp Ave, Watertown",polling_place
+SD,Codington,Watertown,Precinct-B2,County Extension Complex,"1910 W Kemp Ave, Watertown",polling_place
+SD,Codington,Watertown,Precinct-B3,County Extension Complex,"1910 W Kemp Ave, Watertown",polling_place
+SD,Codington,Watertown,Precinct-B4,County Extension Complex,"1910 W Kemp Ave, Watertown",polling_place
+SD,Codington,Watertown,Precinct-C1,County Extension Complex,"1910 W Kemp Ave, Watertown",polling_place
+SD,Codington,Watertown,Precinct-C2,County Extension Complex,"1910 W Kemp Ave, Watertown",polling_place
+SD,Codington,Watertown,Precinct-C3,County Extension Complex,"1910 W Kemp Ave, Watertown",polling_place
+SD,Codington,Watertown,Precinct-C4,County Extension Complex,"1910 W Kemp Ave, Watertown",polling_place
+SD,Codington,Watertown,Precinct-D1,County Extension Complex,"1910 W Kemp Ave, Watertown",polling_place
+SD,Codington,Watertown,Precinct-D2,County Extension Complex,"1910 W Kemp Ave, Watertown",polling_place
+SD,Codington,Watertown,Precinct-D3,County Extension Complex,"1910 W Kemp Ave, Watertown",polling_place
+SD,Codington,Watertown,Precinct-D4,County Extension Complex,"1910 W Kemp Ave, Watertown",polling_place
+SD,Codington,Watertown,Precinct-E1,County Extension Complex,"1910 W Kemp Ave, Watertown",polling_place
+SD,Codington,Watertown,Precinct-E2,County Extension Complex,"1910 W Kemp Ave, Watertown",polling_place
+SD,Codington,Watertown,Precinct-E3,County Extension Complex,"1910 W Kemp Ave, Watertown",polling_place
+SD,Codington,Watertown,Precinct-E4,County Extension Complex,"1910 W Kemp Ave, Watertown",polling_place
+SD,Codington,Watertown,Precinct-E5,County Extension Complex,"1910 W Kemp Ave, Watertown",polling_place
+SD,Codington,Watertown,RAUVILLE,County Extension Complex,"1910 W Kemp Ave, Watertown",polling_place
+SD,Codington,Watertown,RICHLAND,County Extension Complex,"1910 W Kemp Ave, Watertown",polling_place
+SD,Codington,Watertown,SHERIDAN,Days Inn of Watertown,"2900 9 Ave SE, Watertown",polling_place
+SD,Codington,Waverly,WAVERLY,Waverly Community Center,"217 Central Ave, Waverly",polling_place
+SD,Corson,Bullhead,Bullhead Precinct,Bullhead Community Center,"Bullhead Community Center, Bullhead",polling_place
+SD,Corson,Keldron,Grand Valley Precinct,Grand River Fire Hall,"21152 114th St, Keldron",polling_place
+SD,Corson,Kenel,Kenel Precinct,Kenel Community Hall,"Kenel Community Hall, Kenel",polling_place
+SD,Corson,McLaughlin,Lincoln Precinct,McLaughlin City Auditorium,"Main Street, McLaughlin",polling_place
+SD,Corson,Little Eagle,Little Eagle Precinct,Little Eagle District Office,"Little Eagle District Office, Little Eagle",polling_place
+SD,Corson,McIntosh,McIntosh Precinct,Corson County Courthouse,"108 First Street East, McIntosh",polling_place
+SD,Corson,McLaughlin,McLaughlin Precinct,McLaughlin City Auditorium,"Main Street, McLaughlin",polling_place
+SD,Corson,Morristown,Morristown Precinct,Morristown Fire Hall,"100 2nd St E, Morristown",polling_place
+SD,Corson,McLaughlin,Oak Creek Precinct,McLaughlin City Auditorium,"Main Street, McLaughlin",polling_place
+SD,Corson,Trail City,Ridgeland Precinct,Trail City Community Hall,"Hwy 20, Trail City",polling_place
+SD,Corson,Firesteel,Stone Church Precinct,Gary Pederson Residence,"BIA Road #4, 12521 245th Ave, Firesteel",polling_place
+SD,Corson,Wakpala,Wakpala Precinct,Wakpala Community Center,"Wakpala Community Center, Wakpala",polling_place
+SD,Corson,McLaughlin,West Rural McLaughlinPrecinct,McLaughlin City Auditorium,"Main Street, McLaughlin",polling_place
+SD,Custer,Hermosa,Precinct-01,Hermosa United Church of Christ,"102 2nd St N, Hermosa",polling_place
+SD,Custer,Fairburn,Precinct-02,Fairburn Community & HistoricalCenter,"710 2nd St, Fairburn",polling_place
+SD,Custer,Buffalo Gap,Precinct-03,Buffalo Gap Community Center,"209 Main St, Buffalo Gap",polling_place
+SD,Custer,Pringle,Precinct-04,Pringle Fire Auxillary Hall,"436 Railway, Pringle",polling_place
+SD,Custer,Custer,Precinct-05,Custer County Courthouse Annex,"447 Crook St, Custer",polling_place
+SD,Custer,Custer,Precinct-06,Custer County Courthouse Annex,"447 Crook St, Custer",polling_place
+SD,Custer,Custer,Precinct-07,Custer County Courthouse Annex,"447 Crook St, Custer",polling_place
+SD,Custer,Custer,Precinct-08,Custer County Courthouse Annex,"447 Crook St, Custer",polling_place
+SD,Custer,Custer,Precinct-09,Custer County Highway Dept Bldg,"25365 US Hwy 385, Custer",polling_place
+SD,Custer,Rural,Precinct-10,Elk Mountain School,"10222 Valley Rd, Rural",polling_place
+SD,Davison,Ethan,Precinct-01,Ethan Town Hall,"201 West Main, Ethan",polling_place
+SD,Davison,Mt. Vernon,Precinct-02,Mt. Vernon Senior Citizens Center,"NULL, Mt. Vernon",polling_place
+SD,Davison,Mitchell,Precinct-03,Davison County Fairgrounds,"3200 W Havens, Mitchell",polling_place
+SD,Davison,Mitchell,Precinct-04,Davison County Fairgrounds,"3200 W Havens, Mitchell",polling_place
+SD,Davison,Mitchell,Precinct-05,Davison County Fairgrounds,"3200 W Havens, Mitchell",polling_place
+SD,Davison,Mitchell,Precinct-06,Corn Palace,"604 N. Main St., Mitchell",polling_place
+SD,Davison,Mitchell,Precinct-07,Corn Palace,"601 N Main St, Mitchell",polling_place
+SD,Davison,Mitchell,Precinct-07,Corn Palace,"604 N. Main St., Mitchell",polling_place
+SD,Davison,Mitchell,Precinct-08,Corn Palace,"601 N Main St, Mitchell",polling_place
+SD,Davison,Mitchell,Precinct-09,Corn Palace,"601 N Main St, Mitchell",polling_place
+SD,Davison,Mitchell,Precinct-09,Corn Palace,"604 N. Main St., Mitchell",polling_place
+SD,Davison,Mitchell,Precinct-10,Corn Palace,"604 N. Main St., Mitchell",polling_place
+SD,Davison,Mitchell,Precinct-11,Corn Palace,"604 N. Main St., Mitchell",polling_place
+SD,Davison,Mitchell,Precinct-12,Corn Palace,"604 N. Main St., Mitchell",polling_place
+SD,Davison,Mitchell,Precinct-13,Corn Palace,"601 N Main St, Mitchell",polling_place
+SD,Davison,Mitchell,Precinct-13,Corn Palace,"604 N. Main St., Mitchell",polling_place
+SD,Davison,Mitchell,Precinct-14,Corn Palace,"604 N. Main St., Mitchell",polling_place
+SD,Davison,Mitchell,Precinct-15,Corn Palace,"604 N. Main St., Mitchell",polling_place
+SD,Davison,Mitchell,Precinct-16,Corn Palace,"604 N. Main St., Mitchell",polling_place
+SD,Davison,Mitchell,Precinct-17,Corn Palace,"604 N. Main St., Mitchell",polling_place
+SD,Davison,Mitchell,Precinct-18,Corn Palace,"604 N. Main St., Mitchell",polling_place
+SD,Davison,Mitchell,Precinct-19,Corn Palace,"604 N. Main St., Mitchell",polling_place
+SD,Davison,Mitchell,Precinct-20,Corn Palace,"601 N Main St, Mitchell",polling_place
+SD,Davison,Mitchell,Precinct-20,Corn Palace,"604 N. Main St., Mitchell",polling_place
+SD,Day,Webster,Precinct-01,Day County Courthouse Rm#101,"711 W. 1st St, Webster",polling_place
+SD,Day,Webster,Precinct-02,Day County Courthouse Rm#101,"711 W. 1st St, Webster",polling_place
+SD,Day,Webster,Precinct-03,Day County Courthouse Rm#101,"711 W. 1st St, Webster",polling_place
+SD,Day,Webster,Precinct-04,Day County Courthouse Rm#101,"711 W. 1st St, Webster",polling_place
+SD,Day,Waubay,Precinct-05,Waubay Legion,"20 E. 2nd Ave, Waubay",polling_place
+SD,Day,Waubay,Precinct-06,Waubay Legion,"20 E. 2nd Ave, Waubay",polling_place
+SD,Day,Webster,Precinct-07,Day County Courthouse Rm#205,"711 W. 1st St, Webster",polling_place
+SD,Day,Bristol,Precinct-08,Bristol Community Center,"86 S Main St, Bristol",polling_place
+SD,Day,Webster,Precinct-09,Day County Courthouse Rm#104,"711 W. 1st St, Webster",polling_place
+SD,Day,Andover,Precinct-10,Andover Senior Center,"100 S Main St, Andover",polling_place
+SD,Day,Roslyn,Precinct-11,Roslyn City Hall,"600 Main St, Roslyn",polling_place
+SD,Day,Pierpont,Precinct-12,Pierpont Community Center,"101 W Main St, Pierpont",polling_place
+SD,Day,Grenville,Precinct-13,St. Joseph's Hall,"Main St, Grenville",polling_place
+SD,Day,Bristol,Precinct-14,Bristol Community Center,"86 S Main St, Bristol",polling_place
+SD,Deuel,Clear Lake,Precinct-01,Dakota Ridge Lodge,"47743 172nd St, Clear Lake",polling_place
+SD,Deuel,Brandt,Precinct-03,Brandt Community Center,"102 Main St, Brandt",polling_place
+SD,Deuel,Clear Lake,Precinct-04,Clear Lake Community Center,"218 3rd Ave. S., Clear Lake",polling_place
+SD,Deuel,Clear Lake,Precinct-06,Clear Lake Community Center,"218 3rd Ave. S., Clear Lake",polling_place
+SD,Deuel,Goodwin,Precinct-07,Goodwin Fire Hall,"125 N Bowdoin St., Goodwin",polling_place
+SD,Deuel,Gary,Precinct-08,Gary Fire Hall,"114 1st Ave., Gary",polling_place
+SD,Deuel,Clear Lake,Precinct-09,Clear Lake Community Center,"218 3rd Ave. S., Clear Lake",polling_place
+SD,Deuel,Astoria,Precinct-10,Astoria Legion Hall,"341 Main Street, Astoria",polling_place
+SD,Deuel,Toronto,Precinct-11,Toronto Community Rm. (FireHall),"460 Main Ave, Toronto",polling_place
+SD,Dewey,Trail City,Precinct-02 Trail City,Trail City Community Hall,"N Hwy 20, Trail City",polling_place
+SD,Dewey,Timber Lake,Precinct-04 Timber Lake,Timber Lake Community Center,"700 Main Street, Timber Lake",polling_place
+SD,Dewey,Timber Lake,Precinct-05 Firesteel,Dewey Co. Courthouse,"710 C St, Timber Lake",polling_place
+SD,Dewey,Isabel,Precinct-06 Isabel,Isabel Senior Center,"412 N  Main, Isabel",polling_place
+SD,Dewey,Eagle Butte,Precinct-07 Eagle Butte East,CRST Senior Nutrition Site,"East Knott's Landing Rd, Eagle Butte",polling_place
+SD,Dewey,White Horse,Precinct-08 White Horse,White Horse Community Center,"West Main Avenue, White Horse",polling_place
+SD,Dewey,Promise,Precinct-09 Promise,St. Catherine Hall/Promise,"S 1806 and N of Promisetownsite, Promise",polling_place
+SD,Dewey,LaPlant,Precinct-11Swiftbird/LaPlant,UCC Church Hall/LaPlant,"Virgin Creek Road, LaPlant",polling_place
+SD,Dewey,Eagle Butte,Precinct-12 Eagle ButteNorth,CRST Cultural Center,"Hwy 212, Eagle Butte",polling_place
+SD,Dewey,Eagle Butte,Precinct-13 Eagle ButteNorth,CRST Cultural Center,"Hwy 212, Eagle Butte",polling_place
+SD,Dewey,Eagle Butte,Precinct-14 Eagle ButteSouth,Landmark Hall,"south end of Main St east sideof street, Eagle Butte",polling_place
+SD,Dewey,Eagle Butte,Precinct-15 Eagle ButteWest,Eagle Butte Volunteer Fire Hall,"Willow St, Eagle Butte",polling_place
+SD,Douglas,Harrison,Precinct-1,Harrison Community Church,"390 Lecocq St., Harrison",polling_place
+SD,Douglas,Corsica,Precinct-2,Community Building- Corsica,"335 East Main St., Corsica",polling_place
+SD,Douglas,Delmont,Precinct-3,Community Center-Delmont,"105 West Main St., Delmont",polling_place
+SD,Douglas,Armour,Precinct-4,Armour Fire Hall,"1103 Braddock Ave., Armour",polling_place
+SD,Douglas,Armour,Precinct-5,4-H Center- Armour,"39182 280th St., Armour",polling_place
+SD,Edmunds,Mina,Precinct-1,The M Station,"800 Nesbitt Drive, Mina",polling_place
+SD,Edmunds,Ipswich,Precinct-3,Ipswich 4-H Building,"515 7th St, Ipswich",polling_place
+SD,Edmunds,Roscoe,Precinct-4,Roscoe Fire Hall,"208 N Mitchell St, Roscoe",polling_place
+SD,Edmunds,Bowdle,Precinct-5,Bowdle Multi-Purpose Center,"8001 W 5th St, Bowdle",polling_place
+SD,Edmunds,Hosmer,Precinct-6,Hosmer Fire Hall,"315 S Chapman Ave, Hosmer",polling_place
+SD,Fall River,Oral,BEA,Oral School,"27600 W Oral Rd, Oral",polling_place
+SD,Fall River,Hot Springs,CAS,Cascade Fire Hall,"27974 Cascade Rd, Hot Springs",polling_place
+SD,Fall River,Edgemont,EDA,St. James Parish Center,"306 3rd Ave, Edgemont",polling_place
+SD,Fall River,Hot Springs,HS 1,Mueller Center,"801 S 6th, Hot Springs",polling_place
+SD,Fall River,Hot Springs,HS 2,Mueller Center,"801 S 6th, Hot Springs",polling_place
+SD,Fall River,Hot Springs,HS 3,Mueller Center,"801 S 6th, Hot Springs",polling_place
+SD,Fall River,Hot Springs,HS 4,Mueller Center,"801 S 6th, Hot Springs",polling_place
+SD,Fall River,Hot Springs,JAC,Mueller Center,"801 S 6th, Hot Springs",polling_place
+SD,Fall River,Oelrichs,Oelrichs Area,Oelrichs Community Center,"108 E 6th St, Oelrichs",polling_place
+SD,Faulk,Cresbard,Precinct-1,Cresbard Community Ctr,"204 Main St, Cresbard",polling_place
+SD,Faulk,Wecota,Precinct-2,Freedom Farmers Union Local 974,"Wecota Ave, Wecota",polling_place
+SD,Faulk,Seneca,Precinct-3,Seneca Community Center,"Pine St, Seneca",polling_place
+SD,Faulk,Orient,Precinct-4,Orient Community Ctr.,"Main St, Orient",polling_place
+SD,Faulk,Rockham,Precinct-5,Rockham Community Ctr,"116 S Broadway, Rockham",polling_place
+SD,Faulk,Faulkton,Precinct-6,Faulkton Community Center,"NULL, Faulkton",polling_place
+SD,Faulk,Faulkton,Precinct-7,Faulkton Community Center,"NULL, Faulkton",polling_place
+SD,Grant,Milbank,Precinct-11,Milbank City Office,"1001 E 4th Ave, Milbank",polling_place
+SD,Grant,Milbank,Precinct-12,Milbank City Office,"1001 E 4th Ave, Milbank",polling_place
+SD,Grant,Milbank,Precinct-21,Milbank City Office,"1001 E 4th Ave, Milbank",polling_place
+SD,Grant,Milbank,Precinct-22,Milbank City Office,"1001 E 4th Ave, Milbank",polling_place
+SD,Grant,Milbank,Precinct-31,Milbank City Office,"1001 E 4th Ave, Milbank",polling_place
+SD,Grant,Milbank,Precinct-32,Milbank City Office,"1001 E 4th Ave, Milbank",polling_place
+SD,Grant,Milbank,Precinct-33,Milbank City Office,"1001 E 4th Ave, Milbank",polling_place
+SD,Grant,Revillo,Precinct-41,Revillo Community Center,"308 N 2nd Ave, Revillo",polling_place
+SD,Grant,Milbank,Precinct-42,Milbank Airport,"14871 482nd Ave, Milbank",polling_place
+SD,Grant,Big Stone City,Precinct-43,Big Stone City Community Room,"400 Washington St, Big Stone City",polling_place
+SD,Grant,Marvin,Precinct-44,Marvin Hall,"204 S Church St, Marvin",polling_place
+SD,Grant,LaBolt,Precinct-45,LaBolt Mini Mall,"140 Main St, LaBolt",polling_place
+SD,Grant,Milbank,Precinct-46,Whetstone Valley Electric MeetingRoom,"1101 E 4th Ave, Milbank",polling_place
+SD,Grant,Milbank,Precinct-47,Grant County Library,"207 East Park Ave, Milbank",polling_place
+SD,Grant,Stockholm,Precinct-52,Stockholm Community Center,"400 E Johnson Ave, Stockholm",polling_place
+SD,Grant,Strandburg,Precinct-53,Rufer's General Store,"115 Main St., Strandburg",polling_place
+SD,Grant,Twin Brooks,Precinct-54,Twin Brooks Community Room,"502 Lasell St, Twin Brooks",polling_place
+SD,Gregory,Gregory,Precinct-1,Gregory Memorial Auditorium,"222 Main St, Gregory",polling_place
+SD,Gregory,Burke,Precinct-2,Burke Civic Center,"822 Main St, Burke",polling_place
+SD,Gregory,Bonesteel,Precinct-3,Bonesteel Comunity Room,"400 Mellette St., Bonesteel",polling_place
+SD,Haakon,Midland,Precinct-01,Deep Creek Church,"19990 Deep Creek Rd, Midland",polling_place
+SD,Haakon,Milesville,Precinct-04,Milesville Hall,"22101 King School Rd, Milesville",polling_place
+SD,Haakon,Philip,Precinct-16,Courthouse Community Room,"140 South Howard Ave, Philip",polling_place
+SD,Haakon,Philip,Precinct-17,Bad River Senior Citizens Center,"115 S Center Ave, Philip",polling_place
+SD,Haakon,Philip,Precinct-19,Courthouse Community Room,"140 South Howard Ave, Philip",polling_place
+SD,Haakon,Midland,Precinct-20,Midland Fire Hall,"509 Main St, Midland",polling_place
+SD,Hamlin,Thomas,Precinct-02,Oxford Township Hall,"18097 450 Ave, Thomas",polling_place
+SD,Hamlin,Castlewood,Precinct-21,Castlewood Fire Hall,"204 E Main St, Castlewood",polling_place
+SD,Hamlin,Hazel,Precinct-22,Hazel Fire Hall,"19 W William, Hazel",polling_place
+SD,Hamlin,Bryant,Precinct-23,Bryant City Auditorium,"115 E Main St, Bryant",polling_place
+SD,Hamlin,Lake Norden,Precinct-24,Lake Norden Community Center,"600 Main Ave, Lake Norden",polling_place
+SD,Hamlin,Estelline,Precinct-25,Estelline Community Center,"219 Main St N, Estelline",polling_place
+SD,Hamlin,Hayti,Precinct-26,Hayti Fire Hall,"214 Main Ave, Hayti",polling_place
+SD,Hand,Orient,Precinct-01,Polo School,"17989 Polo Drive, Orient",polling_place
+SD,Hand,Zell,Precinct-02,St. Mary's Hall,"37295 US Hwy 212, Zell",polling_place
+SD,Hand,Orient,Precinct-03,Polo School,"17989 Polo Drive, Orient",polling_place
+SD,Hand,St. Lawrence,Precinct-04,St. Lawrence Fire Hall,"106 N. Commercial Drive, St. Lawrence",polling_place
+SD,Hand,Ree Heights,Precinct-05,Ree Heights Auditorium,"209 S. Dakota Avenue, Ree Heights",polling_place
+SD,Hand,St. Lawrence,Precinct-06,St. Lawrence Fire Hall,"106 N. Commercial Drive, St. Lawrence",polling_place
+SD,Hand,Wessington,Precinct-07,Doug Schiltz home,"19951 369 Ave., Wessington",polling_place
+SD,Hand,Ree Heights,Precinct-08,Ree Heights Auditorium,"209 S. Dakota Avenue, Ree Heights",polling_place
+SD,Hand,Miller,Precinct-09,Sunshine Bible Academy,"400 Sunshine Dr, Miller",polling_place
+SD,Hand,Miller,Precinct-11,Methodist Church,"610 E. 4th Avenue, Miller",polling_place
+SD,Hand,Miller,Precinct-12,Hand County Courthouse,"415 W. 1st Avenue, Miller",polling_place
+SD,Hanson,Emery,Precinct-1,Emery Fire Hall,"130 N 4th St., Emery",polling_place
+SD,Hanson,Alexandria,Precinct-2,Alexandria City Hall,"421 Main St., Alexandria",polling_place
+SD,Hanson,Fulton,Precinct-3,Fulton Community Hall,"217 N Main, Fulton",polling_place
+SD,Hanson,Fulton,Precinct-4,Fulton Community Hall,"217 N Main, Fulton",polling_place
+SD,Hanson,Alexandria,Precinct-5,Hanson County Courthouse,"720 5th St., Alexandria",polling_place
+SD,Harding,Buffalo,Precinct-01,Harding County Memorial REC,"204 Hodge Street, Buffalo",polling_place
+SD,Harding,Camp Crook,Precinct-02,Camp Crook Area Community Center,"Main Street, Camp Crook",polling_place
+SD,Harding,Ralph,Precinct-03,Ralph Lutheran Church,"11126 Ralph Road, Ralph",polling_place
+SD,Harding,Buffalo,Precinct-05,Harding County Memorial REC,"204 Hodge Street, Buffalo",polling_place
+SD,Harding,Buffalo,Precinct-06,Ladner Lutheran Church,"11460 Ladner Road, Buffalo",polling_place
+SD,Harding,Ludlow,Precinct-07,Ludlow Hall,"10796 US Hwy 85, Ludlow",polling_place
+SD,Harding,Buffalo,Precinct-08,Harding County Memorial REC,"204 Hodge Street, Buffalo",polling_place
+SD,Harding,Reva,Precinct-09,Reva Hall,"14753 SD Hwy 20, Reva",polling_place
+SD,Hughes,Blunt,Precinct-05,Blunt City Hall,"208 N. Main, Blunt",vote_center
+SD,Hughes,Pierre,Precinct-05,Faith Lutheran Church,"714 N. Grand, Pierre",vote_center
+SD,Hughes,Harrold,Precinct-05,Harrold City Auditorium,"206 S. Nixon, Harrold",vote_center
+SD,Hughes,Pierre,Precinct-05,Hyde Residence,"31815 E. SD Hwy 34, Pierre",vote_center
+SD,Hughes,Pierre,Precinct-05,Lutheran Memorial Church,"320 E Prospect Ave, Pierre",vote_center
+SD,Hughes,Pierre,Precinct-05,New Life Assembly of God Church,"1120 N. Harrison, Pierre",vote_center
+SD,Hughes,Pierre,Precinct-05,PILC Rec Center,"3001 E. Sully, Pierre",vote_center
+SD,Hutchinson,Menno,Precinct-01,Menno Fire Hall,"302 S 5th St, Menno",polling_place
+SD,Hutchinson,Freeman,Precinct-02,City Council Room,"185 E Third St, Freeman",polling_place
+SD,Hutchinson,Clayton,Precinct-03,Clayton Township Hall,"27213 427th Ave, Clayton",polling_place
+SD,Hutchinson,Dimock,Precinct-04,St. Peter  Paul Parrish Hall,"146 W 1st, Dimock",polling_place
+SD,Hutchinson,Parkston,Precinct-05,Parkston American Legion Hall,"221 W Main St, Parkston",polling_place
+SD,Hutchinson,Tripp,Precinct-06,Tripp Area Emergency ServiceCenter,"306 S Main Street, Tripp",polling_place
+SD,Hutchinson,Olivet,Precinct-07,Courthouse Conference Room,"140 Euclid, Olivet",polling_place
+SD,Hyde,Highmore,Precinct-1,Hyde County Memorial Auditorium -Main Arena,"125 2nd ST SW, Highmore",vote_center
+SD,Jackson,Phillip,Precinct-1,Cottonwood Range Field Station,"23720 Fairview Rd, Phillip",polling_place
+SD,Jackson,Interior,Precinct-2,Interior Community Center,"117 6th Avenue, Interior",polling_place
+SD,Jackson,Kadoka,Precinct-3,Jackson County Courthouse 3,"700 Main St, Kadoka",polling_place
+SD,Jackson,Kadoka,Precinct-4,Jackson County Courthouse 4,"700 Main Street, Kadoka",polling_place
+SD,Jackson,Belvidere,Precinct-5,Belvidere Fellowship Hall,"807 1st St, Belvidere",polling_place
+SD,Jackson,Long Valley,Precinct-6,Long Valley School,"26840 SD Hwy 73, Long Valley",polling_place
+SD,Jackson,Wanblee,Precinct-7,Eagle Nest Life Center,"210 Washabaugh Ave, Wanblee",polling_place
+SD,Jackson,Interior,Precinct-8,Green Valley Fire Hall,"20545 May Rd, Interior",polling_place
+SD,Jerauld,Wessington Springs,Precinct-1,Jerauld County 4-H Building,"604 2nd Street NE, Wessington Springs",polling_place
+SD,Jerauld,Wessington Springs,Precinct-2,Jerauld County 4-H Building,"604 2nd Street NE, Wessington Springs",polling_place
+SD,Jerauld,Alpena,Precinct-3,Alpena Community Center,"307 Main Street, Alpena",polling_place
+SD,Jerauld,Wessington Springs,Precinct-4,Jerauld County 4-H Building,"604 2nd Street NE, Wessington Springs",polling_place
+SD,Jerauld,Wessington Springs,Precinct-5,Jerauld County 4-H Building,"604 2nd Street NE, Wessington Springs",polling_place
+SD,Jones,Murdo,Precinct-1,Harold Thune Auditorium,"307 Kennedy Avenue, Murdo",polling_place
+SD,Jones,Murdo,Precinct-3,Harold Thune Auditorium,"307 Kennedy Avenue, Murdo",polling_place
+SD,Jones,Draper,Precinct-5,Draper Town Hall,"193 N Main Street, Draper",polling_place
+SD,Kingsbury,Arlington,Arlington Precinct,Arlington City Hall,"202 W Elm St, Arlington",polling_place
+SD,Kingsbury,Badger,Badger Precinct,Badger American Legion Hall,"Main Street, Badger",polling_place
+SD,Kingsbury,De Smet,De Smet Precinct,Kingsbury County 4-H Building,"107 Lyle Ave NE, De Smet",polling_place
+SD,Kingsbury,Iroquois,Iroquois Precinct,Iroquois Fire Hall,"120 Ottowa St. S, Iroquois",polling_place
+SD,Kingsbury,Lake Preston,Lake Preston Precinct,Lake Preston Community Room,"215 N Main, Lake Preston",polling_place
+SD,Kingsbury,Oldham,Oldham Precinct,Oldham School Gym,"112 S Epton Avenue, Oldham",polling_place
+SD,Lake,Chester,Chester-Franklin,Chester Fire Hall,"407 2nd St, Chester",polling_place
+SD,Lake,Ramona,Concord-Badus-Wayne/Ramona,Ramona Parish Hall,"120 W 3rd St, Ramona",polling_place
+SD,Lake,Madison,Farmington-Leroy-Clarno-Orland,Dakota Prairie Playhouse,"1205 N Washington Ave, Madison",polling_place
+SD,Lake,Madison,Herman-Winfred,Dakota Prairie Playhouse,"1205 N Washington Ave, Madison",polling_place
+SD,Lake,Madison,Lakeview,Dakota Prairie Playhouse,"1205 N Washington Ave, Madison",polling_place
+SD,Lake,Nunda,Nunda-Summit,Nunda Fire Hall,"410 Main St, Nunda",polling_place
+SD,Lake,Madison,Ward One,Dakota Prairie Playhouse,"1205 N Washington Ave, Madison",polling_place
+SD,Lake,Madison,Ward Three,Dakota Prairie Playhouse,"1205 N Washington Ave, Madison",polling_place
+SD,Lake,Madison,Ward Two,Dakota Prairie Playhouse,"1205 N Washington Ave, Madison",polling_place
+SD,Lake,Wentworth,Wentworth-Rutland,Wentworth Fire Hall,"425 S Main St, Wentworth",polling_place
+SD,Lawrence,Spearfish,Precinct-01,Spearfish Senior Citizen's Center,"1306 N 10th Street, Spearfish",polling_place
+SD,Lawrence,Spearfish,Precinct-02,Spearfish Senior Citizen's Center,"1306 N 10th Street, Spearfish",polling_place
+SD,Lawrence,Spearfish,Precinct-03,Spearfish Senior Citizen's Center,"1306 N 10th Street, Spearfish",polling_place
+SD,Lawrence,Deadwood,Precinct-05,Lawrence County AdministrativeAnnex,"90 Sherman Street, Deadwood",polling_place
+SD,Lawrence,Nemo,Precinct-06,Nemo Church,"12755 Nemo Road, Nemo",polling_place
+SD,Lawrence,Deadwood,Precinct-07,Lawrence County AdministrativeAnnex,"90 Sherman Street, Deadwood",polling_place
+SD,Lawrence,St Onge,Precinct-08,St Onge Community Hall,"234 1st Street, St Onge",polling_place
+SD,Lawrence,Whitewood,Precinct-09,Whitewood City Hall,"1025 Meade Street, Whitewood",polling_place
+SD,Lawrence,Spearfish,Precinct-10,Spearfish Park Pavilion,"115 S Canyon Street, Spearfish",polling_place
+SD,Lincoln,Hudson,"02-Norway & Fairview,Fairview, Inc",Lands Lutheran Church,"47998 292nd St., Hudson",polling_place
+SD,Lincoln,Canton,06-Highland & Canton,Canton Methodist Church,"621 E. 4th St., Canton",polling_place
+SD,Lincoln,Worthing,08-Lincoln & Delaware,South Lincoln Rural Water,"28647 472nd Ave, Worthing",polling_place
+SD,Lincoln,Lennox,11-Grant,West Prairie Lutheran Church,"46788 282nd St., Lennox",polling_place
+SD,Lincoln,Harrisburg,12-Dayton,Shalom Lutheran Church,"1000 Maple St., Harrisburg",polling_place
+SD,Lincoln,Harrisburg,13-LaValley,Shalom Lutheran Church,"1000 Maple St., Harrisburg",polling_place
+SD,Lincoln,Lennox,14-Perry,First English Lutheran Church,"120 E 2nd Ave, Lennox",polling_place
+SD,Lincoln,Harrisburg,15-Springdale,Shalom Lutheran Church,"1000 Maple St., Harrisburg",polling_place
+SD,Lincoln,Tea,16-Delapre,Tea City Hall,"600 E. 1st St., Tea",polling_place
+SD,Lincoln,Canton,"20-Canton 1, 2, 3",Canton Methodist Church,"621 E. 4th St., Canton",polling_place
+SD,Lincoln,Hudson,21-Hudson & Eden,Hudson Town Hall,"310 4th St., Hudson",polling_place
+SD,Lincoln,Worthing,23-Worthing & Lynn,Worthing Fire Station,"403 Louise Ave, Worthing",polling_place
+SD,Lincoln,Tea,24-Tea,Tea City Hall,"600 E. 1st St., Tea",polling_place
+SD,Lincoln,Lennox,25-Lennox,First English Lutheran Church,"120 E 2nd Ave, Lennox",polling_place
+SD,Lincoln,Worthing,25-Lennox,Worthing Civic Center,"121 S Main St., Worthing",polling_place
+SD,Lincoln,Beresford,"26-Brooklyn & Pleasant,Beresford",Beresford Public Library,"115 S. 3rd St., Beresford",polling_place
+SD,Lincoln,Harrisburg,27-Harrisburg 1,United Methodist Church,"204 Grand Ave., Harrisburg",polling_place
+SD,Lincoln,Harrisburg,29-Harrisburg 2,United Methodist Church,"204 Grand Ave., Harrisburg",polling_place
+SD,Lincoln,Canton,30-Canton 4 & 5,Canton Methodist Church,"621 E. 4th St., Canton",polling_place
+SD,Lincoln,Sioux Falls,Sioux Falls 1-11,First Evangelical Free Church,"2601 W. 69th St., Sioux Falls",polling_place
+SD,Lincoln,Sioux Falls,Sioux Falls 1-13,Central Church,"3100 W. Ralph Rogers Rd., Sioux Falls",polling_place
+SD,Lincoln,Sioux Falls,Sioux Falls 1-14,Central Church,"3100 W. Ralph Rogers Rd., Sioux Falls",polling_place
+SD,Lincoln,Sioux Falls,Sioux Falls 1-15,First Evangelical Free Church,"2601 W. 69th St., Sioux Falls",polling_place
+SD,Lincoln,Sioux Falls,Sioux Falls 1-16,Central Church,"3100 W. Ralph Rogers Rd., Sioux Falls",polling_place
+SD,Lincoln,Sioux Falls,Sioux Falls 1-18,Spirit of Joy Lutheran Church,"2208 W Laquinta St, Sioux Falls",polling_place
+SD,Lincoln,Sioux Falls,Sioux Falls 2-10,Faith Baptist Fellowship Church,"601 W. 57th St., Sioux Falls",polling_place
+SD,Lincoln,Sioux Falls,Sioux Falls 2-11,Faith Baptist Fellowship Church,"601 W. 57th St., Sioux Falls",polling_place
+SD,Lincoln,Sioux Falls,Sioux Falls 2-12,Linwood Wesleyan Church,"1101 E. 57th St., Sioux Falls",polling_place
+SD,Lincoln,Sioux Falls,Sioux Falls 2-13,Linwood Wesleyan Church,"1101 E. 57th St., Sioux Falls",polling_place
+SD,Lincoln,Sioux Falls,Sioux Falls 2-15,Faith Baptist Fellowship Church,"601 W. 57th St., Sioux Falls",polling_place
+SD,Lyman,IONA,Precinct-01,#01 IONA COMMUNITY CENTER,"26511 266TH ST, IONA",polling_place
+SD,Lyman,OACOMA,Precinct-04,#04 OACOMA COMMUNITY CENTER,"100 E 3RD ST, OACOMA",polling_place
+SD,Lyman,RELIANCE,Precinct-06,#06 RELIANCE TOWN HALL,"405 E Chamberlain St, RELIANCE",polling_place
+SD,Lyman,LOWER BRULE,Precinct-07,#07 GOLDEN BUFFALO CONVENTIONCENTER,"307 CRAZY HORSE ST, LOWER BRULE",polling_place
+SD,Lyman,KENNEBEC,Precinct-09,#09 LYMAN COUNTY COURTHOUSE,"300 S MAIN ST, KENNEBEC",polling_place
+SD,Lyman,PRESHO,Precinct-12,#12 PRESHO METHODIST CHURCH,"100 W WILLOW AVE, PRESHO",polling_place
+SD,Lyman,VIVIAN,Precinct-13,#13 VIVIAN FIRE HALL,"738 MAIN AVE, VIVIAN",polling_place
+SD,Marshall,Britton,Precinct-A1,Fun After Fifty,"615 Main St, Britton",polling_place
+SD,Marshall,Britton,Precinct-A2,County Community Building,"909 S Main St, Britton",polling_place
+SD,Marshall,Britton,Precinct-A3,County Community Building,"909 S Main St, Britton",polling_place
+SD,Marshall,Langford,Precinct-A4,Langford City Hall,"Main St, Langford",polling_place
+SD,Marshall,Veblen,Precinct-A5,Veblen City Hall,"115 N Flick St, Veblen",polling_place
+SD,Marshall,Lake City,Precinct-A6,Lake City Community Center,"106 W Roy Lake Ave, Lake City",polling_place
+SD,Marshall,Eden,Precinct-A7,Eden Community Center,"302 Broadway Center, Eden",polling_place
+SD,Marshall,Britton,Precinct-A8,Norstar Federal Credit UnionMeeting Room,"526 8th St, Britton",polling_place
+SD,Marshall,Britton,Precinct-A9,North Marshall Fire Hall,"605 Vander Horck Ave, Britton",polling_place
+SD,McCook,Spencer,Precinct-02,Spencer Community Center,"320 Main St, Spencer",polling_place
+SD,McCook,Canistota,Precinct-03,Canistota Legion Hall,"West Main St, Canistota",polling_place
+SD,McCook,Bridgewater,Precinct-04,Bridgewater Fire Hall,"North Main St, Bridgewater",polling_place
+SD,McCook,Salem,Precinct-05,Salem Nat'l Guard Armory,"740 N Peck St, Salem",polling_place
+SD,McCook,Salem,Precinct-06,Salem Nat'l Guard Armory,"740 N Peck St, Salem",polling_place
+SD,McPherson,Leola,Precinct-1,McPherson County Courthouse,"706 Main Street, Leola",polling_place
+SD,McPherson,Leola,Precinct-2,McPherson County Courthouse,"706 Main Street, Leola",polling_place
+SD,McPherson,Long Lake,Precinct-3,Long Lake Fire Hall,"101 Bacon Ave., Long Lake",polling_place
+SD,McPherson,Eureka,Precinct-4,Eureka Fire Hall,"518 F Ave., Eureka",polling_place
+SD,McPherson,Eureka,Precinct-5,Eureka Fire Hall,"518 F Ave., Eureka",polling_place
+SD,McPherson,Eureka,Precinct-6,Eureka Fire Hall,"518 F Ave., Eureka",polling_place
+SD,Meade,Sturgis,ALKALI #6A,Alkali Community Hall,"13921 Alkali Rd., Sturgis",polling_place
+SD,Meade,Box Elder,BASE #23,Box Elder Event Center,"420 Villa Dr., Box Elder",polling_place
+SD,Meade,Sturgis,BEAR BUTTE #9,Sturgis Community Center,"1401 Lazelle Street, Sturgis",polling_place
+SD,Meade,Black Hawk,BLACK HAWK #14,Black Hawk Fire Department,"6010 Peaceful Pines Rd., Black Hawk",polling_place
+SD,Meade,Black Hawk,CENTRAL BLACK HAWK #19,Black Hawk Fire Department,"6010 Peaceful Pines Rd., Black Hawk",polling_place
+SD,Meade,Sturgis,CENTRAL STURGIS #3,Sturgis Community Center,"1401 Lazelle Street, Sturgis",polling_place
+SD,Meade,Union Center,CHALK BUTTE #27,Central Meade Co. CommunityCenter,"19617 Ball Field Rd., Union Center",polling_place
+SD,Meade,Piedmont,EAST PIEDMONT #12,Piedmont Community Gym,"16159 Second St., Piedmont",polling_place
+SD,Meade,Sturgis,EAST STURGIS #1,Sturgis Community Center,"1401 Lazelle Street, Sturgis",polling_place
+SD,Meade,Box Elder,ELK VALE #21,Box Elder Event Center,"420 Villa Dr., Box Elder",polling_place
+SD,Meade,Elm Springs,ELM SPRINGS #18,Elm Springs Fire Department,"17674 Dalzell Rd., Elm Springs",polling_place
+SD,Meade,Union Center,FAIRPOINT #29,Central Meade Co. CommunityCenter,"19617 Ball Field Rd., Union Center",polling_place
+SD,Meade,Faith,FAITH #31,Faith Community Center,"204 N. Main St., Faith",polling_place
+SD,Meade,Sturgis,HARMONY #8,Sturgis Community Center,"1401 Lazelle Street, Sturgis",polling_place
+SD,Meade,Hereford,HEREFORD #20,Hereford Hall,"15911 Cross S Rd., Hereford",polling_place
+SD,Meade,Marcus,MARCUS #41,Marcus Church,"18949 Old Marcus Rd., Marcus",polling_place
+SD,Meade,Sturgis,NORTHEAST STURGIS #1A,Sturgis Community Center,"1401 Lazelle Street, Sturgis",polling_place
+SD,Meade,Piedmont,PIEDMONT #11,Piedmont Community Gym,"16159 Second St., Piedmont",polling_place
+SD,Meade,Opal,PINE #33,Opal Church,"17391 Opal Rd., Opal",polling_place
+SD,Meade,Red Owl,RED OWL #30,RNA Hall,"18649 Red Owl Rd., Red Owl",polling_place
+SD,Meade,Black Hawk,RURAL BLACK HAWK #15,Black Hawk Fire Department,"6010 Peaceful Pines Rd., Black Hawk",polling_place
+SD,Meade,Sturgis,RURAL STURGIS #7,Sturgis Community Center,"1401 Lazelle Street, Sturgis",polling_place
+SD,Meade,Sturgis,SOUTH STURGIS #2A,Sturgis Community Center,"1401 Lazelle Street, Sturgis",polling_place
+SD,Meade,Piedmont,SOUTHEAST PIEDMONT #13,Piedmont Community Gym,"16159 Second St., Piedmont",polling_place
+SD,Meade,Sturgis,SOUTHEAST STURGIS #2,Sturgis Community Center,"1401 Lazelle Street, Sturgis",polling_place
+SD,Meade,Sturgis,SOUTHWEST STURGIS #4A,Sturgis Community Center,"1401 Lazelle Street, Sturgis",polling_place
+SD,Meade,Sturgis,STURGIS #5A,Sturgis Community Center,"1401 Lazelle Street, Sturgis",polling_place
+SD,Meade,Faith,SULPHUR #35,Prairie Home Church,"17010 US Hwy 212, Faith",polling_place
+SD,Meade,Summerset,SUMMERSET #10,Summerset City Hall,"7055 Leisure Lane, Summerset",polling_place
+SD,Meade,Sturgis,TILFORD #6,Sturgis Community Center,"1401 Lazelle Street, Sturgis",polling_place
+SD,Meade,Plainview,UNION #40,Plainview Hall,"US Highway 34, Plainview",polling_place
+SD,Meade,New Underwood,VIEWFIELD #17,New Underwood Community Center,"500 S. ""A"" Avenue, New Underwood",polling_place
+SD,Meade,Black Hawk,WEST BLACK HAWK #16,Black Hawk Fire Department,"6010 Peaceful Pines Rd., Black Hawk",polling_place
+SD,Meade,Box Elder,WEST ELK VALE #24,Box Elder Event Center,"420 Villa Dr., Box Elder",polling_place
+SD,Meade,Sturgis,WEST STURGIS #4,Sturgis Community Center,"1401 Lazelle Street, Sturgis",polling_place
+SD,Meade,White Owl,WHITE OWL #25,White Owl Community Hall,"Main Street, White Owl",polling_place
+SD,Mellette,White River,Precinct-2,Emergency Services Building,"415 North Roosevelt, White River",polling_place
+SD,Mellette,Wood,Precinct-3,Wood Community Hall,"130 South Dakota Street, Wood",polling_place
+SD,Mellette,White River,Precinct-5,Emergency Services Building,"415 North Roosevelt, White River",polling_place
+SD,Mellette,Norris,Precinct-6,Norris Township Hall,"27160 SD HWY 63, Norris",polling_place
+SD,Miner,Howard,Precinct-1,Miner County 4-H Exhibit Hall,"203 W Wilson St, Howard",polling_place
+SD,Miner,Howard,Precinct-2,Miner County 4-H Exhibit Hall,"203 W Wilson St, Howard",polling_place
+SD,Miner,Howard,Precinct-3,Miner County 4-H Exhibit Hall,"203 W Wilson St, Howard",polling_place
+SD,Miner,Canova,Precinct-4,Canova Community Center,"Main Street, Canova",polling_place
+SD,Miner,Fedora,Precinct-5,Fedora Fire Hall,"23302 421st Avenue, Fedora",polling_place
+SD,Miner,Howard,Precinct-6,Miner County 4-H Exhibit Hall,"203 W Wilson St, Howard",polling_place
+SD,Miner,Carthage,Precinct-8,Carthage Fire Hall,"107 Buell Street, Carthage",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0103,O'Gorman High School,"3201 S Kiwanis Ave, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0104,Center for Active Generations,"2300 W 46th St, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0105,Center for Active Generations,"2300 W 46th St, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0106,Sunnycrest United Methodist Church,"4801 W 41st St, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0109,Peace Lutheran Church,"5509 W 41st St, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0110,Sioux Falls First Church,"6300 W 41st St, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0117,RF Pettigrew Elementary School,"7900 W 53rd St, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0117,Sanford Wellness Center,"8701 W 32nd St, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0201,VFW Club,"3601 S Minnesota Ave, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0202,Ronning Branch Library,"3100 E 49th St, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0203,Morningside Community Center,"2400 S Bahnson Ave, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0206,Westminster Presbyterian,"3801 E 26th St, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0207,Lord of Life Lutheran Church,"2600 S Sycamore Ave, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0208,Avera Prince of Peace RetirementCommunity,"4513 S Prince of Peace Pl, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0209,Gloria Dei Lutheran Church,"5500 East 57th St, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0214,Eastside Baptist Church,"6101 E 49th St, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0305,American Legion,"1701 W Legion Dr, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0306,American Legion,"1701 W Legion Dr, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0309,Girl Scouts Dakota Horizons,"1101 S Marion Rd, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0310,Memorial Middle School,"1401 S Sertoma Ave, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0311,Church at the Gate,"6820 W 26th St, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0312,MariCar Community Center,"400 N Valley View Rd, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0313,Kuehn Community Center,"2801 S Valley View Rd, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0314,Career Technical Education,"4700 W Career Cir, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0315,St Michael's Catholic Church,"1600 S Marion Rd, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0316,Memorial Middle School,"1401 S Sertoma Ave, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0317,Prairie West Library,"7630 W 26th St, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0401,Sioux Falls Main Library,"200 N Dakota Ave, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0402,Emmanuel Baptist Church,"1600 E 12th St, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0403,Terry Redlin School,"1721 E Austin St, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0404,Wesley United Methodist Church,"1700 E 6th St, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0405,Fire Station # 7,"1100 E. Benson Rd., Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0406,Faith Lutheran Church,"601 N Cliff Ave, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0407,Kenny Anderson Community Center,"3701 E 3rd St, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0408,Kenny Anderson Community Center,"3701 E 3rd St, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0409,Grace Lutheran Church,"3300 E 18th St, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0410,St Lambert's Catholic Church,"1000 S Bahnson Ave, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0411,Wild Flower Presbyterian Church,"4800 E 6th St, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0412,Hilltop United Methodist Church,"1312 S Bahnson Ave, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0413,First Christian Reformed Church,"2901 E 26th St, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0414,Sioux Falls Main Library,"200 N Dakota Ave, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0501,First Lutheran Church,"327 S Dakota Ave, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0502,First Lutheran Church,"327 S Dakota Ave, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0503,Zion Lutheran Church,"1400 S Duluth Ave, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0504,DakotaAbilities,"1116 S 4th Ave, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0506,Hope Lutheran,"1700 S Cliff Ave, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0507,All Souls Church,"2222 S Cliff Ave, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0508,Instructional Planning Center,"201 E 38th St, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0509,Our Savior's Lutheran Church,"909 W 33rd St, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0510,First Presbyterian Church,"2300 S West Ave, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0511,VFW Club,"3601 S Minnesota Ave, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0512,Instructional Planning Center,"201 E 38th St, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0513,Instructional Planning Center,"201 E 38th St, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0514,Christ the King Church,"1501 W 26th St, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0514,USF Cleveland ProfessionalDevelopment Center,"1010 W 26th St, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0518,Faith Family Church,"127 N Spring Ave, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0519,St Mark's Lutheran Church,"2001 S Elmwood Ave, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0520,Oyate Community Center,"2421 W 15th St, Sioux Falls",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-0521,Trinity Baptist Church,"2400 W 18th St, Sioux Falls",polling_place
+SD,Minnehaha,Valley Springs,Precinct-VP01,Valley Springs American Legion Club,"615 Broadway, Valley Springs",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-VP02,Split Rock Fire Station,"7201 E Hwy 42, Sioux Falls",polling_place
+SD,Minnehaha,Brandon,Precinct-VP03,Brandon Municipal Golf Course,"2100 E Aspen Blvd, Brandon",polling_place
+SD,Minnehaha,Renner,Precinct-VP04,Mapleton Township Hall,"47419 258th St, Renner",polling_place
+SD,Minnehaha,Brandon,Precinct-VP05,Brandon City Hall - CouncilChambers,"308 S Main Ave, Brandon",polling_place
+SD,Minnehaha,Sioux Falls,Precinct-VP06,MariCar Community Center,"400 N Valley View Rd, Sioux Falls",polling_place
+SD,Minnehaha,Hartford,Precinct-VP07,Hartford City Hall,"125 N Main Ave, Hartford",polling_place
+SD,Minnehaha,Humboldt,Precinct-VP08,Humboldt Community Center,"118 S. Main St, Humboldt",polling_place
+SD,Minnehaha,Baltic,Precinct-VP09,Baltic Elementary Gymnasium,"500 3rd St, Baltic",polling_place
+SD,Minnehaha,Garretson,Precinct-VP10,Garretson Senior Citizens Center,"528 Main Ave, Garretson",polling_place
+SD,Minnehaha,Dell Rapids,Precinct-VP11,Lutheran Church of Dell Rapids,"701 Orleans Ave, Dell Rapids",polling_place
+SD,Minnehaha,Dell Rapids,Precinct-VP12,Heesch Farm,"24883 481st Ave, Dell Rapids",polling_place
+SD,Minnehaha,Colton,Precinct-VP13,Taopi Community Hall,"102 E 3rd St, Colton",polling_place
+SD,Minnehaha,Brandon,Precinct-VP15,Brandon Fire Station,"401 Sioux Blvd, Brandon",polling_place
+SD,Minnehaha,Crooks,Precinct-VP16,Crooks Community Center,"701 S West Ave, Crooks",polling_place
+SD,Minnehaha,Hartford,Precinct-VP17,Wall Lake Township Hall,"26452 463rd Ave, Hartford",polling_place
+SD,Minnehaha,Dell Rapids,Precinct-VP21,Lutheran Church of Dell Rapids,"701 Orleans Ave, Dell Rapids",polling_place
+SD,Moody,Flandreau,Precinct-1,William J. Janklow CommunityCenter,"802 W. Community Drive, Flandreau",polling_place
+SD,Moody,Flandreau,Precinct-2,Moody County Courthouse-1st Floor,"101 E Pipestone Ave, Flandreau",polling_place
+SD,Moody,Trent,Precinct-3,Trent Gym,"403 E 3rd St, Trent",polling_place
+SD,Moody,Flandreau,Precinct-34,William J. Janklow CommunityCenter,"802 W. Community Drive, Flandreau",polling_place
+SD,Moody,Colman,Precinct-5,Colman Community Center,"126 N Main, Colman",polling_place
+SD,Oglala Lakota,Batesland,Batesland,Oglala Lakota County Schools,"School St, Batesland",polling_place
+SD,Oglala Lakota,Red Shirt Village,Cuny Table,Red Shirt School,"BIA HWY 41, Red Shirt Village",polling_place
+SD,Oglala Lakota,Kyle,Kyle,Cap Office Kyle,"BIA HWY 2, Kyle",polling_place
+SD,Oglala Lakota,Manderson,Manderson,Cap Office Manderson,"BIA HWY 33, Manderson",polling_place
+SD,Oglala Lakota,Oglala,Oglala,Brother Renee Hall,"HWY 18, Oglala",polling_place
+SD,Oglala Lakota,Pine Ridge,Pine Ridge 1,Billy Mills Hall,"HWY 18, Pine Ridge",polling_place
+SD,Oglala Lakota,Pine Ridge,Pine Ridge 3,Billy Mills Hall,"HWY 18, Pine Ridge",polling_place
+SD,Oglala Lakota,Porcupine,Porcupine,Porcupine School,"101 Main St., Porcupine",polling_place
+SD,Oglala Lakota,Rockyford,Rockyford,Singing Horse Trading Post,"BIA HWY 33, Rockyford",polling_place
+SD,Pennington,Rapid City,Precinct 1-1,Parkview Church (1-1),"333 Sandra Ln, Rapid City",polling_place
+SD,Pennington,Rapid City,Precinct 1-2,St Paul's Lutheran Church (1-2),"835 E Fairmont Blvd, Rapid City",polling_place
+SD,Pennington,Rapid City,Precinct 1-3,Grandview School (1-3),"3301 Grandview Dr, Rapid City",polling_place
+SD,Pennington,Rapid City,Precinct 1-4,West River Electric Assn (1-4),"3250 E Highway 44, Rapid City",polling_place
+SD,Pennington,Rapid City,Precinct 2-1,Rapid City Public Library (2-1/2-5),"610 Quincy St, Rapid City",polling_place
+SD,Pennington,Rapid City,Precinct 2-2,Bethel Assembly Church (2-2/4-2),"1202 N Maple Ave, Rapid City",polling_place
+SD,Pennington,Rapid City,Precinct 2-3,Walter Taylor 4H Bldg-Fairgrounds (23),"601 E Centre St, Rapid City",polling_place
+SD,Pennington,Rapid City,Precinct 2-4,South Middle School (2-4),"2 Indiana St, Rapid City",polling_place
+SD,Pennington,Rapid City,Precinct 2-5,Rapid City Public Library (2-1/2-5),"610 Quincy St, Rapid City",polling_place
+SD,Pennington,Rapid City,Precinct 3-1,Jackson Heights Highrise (3-1),"1805 W Fulton, Rapid City",polling_place
+SD,Pennington,Rapid City,Precinct 3-2,Calvary Lutheran Church (3-2/3-3),"5311 Sheridan Lake Rd, Rapid City",polling_place
+SD,Pennington,Rapid City,Precinct 3-3,Calvary Lutheran Church (3-2/3-3),"5311 Sheridan Lake Rd, Rapid City",polling_place
+SD,Pennington,Rapid City,Precinct 3-4,Southwest Middle School (3-4),"4501 Park Dr, Rapid City",polling_place
+SD,Pennington,Rapid City,Precinct 3-5,Whispering Pines Fire District (3-5/WP),"7980 Clarkson Rd, Rapid City",polling_place
+SD,Pennington,Rapid City,Precinct 4-2,Bethel Assembly Church (2-2/4-2),"1202 N Maple Ave, Rapid City",polling_place
+SD,Pennington,Rapid City,Precinct 4-3,Atonement Lutheran Church (4-3/4-5),"602 Auburn Dr, Rapid City",polling_place
+SD,Pennington,Rapid City,Precinct 4-4,General Beadle School (4-1/4-4/5-1),"10 E Van Buren St, Rapid City",polling_place
+SD,Pennington,Rapid City,Precinct 4-5,Atonement Lutheran Church (4-3/4-5),"602 Auburn Dr, Rapid City",polling_place
+SD,Pennington,Rapid City,Precinct 5-1,General Beadle School (4-1/4-4/5-1),"10 E Van Buren St, Rapid City",polling_place
+SD,Pennington,Rapid City,Precinct 5-2,Canyon Lake Senior Center (5-2/CL),"2900 Canyon Lake Dr, Rapid City",polling_place
+SD,Pennington,Rapid City,Precinct 5-3,Pinedale School (5-3/5-5),"4901 W Chicago, Rapid City",polling_place
+SD,Pennington,Rapid City,Precinct 5-4,West Park Apartments (5-4),"1018 11th St, Rapid City",polling_place
+SD,Pennington,Rapid City,Precinct 5-5,Pinedale School (5-3/5-5),"4901 W Chicago, Rapid City",polling_place
+SD,Pennington,Box Elder,Precinct AW,Box Elder Event Center(BE/EL/NH/AW),"420 Villa Dr, Box Elder",polling_place
+SD,Pennington,Box Elder,Precinct BE,Box Elder Event Center(BE/EL/NH/AW),"420 Villa Dr, Box Elder",polling_place
+SD,Pennington,Caputa,Precinct CA,Caputa Community Center (CA),"23501 Main St, Caputa",polling_place
+SD,Pennington,Rapid City,Precinct CL,Canyon Lake Senior Center (5-2/CL),"2900 Canyon Lake Dr, Rapid City",polling_place
+SD,Pennington,Wall,Precinct CR,Wall Community Center (WL/CR),"501 Main St, Wall",polling_place
+SD,Pennington,Rapid City,Precinct DT,Doty Fire District (DT),"8770 Nemo Rd, Rapid City",polling_place
+SD,Pennington,Box Elder,Precinct EL,Box Elder Event Center(BE/EL/NH/AW),"420 Villa Dr, Box Elder",polling_place
+SD,Pennington,Hill City,Precinct HC,Hill City Schools Gins Gym (HC),"440 Main St, Hill City",polling_place
+SD,Pennington,Rapid City,Precinct HR,Rapid City Christian School at HartRanch (HR),"23757 Arena Dr, Rapid City",polling_place
+SD,Pennington,Rapid City,Precinct JS,Rimrock Community Center atJohnson Siding (JS),"12270 W Highway 44, Rapid City",polling_place
+SD,Pennington,Box Elder,Precinct NH,Box Elder Event Center(BE/EL/NH/AW),"420 Villa Dr, Box Elder",polling_place
+SD,Pennington,New Underwood,Precinct NU,New Underwood Community Center(NU),"500 S A Ave, New Underwood",polling_place
+SD,Pennington,Quinn,Precinct QU,Quinn Community Center (QU),"37 Main St, Quinn",polling_place
+SD,Pennington,Rapid City,Precinct RV,Rapid Valley School (RV),"2601 Covington St, Rapid City",polling_place
+SD,Pennington,Rapid City,Precinct VF,Rapid Valley Fire District (VF),"3760 Reservoir Rd, Rapid City",polling_place
+SD,Pennington,Rapid City,Precinct VV,Valley View School (VV),"4840 Homestead St, Rapid City",polling_place
+SD,Pennington,Wall,Precinct WL,Wall Community Center (WL/CR),"501 Main St, Wall",polling_place
+SD,Pennington,Rapid City,Precinct WP,Whispering Pines Fire District (3-5/WP),"7980 Clarkson Rd, Rapid City",polling_place
+SD,Pennington,Wasta,Precinct WS,Wasta Community Center (WS),"38 A Street, Wasta",polling_place
+SD,Perkins,Lemmon,Precinct-01,Beeler Community Building,"203 Main Ave, Lemmon",polling_place
+SD,Perkins,Lodgepole,Precinct-02,Lodgepole Hall,"11006 SD Hwy 75, Lodgepole",polling_place
+SD,Perkins,Lemmon,Precinct-03,Beeler Community Building,"203 Main Ave, Lemmon",polling_place
+SD,Perkins,Lemmon,Precinct-04,Beeler Community Building,"203 Main Ave, Lemmon",polling_place
+SD,Perkins,Lemmon,Precinct-05,Beeler Community Building,"203 Main Ave, Lemmon",polling_place
+SD,Perkins,Meadow,Precinct-06,Indian Creek Church,"13506 SD Hwy 73, Meadow",polling_place
+SD,Perkins,Prairie City,Precinct-07,Beckman Memorial Church,"303 1st St E, Prairie City",polling_place
+SD,Perkins,Faith,Precinct-08,Faith Community Center,"204 N Main St, Faith",polling_place
+SD,Perkins,Reva,Precinct-09,Zeona Church,"15263 Zeona Rd, Reva",polling_place
+SD,Perkins,Bison,Precinct-12,Bentley Memorial Building,"400 West Carr Street, Bison",polling_place
+SD,Potter,Gettysburg,Precinct-23,Gettysburg Legion Annex,"112 S Exene, Gettysburg",vote_center
+SD,Potter,Hoven,Precinct-23,Hoven American Legion,"102 Main St, Hoven",vote_center
+SD,Roberts,Claire City,Precinct-01,Claire City Community Center,"255 Feeney Ave, Claire City",polling_place
+SD,Roberts,Corona,Precinct-02,Corona Community Center,"104 Main St, Corona",polling_place
+SD,Roberts,New Effington,Precinct-03,New Effington Community Center,"303 Main St, New Effington",polling_place
+SD,Roberts,Ortley,Precinct-04,Ortley Senior Citizens Center,"106 N Main St, Ortley",polling_place
+SD,Roberts,Peever,Precinct-05,Peever Lutheran Church,"113 3rd St, Peever",polling_place
+SD,Roberts,Rosholt,Precinct-06,Rosholt Community Center,"19 East Main St, Rosholt",polling_place
+SD,Roberts,Rosholt,Precinct-07,Rosholt Community Center,"19 East Main St, Rosholt",polling_place
+SD,Roberts,Summit,Precinct-08,Summit Fire Hall,"Main St, Summit",polling_place
+SD,Roberts,Wilmot,Precinct-09,Wilmot Community Center,"516 Main St, Wilmot",polling_place
+SD,Roberts,Sisseton,Precinct-10,Roberts County 4-H Building,"11905 BIA Hwy 700, Sisseton",polling_place
+SD,Roberts,Sisseton,Precinct-11,St. Peters Hall,"525 E Chestnut St, Sisseton",polling_place
+SD,Roberts,Sisseton,Precinct-12,St. Peters Hall,"525 E Chestnut St, Sisseton",polling_place
+SD,Roberts,Sisseton,Precinct-13,St. Peters Hall,"525 E Chestnut St, Sisseton",polling_place
+SD,Roberts,Sisseton,Precinct-14,St. Peters Hall,"525 E Chestnut St, Sisseton",polling_place
+SD,Sanborn,Artesian,Precinct-1,Artesian Community Center,"209 S 2nd St, Artesian",polling_place
+SD,Sanborn,Letcher,Precinct-2,Letcher Community Center,"104 E Main St, Letcher",polling_place
+SD,Sanborn,Woonsocket,Precinct-4,Woonsocket Community Center,"102 S Dumont, Woonsocket",polling_place
+SD,Sanborn,Woonsocket,Precinct-5,Woonsocket Community Center,"102 S Dumont, Woonsocket",polling_place
+SD,Spink,Doland,Precinct-01,Doland Senior Citizen Center,"215 Humphrey Dr N, Doland",polling_place
+SD,Spink,Tulare,Precinct-03,Tulare Community Hall,"112 Main St, Tulare",polling_place
+SD,Spink,Redfield,Precinct-04,Redfield National Guard Armory,"309 W 3rd St, Redfield",polling_place
+SD,Spink,Frankfort,Precinct-05,Frankfort Community Center,"602 Jefferson Ave, Frankfort",polling_place
+SD,Spink,Ashton,Precinct-06,Ashton Community Hall,"102 E Main St, Ashton",polling_place
+SD,Spink,Mellette,Precinct-07,Northwestern United MethodistChurch,"232 4th Ave, Mellette",polling_place
+SD,Spink,Conde,Precinct-08,Conde Community Center,"125 Broadway St SW, Conde",polling_place
+SD,Spink,Redfield,Precinct-09,Redfield National Guard Armory,"309 W 3rd St, Redfield",polling_place
+SD,Spink,Redfield,Precinct-10,Redfield National Guard Armory,"309 W 3rd St, Redfield",polling_place
+SD,Stanley,Fort Pierre,Precinct-02,McQuistion Farmstead,"28082 SD Highway 1806, Fort Pierre",polling_place
+SD,Stanley,Hayes,Precinct-03,Hayes Hall,"25426 US Highway 14/34, Hayes",polling_place
+SD,Sully,Agar,Precinct-1,Agar Fire Hall,"120 Ash St, Agar",vote_center
+SD,Sully,Pierre,Precinct-1,Bill Floyd Shop,"28342 188th St, Pierre",vote_center
+SD,Sully,Onida,Precinct-1,Phoenix Center,"117 S Main Street, Onida",vote_center
+SD,Todd,Spring Creek,Bordeaux,Spring Creek School,"233 Yellow Cloud Rd, Spring Creek",polling_place
+SD,Todd,Valentine,Jeanette,Littleburg School,"28406 301st St, Valentine",polling_place
+SD,Todd,Crookston,Lakeview,Lakeview School,"26886 269th Ave, Crookston",polling_place
+SD,Todd,Mission,Mission-N. Antelope,Father Paul Hall,"151 N Jefferson St, Mission",polling_place
+SD,Todd,O'Kreek,OKreek,O'Kreek Community Center,"NULL, O'Kreek",polling_place
+SD,Todd,Parmelee,Parmelee,St. Agnes Hall,"104 N First St, Parmelee",polling_place
+SD,Todd,Rosebud,Rosebud,Clark Hall,"2314 E. 1st St, Rosebud",polling_place
+SD,Todd,Mission,S. Antelope,Father Paul Hall,"151 N Jefferson St, Mission",polling_place
+SD,Todd,St. Francis,Saint Francis,Victory Through Faith Church,"NULL, St. Francis",polling_place
+SD,Tripp,Winner,Clearfield Consolidated,Clearfield Hall,"29201 307th Ave, Winner",polling_place
+SD,Tripp,Colome,Colome Consolidated,Skatetown,"312 Main St., Colome",polling_place
+SD,Tripp,Ideal,Ideal Consolidated,First Presbyterian Church,"31204 266th St, Ideal",polling_place
+SD,Tripp,Colome,Lake Consolidated,Skatetown,"312 Main St., Colome",polling_place
+SD,Tripp,Winner,Lamro Consolidated,4-H Center,"815 West 12th St., Winner",polling_place
+SD,Tripp,Winner,Sully Consolidated,4-H Center,"815 West 12th St., Winner",polling_place
+SD,Tripp,Winner,WINNER Consolidated SE1ST,4-H Center,"815 West 12th St., Winner",polling_place
+SD,Tripp,Winner,WINNER Consolidated-E2ND,4-H Center,"815 West 12th St., Winner",polling_place
+SD,Tripp,Winner,WINNER Consolidated-E3RD,4-H Center,"815 West 12th St., Winner",polling_place
+SD,Tripp,Winner,WINNER Consolidated-W2ND,4-H Center,"815 West 12th St., Winner",polling_place
+SD,Tripp,Winner,WINNER Consolidated-W3RD,4-H Center,"815 West 12th St., Winner",polling_place
+SD,Tripp,Witten,Witten Consolidated,Witten Hall,"117 East 1st St, Witten",polling_place
+SD,Turner,Marion,Precinct-01,Marion Legion Hall,"212 N Broadway, Marion",polling_place
+SD,Turner,Parker,Precinct-02,Turner County CourthouseCommunity Room,"400 S Main, Parker",polling_place
+SD,Turner,Chancellor,Precinct-03,Chancellor City Hall,"240 S 2 Ave, Chancellor",polling_place
+SD,Turner,Viborg,Precinct-04,Spring Valley Lutheran Church,"44707 289th St, Viborg",polling_place
+SD,Turner,Hurley,Precinct-05,Hurley Fire Hall,"311 Main, Hurley",polling_place
+SD,Turner,Viborg,Precinct-06,Viborg City Hall,"110 N Main, Viborg",polling_place
+SD,Turner,Irene,Precinct-07,Irene Town Community Building,"120 S Clark, Irene",polling_place
+SD,Turner,Centerville,Precinct-08,Good Shepherd Pascale Hall,"411 Wisconsin, Centerville",polling_place
+SD,Union,Alcester,Precinct-01,Alcester City Hall,"106 W. 2nd St., Alcester",polling_place
+SD,Union,Alcester,Precinct-02,Alcester City Hall,"106 W. 2nd St., Alcester",polling_place
+SD,Union,Elk Point,Precinct-03,Union County Courthouse,"209 East Main, Elk Point",polling_place
+SD,Union,Alcester,Precinct-04,Big Springs Baptist Church,"30705 480th Ave., Alcester",polling_place
+SD,Union,Beresford,Precinct-05,Beresford Public Library,"115 S. 3rd St., Beresford",polling_place
+SD,Union,Beresford,Precinct-06,Beresford Public Library,"115 S. 3rd St., Beresford",polling_place
+SD,Union,Jefferson,Precinct-07,St. Peter's Community Center,"400 Main, Jefferson",polling_place
+SD,Union,Elk Point,Precinct-08,Union County Courthouse,"209 East Main, Elk Point",polling_place
+SD,Union,North Sioux City,Precinct-10,North Sioux City Community Center-Fire Hall,"200 Sodrac Dr., North Sioux City",polling_place
+SD,Union,North Sioux City,Precinct-11,North Sioux City Community Center-Fire Hall,"200 Sodrac Dr., North Sioux City",polling_place
+SD,Union,Dakota Dunes,Precinct-12,Saint Teresa of Calcutta Church,"995 Sioux Point Road, Dakota Dunes",polling_place
+SD,Union,Dakota Dunes,Precinct-13,Holy Cross Lutheran Church,"149 Bison Trail, Dakota Dunes",polling_place
+SD,Walworth,Akaska,Precinct-01,Akaska Community Center,"109 Main Street, Akaska",polling_place
+SD,Walworth,Java,Precinct-02,Java Community Center,"4116 Main Street, Java",polling_place
+SD,Walworth,Selby,Precinct-03,Selby Senior Citizens Center,"3419 Main Street, Selby",polling_place
+SD,Walworth,Mobridge,Precinct-04,Scherr Howe Arena,"212 Main Street, Mobridge",polling_place
+SD,Walworth,Mobridge,Precinct-05,Scherr Howe Arena,"212 Main Street, Mobridge",polling_place
+SD,Walworth,Mobridge,Precinct-06,Scherr Howe Arena,"212 Main Street, Mobridge",polling_place
+SD,Walworth,Mobridge,Precinct-07,Scherr Howe Arena,"212 Main Street, Mobridge",polling_place
+SD,Walworth,Hoven,Precinct-08,Hoven Airport,"14727 319th Avenue, Hoven",polling_place
+SD,Walworth,Glenham,Precinct-09,Glenham Fire Hall,"121 Main Street, Glenham",polling_place
+SD,Walworth,Mobridge,Precinct-10,Scherr Howe Arena,"212 Main Street, Mobridge",polling_place
+SD,Yankton,Gayville,Precinct-01,Gayville Community Center,"502 Washington St., Gayville",vote_center
+SD,Yankton,Yankton,Precinct-01,JoDean's Steakhouse and Lounge,"2809 Broadway Avenue, Yankton",vote_center
+SD,Yankton,Lesterville,Precinct-01,Lesterville Fire Hall,"212 Main Ave, Lesterville",vote_center
+SD,Yankton,Yankton,Precinct-01,Lewis and Clark Rec Area,"43349 SD Hwy 52, Yankton",vote_center
+SD,Yankton,Irene,Precinct-01,Mayfield Store,"44398 SD Hwy 46, Irene",vote_center
+SD,Yankton,Yankton,Precinct-01,National Field Archery Assoc.,"800 Archery Lane, Yankton",vote_center
+SD,Yankton,Yankton,Precinct-01,Yankton City Hall,"416 Walnut Street, Yankton",vote_center
+SD,Ziebach,Bridger,Precinct-1 Bridger,Bridger Community Center,"Bridger Community, Bridger",polling_place
+SD,Ziebach,Cherry  Creek,Precinct-2 Cherry Creek,Cherry Creek Nutrition Center,"Cherry Creek Community, Cherry  Creek",polling_place
+SD,Ziebach,Glad Valley,Precinct-4 Glad Valley,Glad Valley Fire Hall,"Hwy. 20, Glad Valley",polling_place
+SD,Ziebach,Dupree,Precinct-5 North Dupree,Harry's Hall,"Main Street, Dupree",polling_place
+SD,Ziebach,Dupree,Precinct-6 Redelm,Harry's Hall,"Main Street, Dupree",polling_place
+SD,Ziebach,Red Scaffold,Precinct-7 Red Scaffold,Red Scaffold Gym,"Red Scaffold Community, Red Scaffold",polling_place
+SD,Ziebach,Dupree,Precinct-8 South Dupree,Harry's Hall,"Main Street, Dupree",polling_place
