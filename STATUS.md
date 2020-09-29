@@ -4,7 +4,7 @@ Here is the current status of data acquisition/cleaning/geocoding/release of dat
 
 |State         |2012 - General |2014 – General |2016 – General |2018 – General |
 |--------------|---------------|---------------|---------------|---------------|
-|Alabama       |Awaiting Review|Released       |Released       |Released       |
+|Alabama       |Awaiting Review|Awaiting Review|Awaiting Review|Awaiting Review|
 |Alaska        |Released       |Released       |Released       |Released       |
 |Arizona       |Awaiting Review|Awaiting Review|Awaiting Review|Awaiting Review|
 |Arkansas      |Released       |Released       |Missing        |Released       |
