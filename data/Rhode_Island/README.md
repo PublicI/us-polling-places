@@ -1,4 +1,4 @@
-## Pennsylvania
+## Rhode Island
 
 ### Coverage
 
@@ -9,4 +9,4 @@
 
 ### Source
 
-State-wide polling place data for 2012-2018 general elections were acquired from the Pennsylvania Secretary of State through a public records request.
+State-wide polling place data for 2012-2018 general elections were acquired from the Rhode Island Secretary of State through a public records request.
