@@ -14,3 +14,5 @@ State-wide polling place data for 2012-2014 general elections was provided by th
 ### Notes
 
 The system used by the Virgnia board of elections does not reliably track historical precinct names. Depending on how the county clerks recorded precinct changes ("editing" vs "deleting") - the precinct name column for 2016 might reflect the precinct as it was named in 2018. This only affects a small percent of precincts which say a change in their boundary or name during the study period. We are working on updating this dataset with the correct precincts substituted for the historical data.
+
+This issue ONLY affects precinct names. The polling locations themselves seem to be accurately reflected.
