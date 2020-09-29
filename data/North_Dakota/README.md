@@ -2,7 +2,7 @@
 
 ### Coverage
 
-- 2012 General [not yet released]
+- 2012 General
 - 2014 General
 - 2016 General
 - 2018 General
