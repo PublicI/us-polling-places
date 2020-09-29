@@ -1,0 +1,787 @@
+state,election_date,jurisdiction_type,jurisdiction,precinct_name,precinct_id,name,address,polling_place_type
+CT,2016-11-06,town,Andover,Andover Town Hall,001-00,Andover Town Hall,"17 School Road, Andover, CT 06232",polling_place
+CT,2016-11-06,town,Ansonia,Ward 1 Ansonia Armory,001-00,Ward 1 Ansonia Armory,"5 State Street, Ansonia, CT 06401",polling_place
+CT,2016-11-06,town,Ansonia,Ward 2 Ansonia Armory,002-01,Ward 2 Ansonia Armory,"5 State Street, Ansonia, CT 06401",polling_place
+CT,2016-11-06,town,Ansonia,Ward 3 Holy Rosary Church 01,003-01,Ward 3 Holy Rosary Church 01,"3 Father Salemi Drive, Ansonia, CT 06401",polling_place
+CT,2016-11-06,town,Ansonia,Ward 4 Ansonia Middle School Gym,004-00,Ward 4 Ansonia Middle School Gym,"115 Howard Avenue Gym, Ansonia, CT 06401",polling_place
+CT,2016-11-06,town,Ansonia,Ward 5 Ansonia Middle School Gym,005-00,Ward 5 Ansonia Middle School Gym,"115 Howard Avenue Gym, Ansonia, CT 06401",polling_place
+CT,2016-11-06,town,Ansonia,Ward 6 Prendergast School,006-00,Ward 6 Prendergast School,"59 Finney Street, Ansonia, CT 06401",polling_place
+CT,2016-11-06,town,Ansonia,Ward 7 Mead School,007-00,Ward 7 Mead School,"75 Ford Street, Ansonia, CT 06401",polling_place
+CT,2016-11-06,town,Ashford,Knowlton Memorial Hall,001-00,Knowlton Memorial Hall,"25 Pompey Hollow Road, Ashford, CT 06278",polling_place
+CT,2016-11-06,town,Avon,Avon High School - Gymnasium,001-00,Avon High School - Gymnasium,"510 West Avon Road, Avon, CT 06001",polling_place
+CT,2016-11-06,town,Avon,Firehouse Company #1,002-00,Firehouse Company #1,"25 Darling Drive, Avon, CT 06001",polling_place
+CT,2016-11-06,town,Avon,Roaring Brook School,003-00,Roaring Brook School,"30 Old Wheeler Lane, Avon, CT 06001",polling_place
+CT,2016-11-06,town,Barkhamsted,Barkhamsted Elementary School,001-00,Barkhamsted Elementary School,"65 Ripley Hill Road, Barkhamsted, CT 06063",polling_place
+CT,2016-11-06,town,Beacon Falls,Laurel Ledge School,001-00,Laurel Ledge School,"30 Highland Avenue, Beacon Falls, CT 06403",polling_place
+CT,2016-11-06,town,Berlin,American Legion,002-00,American Legion,"154 Porters Pass, Kensington, CT 06037",polling_place
+CT,2016-11-06,town,Berlin,Griswold School,005-00,Griswold School,"133 Heather Lane, Kensington, CT 06037",polling_place
+CT,2016-11-06,town,Berlin,Hubbard School,003-00,Hubbard School,"135 Grove Street, East Berlin, CT 06023",polling_place
+CT,2016-11-06,town,Berlin,Senior Center,004-00,Senior Center,"31 Colonial Drive, Kensington, CT 06037",polling_place
+CT,2016-11-06,town,Berlin,Willard School,001-00,Willard School,"1088 Norton Road, Berlin, CT 06037",polling_place
+CT,2016-11-06,town,Bethany,Town Hall,001-00,Town Hall,"40 Peck Road, Bethany, CT 06524",polling_place
+CT,2016-11-06,town,Bethel,Bethel Municipal Center 1,001-00,Bethel Municipal Center 1,"1 School Street, Bethel, CT 06801",polling_place
+CT,2016-11-06,town,Bethel,Bethel Municipal Center 4,004-00,Bethel Municipal Center 4,"1 School Street, Bethel, CT 06801",polling_place
+CT,2016-11-06,town,Bethel,Frank A. Berry School - 3,003-00,Frank A. Berry School - 3,"Whittlesey Drive, Bethel, CT 06801",polling_place
+CT,2016-11-06,town,Bethel,Frank A. Berry School - 5,005-00,Frank A. Berry School - 5,"Whittlesey Drive, Bethel, CT 06801",polling_place
+CT,2016-11-06,town,Bethel,Stony Hill Fire House -2,002-00,Stony Hill Fire House -2,"59 Stony Hill Road, Bethel, CT 06801",polling_place
+CT,2016-11-06,town,Bethlehem,Bethlehem Town Office Building,001-00,Bethlehem Town Office Building,"36 Main Street South, Bethlehem, CT 06751",polling_place
+CT,2016-11-06,town,Bloomfield,Bloomfield High School,002-00,Bloomfield High School,"Huckleberry Lane, Bloomfield, CT 06002",polling_place
+CT,2016-11-06,town,Bloomfield,Carmen Arace Middle School,003-00,Carmen Arace Middle School,"390 Park Avenue, Bloomfield, CT 06002",polling_place
+CT,2016-11-06,town,Bloomfield,Leisure Services Gym,001-00,Leisure Services Gym,"330 Park Avenue, Bloomfield, CT 06002",polling_place
+CT,2016-11-06,town,Bloomfield,Laurel Elementary School,005-00,Laurel Elementary School,"1 Filley Street, Bloomfield, CT 06002",polling_place
+CT,2016-11-06,town,Bloomfield,Laurel School,006-00,Laurel School,"1 Filley Street, Bloomfield, CT 06002",polling_place
+CT,2016-11-06,town,Bloomfield,Metacomet Elementary School,004-00,Metacomet Elementary School,"185 School Street, Bloomfield, CT 06002",polling_place
+CT,2016-11-06,town,Bolton,Town Hall,001-00,Town Hall,"222 Bolton Center Road, Bolton, CT 06043",polling_place
+CT,2016-11-06,town,Bozrah,Fields Memorial School,001-00,Fields Memorial School,"Bozrah Street Ext, Bozrah, CT 06334",polling_place
+CT,2016-11-06,town,Branford,Branford Fire Headquarters,004-00,Branford Fire Headquarters,"45 North Main Street, Branford, CT 06405",polling_place
+CT,2016-11-06,town,Branford,Community House,001-00,Community House,"46 Church Street, Branford, CT 06405",polling_place
+CT,2016-11-06,town,Branford,Indian Neck School,005-00,Indian Neck School,"12 Melrose Avenue, Branford, CT 06405",polling_place
+CT,2016-11-06,town,Branford,Mary T. Murphy School,006-00,Mary T. Murphy School,"14 Brushy Plain Road, Branford, CT 06405",polling_place
+CT,2016-11-06,town,Branford,Orchard House,003-00,Orchard House,"421 Shore Drive, Branford, CT 06405",polling_place
+CT,2016-11-06,town,Branford,St. Therese Church Hall,002-00,St. Therese Church Hall,"105 Leetes Island Road, Branford, CT 06405",polling_place
+CT,2016-11-06,town,Branford,Walsh Intermediate School,007-00,Walsh Intermediate School,"185 Damascus Road, Branford, CT 06405",polling_place
+CT,2016-11-06,town,Bridgeport,Beardsley School,124-01,Beardsley School,"500 Huntington Road, Bridgeport, CT 06610",polling_place
+CT,2016-11-06,town,Bridgeport,Beardsley School,124-05,Beardsley School,"500 Huntington Road, Bridgeport, CT 06610",polling_place
+CT,2016-11-06,town,Bridgeport,Beardsley School,126-01,Beardsley School,"500 Huntington Road, Bridgeport, CT 06610",polling_place
+CT,2016-11-06,town,Bridgeport,Blackham School,127-01,Blackham School,"425 Thorme Street, Bridgeport, CT 06606",polling_place
+CT,2016-11-06,town,Bridgeport,Black Rock School,129-01,Black Rock School,"545 Brewster Street, Bridgeport, CT 06605",polling_place
+CT,2016-11-06,town,Bridgeport,Bassick High School,130-01,Bassick High School,"1181 Fairfield Avenue, Bridgeport, CT 06605",polling_place
+CT,2016-11-06,town,Bridgeport,Bassick High School,130-02,Bassick High School,"1181 Fairfield Avenue, Bridgeport, CT 06605",polling_place
+CT,2016-11-06,town,Bridgeport,Barnum School,130-05,Barnum School,"495 Waterview, Bridgeport, CT 06608",polling_place
+CT,2016-11-06,town,Bridgeport,City Hall,130-03,City Hall,"45 Lyon Terrace, Bridgeport, CT 06604",polling_place
+CT,2016-11-06,town,Bridgeport,Cesar Batalla School,130-04,Cesar Batalla School,"606 Howard Ave., Bridgeport, CT 06605",polling_place
+CT,2016-11-06,town,Bridgeport,Dunbar School,124-03,Dunbar School,"445 Union Avenue, Bridgeport, CT 06607",polling_place
+CT,2016-11-06,town,Bridgeport,Geraldine Johnson School,128-01,Geraldine Johnson School,"475 Lexington Avenue, Bridgeport, CT 06606",polling_place
+CT,2016-11-06,town,Bridgeport,Geraldine Johnson School,128-03,Geraldine Johnson School,"475 Lexington Avenue, Bridgeport, CT 06606",polling_place
+CT,2016-11-06,town,Bridgeport,Harding High School,124-04,Harding High School,"1734 Central Avenue, Bridgeport, CT 06610",polling_place
+CT,2016-11-06,town,Bridgeport,Hallen School,126-02,Hallen School,"51 Omega Avenue, Bridgeport, CT 06606",polling_place
+CT,2016-11-06,town,Bridgeport,John F. Kennedy Campus,124-02,John F. Kennedy Campus,"700 Palisade Avenue, Bridgeport, CT 06610",polling_place
+CT,2016-11-06,town,Bridgeport,John Winthrop School,127-03,John Winthrop School,"85 Eckart Street, Bridgeport, CT 06606",polling_place
+CT,2016-11-06,town,Bridgeport,Luis Munoz Marin School,128-02,Luis Munoz Marin School,"479 Helen Street, Bridgeport, CT 06608",polling_place
+CT,2016-11-06,town,Bridgeport,Madison School,129-02,Madison School,"376 Wayne Street, Bridgeport, CT 06606",polling_place
+CT,2016-11-06,town,Bridgeport,Madison School,129-03,Madison School,"376 Wayne Street, Bridgeport, CT 06606",polling_place
+CT,2016-11-06,town,Bridgeport,Park City Magnet School,126-03,Park City Magnet School,"1526 Chopsey Hill Road, Bridgeport, CT 06606",polling_place
+CT,2016-11-06,town,Bridgeport,Read Middle School,126-04,Read Middle School,"130 Ezra Street, Bridgeport, CT 06606",polling_place
+CT,2016-11-06,town,Bridgeport,Read Middle School,127-02,Read Middle School,"130 Ezra Street, Bridgeport, CT 06606",polling_place
+CT,2016-11-06,town,Bridgeport,Thomas Hooker School,126-05,Thomas Hooker School,"138 Roger Williams Road, Bridgeport, CT 06610",polling_place
+CT,2016-11-06,town,Bridgeport,The Aquaculture Center,129-04,The Aquaculture Center,"60 St. Stephens Road, Bridgeport, CT 06605",polling_place
+CT,2016-11-06,town,Bridgeport,The Aquaculture Center,129-05,The Aquaculture Center,"60 St. Stephens Road, Bridgeport, CT 06605",polling_place
+CT,2016-11-06,town,Bridgeport,Wilbur Cross School,126-06,Wilbur Cross School,"1775 Reservoire Ave., Bridgeport, CT 06606",polling_place
+CT,2016-11-06,town,Bridgewater,Bridgewater Senior Center,001-00,Bridgewater Senior Center,"132 Hut Hill Rd., Bridgewater, CT 06752",polling_place
+CT,2016-11-06,town,Bristol,Bristol Eastern High School,077-04,Bristol Eastern High School,"632 King Street, Bristol, CT 06010",polling_place
+CT,2016-11-06,town,Bristol,Bristol Elks Club,079-02,Bristol Elks Club,"126 South Street, Bristol, CT 06010",polling_place
+CT,2016-11-06,town,Bristol,Chippens Hill Middle School,078-01,Chippens Hill Middle School,"551 Peacedale Street, Bristol, CT 06010",polling_place
+CT,2016-11-06,town,Bristol,Edgewood School,077-01,Edgewood School,"345 Mix Street, Bristol, CT 06010",polling_place
+CT,2016-11-06,town,Bristol,Greene-Hills School,079-03,Greene-Hills School,"718 Pine Street, Bristol, CT 06010",polling_place
+CT,2016-11-06,town,Bristol,Mountain View School,077-03,Mountain View School,"71 Vera Road, Bristol, CT 06010",polling_place
+CT,2016-11-06,town,Bristol,Northeast School,077-02,Northeast School,"530 Stevens Street, Bristol, CT 06010",polling_place
+CT,2016-11-06,town,Bristol,Southside School,079-01,Southside School,"21 Tuttle Road, Bristol, CT 06010",polling_place
+CT,2016-11-06,town,Bristol,West Bristol School,078-02,West Bristol School,"500 Clark Avenue, Bristol, CT 06010",polling_place
+CT,2016-11-06,town,Brookfield,Brookfield High School,002-00,Brookfield High School,"Long Meadow Hill Road, Brookfield, CT 06804",polling_place
+CT,2016-11-06,town,Brookfield,Huckleberry Hill School,001-00,Huckleberry Hill School,"Candlewood Lake Road, Brookfield, CT 06804",polling_place
+CT,2016-11-06,town,Brooklyn,Brooklyn Middle School,001-00,Brooklyn Middle School,"119 Gorman Road, Brooklyn, CT 06234",polling_place
+CT,2016-11-06,town,Burlington,Town Hall,001-00,Town Hall,"200 Spielman Highway, Burlington, CT 06013",polling_place
+CT,2016-11-06,town,Canaan,Canaan Town Hall,001-00,Canaan Town Hall,"108 Main Street, Falls Village, CT 06031",polling_place
+CT,2016-11-06,town,Canterbury,Canterbury Town Hall,001-00,Canterbury Town Hall,"1 Municipal Drive, Canterbury, CT 06331",polling_place
+CT,2016-11-06,town,Canton,Canton High School,001-00,Canton High School,"76 Simonds Ave, Canton Ct, CT 06019",polling_place
+CT,2016-11-06,town,Chaplin,Chaplin Volunteer Fire Department,001-00,Chaplin Volunteer Fire Department,"106 Phoenixville Road, Chaplin, CT 06235",polling_place
+CT,2016-11-06,town,Cheshire,Artsplace - District 3,003-00,Artsplace - District 3,"1220 Waterbury Road, Cheshire, CT ",polling_place
+CT,2016-11-06,town,Cheshire,Cheshire High School - Dist. 1,001-00,Cheshire High School - Dist. 1,"525 S. Main Street, Cheshire, CT ",polling_place
+CT,2016-11-06,town,Cheshire,Chapman School - Dist. 2,002-00,Chapman School - Dist. 2,"38 Country Club Rd, Cheshire, CT 06410",polling_place
+CT,2016-11-06,town,Cheshire,Doolittle School - Dist. 5,005-00,Doolittle School - Dist. 5,"735 Cornwall Ave, Cheshire, CT 06410",polling_place
+CT,2016-11-06,town,Cheshire,Dodd Middle School - Dist. 7,007-00,Dodd Middle School - Dist. 7,"100 Park Place, Cheshire, CT 06410",polling_place
+CT,2016-11-06,town,Cheshire,Highland School - Dist. 6,006-00,Highland School - Dist. 6,"490 Highland Avenue, Cheshire, CT 06410",polling_place
+CT,2016-11-06,town,Cheshire,Norton School - Dist. 4,004-00,Norton School - Dist. 4,"414 N. Brooksvale Rd, Cheshire, CT 06410",polling_place
+CT,2016-11-06,town,Chester,Chester Town Office Building,001-00,Chester Town Office Building,"203 Middlesex Avenue, Chester, CT 06412",polling_place
+CT,2016-11-06,town,Clinton,Andrews Memorial Town Hall,001-00,Andrews Memorial Town Hall,"54 East Main Street, Clinton, CT 06413",polling_place
+CT,2016-11-06,town,Clinton,Andrews Memorial Town Hall,002-00,Andrews Memorial Town Hall,"54 East Main Street, Clinton, CT 06413",polling_place
+CT,2016-11-06,town,Colchester,Assembly Of God Hall,002-00,Assembly Of God Hall,"Corner Of Middletown Rd. & Skinner Road, Colchester, CT 06415",polling_place
+CT,2016-11-06,town,Colchester,Assembly Of God Hall,004-00,Assembly Of God Hall,"Corner Of Middletown Rd. & Skinner Road, Colchester, CT 06415",polling_place
+CT,2016-11-06,town,Colchester,Bacon Academy,003-00,Bacon Academy,"Norwich Avenue, Colchester, CT 06415",polling_place
+CT,2016-11-06,town,Colchester,Colchester Town Hall,001-00,Colchester Town Hall,"127 Norwich Avenue, Colchester, CT 06415",polling_place
+CT,2016-11-06,town,Colebrook,Colebrook Town Hall,001-00,Colebrook Town Hall,"562 Colebrook Road, Colebrook, CT 06021",polling_place
+CT,2016-11-06,town,Columbia,Horace W Porter School,001-00,Horace W Porter School,"3 Schoolhouse Rd, Columbia, CT 06237",polling_place
+CT,2016-11-06,town,Cornwall,Town Hall,001-00,Town Hall,"26 Pine Street, Cornwall, CT 06753",polling_place
+CT,2016-11-06,town,Coventry,Coventry Grammer School,002-00,Coventry Grammer School,"2453 Main Street, Coventry, CT 06238",polling_place
+CT,2016-11-06,town,Coventry,George Hersey Robertson School,001-00,George Hersey Robertson School,"227 Cross Street, Coventry, CT 06238",polling_place
+CT,2016-11-06,town,Cromwell,Cromwell High School,001-01,Cromwell High School,"Donald Harris Drive, Cromwell, CT 06416",polling_place
+CT,2016-11-06,town,Danbury,Danbury High School,001-09,Danbury High School,"Beckerle Street, Danbury, CT 06810",polling_place
+CT,2016-11-06,town,Danbury,Danbury High School Gym,001-10,Danbury High School Gym,"Beckerle Street, Danbury, CT 06810",polling_place
+CT,2016-11-06,town,Danbury,Danbury High School Gym,001-38,Danbury High School Gym,"Beckerle Street, Danbury, CT 06810",polling_place
+CT,2016-11-06,town,Danbury,Pembroke School Gym,002-08,Pembroke School Gym,"34 Pembroke Road - Route 37, Danbury, CT 06810",polling_place
+CT,2016-11-06,town,Danbury,Pembroke School Gym,002-09,Pembroke School Gym,"34 Pembroke Road - Route 37, Danbury, CT 06810",polling_place
+CT,2016-11-06,town,Danbury,Pembroke School Gym,002-38,Pembroke School Gym,"34 Pembroke Road - Route 37, Danbury, CT 06810",polling_place
+CT,2016-11-06,town,Danbury,Park Avenue School Gym,006-02,Park Avenue School Gym,"82 Park Avenue, Danbury, CT 06810",polling_place
+CT,2016-11-06,town,Danbury,Park Avenue School Gym,006-10,Park Avenue School Gym,"82 Park Avenue, Danbury, CT 06810",polling_place
+CT,2016-11-06,town,Danbury,Park Avenue School Gym,006-38,Park Avenue School Gym,"82 Park Avenue, Danbury, CT 06810",polling_place
+CT,2016-11-06,town,Danbury,Stadley Rough School,003-07,Stadley Rough School,"25 Karen Road, Danbury, CT 06811",polling_place
+CT,2016-11-06,town,Danbury,Stadley Rough School,003-09,Stadley Rough School,"25 Karen Road, Danbury, CT 06811",polling_place
+CT,2016-11-06,town,Danbury,Shelter Rock School Gym,004-09,Shelter Rock School Gym,"2 Crows Nest Lane, Danbury, CT 06810",polling_place
+CT,2016-11-06,town,Danbury,Shelter Rock School Gym,004-10,Shelter Rock School Gym,"2 Crows Nest Lane, Danbury, CT 06810",polling_place
+CT,2016-11-06,town,Danbury,War Memorial Gym,005-02,War Memorial Gym,"Memorial Drive, Danbury, CT 06810",polling_place
+CT,2016-11-06,town,Danbury,War Memorial Gym,005-09,War Memorial Gym,"Memorial Drive, Danbury, CT 06810",polling_place
+CT,2016-11-06,town,Danbury,War Memorial Gym,005-10,War Memorial Gym,"Memorial Drive, Danbury, CT 06810",polling_place
+CT,2016-11-06,town,Danbury,Westside Middle School Academy,007-02,Westside Middle School Academy,"1 School Ridge Road, Danbury, CT 06811",polling_place
+CT,2016-11-06,town,Danbury,Westside Middle School Academy,007-10,Westside Middle School Academy,"1 School Ridge Road, Danbury, CT 06811",polling_place
+CT,2016-11-06,town,Danbury,Westside Middle School Academy,007-38,Westside Middle School Academy,"1 School Ridge Road, Danbury, CT 06811",polling_place
+CT,2016-11-06,town,Darien,District 1 - 35 Leroy Avenue Municipal Building,001-00,District 1 - 35 Leroy Avenue Municipal Building,"35 Leroy Avenue, Darien, CT 06820",polling_place
+CT,2016-11-06,town,Darien,District 2 - Darien Town Hall,002-00,District 2 - Darien Town Hall,"2 Renshaw Road, Darien, CT 06820",polling_place
+CT,2016-11-06,town,Darien,District 3 - Noroton Heights Fire Department,003-00,District 3 - Noroton Heights Fire Department,"209 Noroton Avenue, Darien, CT 06820",polling_place
+CT,2016-11-06,town,Darien,District 4 - Hindley School Gymnasium Entrance,004-00,District 4 - Hindley School Gymnasium Entrance,"10 Nearwater Lane, Darien, CT 06820",polling_place
+CT,2016-11-06,town,Darien,District 5 - Darien Town Hall,005-00,District 5 - Darien Town Hall,"2 Renshaw Road, Darien, CT 06820",polling_place
+CT,2016-11-06,town,Darien,District 6 - 35 Leroy Avenue Municipal Building,006-00,District 6 - 35 Leroy Avenue Municipal Building,"35 Leroy Avenue, Darien, CT 06820",polling_place
+CT,2016-11-06,town,Deep River,Community Room Deep River Library,001-00,Community Room Deep River Library,"150 Main St., Deep River, CT 06417",polling_place
+CT,2016-11-06,town,Derby,Bradley Elementary School,014-00,Bradley Elementary School,"David Humphrey Road, Derby, CT 06418",polling_place
+CT,2016-11-06,town,Derby,Irving Elementary School,004-00,Irving Elementary School,"Garden Place, Derby, CT 06418",polling_place
+CT,2016-11-06,town,Derby,Irving School-105,005-00,Irving School-105,"Garden Street, Derby, CT 06418",polling_place
+CT,2016-11-06,town,Durham,Korn School 1,002-00,Korn School 1,"Pickett Lane, Durham, CT 06422",polling_place
+CT,2016-11-06,town,Durham,Korn School 2,003-00,Korn School 2,"Pickett Lane, Durham, CT 06422",polling_place
+CT,2016-11-06,town,Durham,Korn School 3,004-00,Korn School 3,"Pickett Lane, Durham, CT 06422",polling_place
+CT,2016-11-06,town,East Granby,East Granby Community Center-1,001-00,East Granby Community Center-1,"District 61, East Granby, CT 06026",polling_place
+CT,2016-11-06,town,East Haddam,Nathan Hale Ray High School,001-00,Nathan Hale Ray High School,"15 School Dr, Moodus, CT 06469",polling_place
+CT,2016-11-06,town,East Hampton,East Hampton Middle School,001-00,East Hampton Middle School,"19 Childs Road, East Hampton, CT 06424",polling_place
+CT,2016-11-06,town,East Hartford,Anna Norris School,001-00,Anna Norris School,"40 Remington Road, East Hartford, CT 06108",polling_place
+CT,2016-11-06,town,East Hartford,Goodwin School,006-00,Goodwin School,"1235 Forbes Street, East Hartford, CT 06118",polling_place
+CT,2016-11-06,town,East Hartford,Hockanum School,005-00,Hockanum School,"191 Main Street, East Hartford, CT 06118",polling_place
+CT,2016-11-06,town,East Hartford,Langford School,002-00,Langford School,"61 Alps Drive, East Hartford, CT 06108",polling_place
+CT,2016-11-06,town,East Hartford,Mayberry School,003-00,Mayberry School,"101 Great Hill Road, East Hartford, CT 06108",polling_place
+CT,2016-11-06,town,East Hartford,Silver Lane School,004-00,Silver Lane School,"15 Mercer Avenue, East Hartford, CT 06118",polling_place
+CT,2016-11-06,town,East Hartford,Saint Christopher Church Hall,007-00,Saint Christopher Church Hall,"544 Brewer Street, East Hartford, CT 06118",polling_place
+CT,2016-11-06,town,East Haven,Deer Run School 3,003-00,Deer Run School 3,"Route 80, East Haven, CT 06513",polling_place
+CT,2016-11-06,town,East Haven,Deer Run School 3-S,003-03,Deer Run School 3-S,"Route 80, East Haven, CT 06513",polling_place
+CT,2016-11-06,town,East Haven,East Farm Village 1-S,001-03,East Farm Village 1-S,"55-65 Messina Drive, East Haven, CT 06512",polling_place
+CT,2016-11-06,town,East Haven,Foxon Firehouse Clubhouse,005-00,Foxon Firehouse Clubhouse,"1420 North High St., East Haven, CT 06512",polling_place
+CT,2016-11-06,town,East Haven,Momauguin School 2,002-00,Momauguin School 2,"93 Cosey Beach Road, East Haven, CT 06512",polling_place
+CT,2016-11-06,town,East Haven,Overbrook School 4,004-00,Overbrook School 4,"54 Gerrish Avenue, East Haven, CT 06512",polling_place
+CT,2016-11-06,town,East Haven,Tuttle School 1,001-00,Tuttle School 1,"108 Prospect Road, East Haven, CT 06512",polling_place
+CT,2016-11-06,town,East Haven,Woodview 5-S,005-03,Woodview 5-S,"1270 North High Street, East Haven, CT 06512",polling_place
+CT,2016-11-06,town,East Lyme,East Lyme High School,001-00,East Lyme High School,"Chesterfield Road, East Lyme, CT 06333",polling_place
+CT,2016-11-06,town,East Lyme,East Lyme Community Center,002-00,East Lyme Community Center,"37 Society Road, Niantic, CT 06357",polling_place
+CT,2016-11-06,town,East Lyme,East Lyme Community Center,003-00,East Lyme Community Center,"37 Society Road, Niantic, CT 06357",polling_place
+CT,2016-11-06,town,East Windsor,Town Hall Annex,001-00,Town Hall Annex,"25 School Street, East Windsor, CT 06088",polling_place
+CT,2016-11-06,town,East Windsor,Town Hall Annex,001-02,Town Hall Annex,"25 School Street, East Windsor, CT 06088",polling_place
+CT,2016-11-06,town,East Windsor,Town Hall,002-00,Town Hall,"11 Rye Street, Broad Brook, CT 06016",polling_place
+CT,2016-11-06,town,Eastford,Eastford Town Hall-Lower Level,001-00,Eastford Town Hall-Lower Level,"16 Westford Road, Eastford, CT 06242",polling_place
+CT,2016-11-06,town,Easton,Samuel Staples School,001-00,Samuel Staples School,"515 Morehouse Rd, Easton, CT 06612",polling_place
+CT,2016-11-06,town,Ellington,Crystal Lake School,002-00,Crystal Lake School,"59 South Road, Ellington, CT 06029",polling_place
+CT,2016-11-06,town,Ellington,Ellington High School,001-00,Ellington High School,"37 Maple Street, Ellington, CT 06029",polling_place
+CT,2016-11-06,town,Enfield,Enfield Street School,258-00,Enfield Street School,"1318 Enfield Street, Enfield, CT 06082",polling_place
+CT,2016-11-06,town,Enfield,Enrico Fermi High School,358-00,Enrico Fermi High School,"124 North Maple Street, Enfield, CT 06082",polling_place
+CT,2016-11-06,town,Enfield,Enrico Fermi High School,359-00,Enrico Fermi High School,"124 North Maple Street, Enfield, CT 06082",polling_place
+CT,2016-11-06,town,Enfield,Henry Barnard School District,458-00,Henry Barnard School District,"27 Shaker Road, Enfield, CT 06082",polling_place
+CT,2016-11-06,town,Enfield,Henry Barnard School District,459-00,Henry Barnard School District,"27 Shaker Road, Enfield, CT 06082",polling_place
+CT,2016-11-06,town,Enfield,J F K Middle School District,158-00,J F K Middle School District,"155 Raffia Road, Enfield, CT 06082",polling_place
+CT,2016-11-06,town,Enfield,J F K Middle School District,159-00,J F K Middle School District,"155 Raffia Road, Enfield, CT 06082",polling_place
+CT,2016-11-06,town,Essex,Essex Town Hall 01,001-00,Essex Town Hall 01,"29 West Avenue, Essex, CT 06426",polling_place
+CT,2016-11-06,town,Essex,Essex Town Hall 02,002-00,Essex Town Hall 02,"29 West Avenue, Essex, CT 06426",polling_place
+CT,2016-11-06,town,Fairfield,Dwight School,001-34,Dwight School,"1600 Redding Road, Fairfield, CT 06824",polling_place
+CT,2016-11-06,town,Fairfield,Fairfield Woods Middle School,003-32,Fairfield Woods Middle School,"1115 Fairfield Woods Road, Fairfield, CT 06825",polling_place
+CT,2016-11-06,town,Fairfield,Fairfield Woods Middle School,003-34,Fairfield Woods Middle School,"1115 Fairfield Woods Road, Fairfield, CT 06825",polling_place
+CT,2016-11-06,town,Fairfield,Fairfield Warde High School,005-33,Fairfield Warde High School,"755 Melville Avenue, Fairfield, CT 06825",polling_place
+CT,2016-11-06,town,Fairfield,Fairfield Ludlowe High School,008-32,Fairfield Ludlowe High School,"785 Unquowa Road, Fairfield, CT 06824",polling_place
+CT,2016-11-06,town,Fairfield,Holland Hill School,007-33,Holland Hill School,"200 Meadowcroft Road, Fairfield, CT 06824",polling_place
+CT,2016-11-06,town,Fairfield,McKinley School,006-33,McKinley School,"60 Thompson Street, Fairfield, CT 06825",polling_place
+CT,2016-11-06,town,Fairfield,Mill Hill School,010-32,Mill Hill School,"635 Mill Hill Terrace, Southport, CT 06890",polling_place
+CT,2016-11-06,town,Fairfield,St Pius School,002-34,St Pius School,"834 Brookside Drive, Fairfield, CT 06824",polling_place
+CT,2016-11-06,town,Fairfield,Stratfield School,004-33,Stratfield School,"1407 Melville Avenue, Fairfield, CT 06825",polling_place
+CT,2016-11-06,town,Fairfield,Sherman School,009-32,Sherman School,"250 Fern Street, Fairfield, CT 06824",polling_place
+CT,2016-11-06,town,Farmington,Community Center - District 2 Precinct 6,002-06,Community Center - District 2 Precinct 6,"321 New Britain Avenue, Unionville, CT 06085",polling_place
+CT,2016-11-06,town,Farmington,Irving Robbins School - District 1 Precinct 1,001-01,Irving Robbins School - District 1 Precinct 1,"20 Wolf Pit Road, Farmington, CT 06032",polling_place
+CT,2016-11-06,town,Farmington,Irving Robbins School - District 1 Precinct 2,001-02,Irving Robbins School - District 1 Precinct 2,"20 Wolf Pit Road, Farmington, CT 06032",polling_place
+CT,2016-11-06,town,Farmington,Irving Robbins School - District 1 Precinct 3,001-03,Irving Robbins School - District 1 Precinct 3,"20 Wolf Pit Road, Farmington, CT 06032",polling_place
+CT,2016-11-06,town,Farmington,Irving Robbins School - District 1 Precinct 4,001-04,Irving Robbins School - District 1 Precinct 4,"20 Wolf Pit Road, Farmington, CT 06032",polling_place
+CT,2016-11-06,town,Farmington,Municipal Buildngs - FHS Library Town Hall,002-07,Municipal Buildngs - FHS Library Town Hall,"District 2 Precinct 7, Farmington, CT 06085",polling_place
+CT,2016-11-06,town,Farmington,West Woods School - District 1 Precinct 5,001-05,West Woods School - District 1 Precinct 5,"50 Judson Lane, Farmington, CT 06032",polling_place
+CT,2016-11-06,town,Franklin,Franklin Town Hall,001-00,Franklin Town Hall,"7 Meetinghouse Hill Road, Franklin, CT 06254",polling_place
+CT,2016-11-06,town,Glastonbury,District 1 - Smith Middle School,001-00,District 1 - Smith Middle School,"216 Addison Road, Glastonbury, CT 06033",polling_place
+CT,2016-11-06,town,Glastonbury,District 2 - Hebron Avenue School,002-00,District 2 - Hebron Avenue School,"1363 Hebron Avenue, Glastonbury, CT 06033",polling_place
+CT,2016-11-06,town,Glastonbury,District 3 - Hebron Avenue School,003-00,District 3 - Hebron Avenue School,"1363 Hebron Avenue, Glastonbury, CT 06033",polling_place
+CT,2016-11-06,town,Glastonbury,District 4 - Gideon Welles School,004-00,District 4 - Gideon Welles School,"1029 Neipsic Road, Glastonbury, CT 06033",polling_place
+CT,2016-11-06,town,Glastonbury,District 5 - Nayaug Elementary School,005-00,District 5 - Nayaug Elementary School,"222 Old Maids Lane, South Glastonbury, CT 06073",polling_place
+CT,2016-11-06,town,Glastonbury,District 7 - Academy Building,007-00,District 7 - Academy Building,"2143 Main Street, Glastonbury, CT 06033",polling_place
+CT,2016-11-06,town,Glastonbury,District 9 - Hopewell School,009-00,District 9 - Hopewell School,"1068 Chestnut Hill Road, South Glastonbury, CT 06073",polling_place
+CT,2016-11-06,town,Goshen,Camp Cochipianee,001-00,Camp Cochipianee,"291 Beach Street, Goshen, CT 06756",polling_place
+CT,2016-11-06,town,Goshen,Camp Cochipianee,002-00,Camp Cochipianee,"291 Beach Street, Goshen, CT 06756",polling_place
+CT,2016-11-06,town,Granby,Granby Memorial High School - Community Gym,001-00,Granby Memorial High School - Community Gym,"315 Salmon Brook Street, Granby, CT 06035",polling_place
+CT,2016-11-06,town,Granby,Granby Memorial High School - Community Gym,002-00,Granby Memorial High School - Community Gym,"315 Salmon Brook St, Granby, CT 06035",polling_place
+CT,2016-11-06,town,Greenwich,Bendheim Western Greenwich Civic Center,009-00,Bendheim Western Greenwich Civic Center,"449 Pemberwick Road, Greenwich, CT 06831",polling_place
+CT,2016-11-06,town,Greenwich,Central Middle School,008-00,Central Middle School,"9 Indian Rock Lane, Greenwich, CT 06830",polling_place
+CT,2016-11-06,town,Greenwich,Cental Middle School 8a,008-01,Cental Middle School 8a,"9 Indian Rock Lane, Greenwich, CT 06830",polling_place
+CT,2016-11-06,town,Greenwich,Greenwich Town Hall,002-00,Greenwich Town Hall,"101 Field Point Road, Greenwich, CT 06830",polling_place
+CT,2016-11-06,town,Greenwich,Greenwich Town Hall 2a,002-01,Greenwich Town Hall 2a,"101 Field Point Road, Greenwich, CT 06830",polling_place
+CT,2016-11-06,town,Greenwich,Greenwich High School,007-00,Greenwich High School,"10 Hillside Road, Greenwich, CT 06830",polling_place
+CT,2016-11-06,town,Greenwich,Greenwich High School 7a,007-01,Greenwich High School 7a,"10 Hillside Road, Greenwich, CT 06830",polling_place
+CT,2016-11-06,town,Greenwich,Glenville School,010-00,Glenville School,"33 Riversville Road, Greenwich, CT 06831",polling_place
+CT,2016-11-06,town,Greenwich,Glenville School,010-01,Glenville School,"33 Riversville Road, Greenwich, CT 06831",polling_place
+CT,2016-11-06,town,Greenwich,Julian Curtiss School,001-00,Julian Curtiss School,"180 East Elm Street, Greenwich, CT 06830",polling_place
+CT,2016-11-06,town,Greenwich,Julian Curtiss School 1a,001-01,Julian Curtiss School 1a,"180 East Elm Street, Greenwich, CT 06830",polling_place
+CT,2016-11-06,town,Greenwich,Julian Curtiss School 1b,001-02,Julian Curtiss School 1b,"180 East Elm Street, Greenwich, CT 06830",polling_place
+CT,2016-11-06,town,Greenwich,New Lebanon School,004-00,New Lebanon School,"25 Mead Avenue, Greenwich, CT 06830",polling_place
+CT,2016-11-06,town,Greenwich,New Lebanon School 4a,004-01,New Lebanon School 4a,"25 Mead Avenue, Greenwich, CT 06830",polling_place
+CT,2016-11-06,town,Greenwich,North Street School,011-00,North Street School,"381 North Street, Greenwich, CT 06830",polling_place
+CT,2016-11-06,town,Greenwich,North Street School 11a,011-01,North Street School 11a,"381 North Street, Greenwich, CT 06830",polling_place
+CT,2016-11-06,town,Greenwich,North Mianus School,012-00,North Mianus School,"309 Palmer Hill Road, Riverside, CT 06878",polling_place
+CT,2016-11-06,town,Greenwich,Old Greenwich School,006-00,Old Greenwich School,"285 Sound Beach Avenue, Old Greenwich, CT 06870",polling_place
+CT,2016-11-06,town,Greenwich,Old Greenwich School 6a,006-01,Old Greenwich School 6a,"285 Sound Beach Avenue, Old Greenwich, CT 06870",polling_place
+CT,2016-11-06,town,Greenwich,Riverside School,005-00,Riverside School,"90 Hendrie Avenue, Riverside, CT 06878",polling_place
+CT,2016-11-06,town,Greenwich,Riverside School 5a,005-01,Riverside School 5a,"90 Hendrie Avenue, Riverside, CT 06878",polling_place
+CT,2016-11-06,town,Greenwich,Western Middle School,003-00,Western Middle School,"1 Western Junior Highway, Greenwich, CT 06830",polling_place
+CT,2016-11-06,town,Greenwich,Western Middle School 3a,003-01,Western Middle School 3a,"1 Western Middle School, Greenwich, CT 06830",polling_place
+CT,2016-11-06,town,Griswold,Griswold Town Hall,001-00,Griswold Town Hall,"28 Main Street, Jewett City, CT 06351",polling_place
+CT,2016-11-06,town,Griswold,Pachaug Town Hall,002-00,Pachaug Town Hall,"879 Voluntown Road, Griswold, CT 06351",polling_place
+CT,2016-11-06,town,Groton,City Of Groton Municipal Building,003-00,City Of Groton Municipal Building,"295 Meridian Street, Groton, CT 06340",polling_place
+CT,2016-11-06,town,Groton,Groton Public Library,001-00,Groton Public Library,"52 Route 117, Groton, CT 06340",polling_place
+CT,2016-11-06,town,Groton,Mary Morrisson Elementary School,004-00,Mary Morrisson Elementary School,"154 Tollgate Road, Groton, CT 06340",polling_place
+CT,2016-11-06,town,Groton,Robert E Fitch Sr High School,007-00,Robert E Fitch Sr High School,"101 Groton Long Point Road, Groton, CT 06340",polling_place
+CT,2016-11-06,town,Groton,School Administration Bldg,005-00,School Administration Bldg,"1300 Flanders Road, Mystic, CT 06355",polling_place
+CT,2016-11-06,town,Groton,S B Butler School,006-00,S B Butler School,"155 Ocean View Avenue, Mystic, CT 06355",polling_place
+CT,2016-11-06,town,Groton,West Side Middle School,002-00,West Side Middle School,"250 Brandegee Avenue, Groton, CT 06340",polling_place
+CT,2016-11-06,town,Guilford,Abraham Baldwin School,002-00,Abraham Baldwin School,"68 Bullard Drive, Guilford, CT 06437",polling_place
+CT,2016-11-06,town,Guilford,A.W. Cox School,005-00,A.W. Cox School,"143 Three Mile Course, Guilford, CT 06437",polling_place
+CT,2016-11-06,town,Guilford,Calvin Leete School,001-00,Calvin Leete School,"280 South Union Street, Guilford, CT 06437",polling_place
+CT,2016-11-06,town,Guilford,Guilford Fire Headquarters,003-00,Guilford Fire Headquarters,"390 Church Street, Guilford, CT 06437",polling_place
+CT,2016-11-06,town,Guilford,Melissa Jones School,004-00,Melissa Jones School,"181 Ledge Hill Road, Guilford, CT 06437",polling_place
+CT,2016-11-06,town,Haddam,Central Office,002-00,Central Office,"57 Little City Road, Higganum, CT 06441",polling_place
+CT,2016-11-06,town,Haddam,Haddam Firehouse Complex,001-00,Haddam Firehouse Complex,"439 Saybrook Road, Higganum, CT 06441",polling_place
+CT,2016-11-06,town,Haddam,Haddam Neck Firehouse,003-00,Haddam Neck Firehouse,"50 Rock Landing Road, Haddam Neck, CT 06424",polling_place
+CT,2016-11-06,town,Hamden,Board Of Education Building,005-00,Board Of Education Building,"60 Putnam Avenue, Hamden, CT 06517",polling_place
+CT,2016-11-06,town,Hamden,Board Of Education Building,005-01,Board Of Education Building,"60 Putnam Avenue, Hamden, CT 06517",polling_place
+CT,2016-11-06,town,Hamden,Bear Path School,008-00,Bear Path School,"10 Kirk Road, Hamden, CT 06514",polling_place
+CT,2016-11-06,town,Hamden,Bear Path School,008-01,Bear Path School,"10 Kirk Road, Hamden, CT 06514",polling_place
+CT,2016-11-06,town,Hamden,Dunbar Hill School,007-00,Dunbar Hill School,"315 Lane Street, Hamden, CT 06514",polling_place
+CT,2016-11-06,town,Hamden,Hamden Collaborative Learning Center,002-00,Hamden Collaborative Learning Center,"306 Circular Avenue, Hamden, CT 06514",polling_place
+CT,2016-11-06,town,Hamden,Hamden Middle School,010-00,Hamden Middle School,"2623 Dixwell Avenue, Hamden, CT 06518",polling_place
+CT,2016-11-06,town,Hamden,Hamden Middle School,010-01,Hamden Middle School,"2623 Dixwell Avenue, Hamden, CT 06518",polling_place
+CT,2016-11-06,town,Hamden,Keefe Community Center,003-00,Keefe Community Center,"11 Pine Street, Hamden, CT 06514",polling_place
+CT,2016-11-06,town,Hamden,Miller Library,001-00,Miller Library,"2901 Dixwell Avenue, Hamden, CT 06518",polling_place
+CT,2016-11-06,town,Hamden,Ridge Hill School,006-00,Ridge Hill School,"120 Carew Road, Hamden, CT 06517",polling_place
+CT,2016-11-06,town,Hamden,Spring Glen School,004-00,Spring Glen School,"1908 Whitney Avenue, Hamden, CT 06517",polling_place
+CT,2016-11-06,town,Hamden,Spring Glen School,004-01,Spring Glen School,"1908 Whitney Avenue, Hamden, CT 06517",polling_place
+CT,2016-11-06,town,Hamden,West Woods School,009-00,West Woods School,"350 West Todd Street, Hamden, CT 06518",polling_place
+CT,2016-11-06,town,Hampton,Hampton Town Offices,001-00,Hampton Town Offices,"164 Main Street, Hampton, CT 06247",polling_place
+CT,2016-11-06,town,Hartford,Annie Fisher School - Gym,008-00,Annie Fisher School - Gym,"280 Plainfield Street, Hartford, CT 06112",polling_place
+CT,2016-11-06,town,Hartford,Burns School - Gym,012-00,Burns School - Gym,"195 Putnam Street, Hartford, CT 06106",polling_place
+CT,2016-11-06,town,Hartford,Batchelder School - Gym,015-00,Batchelder School - Gym,"757 New Britain Avenue, Hartford, CT 06106",polling_place
+CT,2016-11-06,town,Hartford,Bulkeley High School,019-00,Bulkeley High School,"300 Wethersfield Avenue, Hartford, CT 06114",polling_place
+CT,2016-11-06,town,Hartford,Dutch Point Community Room,021-00,Dutch Point Community Room,"15 Patsie Williams Way, Hartford, CT 06106",polling_place
+CT,2016-11-06,town,Hartford,Environmental Sciences Magnet-Mary Hooker School,014-00,Environmental Sciences Magnet-Mary Hooker School,"440 Broadview Terrace, Hartford, CT 06106",polling_place
+CT,2016-11-06,town,Hartford,Grace Lutheran Church,003-00,Grace Lutheran Church,"46 Woodland Street, Hartford, CT 06105",polling_place
+CT,2016-11-06,town,Hartford,Hartford Seminary,004-00,Hartford Seminary,"77 Sherman Street, Hartford, CT 06105",polling_place
+CT,2016-11-06,town,Hartford,House Of Restoration Church - Gym,010-00,House Of Restoration Church - Gym,"1665 Main Street, Hartford, CT 06120",polling_place
+CT,2016-11-06,town,Hartford,Hartford Public Library,022-00,Hartford Public Library,"500 Main Street, Hartford, CT 06103",polling_place
+CT,2016-11-06,town,Hartford,Kennelly School - Gym,016-00,Kennelly School - Gym,"180 White Street, Hartford, CT 06114",polling_place
+CT,2016-11-06,town,Hartford,Liberty Christian Center-Formerly Horace Bushnell,001-00,Liberty Christian Center-Formerly Horace Bushnell,"23 Vine Street, Hartford, CT 06112",polling_place
+CT,2016-11-06,town,Hartford,Liberty Christian Center-Formerly Horace Bushnell,002-00,Liberty Christian Center-Formerly Horace Bushnell,"23 Vine Street, Hartford, CT 06112",polling_place
+CT,2016-11-06,town,Hartford,Metzner Center,018-00,Metzner Center,"640 Franklin Ave / Columbus Park, Hartford, CT 06114",polling_place
+CT,2016-11-06,town,Hartford,Mary Shepard Place Community Room,023-00,Mary Shepard Place Community Room,"15 Pavilion Street, Hartford, CT 06120",polling_place
+CT,2016-11-06,town,Hartford,North End Senior Center,006-00,North End Senior Center,"80 Conventry Street, Hartford, CT 06112",polling_place
+CT,2016-11-06,town,Hartford,Parkville Community School,013-00,Parkville Community School,"1755 Park Street, Hartford, CT 06106",polling_place
+CT,2016-11-06,town,Hartford,Parker Memorial Community Center,024-00,Parker Memorial Community Center,"2621 Main Street, Hartford, CT 06120",polling_place
+CT,2016-11-06,town,Hartford,Rawson School - Gym,007-00,Rawson School - Gym,"260 Holcomb Street, Hartford, CT 06112",polling_place
+CT,2016-11-06,town,Hartford,South End Senior Wellness Center,017-00,South End Senior Wellness Center,"830 Maple Avenue, Hartford, CT 06114",polling_place
+CT,2016-11-06,town,Hartford,The Learning Corridor - Gym,020-00,The Learning Corridor - Gym,"43 Vernon Street, Hartford, CT 06106",polling_place
+CT,2016-11-06,town,Hartford,United Methodist Church,005-00,United Methodist Church,"571 Farmington Avenue, Hartford, CT 06105",polling_place
+CT,2016-11-06,town,Hartford,United Way Of The Capital Area,011-00,United Way Of The Capital Area,"30 Laurel Street, Hartford, CT 06106",polling_place
+CT,2016-11-06,town,Hartford,Y W C A,009-00,Y W C A,"135 Broad Street, Hartford, CT 06105",polling_place
+CT,2016-11-06,town,Hartland,Hartland Town Hall,001-00,Hartland Town Hall,"22 South Road, East Hartland, CT 06027",polling_place
+CT,2016-11-06,town,Harwinton,Town Hall Assembly Room,008-00,Town Hall Assembly Room,"100 Bentley Drive, Harwinton, CT 06791",polling_place
+CT,2016-11-06,town,Harwinton,Town Hall Assembly Room,031-00,Town Hall Assembly Room,"100 Bentley Drive, Harwinton, CT 06791",polling_place
+CT,2016-11-06,town,Hebron,Hebron Elementary School,001-00,Hebron Elementary School,"92 Church Street, Hebron, CT 06248",polling_place
+CT,2016-11-06,town,Kent,Town Hall,001-00,Town Hall,"41 Kent Green Boulevard, Kent, CT 06757",polling_place
+CT,2016-11-06,town,Killingly,Bd Of Ed Central Office - Cafeteria,001-01,Bd Of Ed Central Office - Cafeteria,"79 Westfield Ave, Killingly, CT 06241",polling_place
+CT,2016-11-06,town,Killingly,Bd Of Ed Central Office - Cafeteria,003-00,Bd Of Ed Central Office - Cafeteria,"79 Westfield Ave, Killingly, CT 06241",polling_place
+CT,2016-11-06,town,Killingly,Bd Of Ed Central Office - Cafeteria,005-00,Bd Of Ed Central Office - Cafeteria,"79 Westfield Ave, Killingly, CT 06241",polling_place
+CT,2016-11-06,town,Killingly,Killingly High School,002-01,Killingly High School,"226 Putnam Pike, Dayville, CT 06241",polling_place
+CT,2016-11-06,town,Killingly,Killingly High School,002-02,Killingly High School,"226 Putnam Pike, Dayville, CT 06241",polling_place
+CT,2016-11-06,town,Killingly,Killingly High School,004-01,Killingly High School,"226 Putnam Pike, Dayville, CT 06241",polling_place
+CT,2016-11-06,town,Killingly,Killingly High School,004-02,Killingly High School,"226 Putnam Pike, Dayville, CT 06241",polling_place
+CT,2016-11-06,town,Killingworth,Killingworth Elementary School,001-00,Killingworth Elementary School,"340 Route 81, Killingworth, CT 06419",polling_place
+CT,2016-11-06,town,Lebanon,Fire Safety Complex 1,001-00,Fire Safety Complex 1,"23 Goshen Hill Road, Lebanon, CT 06249",polling_place
+CT,2016-11-06,town,Lebanon,Fire Safety Complex 2,002-00,Fire Safety Complex 2,,polling_place
+CT,2016-11-06,town,Ledyard,Juliet Long School,002-00,Juliet Long School,"1854 Route 12, Gales Ferry, CT 06335",polling_place
+CT,2016-11-06,town,Ledyard,Juliet Long School,003-00,Juliet Long School,"1854 Route 12, Gales Ferry, CT 06335",polling_place
+CT,2016-11-06,town,Ledyard,Ledyard Center School,001-00,Ledyard Center School,"740 Colonel Ledyard Hwy, Ledyard, CT 06339",polling_place
+CT,2016-11-06,town,Lisbon,Lisbon Town Hall,001-00,Lisbon Town Hall,"1 Newent Road, Lisbon, CT 06351",polling_place
+CT,2016-11-06,town,Lisbon,Lisbon Senior Center,002-00,Lisbon Senior Center,"11 Newent Rd, Lisbon, CT 06351",polling_place
+CT,2016-11-06,town,Litchfield,Bantam Borough Hall,003-00,Bantam Borough Hall,"809 Bantam Rd., Bantam, CT 06750",polling_place
+CT,2016-11-06,town,Litchfield,Litchfield Fire House,001-00,Litchfield Fire House,"258 West St, Litchfield, CT 06759",polling_place
+CT,2016-11-06,town,Litchfield,Northfield Fire House 2,002-00,Northfield Fire House 2,"14 Knifeshop Rd., Northfield, CT 06778",polling_place
+CT,2016-11-06,town,Litchfield,Northfield Fire House 4,004-00,Northfield Fire House 4,"14 Knifeshop Rd., Northfield, CT 06778",polling_place
+CT,2016-11-06,town,Lyme,Lyme Town Hall,001-00,Lyme Town Hall,"480 Hamburg Road, Lyme, CT 06371",polling_place
+CT,2016-11-06,town,Madison,District 1 (South),001-00,District 1 (South),"29 Bradley Road, Madison, CT 06443",polling_place
+CT,2016-11-06,town,Madison,District 2 (North),002-00,District 2 (North),"980 Durham Rd, Madison, CT 06443",polling_place
+CT,2016-11-06,town,Manchester,Buckley School,003-00,Buckley School,"250 Vernon Street, Manchester Ct, CT 06042",polling_place
+CT,2016-11-06,town,Manchester,Highland Park School,005-00,Highland Park School,"397 Porter Street, Manchester Ct, CT 06040",polling_place
+CT,2016-11-06,town,Manchester,Keeney School,007-00,Keeney School,"179 Keeney Street, Manchester Ct, CT 06040",polling_place
+CT,2016-11-06,town,Manchester,Manchester High School,002-00,Manchester High School,"Brookfield Street Entrance, Manchester Ct, CT 06040",polling_place
+CT,2016-11-06,town,Manchester,Martin School,006-00,Martin School,"140 Dartmouth Road, Manchester Ct, CT 06040",polling_place
+CT,2016-11-06,town,Manchester,Robertson School,001-00,Robertson School,"65 North School Street, Manchester Ct, CT 06042",polling_place
+CT,2016-11-06,town,Manchester,Verplanck School,008-00,Verplanck School,"126 Olcott Street, Manchester Ct, CT 06040",polling_place
+CT,2016-11-06,town,Manchester,Waddell School,004-00,Waddell School,"163 Broad Street, Manchester Ct, CT 06042",polling_place
+CT,2016-11-06,town,Mansfield,Annie E. Vinton School,004-00,Annie E. Vinton School,"306 Stafford Road, Mansfield, CT 06250",polling_place
+CT,2016-11-06,town,Mansfield,Mansfield Community Center,001-00,Mansfield Community Center,"10 South Eagleville Road, Storrs-Mansfield Ct, CT 06268",polling_place
+CT,2016-11-06,town,Mansfield,Mansfield Fire Dept. #107@ Eagleville,002-00,Mansfield Fire Dept. #107@ Eagleville,"879 Stafford Road, Mansfield, CT 06268",polling_place
+CT,2016-11-06,town,Mansfield,Mansfield Library/ Buchanan Auditorium,003-00,Mansfield Library/ Buchanan Auditorium,"54 Warrenville Road, Mansfield Center, CT 06250",polling_place
+CT,2016-11-06,town,Marlborough,Elmer Thienes Elementary School,001-00,Elmer Thienes Elementary School,"Community Room, Marlborough, CT 06447",polling_place
+CT,2016-11-06,town,Meriden,Community Towers,002-00,Community Towers,"55 Willow St., Meriden, CT 06450",polling_place
+CT,2016-11-06,town,Meriden,Chamberlain Highway Firehouse,007-00,Chamberlain Highway Firehouse,"168 Chamberlain Highway, Meriden, CT 06451",polling_place
+CT,2016-11-06,town,Meriden,Hanover School,012-00,Hanover School,"208 Main St., So. Meriden, CT 06451",polling_place
+CT,2016-11-06,town,Meriden,Immanuel Lutheran Church,001-00,Immanuel Lutheran Church,"164 Hanover Street, Meriden, CT 06451",polling_place
+CT,2016-11-06,town,Meriden,Israel Putnam School,011-00,Israel Putnam School,"133 Parker Ave, Meriden, CT 06450",polling_place
+CT,2016-11-06,town,Meriden,John Barry School,003-00,John Barry School,"124 Columbia St., Meriden, CT 06451",polling_place
+CT,2016-11-06,town,Meriden,Lincoln Middle School,013-00,Lincoln Middle School,"164 Centennial Ave., Meriden, CT 06451",polling_place
+CT,2016-11-06,town,Meriden,Maloney High School,009-00,Maloney High School,"121 Gravel St., Meriden, CT 06450",polling_place
+CT,2016-11-06,town,Meriden,New Life Church,008-00,New Life Church,"262 Bee St., Meriden, CT 06450",polling_place
+CT,2016-11-06,town,Meriden,St. Rose Community Center,004-00,St. Rose Community Center,"34 Center St., Meriden, CT 06450",polling_place
+CT,2016-11-06,town,Meriden,Sherman Avenue Firehouse,005-00,Sherman Avenue Firehouse,"260 Sherman Avenue, Meriden, CT 06450",polling_place
+CT,2016-11-06,town,Meriden,St. John Lutheran Church,010-00,St. John Lutheran Church,"520 Paddock Ave., Meriden, CT 06450",polling_place
+CT,2016-11-06,town,Meriden,Washington Middle School,006-00,Washington Middle School,"1225 No. Broad St., Meriden, CT 06450",polling_place
+CT,2016-11-06,town,Middlebury,Shepardson Community Center 01,001-00,Shepardson Community Center 01,"Whittemore Road, Middlebury, CT 06762",polling_place
+CT,2016-11-06,town,Middlebury,Shepardson Community Center 002,002-00,Shepardson Community Center 002,"Whittemore Road, Middlebury, CT 06762",polling_place
+CT,2016-11-06,town,Middlefield,Middlefield Community Center,100-00,Middlefield Community Center,"405 Main Street, Middlefield, CT 06455",polling_place
+CT,2016-11-06,town,Middletown,Fayerweather Beckham Hall - District 14,014-00,Fayerweather Beckham Hall - District 14,"55 Wyllys Avenue, Middletown, CT 06457",polling_place
+CT,2016-11-06,town,Middletown,Keigwin Middle School - District 3,003-00,Keigwin Middle School - District 3,"99 Spruce Street, Middletown, CT 06457",polling_place
+CT,2016-11-06,town,Middletown,Keigwin Middle School - District 6,006-00,Keigwin Middle School - District 6,"99 Spruce Street, Middletown, CT 06457",polling_place
+CT,2016-11-06,town,Middletown,Macdonough School - District 1,001-00,Macdonough School - District 1,"66 Spring Street, Middletown, CT 06457",polling_place
+CT,2016-11-06,town,Middletown,Moody School - District 4,004-00,Moody School - District 4,"300 Country Club Road, Middletown, CT 06457",polling_place
+CT,2016-11-06,town,Middletown,Moody School - District 5,005-00,Moody School - District 5,"300 Country Club Road, Middletown, CT 06457",polling_place
+CT,2016-11-06,town,Middletown,Spencer School - District 2,002-00,Spencer School - District 2,"207 Westfield Street, Middletown, CT 06457",polling_place
+CT,2016-11-06,town,Middletown,Snow School - District 7,007-00,Snow School - District 7,"299 Wadsworth Street, Middletown, CT 06457",polling_place
+CT,2016-11-06,town,Middletown,Snow School - District 8,008-00,Snow School - District 8,"299 Wadsworth Street, Middletown, CT 06457",polling_place
+CT,2016-11-06,town,Middletown,South District Firehouse - District 10,010-00,South District Firehouse - District 10,"445 Randolph Road, Middletown, CT 06457",polling_place
+CT,2016-11-06,town,Middletown,Spencer School - District 13,013-00,Spencer School - District 13,"207 Westfield Street, Middletown, CT 06457",polling_place
+CT,2016-11-06,town,Middletown,Wesley School - District 9,009-00,Wesley School - District 9,"10 Wesleyan Hills Road, Middletown, CT 06457",polling_place
+CT,2016-11-06,town,Middletown,Woodrow Wilson Middle School - District 11,011-00,Woodrow Wilson Middle School - District 11,"370 Hunting Hill Avenue, Middletown, CT 06457",polling_place
+CT,2016-11-06,town,Middletown,Woodrow Wilson Middle School - District 12,012-00,Woodrow Wilson Middle School - District 12,"370 Hunting Hill Avenue, Middletown, CT 06457",polling_place
+CT,2016-11-06,town,Milford,Harborside Middle School,118-05,Harborside Middle School,"175 High Street, Milford, CT 06460",polling_place
+CT,2016-11-06,town,Milford,Harborside Middle School,119-03,Harborside Middle School,"175 High Street, Milford, CT 06460",polling_place
+CT,2016-11-06,town,Milford,Joseph A Foran High School,117-00,Joseph A Foran High School,"80 Foran Road, Milford, CT 06460",polling_place
+CT,2016-11-06,town,Milford,John F Kennedy School,118-01,John F Kennedy School,"404 West Avenue, Milford, CT 06460",polling_place
+CT,2016-11-06,town,Milford,John F Kennedy School,119-02,John F Kennedy School,"404 West Avenue, Milford, CT 06460",polling_place
+CT,2016-11-06,town,Milford,Meadowside School,118-02,Meadowside School,"80 Seemans Lane, Milford, CT 06460",polling_place
+CT,2016-11-06,town,Milford,Margaret S Egan Center,118-04,Margaret S Egan Center,"35 Mathews Street, Milford, CT 06460",polling_place
+CT,2016-11-06,town,Milford,Orange Avenue School,119-01,Orange Avenue School,"260 Orange Avenue, Milford, CT 06460",polling_place
+CT,2016-11-06,town,Milford,West Shore Recreation Center,118-03,West Shore Recreation Center,"14 Benham Avenue, Milford, CT 06460",polling_place
+CT,2016-11-06,town,Monroe,Fawn Hollow School,001-00,Fawn Hollow School,"Fan Hill Road, Monroe, CT 06468",polling_place
+CT,2016-11-06,town,Monroe,Monroe Elementary School,003-00,Monroe Elementary School,"375 Monroe Turnpike, Monroe, CT 06468",polling_place
+CT,2016-11-06,town,Monroe,Masuk High School,004-00,Masuk High School,"1014 Monroe Turnpike, Monroe, CT 06468",polling_place
+CT,2016-11-06,town,Monroe,Stepney Elementary School,002-00,Stepney Elementary School,"180 Old Newtown Road, Monroe, CT 06468",polling_place
+CT,2016-11-06,town,Montville,Fair Oaks School-Gym-3,003-00,Fair Oaks School-Gym-3,"836 Old Colchester Road, Oakdale, CT 06370",polling_place
+CT,2016-11-06,town,Montville,Fair Oaks School-Gym-4,004-00,Fair Oaks School-Gym-4,"836 Old Colchester Road, Oakdale, CT 06370",polling_place
+CT,2016-11-06,town,Montville,Mohegan Elementary School,002-00,Mohegan Elementary School,"49 Golden Road, Uncasville, CT 06382",polling_place
+CT,2016-11-06,town,Montville,Mohegan Elemantary School,005-00,Mohegan Elemantary School,"49 Golden Road, Uncasville, CT 06382",polling_place
+CT,2016-11-06,town,Montville,Town Hall-Gym-1,001-00,Town Hall-Gym-1,"310 Norwich New London Road, Uncasville, CT 06382",polling_place
+CT,2016-11-06,town,Montville,Town Hall-Gym-6,006-00,Town Hall-Gym-6,"310 Norwich New London Road, Uncasville, CT 06382",polling_place
+CT,2016-11-06,town,Morris,Morris Community Hall,001-00,Morris Community Hall,"3 East Street, Morris, CT 06763",polling_place
+CT,2016-11-06,town,Naugatuck,Andrew Avenue School,001-02,Andrew Avenue School,"164 Andrew Avenue, Naugatuck, CT 06770",polling_place
+CT,2016-11-06,town,Naugatuck,Andrew Avenue School A,001-03,Andrew Avenue School A,"164 Andrew Avenue, Naugatuck, CT 06770",polling_place
+CT,2016-11-06,town,Naugatuck,Cross Street School - A,001-01,Cross Street School - A,"120 Cross Street, Naugatuck, CT ",polling_place
+CT,2016-11-06,town,Naugatuck,Central Avenue School,002-01,Central Avenue School,"28 Central Avenue, Naugatuck, CT 06770",polling_place
+CT,2016-11-06,town,Naugatuck,Cross Street School - B,002-02,Cross Street School - B,"120 Cross Street, Naugatuck, CT 06770",polling_place
+CT,2016-11-06,town,Naugatuck,City Hill Middle School,003-02,City Hill Middle School,"441 City Hill Street, Naugatuck, CT 06770",polling_place
+CT,2016-11-06,town,Naugatuck,Maple Hill School,002-03,Maple Hill School,"641 Maple Hill Road, Naugatuck, CT 06770",polling_place
+CT,2016-11-06,town,Naugatuck,Oak Terrace,003-01,Oak Terrace,"53 Conrad Street, Naugatuck, CT 06770",polling_place
+CT,2016-11-06,town,Naugatuck,Western School - B,003-03,Western School - B,,polling_place
+CT,2016-11-06,town,New Britain,Angelicos Restaurant,006-00,Angelicos Restaurant,"542 East Main Street, New Britain, CT 06051",polling_place
+CT,2016-11-06,town,New Britain,Chamberlain School,009-00,Chamberlain School,"120 Newington Avenue, New Britain, CT 06051",polling_place
+CT,2016-11-06,town,New Britain,Diloreto School,014-00,Diloreto School,"732 Slater Road, New Britain, CT 06053",polling_place
+CT,2016-11-06,town,New Britain,Gaffney School,004-00,Gaffney School,"322 Slater Road, New Britain, CT 06053",polling_place
+CT,2016-11-06,town,New Britain,Graham Apartments,005-02,Graham Apartments,"107 Martin Luther King Drive, New Britain, CT 06051",polling_place
+CT,2016-11-06,town,New Britain,Generale Ameglio Society,007-00,Generale Ameglio Society,"13 Beaver Street, New Britain, CT 06051",polling_place
+CT,2016-11-06,town,New Britain,Holmes Elementary School,011-00,Holmes Elementary School,"2150 Stanley Street, New Britain, CT 06053",polling_place
+CT,2016-11-06,town,New Britain,New Britain High School,002-00,New Britain High School,"110 Mill Street, New Britain, CT 06051",polling_place
+CT,2016-11-06,town,New Britain,New Britain Senior Center,005-00,New Britain Senior Center,"55 Pearl Street, New Britain, CT 06051",polling_place
+CT,2016-11-06,town,New Britain,Pulaski Middle School,012-00,Pulaski Middle School,"757 Farmington Avenue, New Britain, CT 06053",polling_place
+CT,2016-11-06,town,New Britain,Roosevelt Middle School,003-00,Roosevelt Middle School,"40 Goodwin Street, New Britain, CT 06051",polling_place
+CT,2016-11-06,town,New Britain,School Apartments,005-01,School Apartments,"50 Bassett Street, New Britain, CT 06051",polling_place
+CT,2016-11-06,town,New Britain,Smalley Academy,008-00,Smalley Academy,"175 West Street, New Britain, CT 06051",polling_place
+CT,2016-11-06,town,New Britain,St. Francis Of Assisi Church Hall,010-00,St. Francis Of Assisi Church Hall,"1755 Stanley Street, New Britain, CT 06053",polling_place
+CT,2016-11-06,town,New Britain,St John Paul 11 School,013-00,St John Paul 11 School,"221 Farmington Avenue, New Britain, CT 06053",polling_place
+CT,2016-11-06,town,New Britain,Slade Middle School,015-00,Slade Middle School,"183 Steele Street, New Britain, CT 06052",polling_place
+CT,2016-11-06,town,New Britain,Vance Village School,001-00,Vance Village School,"183 Vance Street, New Britain, CT 06052",polling_place
+CT,2016-11-06,town,New Canaan,New Canaan High School Gym,001-00,New Canaan High School Gym,"11 Farm Road, New Canaan, CT ",polling_place
+CT,2016-11-06,town,New Canaan,Saxe Middle School North,002-00,Saxe Middle School North,"468 South Ave, New Canaan, CT ",polling_place
+CT,2016-11-06,town,New Canaan,Saxe Middle School South,003-00,Saxe Middle School South,"468 South Ave, New Canaan, CT ",polling_place
+CT,2016-11-06,town,New Fairfield,Co A Firehouse,002-00,Co A Firehouse,"Ball Pond Road, New Fairfield, CT 06812",polling_place
+CT,2016-11-06,town,New Fairfield,Meeting House Hill School,001-00,Meeting House Hill School,"24 Gillotti Road, New Fairfield, CT 06812",polling_place
+CT,2016-11-06,town,New Hartford,New Hartford Town Hall,001-00,New Hartford Town Hall,"530 Main Street, New Hartford, CT 06057",polling_place
+CT,2016-11-06,town,New Hartford,South End Firehouse,002-00,South End Firehouse,"Antolini Road, New Hartford, CT 06057",polling_place
+CT,2016-11-06,town,New Haven,Atwater Senior Center 01,014-01,Atwater Senior Center 01,"26 Atwater Street, New Haven, CT 06513",polling_place
+CT,2016-11-06,town,New Haven,Barnard School,002-01,Barnard School,"170 Derby Avenue, New Haven, CT 06511",polling_place
+CT,2016-11-06,town,New Haven,Bella Vista 11-01,011-01,Bella Vista 11-01,"343 Eastern Street, New Haven, CT 06513",polling_place
+CT,2016-11-06,town,New Haven,Bishop Woods School,011-02,Bishop Woods School,"1481 Quinnipiac Avenue, New Haven, CT 06513",polling_place
+CT,2016-11-06,town,New Haven,Benjamin Jepson Magnet School,013-00,Benjamin Jepson Magnet School,"15 Lexington Avenue, New Haven, CT 06513",polling_place
+CT,2016-11-06,town,New Haven,Barnard School,023-00,Barnard School,"170 Derby Avenue, New Haven, CT 06511",polling_place
+CT,2016-11-06,town,New Haven,Beecher School,029-00,Beecher School,"100 Jewel Street, New Haven, CT 06515",polling_place
+CT,2016-11-06,town,New Haven,Career High School,003-01,Career High School,"140 Legion Avenue, New Haven, CT 06519",polling_place
+CT,2016-11-06,town,New Haven,Career High School02,003-02,Career High School02,"140 Legion Avenue, New Haven, CT 06519",polling_place
+CT,2016-11-06,town,New Haven,Career High School02,006-01,Career High School02,"140 Legion Avenue, New Haven, CT 06519",polling_place
+CT,2016-11-06,town,New Haven,Conte-West Hills School 02,006-04,Conte-West Hills School 02,"511 Chapel Street, New Haven, CT 06511",polling_place
+CT,2016-11-06,town,New Haven,Conte-West Schools 8-01,008-01,Conte-West Schools 8-01,"511 Chapel Street, New Haven, CT 06510",polling_place
+CT,2016-11-06,town,New Haven,Conte-West Hills School 02,008-02,Conte-West Hills School 02,"511 Chapel Street, New Haven, CT 06511",polling_place
+CT,2016-11-06,town,New Haven,Clinton Avenue School,009-01,Clinton Avenue School,"293 Clinton Avenue, New Haven, CT 06513",polling_place
+CT,2016-11-06,town,New Haven,Clinton Avenue School,015-01,Clinton Avenue School,"293 Clinton Avenue, New Haven, CT 06513",polling_place
+CT,2016-11-06,town,New Haven,Celentano Museum Academy,019-01,Celentano Museum Academy,"400 Canner Street, New Haven, CT 06511",polling_place
+CT,2016-11-06,town,New Haven,Celentano Museum Academy,019-02,Celentano Museum Academy,"400 Canner Street, New Haven, CT 06511",polling_place
+CT,2016-11-06,town,New Haven,Celentano Museum Academy,021-03,Celentano Museum Academy,"400 Canner Street, New Haven, CT 06511",polling_place
+CT,2016-11-06,town,New Haven,Clarence Rogers School 01,030-01,Clarence Rogers School 01,"199 Wilmot Road, New Haven, CT 06515",polling_place
+CT,2016-11-06,town,New Haven,Eastview Terrace,011-03,Eastview Terrace,"185 Eastern Street, New Haven, CT 06513",polling_place
+CT,2016-11-06,town,New Haven,Edgewood School,025-00,Edgewood School,"737 Edgewood Avenue, New Haven, CT 06515",polling_place
+CT,2016-11-06,town,New Haven,Firehouse Howard 01,005-00,Firehouse Howard 01,"525 Howard Avenue, New Haven, CT 06519",polling_place
+CT,2016-11-06,town,New Haven,Firehouse Woodward,008-03,Firehouse Woodward,"824 Woodward Avenue, New Haven, CT 06512",polling_place
+CT,2016-11-06,town,New Haven,Firehouse Woodward,014-02,Firehouse Woodward,"824 Woodward Avenue, New Haven, CT 06512",polling_place
+CT,2016-11-06,town,New Haven,Firehouse Woodward,017-00,Firehouse Woodward,"824 Woodward Avenue, New Haven, CT 06512",polling_place
+CT,2016-11-06,town,New Haven,Firehouse Ellsworth,024-00,Firehouse Ellsworth,"120 Ellsworth Avenue, New Haven, CT 06511",polling_place
+CT,2016-11-06,town,New Haven,Hall Of Records 02,001-03,Hall Of Records 02,"200 Orange Street, New Haven, CT 06510",polling_place
+CT,2016-11-06,town,New Haven,Hall Of Records 02,007-02,Hall Of Records 02,"200 Orange Street, New Haven, CT 06510",polling_place
+CT,2016-11-06,town,New Haven,Hillhouse High School,028-00,Hillhouse High School,"480 Sherman Parkway, New Haven, CT 06511",polling_place
+CT,2016-11-06,town,New Haven,John S. Martinez School,016-00,John S. Martinez School,"100 James Street, New Haven, CT 06513",polling_place
+CT,2016-11-06,town,New Haven,King-Robinson School,020-01,King-Robinson School,"150 Fournier Street, New Haven, CT 06511",polling_place
+CT,2016-11-06,town,New Haven,King-Robinson School,021-01,King-Robinson School,"150 Fournier Street, New Haven, CT 06511",polling_place
+CT,2016-11-06,town,New Haven,Lincoln-Bassett School,020-02,Lincoln-Bassett School,"130 Bassett Street, New Haven, CT 06511",polling_place
+CT,2016-11-06,town,New Haven,Lincoln-Bassett School,021-02,Lincoln-Bassett School,"130 Bassett Street, New Haven, CT 06511",polling_place
+CT,2016-11-06,town,New Haven,Main Library,001-02,Main Library,"133 Elm Street, New Haven, CT 06520",polling_place
+CT,2016-11-06,town,New Haven,Main Library,007-03,Main Library,"133 Elm Street, New Haven, CT 06520",polling_place
+CT,2016-11-06,town,New Haven,Main Library,022-03,Main Library,"133 Elm Street, New Haven, CT 06520",polling_place
+CT,2016-11-06,town,New Haven,Mauro Sheridan School,026-00,Mauro Sheridan School,"191 Fountain Street, New Haven, CT 06515",polling_place
+CT,2016-11-06,town,New Haven,Mitchell Library,027-00,Mitchell Library,"37 Harrison Street, New Haven, CT 06515",polling_place
+CT,2016-11-06,town,New Haven,Mitchell Library,027-01,Mitchell Library,"37 Harrison Street, New Haven, CT 06515",polling_place
+CT,2016-11-06,town,New Haven,New Horizons School 02,006-02,New Horizons School 02,"103 Hallock Avenue, New Haven, CT 06519",polling_place
+CT,2016-11-06,town,New Haven,New Horizons School 03,006-03,New Horizons School 03,"103 Hallock Avenue, New Haven, CT 06519",polling_place
+CT,2016-11-06,town,New Haven,Nathan Hale School,018-00,Nathan Hale School,"480 Townsend Avenue, New Haven, CT 06512",polling_place
+CT,2016-11-06,town,New Haven,Old West Hills,027-02,Old West Hills,"311 Valley Street, New Haven, CT 06515",polling_place
+CT,2016-11-06,town,New Haven,Old West Hills,030-02,Old West Hills,"311 Valley Street, New Haven, CT 06515",polling_place
+CT,2016-11-06,town,New Haven,Ross/woodward,012-01,Ross/woodward,"189 Barnes Avenue, New Haven, CT 06513",polling_place
+CT,2016-11-06,town,New Haven,Ross/woodward,012-02,Ross/woodward,"189 Barnes Avenue, New Haven, CT 06513",polling_place
+CT,2016-11-06,town,New Haven,Ross/woodward,015-03,Ross/woodward,"189 Barnes Avenue, New Haven, CT 06513",polling_place
+CT,2016-11-06,town,New Haven,Troup Academy,001-04,Troup Academy,"259 Edgewood Avenue, New Haven, CT 06511",polling_place
+CT,2016-11-06,town,New Haven,Troup Academy,002-02,Troup Academy,"259 Edgewood Avenue, New Haven, CT 06511",polling_place
+CT,2016-11-06,town,New Haven,Truman School,004-01,Truman School,"114 Truman St, New Haven, CT 06519",polling_place
+CT,2016-11-06,town,New Haven,Truman School 02,004-02,Truman School 02,"114 Truman Street, New Haven, CT 06519",polling_place
+CT,2016-11-06,town,New Haven,Troup Academy,007-01,Troup Academy,"259 Edgewood Avenue, New Haven, CT 06511",polling_place
+CT,2016-11-06,town,New Haven,Wexler Grant School,001-01,Wexler Grant School,"55 Foote Street, New Haven, CT 06511",polling_place
+CT,2016-11-06,town,New Haven,Wilbur Cross High School - Ward 9,009-00,Wilbur Cross High School - Ward 9,"181 Mitchell Drive, New Haven, CT 06511",polling_place
+CT,2016-11-06,town,New Haven,Wilbur Cross High School - Ward 9,009-02,Wilbur Cross High School - Ward 9,"181 Mitchell Drive, New Haven, CT 06511",polling_place
+CT,2016-11-06,town,New Haven,Wilbur Cross High School - Federal,010-00,Wilbur Cross High School - Federal,"181 Mitchell Drive, New Haven, CT 06511",polling_place
+CT,2016-11-06,town,New Haven,Wilbur Cross High School - Ward 9,015-02,Wilbur Cross High School - Ward 9,"181 Mitchell Drive, New Haven, CT 06511",polling_place
+CT,2016-11-06,town,New Haven,Wilbur Cross High School - Federal,019-03,Wilbur Cross High School - Federal,"181 Mitchell Drive, New Haven, CT 06511",polling_place
+CT,2016-11-06,town,New Haven,Wilbur Cross High School - Federal,021-04,Wilbur Cross High School - Federal,"181 Mitchell Drive, New Haven, CT 06511",polling_place
+CT,2016-11-06,town,New Haven,Wexler Grant School,022-01,Wexler Grant School,"55 Foote Street, New Haven, CT 06511",polling_place
+CT,2016-11-06,town,New Haven,Wexler Grant School,022-02,Wexler Grant School,"55 Foote Street, New Haven, CT 06511",polling_place
+CT,2016-11-06,town,New London,Harbor School,002-00,Harbor School,"432 Montauk Avenue, New London, CT 06320",polling_place
+CT,2016-11-06,town,New London,New London High School,001-00,New London High School,"490 Jefferson Avenue, New London, CT 06320",polling_place
+CT,2016-11-06,town,New London,Nathan Hale School,003-00,Nathan Hale School,"37 Beech Dr, New London, CT 06320",polling_place
+CT,2016-11-06,town,New Milford,Catherine E Lillis Building,002-00,Catherine E Lillis Building,"50 East Street, New Milford, CT 06776",polling_place
+CT,2016-11-06,town,New Milford,Gaylordsville Fire House,004-00,Gaylordsville Fire House,"Kent Road Rt 7, Gaylordsville, CT 06755",polling_place
+CT,2016-11-06,town,New Milford,Hill & Plain School,006-00,Hill & Plain School,"60 Old Town Park Road, New Milford, CT 06776",polling_place
+CT,2016-11-06,town,New Milford,Northville School,001-00,Northville School,"Hipp Road, New Milford, CT 06776",polling_place
+CT,2016-11-06,town,New Milford,Odd Fellows Lodge,003-00,Odd Fellows Lodge,"25 Danbury Road, New Milford, CT 06776",polling_place
+CT,2016-11-06,town,New Milford,Schaghticoke School,005-00,Schaghticoke School,"23 Hipp Road, New Milford, CT 06776",polling_place
+CT,2016-11-06,town,New Milford,Sarah Noble Intermediate School,007-00,Sarah Noble Intermediate School,"25 Sunny Valley Road, New Milford, CT 06776",polling_place
+CT,2016-11-06,town,Newington,Anna Reynolds School District3,003-00,Anna Reynolds School District3,"Reservoir Road, Newington, CT 06111",polling_place
+CT,2016-11-06,town,Newington,Elizabeth Green SchoolDistrict4,004-00,Elizabeth Green SchoolDistrict4,"Roseleah Ave Off Conn. Ave, Newington, CT 06111",polling_place
+CT,2016-11-06,town,Newington,John Wallace Middle SchoolDistrict5,005-00,John Wallace Middle SchoolDistrict5,"Halleran Drive, Newington, CT 06111",polling_place
+CT,2016-11-06,town,Newington,John Paterson SchoolDistrict6,006-00,John Paterson SchoolDistrict6,"Church Street, Newington, CT 06111",polling_place
+CT,2016-11-06,town,Newington,John Wallace Middle School-- District--8,008-00,John Wallace Middle School-- District--8,"Halleran Drive, Newington, CT 06111",polling_place
+CT,2016-11-06,town,Newington,Martin Kellogg Middle SchoolDistrict7,007-00,Martin Kellogg Middle SchoolDistrict7,"Harding Avenue Enter From Tom-Lin Road, Newington, CT 06111",polling_place
+CT,2016-11-06,town,Newington,Ruth L. Chaffee SchoolDistrict2,002-00,Ruth L. Chaffee SchoolDistrict2,"Superior Avenue, Newington, CT 06111",polling_place
+CT,2016-11-06,town,Newington,Town HallDistrict1,001-00,Town HallDistrict1,"Garfield Street Community Center Gym, Newington, CT 06111",polling_place
+CT,2016-11-06,town,Newtown,Head O Meadow School Cafetorium,003-01,Head O Meadow School Cafetorium,"Boggs Hill Road, Newtown, CT 06470",polling_place
+CT,2016-11-06,town,Newtown,Head O Meadow School Cafetorium,003-05,Head O Meadow School Cafetorium,"Boggs Hill Road, Newtown, CT 06470",polling_place
+CT,2016-11-06,town,Newtown,Middle School Gym A,001-00,Middle School Gym A,"11 Queen Street, Newtown, CT 06470",polling_place
+CT,2016-11-06,town,Newtown,Middle School Gym A,001-05,Middle School Gym A,"11 Queen Street, Newtown, CT 06470",polling_place
+CT,2016-11-06,town,Newtown,Reed Intermediate School,002-00,Reed Intermediate School,"3 Trades Lane, Newtown, CT 06470",polling_place
+CT,2016-11-06,town,Newtown,Reed Intermediate School,003-02,Reed Intermediate School,"3 Trades Lane, Newtown, CT 06470",polling_place
+CT,2016-11-06,town,Norfolk,Town Hall,001-00,Town Hall,"19 Maple Avenue, Norfolk, CT 06058",polling_place
+CT,2016-11-06,town,North Branford,Jerome Harrison Elementary School,001-00,Jerome Harrison Elementary School,"Foxon Road Rte 80, North Branford, CT 06471",polling_place
+CT,2016-11-06,town,North Branford,Stanley T. Williams School,002-00,Stanley T. Williams School,"1332 Middletown Avenue Rte 17, Northford, CT 06472",polling_place
+CT,2016-11-06,town,North Canaan,Town Hall - McCarthy Room,001-00,Town Hall - McCarthy Room,"Pease Street, North Canaan, CT 06018",polling_place
+CT,2016-11-06,town,North Haven,Clintonville Elementary School,005-00,Clintonville Elementary School,"Clintonville Road, North Haven, CT 06473",polling_place
+CT,2016-11-06,town,North Haven,Green Acres Elementary School,004-00,Green Acres Elementary School,"Upper State Street, North Haven, CT 06473",polling_place
+CT,2016-11-06,town,North Haven,Montowese Elementary School,002-00,Montowese Elementary School,"Fitch Street, North Haven, CT 06473",polling_place
+CT,2016-11-06,town,North Haven,Recreation Center,001-00,Recreation Center,"Linsley Street, North Haven, CT 06473",polling_place
+CT,2016-11-06,town,North Haven,Ridge Road Elementary School,003-00,Ridge Road Elementary School,"Ridge Road, North Haven, CT 06473",polling_place
+CT,2016-11-06,town,North Haven,Ridge Road Elementary School,003-11,Ridge Road Elementary School,"Ridge Road, North Haven, CT 06473",polling_place
+CT,2016-11-06,town,North Stonington,New Town Hall,001-00,New Town Hall,"40 Main Street, North Stonington, CT 06359",polling_place
+CT,2016-11-06,town,Norwalk,Columbus School,140-02,Columbus School,"46 Concord Street, Norwalk, CT 06854",polling_place
+CT,2016-11-06,town,Norwalk,Fox Run School,142-01,Fox Run School,"226 Fillow Street, Norwalk, CT 06850",polling_place
+CT,2016-11-06,town,Norwalk,Kendall School,140-01,Kendall School,"57 Fillow Street, Norwalk, CT 06850",polling_place
+CT,2016-11-06,town,Norwalk,Marvin School,137-01,Marvin School,"15 Calf Pasture Beach Road, Norwalk, CT 06855",polling_place
+CT,2016-11-06,town,Norwalk,Nathaniel Ely School,140-03,Nathaniel Ely School,"11 Ingalls Avenue, Norwalk, CT ",polling_place
+CT,2016-11-06,town,Norwalk,Nathan Hale Middle School,143-01,Nathan Hale Middle School,"176 Strawberry Hill Avenue, Norwalk, CT 06851",polling_place
+CT,2016-11-06,town,Norwalk,Ponus Ridge Middle School,142-02,Ponus Ridge Middle School,"21 Hunters Lane, Norwalk, CT 06850",polling_place
+CT,2016-11-06,town,Norwalk,Roton Middle School,141-01,Roton Middle School,"201 Highland Avenue, Norwalk, CT 06853",polling_place
+CT,2016-11-06,town,Norwalk,St. Mary's Community Hall,137-02,St. Mary's Community Hall,"669 West Avenue, Norwalk, CT ",polling_place
+CT,2016-11-06,town,Norwalk,Tracey School,137-03,Tracey School,"20 Camp Street, Norwalk, CT 06851",polling_place
+CT,2016-11-06,town,Norwalk,West Rocks Middle School,142-03,West Rocks Middle School,"81 West Rocks Road, Norwalk, CT 06851",polling_place
+CT,2016-11-06,town,Norwalk,Wolfpit School,143-02,Wolfpit School,"1 Starlight Drive, Norwalk, CT 06851",polling_place
+CT,2016-11-06,town,Norwich,AHEPA 110 II Apartments,006-00,AHEPA 110 II Apartments,"380 Hamilton Ave, Norwich, CT 06360",polling_place
+CT,2016-11-06,town,Norwich,John M. Moriarty School,001-00,John M. Moriarty School,"20 Lawler Lane, Norwich, CT 06360",polling_place
+CT,2016-11-06,town,Norwich,John B Stanton Elementary School,004-00,John B Stanton Elementary School,"384 New London Tpke, Norwich, CT 06360",polling_place
+CT,2016-11-06,town,Norwich,Rose City Senior Center,002-00,Rose City Senior Center,"8 Mahan Drive, Norwich, CT 06360",polling_place
+CT,2016-11-06,town,Norwich,Samuel Huntington Elementary School,003-00,Samuel Huntington Elementary School,"80 West Town Street, Norwich, CT 06360",polling_place
+CT,2016-11-06,town,Norwich,St Mark Lutheran Church,005-00,St Mark Lutheran Church,"248 Broadway, Norwich, CT 06360",polling_place
+CT,2016-11-06,town,Old Lyme,Cross Lane Firehouse,001-00,Cross Lane Firehouse,"Cross Lane, Old Lyme, CT 06371",polling_place
+CT,2016-11-06,town,Old Saybrook,Old Saybrook Middle School Gymnasium,001-00,Old Saybrook Middle School Gymnasium,"60 Sheffield Street, Old Saybrook, CT 06475",polling_place
+CT,2016-11-06,town,Old Saybrook,Old Saybrook High School Gymnasium,002-00,Old Saybrook High School Gymnasium,"1111 Boston Post Road, Old Saybrook, CT 06475",polling_place
+CT,2016-11-06,town,Orange,High Plains Community Center,002-00,High Plains Community Center,"525 Orange Center Road, Orange, CT 06477",polling_place
+CT,2016-11-06,town,Orange,High Plains Community Center,003-00,High Plains Community Center,"Orange Center Road, Orange, CT 06477",polling_place
+CT,2016-11-06,town,Orange,Mary L Tracy School,001-00,Mary L Tracy School,"650 Schoolhouse Lane, Orange, CT 06477",polling_place
+CT,2016-11-06,town,Oxford,Quaker Farms School,001-00,Quaker Farms School,"30 Great Oak Road, Oxford, CT 06478",polling_place
+CT,2016-11-06,town,Plainfield,1 Town Hall,001-00,1 Town Hall,"8 Community Avenue, Plainfield, CT 06374",polling_place
+CT,2016-11-06,town,Plainfield,1a Town Hall,001-01,1a Town Hall,"8 Community Avenue, Plainfield, CT 06374",polling_place
+CT,2016-11-06,town,Plainfield,2 Central Village Fire Station,002-00,2 Central Village Fire Station,"Black Hill Road, Central Village, CT 06332",polling_place
+CT,2016-11-06,town,Plainfield,3 Moosup Fire Station,003-00,3 Moosup Fire Station,"Main Street, Moosup, CT 06354",polling_place
+CT,2016-11-06,town,Plainfield,4 Atwood Hose Station,004-00,4 Atwood Hose Station,"Route 205, Wauregan, CT 06387",polling_place
+CT,2016-11-06,town,Plainville,Linden Street School,001-00,Linden Street School,"69 Linden Street, Plainville, CT 06062",polling_place
+CT,2016-11-06,town,Plainville,Our Lady Of Mercy Parish Hall,002-00,Our Lady Of Mercy Parish Hall,"19 South Canal Street, Plainville, CT 06062",polling_place
+CT,2016-11-06,town,Plainville,Toffolon School,003-00,Toffolon School,"145 Northwest Drive, Plainville, CT 06062",polling_place
+CT,2016-11-06,town,Plainville,Wheeler School,004-00,Wheeler School,"15 Cleveland Memorial Drive, Plainville, CT 06062",polling_place
+CT,2016-11-06,town,Plymouth,H S Fisher School,001-00,H S Fisher School,"79 North Main Street, Terryville, CT 06786",polling_place
+CT,2016-11-06,town,Plymouth,Lyceum,002-00,Lyceum,"181 Main Street, Terryville, CT 06786",polling_place
+CT,2016-11-06,town,Pomfret,Pomfret Community School,001-00,Pomfret Community School,"20 Pomfret Street, Pomfret Center, CT 06259",polling_place
+CT,2016-11-06,town,Portland,Portland Middle School,001-00,Portland Middle School,"93 High St, Portland, CT 06480",polling_place
+CT,2016-11-06,town,Preston,Town Hall,001-00,Town Hall,"389 Route 2, Preston, CT 06365",polling_place
+CT,2016-11-06,town,Prospect,Community School,002-00,Community School,"Center Street, Prospect, CT 06712",polling_place
+CT,2016-11-06,town,Prospect,Prospect Firehouse,001-00,Prospect Firehouse,"26 New Haven Road, Prospect, CT 06712",polling_place
+CT,2016-11-06,town,Putnam,Murphy Park Building,001-00,Murphy Park Building,"61 Keech Street, Putnam Ct, CT 06260",polling_place
+CT,2016-11-06,town,Putnam,Town Garage,002-00,Town Garage,"151 Fox Road, Putnam Ct, CT 06260",polling_place
+CT,2016-11-06,town,Redding,Redding Community Center,001-00,Redding Community Center,"37 Lonetown Road, Redding, CT 06896",polling_place
+CT,2016-11-06,town,Redding,Redding Community Center 2,002-00,Redding Community Center 2,"37 Lonetown Road, Redding, CT 06896",polling_place
+CT,2016-11-06,town,Ridgefield,East Ridge Middle School - 1,001-00,East Ridge Middle School - 1,"10 East Ridge Avenue, Ridgefield, CT 06877",polling_place
+CT,2016-11-06,town,Ridgefield,Scotts Ridge Middle School - 2,002-00,Scotts Ridge Middle School - 2,"750 North Salem Road, Ridgefield, CT 06877",polling_place
+CT,2016-11-06,town,Ridgefield,Scotts Ridge Middle School - 4,004-00,Scotts Ridge Middle School - 4,"750 North Salem Road, Ridgefield, CT 06877",polling_place
+CT,2016-11-06,town,Ridgefield,Yanity Gym - 3,003-00,Yanity Gym - 3,"60 Prospect Street, Ridgefield, CT 06877",polling_place
+CT,2016-11-06,town,Rocky Hill,Griswold Middle School,003-00,Griswold Middle School,"144 Bailey Road, Rocky Hill, CT 06067",polling_place
+CT,2016-11-06,town,Rocky Hill,Rocky Hill Community Center,002-00,Rocky Hill Community Center,"761 Old Main St., Rocky Hill, CT 06067",polling_place
+CT,2016-11-06,town,Rocky Hill,Rocky Hill Community Center,004-00,Rocky Hill Community Center,"761 Old Main Street, Rocky Hill, CT 06067",polling_place
+CT,2016-11-06,town,Rocky Hill,West Hill School,001-00,West Hill School,"Cronin Drive, Rocky Hill, CT 06067",polling_place
+CT,2016-11-06,town,Roxbury,Roxbury Town Hall,001-00,Roxbury Town Hall,"29 North Street, Roxbury, CT 06783",polling_place
+CT,2016-11-06,town,Salem,Salem Town Office Building,001-00,Salem Town Office Building,"270 Hartford Road, Salem, CT 06420",polling_place
+CT,2016-11-06,town,Salisbury,Town Hall,001-00,Town Hall,"27 Main Street, Salisbury, CT 06068",polling_place
+CT,2016-11-06,town,Scotland,Firehouse/community Center,001-00,Firehouse/community Center,"47 Brook Rd, Scotland, CT 06264",polling_place
+CT,2016-11-06,town,Seymour,District 1 Community Center,001-00,District 1 Community Center,"20 Pine Street, Seymour, CT 06483",polling_place
+CT,2016-11-06,town,Seymour,District 2 Seymour Middle School,002-00,District 2 Seymour Middle School,"211 Mountain Road, Seymour, CT 06483",polling_place
+CT,2016-11-06,town,Seymour,District 3 Chatfield-Lopresti School,003-00,District 3 Chatfield-Lopresti School,"51 Skokorat Street, Seymour, CT 06483",polling_place
+CT,2016-11-06,town,Sharon,Sharon Town Hall,001-00,Sharon Town Hall,"63 Main Street, Sharon, CT 06069",polling_place
+CT,2016-11-06,town,Shelton,Elizabeth Shelton School,001-00,Elizabeth Shelton School,"138 Willoughby Road, Shelton, CT 06484",polling_place
+CT,2016-11-06,town,Shelton,Long Hill School,003-00,Long Hill School,"565 Long Hill Avenue, Shelton, CT 06484",polling_place
+CT,2016-11-06,town,Shelton,Mohegan School,004-00,Mohegan School,"47 Mohegan Road, Shelton, CT 06484",polling_place
+CT,2016-11-06,town,Shelton,Shelton Intermediate School,002-00,Shelton Intermediate School,"675 Constitution Boulevard North, Shelton, CT 06484",polling_place
+CT,2016-11-06,town,Shelton,Shelton Intermediate School,002-01,Shelton Intermediate School,"675 Constitution Boulevard North, Shelton, CT 06484",polling_place
+CT,2016-11-06,town,Sherman,Emerg Services Facility - Firehouse- Upper Level,001-00,Emerg Services Facility - Firehouse- Upper Level,"1 Rte. 39, Sherman, CT 06784",polling_place
+CT,2016-11-06,town,Simsbury,Henry James Memorial School,001-00,Henry James Memorial School,"155 Firetown Road, Simsbury, CT 06070",polling_place
+CT,2016-11-06,town,Simsbury,Latimer Lane School,002-00,Latimer Lane School,"Mountain View Road, Weatogue, CT 06089",polling_place
+CT,2016-11-06,town,Simsbury,Tootin Hill School,003-00,Tootin Hill School,"Nimrod Road, West Simsbury, CT 06092",polling_place
+CT,2016-11-06,town,Simsbury,Tariffville School,004-00,Tariffville School,"Winthrop Street, Tariffville, CT 06081",polling_place
+CT,2016-11-06,town,Somers,Town Hall,001-00,Town Hall,"600 Main Street, Somers, CT 06071",polling_place
+CT,2016-11-06,town,South Windsor,Eli Terry School-Gym,002-00,Eli Terry School-Gym,"569 Griffin Road, South Windsor, CT 06074",polling_place
+CT,2016-11-06,town,South Windsor,Pleasant Valley School-Gym,001-00,Pleasant Valley School-Gym,"591 Ellington Road, South Windsor, CT 06074",polling_place
+CT,2016-11-06,town,South Windsor,Philip R Smith School - Gym,004-00,Philip R Smith School - Gym,"949 Avery Street, South Windsor, CT 06074",polling_place
+CT,2016-11-06,town,South Windsor,South Windsor High School-Auxiliary Gym,003-00,South Windsor High School-Auxiliary Gym,"161 Nevers Road, South Windsor, CT 06074",polling_place
+CT,2016-11-06,town,South Windsor,Timothy Edwards School - Stairwell B,005-00,Timothy Edwards School - Stairwell B,"100 Arnold Way, South Windsor, CT 06074",polling_place
+CT,2016-11-06,town,Southbury,Center Fire House District #1,001-00,Center Fire House District #1,"461 Main Street South, Southbury, CT 06488",polling_place
+CT,2016-11-06,town,Southbury,Southbury Public Library District #2,002-00,Southbury Public Library District #2,"100 Poverty Road, Southbury, CT 06488",polling_place
+CT,2016-11-06,town,Southbury,Southbury Community Building District #3,003-00,Southbury Community Building District #3,"561 Main Street South, Southbury, CT 06488",polling_place
+CT,2016-11-06,town,Southington,Derynoski School,003-00,Derynoski School,"240 Main Street, Southington, CT 06489",polling_place
+CT,2016-11-06,town,Southington,De Paolo School,006-00,De Paolo School,"385 Pleasant Street, Southington, CT 06489",polling_place
+CT,2016-11-06,town,Southington,Flanders School,005-00,Flanders School,"100 Victoria Drive, Southington, CT 06489",polling_place
+CT,2016-11-06,town,Southington,Hatton School,004-00,Hatton School,"70 Spring Lake Road, Southington, CT 06489",polling_place
+CT,2016-11-06,town,Southington,Kennedy School,002-00,Kennedy School,"1071 South Main Street, Plantsville, CT 06479",polling_place
+CT,2016-11-06,town,Southington,Kelley School,007-00,Kelley School,"501 Ridgewood Road, Southington, CT 06489",polling_place
+CT,2016-11-06,town,Southington,Plantsville School,010-00,Plantsville School,"70 Church Street, Plantsville, CT 06479",polling_place
+CT,2016-11-06,town,Southington,South End School,001-00,South End School,"10 Maxwell Nobel Drive, Plantsville, CT 06479",polling_place
+CT,2016-11-06,town,Southington,Strong School,011-00,Strong School,"820 Marion Avenue, Plantsville, CT 06479",polling_place
+CT,2016-11-06,town,Southington,Thalberg School,008-00,Thalberg School,"145 Dunham Road, Southington, CT 06489",polling_place
+CT,2016-11-06,town,Southington,Tabernacle,009-00,Tabernacle,"1445 West Street, Southington, CT 06489",polling_place
+CT,2016-11-06,town,Sprague,Baltic Fire House,001-00,Baltic Fire House,"Bushnell Hollow Road Route 138, Baltic Ct, CT 06330",polling_place
+CT,2016-11-06,town,Stafford,Benjamin A Muzio Town House,001-00,Benjamin A Muzio Town House,"221 East Street Route 19, Stafford, CT 06076",polling_place
+CT,2016-11-06,town,Stafford,Stafford Community Center,002-00,Stafford Community Center,"3 Buckley Highway, Stafford, CT 06076",polling_place
+CT,2016-11-06,town,Stafford,West Stafford Fire Department,003-00,West Stafford Fire Department,"144 West Stafford Road, Stafford, CT 06076",polling_place
+CT,2016-11-06,town,Stamford,Agudath Sholom Synagogue,007-02,Agudath Sholom Synagogue,"161 Colonial Road - Enter Here For -, Stamford, CT 06906",polling_place
+CT,2016-11-06,town,Stamford,Agudath Sholom - Synagogue,007-66,Agudath Sholom - Synagogue,"161 Colonial Road - Enter Here For -, Stamford, CT 06906",polling_place
+CT,2016-11-06,town,Stamford,Cloonan Middle School -Side,011-00,Cloonan Middle School -Side,"11 Powell Place, Stamford, CT 06902",polling_place
+CT,2016-11-06,town,Stamford,Domus - The Old Rogers School,002-00,Domus - The Old Rogers School,"15 Frank Street, Stamford, CT 06902",polling_place
+CT,2016-11-06,town,Stamford,Dolan Middle School,014-00,Dolan Middle School,"51 Toms Road -Front Entry, Stamford, CT 06906",polling_place
+CT,2016-11-06,town,Stamford,Davenport Ridge School,019-00,Davenport Ridge School,"1300 Newfield Avenue -Side Entry, Stamford, CT 06905",polling_place
+CT,2016-11-06,town,Stamford,Julia A Stark School,004-00,Julia A Stark School,"38 Oscar Street, Stamford, CT 06906",polling_place
+CT,2016-11-06,town,Stamford,J A Stark School J,004-57,J A Stark School J,"38 Oscar Street, Stamford, CT 06906",polling_place
+CT,2016-11-06,town,Stamford,K T Murphy School K,003-28,K T Murphy School K,"38 George Street, Stamford, CT 06902",polling_place
+CT,2016-11-06,town,Stamford,Long Ridge Church,022-02,Long Ridge Church,"455 Old Ridge Road, Stamford, CT ",polling_place
+CT,2016-11-06,town,Stamford,Murphy School,003-00,Murphy School,"38 George Street, Stamford, CT 06902",polling_place
+CT,2016-11-06,town,Stamford,Northeast School,020-01,Northeast School,"82 Scofieldtown Road, Stamford, CT 06903",polling_place
+CT,2016-11-06,town,Stamford,Our Lady Star Of The Sea,001-00,Our Lady Star Of The Sea,"1200 Shippan Avenue, Stamford, CT 06902",polling_place
+CT,2016-11-06,town,Stamford,Rippowam Middle School,013-00,Rippowam Middle School,"381 High Ridge Road, Stamford, CT 06905",polling_place
+CT,2016-11-06,town,Stamford,Roxbury School,017-00,Roxbury School,"751 West Hill Road -Gym Entrance, Stamford, CT 06902",polling_place
+CT,2016-11-06,town,Stamford,Stamford High School -Rear,005-00,Stamford High School -Rear,"84 Hillandale Avenue, Stamford, CT 06902",polling_place
+CT,2016-11-06,town,Stamford,Stamford High School Rear H,005-48,Stamford High School Rear H,"84 Hillandale Avenue, Stamford, CT 06902",polling_place
+CT,2016-11-06,town,Stamford,Saint Bridget Church Hall,006-01,Saint Bridget Church Hall,"274 Strawberry Hill Avenue, Stamford, CT 06902",polling_place
+CT,2016-11-06,town,Stamford,Saint Bridget Church E,006-71,Saint Bridget Church E,"274 Strawberry Hill Avenue, Stamford, CT 06902",polling_place
+CT,2016-11-06,town,Stamford,Stillmeadow School,008-00,Stillmeadow School,"800 Stillwater Road, Stamford, CT 06902",polling_place
+CT,2016-11-06,town,Stamford,Salvation Army Community Center,009-00,Salvation Army Community Center,"175 Selleck Street / Betts Avenue, Stamford, CT 06902",polling_place
+CT,2016-11-06,town,Stamford,Stillmeadow School,012-00,Stillmeadow School,"800 Stillwater Road, Stamford, CT 06902",polling_place
+CT,2016-11-06,town,Stamford,Springdale School -Rear,015-00,Springdale School -Rear,"1127 Hope Street, Stamford, CT 06907",polling_place
+CT,2016-11-06,town,Stamford,Scofield Middle School,021-00,Scofield Middle School,"641 Scofieldtown Road, Stamford, CT 06903",polling_place
+CT,2016-11-06,town,Stamford,Turn Of River School,016-01,Turn Of River School,"117 Vine Road, Stamford, CT ",polling_place
+CT,2016-11-06,town,Stamford,Turn Of River School,018-02,Turn Of River School,"117 Vine Road, Stamford, CT ",polling_place
+CT,2016-11-06,town,Stamford,Westover School,010-00,Westover School,"412 Stillwater Avenue, Stamford, CT 06902",polling_place
+CT,2016-11-06,town,Stamford,Westover School W,010-99,Westover School W,"412 Stilwater Avenue, Stamford, CT 06902",polling_place
+CT,2016-11-06,town,Sterling,Sterling Municipal Building,001-00,Sterling Municipal Building,"1183 Plainfield Pike, Oneco Ct, CT 06373",polling_place
+CT,2016-11-06,town,Stonington,BF Hoxie Engine Company,004-00,BF Hoxie Engine Company,"Mystic Fire Department, Mystic, CT 06355",polling_place
+CT,2016-11-06,town,Stonington,Board Of Education Administration Building,005-00,Board Of Education Administration Building,"49 North Stonington Road, Old Mystic, CT 06355",polling_place
+CT,2016-11-06,town,Stonington,Deans Mill School,003-00,Deans Mill School,"35 Deans Mill Road, Stonington, CT 06378",polling_place
+CT,2016-11-06,town,Stonington,Pawcatuck Fire House,002-00,Pawcatuck Fire House,"33 Liberty Street, Pawcatuck, CT 06379",polling_place
+CT,2016-11-06,town,Stonington,Stonington Fire House,001-00,Stonington Fire House,"100 Main Street, Stonington, CT 06378",polling_place
+CT,2016-11-06,town,Stratford,Bunnell High School 120 21,090-01,Bunnell High School 120 21,"1 Bulldog Lane, Stratford, CT 06614",polling_place
+CT,2016-11-06,town,Stratford,Bunnell High School 122 21,090-21,Bunnell High School 122 21,"1 Bulldog Lane, Stratford, CT 06614",polling_place
+CT,2016-11-06,town,Stratford,Chapel Street School 120 21,080-01,Chapel Street School 120 21,"380 Chapel Street, Stratford, CT 06614",polling_place
+CT,2016-11-06,town,Stratford,Chapel Street School 122 21,080-21,Chapel Street School 122 21,"380 Chapel Street, Stratford, CT 06614",polling_place
+CT,2016-11-06,town,Stratford,Franklin School 121 21,040-11,Franklin School 121 21,"1895 Barnum Avenue, Stratford, CT 06615",polling_place
+CT,2016-11-06,town,Stratford,Franklin School 121 23,040-13,Franklin School 121 23,"1895 Barnum Avenue, Stratford, CT 06615",polling_place
+CT,2016-11-06,town,Stratford,Johnson House 121 21,030-11,Johnson House 121 21,"719 Birdseye Street, Stratford, CT 06615",polling_place
+CT,2016-11-06,town,Stratford,Johnson House 121 23,030-13,Johnson House 121 23,"719 Birdseye Street, Stratford, CT 06615",polling_place
+CT,2016-11-06,town,Stratford,Lordship Elementary School 120 21,010-01,Lordship Elementary School 120 21,"254 Crown Street, Stratford, CT 06615",polling_place
+CT,2016-11-06,town,Stratford,Lordship Elementary School 121 21,011-11,Lordship Elementary School 121 21,"254 Crown Street, Stratford, CT 06615",polling_place
+CT,2016-11-06,town,Stratford,Nichols School 120 21,050-01,Nichols School 120 21,"396 Nichols Avenue, Stratford, CT 06614",polling_place
+CT,2016-11-06,town,Stratford,Nichols School 121 21,050-11,Nichols School 121 21,"396 Nichols Avenue, Stratford, CT 06614",polling_place
+CT,2016-11-06,town,Stratford,Stratford High School 120 21,020-01,Stratford High School 120 21,"45 North Parade, Stratford, CT 06615",polling_place
+CT,2016-11-06,town,Stratford,Stratford High School 121 21,020-11,Stratford High School 121 21,"45 North Parade, Stratford, CT 06615",polling_place
+CT,2016-11-06,town,Stratford,Stratford High School 121 23,020-13,Stratford High School 121 23,"45 North Parade, Stratford, CT 06615",polling_place
+CT,2016-11-06,town,Stratford,Second Hill Lane 120 21,100-01,Second Hill Lane 120 21,"65 Second Hill Lane, Stratford, CT 06614",polling_place
+CT,2016-11-06,town,Stratford,Wooster Middle School 120 21,060-01,Wooster Middle School 120 21,"150 Lincoln Street, Stratford, CT 06614",polling_place
+CT,2016-11-06,town,Stratford,Wooster Middle School 121 21,060-11,Wooster Middle School 121 21,"150 Lincoln Street, Stratford, CT 06614",polling_place
+CT,2016-11-06,town,Stratford,Wilcoxson School 120 21,070-01,Wilcoxson School 120 21,"600 Wilcoxson Avenue, Stratford, CT 06614",polling_place
+CT,2016-11-06,town,Suffield,Suffield Middle School,001-00,Suffield Middle School,"Formerly The Old High School, Suffield, CT 06078",polling_place
+CT,2016-11-06,town,Thomaston,Crescent Gallery Former Teen Center,001-00,Crescent Gallery Former Teen Center,"158 Main Street, Thomaston, CT 06787",polling_place
+CT,2016-11-06,town,Thompson,Community Room Town Hall,002-00,Community Room Town Hall,"815 Riverside Drive, North Grosvenordale, CT 06255",polling_place
+CT,2016-11-06,town,Thompson,East Thompson Fire Station,004-00,East Thompson Fire Station,"530 East Thompson Road, Thompson, CT 06277",polling_place
+CT,2016-11-06,town,Thompson,Quinebaug Volunteer Fire Department,003-00,Quinebaug Volunteer Fire Department,"720 Quinebaug Road, Quinebaug, CT 06262",polling_place
+CT,2016-11-06,town,Thompson,Thompson Hill Fire Station,001-00,Thompson Hill Fire Station,"70 Chase Road, Thompson, CT 06277",polling_place
+CT,2016-11-06,town,Tolland,The Gym At Tolland Recreation Center 1,001-00,The Gym At Tolland Recreation Center 1,"Formerly Parker School, Tolland, CT 06084",polling_place
+CT,2016-11-06,town,Tolland,Tolland Senior Center,002-00,Tolland Senior Center,"674 Tolland Stage Road, Tolland, CT 06084",polling_place
+CT,2016-11-06,town,Tolland,The Gym At Tolland Recreation Center 3,003-00,The Gym At Tolland Recreation Center 3,"Formerly Parker School, Tolland, CT 06084",polling_place
+CT,2016-11-06,town,Torrington,Armory,008-00,Armory,"153 South Main St, Torrington, CT 06790",polling_place
+CT,2016-11-06,town,Torrington,Coe Park 1,002-00,Coe Park 1,"101 Litchfield St, Torrington, CT 06790",polling_place
+CT,2016-11-06,town,Torrington,Coe Park 2,003-00,Coe Park 2,"101 Litchfield St, Torrington, CT 06790",polling_place
+CT,2016-11-06,town,Torrington,City Hall 1,006-00,City Hall 1,"140 Main St, Torrington, CT 06790",polling_place
+CT,2016-11-06,town,Torrington,City Hall 2,007-00,City Hall 2,"140 Main St, Torrington, CT 06790",polling_place
+CT,2016-11-06,town,Torrington,Torrington Middle School,001-00,Torrington Middle School,"200 Middle School Drive, Torrington, CT 06790",polling_place
+CT,2016-11-06,town,Torrington,Torringford School 1,004-00,Torringford School 1,"631 Torringford West St, Torrington, CT 06790",polling_place
+CT,2016-11-06,town,Torrington,Torringford School 2,005-00,Torringford School 2,"631 Torringford West Street, Torrington, CT 06790",polling_place
+CT,2016-11-06,town,Trumbull,Hillcrest School,001-23,Hillcrest School,"530 Daniels Farm Road, Trumbull, CT 06611",polling_place
+CT,2016-11-06,town,Trumbull,Madison School 123,003-23,Madison School 123,"4630 Madison Avenue, Trumbull, CT 06611",polling_place
+CT,2016-11-06,town,Trumbull,Middlebrook School 134,004-34,Middlebrook School 134,"220 Middlebrook Avenue, Trumbull, CT 06611",polling_place
+CT,2016-11-06,town,Trumbull,St. Joseph High School,002-22,St. Joseph High School,"2320 Huntington Tpke, Trumbull, CT 06611",polling_place
+CT,2016-11-06,town,Trumbull,St. Joseph High School,002-23,St. Joseph High School,"2320 Huntington Tpke, Trumbull, CT 06611",polling_place
+CT,2016-11-06,town,Union,Union Town Hall,001-00,Union Town Hall,"1043 Buckley Highway, Union, CT 06076",polling_place
+CT,2016-11-06,town,Vernon,North East School,001-00,North East School,"69 East Street, Vernon, CT 06066",polling_place
+CT,2016-11-06,town,Vernon,Rockville High School,002-00,Rockville High School,"70 Loveland Hill Road, Vernon, CT 06066",polling_place
+CT,2016-11-06,town,Vernon,Skinner Road School,003-00,Skinner Road School,"90 Skinner Road, Vernon, CT 06066",polling_place
+CT,2016-11-06,town,Vernon,Vernon Center Middle School,004-00,Vernon Center Middle School,"777 Hartford Turnpike, Vernon, CT 06066",polling_place
+CT,2016-11-06,town,Voluntown,Town Hall,001-00,Town Hall,"115 Main Street, Voluntown, CT 06384",polling_place
+CT,2016-11-06,town,Wallingford,Cook Hill School,005-00,Cook Hill School,"57 Hall Rd, Wallingford Ct, CT 06492",polling_place
+CT,2016-11-06,town,Wallingford,Dag Hammarskjold Middle School,004-00,Dag Hammarskjold Middle School,"106 Pond Hill Rd, Wallingford Ct, CT 06492",polling_place
+CT,2016-11-06,town,Wallingford,Evarts C. Stevens School,002-00,Evarts C. Stevens School,"18 Kondracki Ln, Wallingford Ct, CT 06492",polling_place
+CT,2016-11-06,town,Wallingford,Moses Y. Beach School,003-00,Moses Y. Beach School,"340 North Main St., Wallingford Ct, CT 06492",polling_place
+CT,2016-11-06,town,Wallingford,Pond Hill School,001-00,Pond Hill School,"297 Pond Hill Road, Wallingford Ct, CT 06492",polling_place
+CT,2016-11-06,town,Wallingford,Parker Farms School,006-00,Parker Farms School,"30 Parker Farms Rd, Wallingford Ct, CT 06492",polling_place
+CT,2016-11-06,town,Wallingford,Rock Hill School,009-00,Rock Hill School,"911 Durham Rd, Wallingford Ct, CT 06492",polling_place
+CT,2016-11-06,town,Wallingford,Wallingford Senior Center,008-00,Wallingford Senior Center,"284 Washington St, Wallingford Ct, CT 06492",polling_place
+CT,2016-11-06,town,Wallingford,Yalesville Elementary School,007-00,Yalesville Elementary School,"415 Church St, Yalesville Ct, CT 06492",polling_place
+CT,2016-11-06,town,Warren,Town Hall,001-00,Town Hall,"50 Cemetery Road, Warren, CT 06754",polling_place
+CT,2016-11-06,town,Washington,Town Hall,001-00,Town Hall,"Bryan Memorial Plaza, Washington Depot, CT 06794",polling_place
+CT,2016-11-06,town,Waterbury,Blessed Sacrament School,073-02,Blessed Sacrament School,"386 Robinwood Road, Waterbury, CT 06708",polling_place
+CT,2016-11-06,town,Waterbury,Carrington School,073-01,Carrington School,"24 Kenmore Rd, Waterbury, CT 06708",polling_place
+CT,2016-11-06,town,Waterbury,Chase School,074-01,Chase School,"40 Woodtick Road, Waterbury, CT 06401",polling_place
+CT,2016-11-06,town,Waterbury,Crosby High School,074-02,Crosby High School,"300 Pierpont Road, Waterbury, CT 06705",polling_place
+CT,2016-11-06,town,Waterbury,Edward D Bergin Apartments,072-05,Edward D Bergin Apartments,"70 Lakewood Road, Waterbury, CT 06704",polling_place
+CT,2016-11-06,town,Waterbury,Gilmartin School,071-02,Gilmartin School,"94 Spring Lake Road, Waterbury, CT 06706",polling_place
+CT,2016-11-06,town,Waterbury,Kennedy High School,071-01,Kennedy High School,"422 Highland Avenue, Waterbury, CT 06708",polling_place
+CT,2016-11-06,town,Waterbury,Kingsbury School,073-03,Kingsbury School,"220 Columbia Boulevard, Waterbury, CT 06710",polling_place
+CT,2016-11-06,town,Waterbury,Mount Olive A M E Zion Church,072-01,Mount Olive A M E Zion Church,"82 Pearl Street, Waterbury, CT 06704",polling_place
+CT,2016-11-06,town,Waterbury,Maloney School,075-03,Maloney School,"233 South Elm Street, Waterbury, CT 06706",polling_place
+CT,2016-11-06,town,Waterbury,Reed School,072-02,Reed School,"33 Griggs St, Waterbury, CT 06704",polling_place
+CT,2016-11-06,town,Waterbury,Regan School,072-04,Regan School,"2780 North Main Street, Waterbury, CT 06704",polling_place
+CT,2016-11-06,town,Waterbury,Sprague School,073-04,Sprague School,"1443 Thomaston Avenue, Waterbury, CT 06704",polling_place
+CT,2016-11-06,town,Waterbury,Saint Peter And Paul School,074-03,Saint Peter And Paul School,"116 Beecher Avenue, Waterbury, CT 06705",polling_place
+CT,2016-11-06,town,Waterbury,Tinker School,071-03,Tinker School,"655 Congress Avenue, Waterbury, CT 06708",polling_place
+CT,2016-11-06,town,Waterbury,Woodrow Wilson School,072-03,Woodrow Wilson School,"235 Birch Street, Waterbury, CT 06704",polling_place
+CT,2016-11-06,town,Waterbury,Wendell Cross School 15/3,074-04,Wendell Cross School 15/3,"1255 Hamilton Ave, Waterbury, CT 06706",polling_place
+CT,2016-11-06,town,Waterbury,Wendell Cross School 15/5,074-05,Wendell Cross School 15/5,"1255 Hamilton Ave, Waterbury, CT 06706",polling_place
+CT,2016-11-06,town,Waterbury,Willow Plaza Community Center,075-01,Willow Plaza Community Center,"60 Elmwood Avenue, Waterbury, CT 06710",polling_place
+CT,2016-11-06,town,Waterbury,Washington Park House,075-02,Washington Park House,"283 Sylvan Avenue, Waterbury, CT 06706",polling_place
+CT,2016-11-06,town,Waterbury,Washington School,075-04,Washington School,"685 Baldwin Street, Waterbury, CT 06706",polling_place
+CT,2016-11-06,town,Waterford,Great Neck School,004-00,Great Neck School,"165 Great Neck Road, Waterford, CT 06385",polling_place
+CT,2016-11-06,town,Waterford,Oswegatchie School,003-00,Oswegatchie School,"470 Boston Post Road, Waterford, CT 06385",polling_place
+CT,2016-11-06,town,Waterford,Quaker Hill School,002-00,Quaker Hill School,"285 Bloomingdale Road, Quaker Hill, CT 06375",polling_place
+CT,2016-11-06,town,Waterford,Town Hall,001-00,Town Hall,"15 Rope Ferry Road, Waterford, CT 06385",polling_place
+CT,2016-11-06,town,Watertown,Heminway Park School,001-00,Heminway Park School,"Heminway Park Road, Watertown, CT 06795",polling_place
+CT,2016-11-06,town,Watertown,Judson School,002-00,Judson School,"Hamilton Lane, Watertown, CT 06795",polling_place
+CT,2016-11-06,town,Watertown,Polk School,004-00,Polk School,"Buckingham Street, Oakville, CT 06779",polling_place
+CT,2016-11-06,town,Watertown,Swift Middle School,003-00,Swift Middle School,"Colonial Street, Oakville, CT 06779",polling_place
+CT,2016-11-06,town,West Hartford,Bristow Middle School,002-00,Bristow Middle School,"34 Highland Street, West Hartford, CT 06119",polling_place
+CT,2016-11-06,town,West Hartford,Braeburn School,008-00,Braeburn School,"45 Braeburn Road, West Hartford, CT 06107",polling_place
+CT,2016-11-06,town,West Hartford,Conard High School,006-00,Conard High School,"110 Beechwood Road, West Hartford, CT 06107",polling_place
+CT,2016-11-06,town,West Hartford,Elmwood Community Center,004-00,Elmwood Community Center,"1106 New Britain Avenue, West Hartford, CT 06110",polling_place
+CT,2016-11-06,town,West Hartford,Hall High School,009-00,Hall High School,"975 North Main Street, West Hartford, CT 06117",polling_place
+CT,2016-11-06,town,West Hartford,King Philip School,001-00,King Philip School,"100 King Philip Drive, West Hartford, CT 06117",polling_place
+CT,2016-11-06,town,West Hartford,Sedgwick Middle School,007-00,Sedgwick Middle School,"128 Sedgwick Road, West Hartford, CT 06107",polling_place
+CT,2016-11-06,town,West Hartford,West Hartford Town Hall,003-00,West Hartford Town Hall,"50 South Main Street, West Hartford, CT 06107",polling_place
+CT,2016-11-06,town,West Hartford,Wolcott School,005-00,Wolcott School,"71 Wolcott Road, West Hartford, CT 06110",polling_place
+CT,2016-11-06,town,West Haven,Ann V. Molloy School,007-00,Ann V. Molloy School,"255 Meloy Road, West Haven, CT 06516",polling_place
+CT,2016-11-06,town,West Haven,City Hall,001-00,City Hall,"355 Main Street, West Haven, CT 06516",polling_place
+CT,2016-11-06,town,West Haven,Forest School,006-00,Forest School,"95 Burwell Road, West Haven, CT 06516",polling_place
+CT,2016-11-06,town,West Haven,John Prete Senior Housing,005-00,John Prete Senior Housing,"1187 Campbell Avenue, West Haven, CT 06516",polling_place
+CT,2016-11-06,town,West Haven,Mackrille School,008-00,Mackrille School,"806 Jones Hill Road, West Haven, CT 06516",polling_place
+CT,2016-11-06,town,West Haven,Pagels School,010-00,Pagels School,"26 Benham Hill Road, West Haven, CT 06516",polling_place
+CT,2016-11-06,town,West Haven,Surfside Senior Housing,002-00,Surfside Senior Housing,"200 Oak Street, West Haven, CT 06516",polling_place
+CT,2016-11-06,town,West Haven,St Paul's Church Hall,004-00,St Paul's Church Hall,"898 First Avenue, West Haven, CT 06516",polling_place
+CT,2016-11-06,town,West Haven,Seth Haley School,009-00,Seth Haley School,"146 South Street, West Haven, CT 06516",polling_place
+CT,2016-11-06,town,West Haven,Washington School,003-00,Washington School,"369 Washington Avenue, West Haven, CT 06516",polling_place
+CT,2016-11-06,town,Westbrook,Theresa Mulvey Municipal Center - 1,001-00,Theresa Mulvey Municipal Center - 1,"35th Assembly District, Westbrook, CT 06498",polling_place
+CT,2016-11-06,town,Westbrook,Theresa Mulvey Municipal Center - 2,002-00,Theresa Mulvey Municipal Center - 2,"23rd Assembly District, Westbrook, CT 06498",polling_place
+CT,2016-11-06,town,Weston,Weston Middle School - 28,001-00,Weston Middle School - 28,"School Road, Weston, CT 06883",polling_place
+CT,2016-11-06,town,Weston,Weston Middle School - 26,002-00,Weston Middle School - 26,"School Road, Weston, CT 06883",polling_place
+CT,2016-11-06,town,Westport,Coleytown Middle School Gym,136-02,Coleytown Middle School Gym,"225 North Avenue, Westport, CT 06880",polling_place
+CT,2016-11-06,town,Westport,Greens Farms Elementary School Auditorium,136-04,Greens Farms Elementary School Auditorium,"17 Morningside Drive South, Westport, CT 06880",polling_place
+CT,2016-11-06,town,Westport,Greens Farms Elementary School Gym,136-05,Greens Farms Elementary School Gym,"17 Morningside Drive South, Westport, CT 06880",polling_place
+CT,2016-11-06,town,Westport,Long Lots Elementary School Gym,136-03,Long Lots Elementary School Gym,"13 Hyde Lane, Westport, CT 06880",polling_place
+CT,2016-11-06,town,Westport,Saugatuck Elementary School Gym,136-01,Saugatuck Elementary School Gym,"170 Riverside Avenue, Westport, CT 06880",polling_place
+CT,2016-11-06,town,Westport,Saugatuck Elementary School Gym,143-01,Saugatuck Elementary School Gym,"170 Riverside Avenue, Westport, CT 06880",polling_place
+CT,2016-11-06,town,Westport,Westport Public Library,136-06,Westport Public Library,"20 Jesup Road, Westport, CT 06880",polling_place
+CT,2016-11-06,town,Wethersfield,Emerson Williams School,005-00,Emerson Williams School,"461 Wells Road, Wethersfield, CT 06109",polling_place
+CT,2016-11-06,town,Wethersfield,Incarnation Church Hall,001-00,Incarnation Church Hall,"544 Prospect Street, Wethersfield, CT 06109",polling_place
+CT,2016-11-06,town,Wethersfield,Keeney Cultural Center,002-00,Keeney Cultural Center,"200 Main Street, Wethersfield, CT 06109",polling_place
+CT,2016-11-06,town,Wethersfield,Pitkin Community Center,006-00,Pitkin Community Center,"30 Greenfield Street, Wethersfield, CT 06109",polling_place
+CT,2016-11-06,town,Wethersfield,Wethersfield United Methodist Church,003-00,Wethersfield United Methodist Church,"150 Prospect Street, Wethersfield, CT 06109",polling_place
+CT,2016-11-06,town,Wethersfield,Webb Elementary School,004-00,Webb Elementary School,"51 Willow Street, Wethersfield, CT 06109",polling_place
+CT,2016-11-06,town,Willington,The Town Office Building,001-00,The Town Office Building,"40 Old Farms Road, Willington, CT 06279",polling_place
+CT,2016-11-06,town,Wilton,Cider Mill School - District 2,002-00,Cider Mill School - District 2,"240 School Rd., Wilton, CT 06897",polling_place
+CT,2016-11-06,town,Wilton,Middlebrook School - District 3,003-00,Middlebrook School - District 3,"131 School Road, Wilton, CT 06897",polling_place
+CT,2016-11-06,town,Wilton,Wilton High School - District 1,001-00,Wilton High School - District 1,"395 Danbury Road, Wilton, CT 06897",polling_place
+CT,2016-11-06,town,Winchester,Pearson School,001-00,Pearson School,"2 Wetmore Avenue, Winsted, CT 06098",polling_place
+CT,2016-11-06,town,Windham,Bpo Elks 1311,001-00,Bpo Elks 1311,"198 Pleasant St, Willimantic, CT 06226",polling_place
+CT,2016-11-06,town,Windham,Bpo Elks 1311,002-00,Bpo Elks 1311,"198 Pleasant St, Willimantic, CT 06226",polling_place
+CT,2016-11-06,town,Windham,Bpo Elks 1311,003-00,Bpo Elks 1311,"198 Pleasant St, Willimantic, CT 06226",polling_place
+CT,2016-11-06,town,Windham,Bpo Elks 1311,004-00,Bpo Elks 1311,"198 Pleasant St, Willimantic, CT 06226",polling_place
+CT,2016-11-06,town,Windham,Bpo Elks 1311,006-00,Bpo Elks 1311,"198 Pleasant St, Willimantic, CT 06226",polling_place
+CT,2016-11-06,town,Windham,Bpo Elks 1311,008-00,Bpo Elks 1311,"198 Pleasant St, Willimantic, CT 06226",polling_place
+CT,2016-11-06,town,Windham,Vfw,005-00,Vfw,"1415 West Main St, Willimantic, CT 06226",polling_place
+CT,2016-11-06,town,Windham,Windham Center Fire Dept,007-00,Windham Center Fire Dept,"Windham Center Road, Windham, CT ",polling_place
+CT,2016-11-06,town,Windsor,John F Kennedy School,002-00,John F Kennedy School,"Park Avenue, Windsor, CT 06095",polling_place
+CT,2016-11-06,town,Windsor,L. P. Wilson,001-00,L. P. Wilson,"Matianuck Avenue, Windsor, CT 06095",polling_place
+CT,2016-11-06,town,Windsor,Oliver Ellsworth School,005-00,Oliver Ellsworth School,"Kennedy Road, Windsor, CT 06095",polling_place
+CT,2016-11-06,town,Windsor,Poquonock School,006-00,Poquonock School,"Poquonock Avenue, Windsor, CT 06095",polling_place
+CT,2016-11-06,town,Windsor,Rainbow Firehouse,007-00,Rainbow Firehouse,"Rainbow Road, Windsor, CT 06095",polling_place
+CT,2016-11-06,town,Windsor,Windsor Town Hall,004-00,Windsor Town Hall,"275 Broad Street, Windsor, CT 06095",polling_place
+CT,2016-11-06,town,Windsor,330 Windsor Avenue,003-00,330 Windsor Avenue,"330 Windsor Avenue, Windsor, CT 06095",polling_place
+CT,2016-11-06,town,Windsor Locks,Mario Gatti Town Hall,001-00,Mario Gatti Town Hall,"50 Church Street, Windsor Locks, CT 06096",polling_place
+CT,2016-11-06,town,Windsor Locks,Windsor Locks High School,002-00,Windsor Locks High School,"58 South Elm Street, Windsor Locks, CT 06096",polling_place
+CT,2016-11-06,town,Wolcott,Tyrrell Middle School,001-00,Tyrrell Middle School,"500 Todd Road, Wolcott, CT 06716",polling_place
+CT,2016-11-06,town,Wolcott,Wolcott High School,002-00,Wolcott High School,"Bound Line Road, Wolcott, CT 06716",polling_place
+CT,2016-11-06,town,Wolcott,Wakelee,003-00,Wakelee,"Hempel Drive, Wolcott, CT 06716",polling_place
+CT,2016-11-06,town,Woodbridge,Center School 3,003-00,Center School 3,"Meetinghouse Lane, Woodbridge, CT 06525",polling_place
+CT,2016-11-06,town,Woodbridge,Center School 1,014-00,Center School 1,"4 Meetinghouse Lane, Woodbridge, CT 06525",polling_place
+CT,2016-11-06,town,Woodbury,Senior/ Community Center,001-00,Senior/ Community Center,"265 Main Street South, Woodbury, CT 06798",polling_place
+CT,2016-11-06,town,Woodbury,Senior/ Community Center,002-00,Senior/ Community Center,"265 Main Street South, Woodbury, CT 06798",polling_place
+CT,2016-11-06,town,Woodstock,Woodstock Town Hall,001-00,Woodstock Town Hall,"415 Route 169, Woodstock, CT 06281",polling_place
