@@ -1,4 +1,4 @@
-county,precinct_id,precinct_name,name,address
+county_name,precinct_id,precinct_name,name,address
 ACCOMACK COUNTY,0101,101 - CHINCOTEAGUE,CHINCOTEAGUE CENTER,6155 Community Dr
 ACCOMACK COUNTY,0201,201 - ATLANTIC,ATLANTIC FIRE HOUSE,10071 Atlantic Rd
 ACCOMACK COUNTY,0202,202 - GREENBACKVILLE,GREENBACKVILLE VOL. FIRE DEPT.,1468 Ellis Street
