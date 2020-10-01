@@ -1,4 +1,4 @@
-county,precinct_name,precinct_id,name,address
+county_name,precinct_name,precinct_id,name,address
 ,021 - TWENTY-ONE,021,JOHN F. KENNEDY COMMUNITY CENTER,12 Grand St Portsmouth VA  23701-3012
 ,209 - SALEM CHURCH,209,SALEM CHURCH MIDDLE SCHOOL,9700 Salem Church Rd Richmond VA  23237-3128
 ,302 - BRIARFIELD,302,AN ACHIEVABLE DREAM MIDDLE & HIGH SCH,5720 Marshall Ave Newport News VA 23605
