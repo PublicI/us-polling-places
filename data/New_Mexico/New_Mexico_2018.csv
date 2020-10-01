@@ -1,4 +1,4 @@
-state,jurisdiction_type,county_name,municipality,name,address,polling_place_type,ElectionDate
+state,jurisdiction_type,county_name,municipality,name,address,polling_place_type,election_date
 NM,county,Bernalillo,Albuquerque,VCC 28 - Del Norte High School,"5323 Montgomery Blvd NE, Albuquerque, NM, 87110",vote_center,11/06/2018
 NM,county,Bernalillo,Albuquerque,VCC 46 - Madison Middle School,"3501 Moon St NE, Albuquerque, NM, 87111",vote_center,11/06/2018
 NM,county,Bernalillo,Albuquerque,VCC 60 - Truman Middle School,"9400 Benavides Rd SW, Albuquerque, NM, 87121",vote_center,11/06/2018
