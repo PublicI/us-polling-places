@@ -1,4 +1,4 @@
-state,jurisdiction_type,county_name,municipality,name,address,polling_place_type,ElectionDate
+state,jurisdiction_type,county_name,municipality,name,address,polling_place_type,election_date
 NM,county,Bernalillo,Albuquerque,VCC 68 - West Mesa High School,"6701 Fortuna Rd NW, Albuquerque, NM, 87121",vote_center,11/04/2014
 NM,county,Bernalillo,Tijeras,VCC 20 - A Montoya Elementary School,"24 Public School Rd, Tijeras, NM, 87059",vote_center,11/04/2014
 NM,county,Bernalillo,Albuquerque,VCC 26 - Chaparral Elementary School,"6325 Milne Rd NW, Albuquerque, NM, 87120",vote_center,11/04/2014

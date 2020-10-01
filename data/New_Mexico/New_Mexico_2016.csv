@@ -1,4 +1,4 @@
-state,jurisdiction_type,county_name,municipality,name,address,polling_place_type,ElectionDate
+state,jurisdiction_type,county_name,municipality,name,address,polling_place_type,election_date
 NM,county,Bernalillo,Albuquerque,ED - SPARE 01,"SPARE, Albuquerque, NM, 87102",vote_center,11/08/2016
 NM,county,Bernalillo,Albuquerque,VCC 52 - Onate Elementary School,"12415 Brentwood Hills Blvd NE, Albuquerque, NM, 87112",vote_center,11/08/2016
 NM,county,Bernalillo,Tijeras,VCC 33 - Forest Meadow Baptist Church,"54 Hwy 217, Tijeras, NM, 87059",vote_center,11/08/2016
