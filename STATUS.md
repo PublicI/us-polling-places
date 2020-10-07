@@ -53,4 +53,4 @@ Here is the current status of data acquisition/cleaning/geocoding/release of dat
 |Washington    |Excluded       |Excluded       |Excluded       |Excluded       |
 |West Virginia |Released       |Released       |Released       |Released       |
 |Wisconsin     |Released       |Released       |Released       |Released       |
-|Wyoming       |Data Entry     |Data Entry     |Data Entry     |Data Entry     |
+|Wyoming       |Awaiting Review|Awaiting Review|Awaiting Review|Awaiting Review|
