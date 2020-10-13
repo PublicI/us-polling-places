@@ -1,7 +1,7 @@
 
 ## California Polling Places (2012-2018)
 
-This collection of polling locations in California contains 56,668 records. It covers general elections held from 2012 to 2018. It is drawn from 150 documents obtained via open records requests and research by the Center for Public Integrity. The records cover 48 of California's 58 counties.
+This collection of polling locations in California contains 57,246 records. It covers general elections held from 2012 to 2018. It is drawn from 172 documents obtained via open records requests and research by the Center for Public Integrity. The records cover 51 of California's 58 counties.
 
 ### Caveats
 
@@ -62,18 +62,18 @@ This dataset focuses on election day polling places, so early voting locations w
 | San Joaquin     | 524  | 523  | 492  | 558  |
 | San Luis Obispo | 75   | 146  | 78   | 139  |
 | San Mateo       | 368  | 383  | 362  | 39   |
-| Santa Barbara   | 94   | 86   | 73   | N/A  |
+| Santa Barbara   | 94   | 86   | 85   | 84   |
 | Santa Clara     | 754  | 834  | 836  | 849  |
 | Santa Cruz      | 88   | 84   | 72   | 143  |
 | Shasta          | 79   | 77   | 72   | 70   |
 | Sierra          | N/A  | N/A  | N/A  | N/A  |
 | Siskiyou        | 38   | 40   | 39   | 40   |
-| Solano          | N/A  | N/A  | N/A  | N/A  |
+| Solano          | 107  | 101  | 97   | 91   |
 | Sonoma          | N/A  | N/A  | N/A  | N/A  |
 | Stanislaus      | N/A  | N/A  | N/A  | N/A  |
 | Sutter          | N/A  | N/A  | N/A  | N/A  |
-| Tehama          | N/A  | N/A  | N/A  | N/A  |
-| Trinity         | N/A  | N/A  | N/A  | N/A  |
+| Tehama          | 29   | 30   | 7    | N/A  |
+| Trinity         | 5    | 5    | 5    | 5    |
 | Tulare          | N/A  | N/A  | N/A  | N/A  |
 | Tuolumne        | 24   | 24   | 24   | 22   |
 | Ventura         | 365  | 361  | 365  | 361  |
