@@ -50,7 +50,7 @@ election_date,state,county_name,precinct_id,name,address
 2012-11-06,TX,Angelina,28,Fairview Baptist Church,"3742 FM 2108 & FM 58 Lufkin, TX 75901"
 2012-11-06,TX,Angelina,29,O’Quinn Baptist church,"7433 US Hwy 69 North Pollok, TX 75969"
 2012-11-06,TX,Angelina,30,First Ora Missionary Baptist Church,"110 Faye Jones Rd Huntington, TX 75949"
-2012-11-06,TX,Angelina,31,Prairie Grove Baptist Church,"FM 1818 Diboll, TX"
+2012-11-06,TX,Angelina,31,Prairie Grove Baptist Church,"155 PRAIRIE GROVE RD & FM 1818, Diboll, TX 75941"
 2012-11-06,TX,Angelina,32,Shawnee Prairie Baptist Church,"14792 FM 1818 & Fm 844 Huntington, TX 75949"
 2012-11-06,TX,Angelina,33,Salem Baptist Church,"965 Ralph Nerren Rd Huntington, TX 75949"
 2012-11-06,TX,Angelina,35,Harmony Hill Baptist Church,"2708 S Chestnut Dr Lufkin, TX 75901"
@@ -72,27 +72,32 @@ election_date,state,county_name,precinct_id,name,address
 2012-11-06,TX,Archer,9,~Lake Kickapoo,"12442 FM 368 South, Lake Kickapoo, TX"
 2012-11-06,TX,Archer,10,Lakeside City — Municipal Building,"47 Donna St. Lakeside City, TX"
 2012-11-06,TX,Archer,11,Lake Creek - Wichita Livestock Sales Co.,"4006 US HWY 281, Wichita, TX"
+2012-11-06,TX,Armstrong,,Courthouse Basement,"100 Trice St., Claude 79019"
+2012-11-06,TX,Armstrong,,Courthouse Lobby,"100 TRICE, CLAUDE"
+2012-11-06,TX,Armstrong,,Washburn Firestation,"201 DUNCAN, WASHBURN"
+2012-11-06,TX,Armstrong,,Wayside Ambulance Barn,"3407 CO RD 5, WAYSIDE"
 2012-11-06,TX,Atascosa,1,EVERGREEN UNDERGROUND WATER CONSERVATION DIST. OFFICE OLD ROCK SCHOOL GROUNDS,"110 WYOMING BLVD PLEASANTON, TEXAS"
 2012-11-06,TX,Atascosa,2,RURAL SOMERSET (BLDG ACROSS FROM OLD ROCK CHURCH ON OLD ROCK SCHOOL GROUNDS),"1036 OLD ROCK RD. SOMERSET, TEXAS"
 2012-11-06,TX,Atascosa,3,ALL SAINT’S EPISCOPAL CHURCH HALL,"1425 W. OAKLAWN PLEASANTON, TEXAS"
-2012-11-06,TX,Atascosa,4,CAMPBELLTON SCHOOL,"235 E. BRAZOS STREET CAMPBELLTON, TEXAS"
+2012-11-06,TX,Atascosa,4,Campbellton Community Hall," 305 St. Francis St., Campbellton"
 2012-11-06,TX,Atascosa,5,PRIMROSE HEAD START CENTER,"16558 N. STATE HWY 16 POTEET, TEXAS"
 2012-11-06,TX,Atascosa,7,LEMING SCHOOL,"25 E 5™ ST. LEMING, TEXAS"
 2012-11-06,TX,Atascosa,8,POTEET VFW BUILDING,"9655 N STATE HWY16 POTEET, TEXAS"
 2012-11-06,TX,Atascosa,9,BLACKHILL COMMUNITY BUILDING,"2667 FM 478 FLORESVILLE, TEXAS"
 2012-11-06,TX,Atascosa,10,ROSSVILLE HISTORICAL COMMUNITY BUILDING,"515 FM 2504 POTEET, TEXAS"
 2012-11-06,TX,Atascosa,11,FASHING COMMUNITY CENTER,"4105 FM 2924 KARNES CITY, TEXAS"
-2012-11-06,TX,Atascosa,13,ST. MATTHEW'S CATHOLIC CHURCH,"1700 CAMPBELL AVENUE JOURDANTON, TEXAS"
-2012-11-06,TX,Atascosa,14,CHRISTINE CITY HALL,103 E AVE F CHRISTINE TEXAS
+2012-11-06,TX,Atascosa,12,St. Andrew Catholic Church Hall - Lytle,"14831 Main St., Lytle"
+2012-11-06,TX,Atascosa,13,Jourdanton VFW Post 4853 Building,"809 Oak St., Jourdanton, 78026"
+2012-11-06,TX,Atascosa,14,First Baptist Church Christine,"103 E. Ave I, Christine"
 2012-11-06,TX,Atascosa,15,PLEASANTON FIRE STATION,"219 W HUNT ST PLEASANTON, TEXAS"
 2012-11-06,TX,Atascosa,16,POTEET INDEPENDENT SCHOOL DISTRICT,"1100 SCHOOL DRIVE POTEET, TEXAS"
 2012-11-06,TX,Atascosa,17,ST. PHILLIPS CATHOLIC CHURCH,"AVE. H & 3RD STREET POTEET, TEXAS"
 2012-11-06,TX,Atascosa,18,CHARLOTTE VOLUNTEER FIRE DEPARTMENT,"47 E. HINDES AVE. CHARLOTTE, TEXAS"
-2012-11-06,TX,Atascosa,19,ATASCOSA COUNTY HEALTH OFFICE,"1102 CAMPBELL AVE. JOURDANTON, TX"
+2012-11-06,TX,Atascosa,"19, 6",Jourdanton Community Center,"1101 Campbell Ave, Jourdanton"
 2012-11-06,TX,Atascosa,20,TRINITY BAPTIST CHURCH,"1219 N. BRYANT PLEASANTON, TEXAS"
 2012-11-06,TX,Atascosa,21,MCCOY (FORMER POST OFFICE),2140 FM 541 McCOY TEXAS
 2012-11-06,TX,Atascosa,22,VERDI COMMUNITY BUILDING,"40 FAIRVIEW RD PLEASANTON, TEXAS"
-2012-11-06,TX,Atascosa,23,PALO ALTO BAPTIST CHURCH,"16841 N. HWY 16 POTEET, TEXAS"
+2012-11-06,TX,Atascosa,23,ESSEX PROPERTIES,"16335 N. SH 16, Poteet"
 2012-11-06,TX,Atascosa,24,BENTON CITY WATER SUPPLY BUILDING,"21180 NAEGELIN RD LYTLE, TEXAS"
 2012-11-06,TX,Austin,101,AUSTIN COUNTY COURTHOUSE (Basement Meeting Room),1 E Main St Bellville TX 77418
 2012-11-06,TX,Austin,102,AUSTIN COUNTY CONVENTION & EXPO CENTER,1076 E Hill St Bellville TX 77418
@@ -536,7 +541,7 @@ election_date,state,county_name,precinct_id,name,address
 2012-11-06,TX,Bosque,1,Iredell– Iredell City Hall,"218 South Eastland Street, Iredell 76649"
 2012-11-06,TX,Bosque,2,Walnut Springs– Walnut Springs City Hall,"4126 Third Street, Walnut 
 Springs, 76690"
-2012-11-06,TX,Bosque,3,Morgan – Morgan Community Center,"Corner/Charles & Mary St, Morgan 76671"
+2012-11-06,TX,Bosque,3,Morgan – Morgan Community Center,"Corner Charles & Mary St, Morgan 76671"
 2012-11-06,TX,Bosque,4,Meridian – Meridian Fire Station,"110 Bateman Street, Meridian 76665"
 2012-11-06,TX,Bosque,5,Meridian – Meridian Civic Center,"309 West River, Meridian 76665"
 2012-11-06,TX,Bosque,6,Kopperl – Kopperl Fire Station,"126 FM 1859, Kopperl 76652"
@@ -574,7 +579,7 @@ Springs, 76690"
 2012-11-06,TX,Bowie,8C,BUCHANAN BAPTIST CHURCH,"3635 Buchanan Loop Rd, Texarkana, TX 75501"
 2012-11-06,TX,Bowie,9,NASH SCHOOL,"1600 Waterall St, Texarkana, TX 75501"
 2012-11-06,TX,Bowie,10,PG INTERMEDIATE SCHOOL,"8480 N Kings Hwy, Texarkana, TX 75503"
-2012-11-06,TX,Bowie,11,LEARY SCHOOL,"W New Boston Road and FM 2253 Hooks, TX 75561"
+2012-11-06,TX,Bowie,11,LEARY SCHOOL,"9500 W NEW BOSTON RD, Texarkana, TX 75501"
 2012-11-06,TX,Bowie,12,RED SPRINGS BAPTIST CHURCH,"1101 FM 991, Texarkana, TX 75501"
 2012-11-06,TX,Bowie,13,HOOKS HIGH SCHOOL,"401 E Ave A, Hooks, TX 75561"
 2012-11-06,TX,Bowie,14,BOWIE COUNTY COURTHOUSE,"710 James Bowie Dr, New Boston, TX 75570"
@@ -810,6 +815,13 @@ Brooks Sub station","Encino, Texas"
 2012-11-06,TX,Calhoun,25,Port O'Connor Fire Station,"101 S. 6th St. Port O'Connor, Texas"
 2012-11-06,TX,Calhoun,14,GRACE EPISCOPAL CHURCH,"213 E Austin St, Port Lavaca, TX 77979"
 2012-11-06,TX,Calhoun,15,CITY HALL,"202 N Virginia St, Port Lavaca, TX 77979"
+2012-11-06,TX,Callahan,3,BAIRD ACTIVITY CENTER,"228 WALNUT, Baird 79504"
+2012-11-06,TX,Callahan,6,CLYDE SOUTHSIDE BAPTIST,"641 HUNT ST., CLYDE 79510"
+2012-11-06,TX,Callahan,1,CLYDE WOMEN'S CLUB,"317 S. First St., Clyde 79510"
+2012-11-06,TX,Callahan,4,CROSS PLAINS COMMUNITY CENTER,"108 BEECH ST., CROSS PLAINS 76443"
+2012-11-06,TX,Callahan,2,EULA SCHOOL,"6040 FM 603, CLYDE 79510"
+2012-11-06,TX,Callahan,7,OPLIN COMMUNITY CENTER,"8990 FM 2926, CLYDE 79510"
+2012-11-06,TX,Callahan,5,PUTNAM COMMUNITY CENTER,"120 WEST TRAVIS, PUTNAM 76469"
 2012-11-06,TX,Cameron,"1,83",Bennie Ochoa County Annex Building,"505 Highway 100 Port Isabel, Texas"
 2012-11-06,TX,Cameron,"2,99",Las Yescas Elementary School,"23413 FM 803 Las Yescas, Texas"
 2012-11-06,TX,Cameron,"3,66",Los Fresnos Community Center,"204 Brazil St. Los Fresnos, Texas"
@@ -931,6 +943,18 @@ Brooks Sub station","Encino, Texas"
 2012-11-06,TX,Castro,307,FRIO BAPTIST CHURCH,"320 FM 1055 HEREFORD, TX 79045"
 2012-11-06,TX,Castro,401,CASTRO COUNTY COURTHOUSE,"100 E. BEDFORD RM.200 DIMMITT, TX 79027"
 2012-11-06,TX,Castro,408,NAZARETH SENIOR CITIZENS BUILDING,"103 N. 2ND NAZARETH, TX 79063"
+2012-11-06,TX,Chambers,14,ANAHUAC AIRPORT,"201 Airport Rd., Anahuac, 77514"
+2012-11-06,TX,Chambers,6,American Legion Hall,1704 S. Main Anahuac 77514
+2012-11-06,TX,Chambers,5,Beach City Community Building,12723 Tri City Beach Rd. Beach City 77520
+2012-11-06,TX,Chambers,11,Cedar Bayou Community Building,7711 Hwy 146 Baytown 77520
+2012-11-06,TX,Chambers,8,Cove Community Building,5757 FM 565 Cove 77520
+2012-11-06,TX,Chambers,2,Hankamer Community Building,9511 Hwy 61 Hankamer 77560
+2012-11-06,TX,Chambers,4,MONT BELVIEU CITY HALL,"11607 Eagle Dr, Baytown, TX 77523"
+2012-11-06,TX,Chambers,9,Oak Island Community Building,1126 West Bayshore Rd. Oak Island 77514
+2012-11-06,TX,Chambers,3,Pine Island School Building,9310 FM 562 Anahuac 77514
+2012-11-06,TX,Chambers,10,WEST CHAMBERS COUNTY ANNEX,10616 EAGLE DR MONT BELVIEU 77523
+2012-11-06,TX,Chambers,1,Wallisville Community Building,524 Num. 9 Rd off Hwy 563 Wallisville 77597
+2012-11-06,TX,Chambers,12,Winnie Stowell Community Building,"335 Park Street, Winnie, 77665"
 2012-11-06,TX,Cherokee,12,Gallatin Community Center,"FM 768 Gallatin, Texas"
 2012-11-06,TX,Cherokee,13,Dialville Rocky Springs Baptist Church,"653 FM 1910 W Also CR 1719, Texas"
 2012-11-06,TX,,14,Corinth Baptist Church,"Turney, Texas"
@@ -976,6 +1000,18 @@ Brooks Sub station","Encino, Texas"
 2012-11-06,TX,Clay,9,Henrietta Church of Christ,"101 S Burnett, Henrietta"
 2012-11-06,TX,Clay,15,First Baptist Church,"208 S Graham, Henrietta"
 2012-11-06,TX,Clay,1,Clay County Senior Citizens Center,"216 N Hancock, Henrietta"
+2012-11-06,TX,Colorado,101,Colorado Co Services Facility - Columbus,"305 Radio Lane, Columbus 78934"
+2012-11-06,TX,Colorado,102,Rock Island Comm Center - Rock Island,"2710 Niles St, Rock Island 77470"
+2012-11-06,TX,Colorado,103,Lehrer Interest - Garwood,"7836 Hwy 71, Garwood NA"
+2012-11-06,TX,Colorado,201,Weimar City Hall - Weimar,"106 E. Main, Weimar 78962"
+2012-11-06,TX,Colorado,202,Sheridan Community Center - Sheridan,"5803 S. Logan Park Dr, Sheridan NA"
+2012-11-06,TX,Colorado,301,Theut Glass Company - W. Columbus,"1317 Bus Hwy 71 W Columbus, Columbus 78934"
+2012-11-06,TX,Colorado,302,St. Peter&Paul Church Dining Hall - Frelsburg,"1031 Church Ln, Frelsburg NA"
+2012-11-06,TX,Colorado,303,St. Roch's Parish Hall - Mentz,"1704 Mentz Rd, Mentz NA"
+2012-11-06,TX,Colorado,304,Bernardo Fire Station - Bernardo,"2845 FM 949, BERNARDO NA"
+2012-11-06,TX,Colorado,305,Agriculture Building - Columbus,"316 Spring St, Columbus NA"
+2012-11-06,TX,Colorado,401,Robert R. Wells Airport - Altair,"1084 CR 102, Altair NA"
+2012-11-06,TX,Colorado,402,Eagle Lake Community Center - Eagle Lake,"100 N. Walnut, Eagle Lake NA"
 2012-11-06,TX,Cochran,"101,306,404",Basement of Cochran County Courthouse ,"100 North Main, Room 102 Morton, Texas 79346 "
 2012-11-06,TX,Cochran,202,Foyer of Old Whiteface School Gym,"315 Arthur Street Whiteface, Texas 79379 "
 2012-11-06,TX,Cochran,303,Precinct 3 County Barn,"Highway 125 Bledsoe, TX 79314"
@@ -2091,6 +2127,15 @@ Brooks Sub station","Encino, Texas"
 2012-11-06,TX,Fisher,22,Sylvester Community Center,389 FM 57 S Sylvester TX 79560
 2012-11-06,TX,Floyd,,FUMC Lockney,"102 W. Poplar Street Lockney, TX 79241"
 2012-11-06,TX,Floyd,,Courthouse Annex Floydada,"110 S. Wall, Floydada, Texas 79235"
+2012-11-06,TX,Foard,101,Basement of County Courthouse,101 S. Main Crowell
+2012-11-06,TX,Franklin,101,Franklin County Law Enforcement Center,"208 Hwy 37, Mt. Vernon 75457"
+2012-11-06,TX,Franklin,102,Hagansport Community Center,"10284 Texas Hwy 37 North, Talco, TX 75487"
+2012-11-06,TX,Franklin,201,Franklin County Library,"100 Main Street East, Mt. Vernon, TX 75457"
+2012-11-06,TX,Franklin,202,Denton Baptist Church,"1113 Holbrook Sreet (Spur 423), Mt. Vernon, TX 75457"
+2012-11-06,TX,Franklin,301,Purley Community Center,"513 FM 900 West, Mt. Vernon, TX 75457"
+2012-11-06,TX,Franklin,302,Franklin County Building,"1013 N Main Street, Winnsboro, TX 75494"
+2012-11-06,TX,Franklin,401,Lake Cypress Spring Baptist Church,"6611 FM 115, Scroggins, TX 75480"
+2012-11-06,TX,Franklin,402,South Franklin Community Center,"3150 FM 1448, Scroggins, TX 75480"
 2012-11-06,TX,Freestone,1,Fairfield Conference Center,"839 East Commerce, Fairfield"
 2012-11-06,TX,Freestone,2,Dogan Cafeteria,"S Bateman, Fairfield"
 2012-11-06,TX,Freestone,3,Donnie Community Center,"State Hwy 164 West, Donic"
@@ -2115,6 +2160,10 @@ Brooks Sub station","Encino, Texas"
 2012-11-06,TX,Frio,8,Ted Flores Elementary (Portable Building),"1005 N. Willow St. Pearsall, TX 78061"
 2012-11-06,TX,Frio,9,Frio County Annex. Building ,"101 N. Commerce St. Dilley, TX 78017 Old Dilley"
 2012-11-06,TX,Frio,10,Old Dilley Public Library,"231 W. FM 117 Dilly, TX 78017"
+2012-11-06,TX,Gaines,2,GAINES COUNTY CIVIC CENTER,505 NW 5TH SEMINOLE 79360
+2012-11-06,TX,Gaines,6,HIGGINBOTHAM COMMUNITY CENTER,2140 FM 1757 SEMINOLE 79360
+2012-11-06,TX,Gaines,5,LOOP COMMUNITY BUILDING,1462 HWY 303 LOOP 79342
+2012-11-06,TX,Gaines,8,SEAGRAVES COMMUNITY BUILDING,512 14TH SEAGRAVES
 2012-11-06,TX,Galveston,,AMOCO Federal Credit Union,"235 East Parkwood Ave, Friendswood"
 2012-11-06,TX,Galveston,,Bacliff Community Center,"4503 11th Street, Bacliff"
 2012-11-06,TX,Galveston,,Bauerschlag Elementary,"2051 Brittany Bay Blvd, League City"
@@ -3800,6 +3849,11 @@ Go Texan Building","5220 F.M. 3455 Navasota, TX 77868"
 2012-11-06,TX,Jasper,19,Church of Jasper,"15636 FM 777 Jasper, TX"
 2012-11-06,TX,Jasper,20,Tanglewood Baptist Church,"255 Burch, Jasper, TX"
 2012-11-06,TX,Jasper,21,Presbyterian Church,"749 Verna, Jasper, TX"
+2012-11-06,TX,Jeff Davis,5,Davis Mountains Resort Baptist Church,208 Tomahawk Trail Fort Davis
+2012-11-06,TX,Jeff Davis,1,JDC LAW ENFORCEMENT BLDG.,103 Court Ave Fort Davis
+2012-11-06,TX,Jeff Davis,2,St. Joseph's Parish Hall,800 State St. Fort Davis
+2012-11-06,TX,Jeff Davis,3,United Methodist Church Church Fellowship Hall,202 Front Street Fort Davis
+2012-11-06,TX,Jeff Davis,4,Valentine Community Bldg,200 N. 6th St. Valentine
 2012-11-06,TX,Jefferson,"1,2",Dr. Mae Jones-Clark Elementary,"3525 Cleveland St., Beaumont, TX"
 2012-11-06,TX,Jefferson,"3,8",Sterling Pruitt Center,"2930 Gulf St., Beaumont, TX"
 2012-11-06,TX,Jefferson,4,BISD Administration Building,"3395 Harrison Ave., Beaumont, TX"
@@ -3861,6 +3915,27 @@ Go Texan Building","5220 F.M. 3455 Navasota, TX 77868"
 2012-11-06,TX,Jim Hogg,2,Old Jr. High Gym,308 W. Lucille
 2012-11-06,TX,Jim Hogg,3,Fire Dept.,305 E. Galbraith
 2012-11-06,TX,Jim Hogg,"4,5",JHC Food Pantry,412 W. Galbraith
+2012-11-06,TX,Jim Wells,9,Alice High School,1 Coyote Trail Alice 78332
+2012-11-06,TX,Jim Wells,5,BB-PB ELEMENTARY #1,2754 FM 735 Alice 78332
+2012-11-06,TX,Jim Wells,17,BEN BOLT-PALITO BLANCO ISD AG. BLDG.,"172 Badger Lane Ben Bolt, TX 78342"
+2012-11-06,TX,Jim Wells,20,BOYS & GIRLS CLUB OF ALICE,793 S TEXAS BLVD ALICE 78332
+2012-11-06,TX,Jim Wells,1,COURTHOUSE #2,200 N ALMOND ALICE 78332
+2012-11-06,TX,Jim Wells,7,Church of Christ,1396 Morningside Dr. Alice 78332
+2012-11-06,TX,Jim Wells,19,Eggemeyer Residence,150-A CR 336 Alice 78332
+2012-11-06,TX,Jim Wells,13,HI-RISE #1,600 E FRONT ST ALICE 78332
+2012-11-06,TX,Jim Wells,22,JIM WELLS COUNTY COMMUNITY BLDG,1106 Castillo St Alice 78332
+2012-11-06,TX,Jim Wells,14,LA GLORIA SCHOOL #1,182 E CR 401 FALFURRIAS 78355
+2012-11-06,TX,Jim Wells,10,MARY R GARCIA ELEMENTARY SCHOOL #1,3051 OLD KINGSVILLE RD ALICE 78332
+2012-11-06,TX,Jim Wells,15,NOONAN ELEMENTARY #1,701 W 3RD ST ALICE 78332
+2012-11-06,TX,Jim Wells,8,ORANGE GROVE INTERMEDIATE SCHOOL,106 Bulldog Ln Orange Grove 78372
+2012-11-06,TX,Jim Wells,4,PREMONT HIGH SCHOOL #1,400 S ELAINE PREMONT 78375
+2012-11-06,TX,Jim Wells,11,PREMONT LIBRARY,115 AGNES ST PREMONT 78375
+2012-11-06,TX,Jim Wells,2,RAY'S ROUNDUP #1,8086 N HWY 281 ORANGE GROVE 78372
+2012-11-06,TX,Jim Wells,16,SAENZ ELEMENTARY SCHOOL #1,400 Palo Blanco St ALICE 78332
+2012-11-06,TX,Jim Wells,3,SANDIA COMMUNITY HALL #1,301 Nueces Sandia 78383
+2012-11-06,TX,Jim Wells,12,SCHALLERT ELEM SCHOOL,1001 JIM WELLS ST ALICE 78332
+2012-11-06,TX,Jim Wells,6,SPRINGFIELD CO BLDG #1,501 S VENTURA ST SAN DIEGO 78384
+2012-11-06,TX,Jim Wells,18,TECOLOTE COUNTY BLDG #1,197 CR 120 ALICE 78332
 2012-11-06,TX,Johnson,1,Bethel Baptist Church,"8871 N Hwy 171 Godley, Texas 76044"
 2012-11-06,TX,Johnson,2,NorthPointe FBC of Joshua,"2450 SW Wilshire Blvd. Burleson, Texas 76028"
 2012-11-06,TX,Johnson,3,Victory Family Assembly of God Church,"455 NW John Jones Dr. Burleson, Texas 76028"
@@ -3962,6 +4037,12 @@ Go Texan Building","5220 F.M. 3455 Navasota, TX 77868"
 2012-11-06,TX,Kendall,4070,Waring School House,"105 Avenue E, Waring, Texas"
 2012-11-06,TX,Kendall,4100,Faith Bible Church,"1 Bergmann Road, Boerne, Texas"
 2012-11-06,TX,Kendall,"4101,4103,4230,4240,4250,4260",E.M.S. Building,"1175 N. Main Street, Boerne, Texas"
+2012-11-06,TX,Kenedy,3,Justice Courts Building,101 N. Main Street Sarita 78385
+2012-11-06,TX,Kenedy,2,KENEDY COUNTY ELECTIONS OFFICE,150 N TURCOTTE SARITA
+2012-11-06,TX,Kenedy,6,Norias Ranch Unit Managers Office,East Highway 77 Sarita 78385
+2012-11-06,TX,Kenedy,5,Our Lady of Guadalupe Church,103 S. Main Sarita 78385
+2012-11-06,TX,Kenedy,1,Sarita Elementary School,300 E. La Parra Sarita 78385
+2012-11-06,TX,Kenedy,4,Schulz Barn,"556 Devisadero Ranch Road, Armstrong, Texas 78385"
 2012-11-06,TX,Kent,401,Kent County Courthouse,"101 North Main Jayton, Texas"
 2012-11-06,TX,Kent,101,Jayton-Girard ISD Foyer,"700 Madison Ave Jayton, Texas"
 2012-11-06,TX,Kent,201,Jayton-Girard ISD Gym Lobby,"156 West 4.lh St J~yton, Texas B-271Hwy380 Clairemont, Tex.as"
@@ -4020,6 +4101,22 @@ Go Texan Building","5220 F.M. 3455 Navasota, TX 77868"
 2012-11-06,TX,Knox,4,Fowlerton Baptist Church,"FOWLERTON, TEXAS 78021"
 2012-11-06,TX,Knox,5,AMERICAN LEGION HALL,"Hwy 97, Cotulla, Texas 78014"
 2012-11-06,TX,Knox,6,ST. VINCENT'S HALL,302 S. MAIN STREET LA
+2012-11-06,TX,La Salle,5,American Legion,Hwy 97 Cotulla 78014
+2012-11-06,TX,La Salle,2,Encinal Veteran Hall,"Alpine Street Encinal, Tx 78014"
+2012-11-06,TX,La Salle,1,First United Methodist Church,302 Center St Cotulla 78014
+2012-11-06,TX,La Salle,4,Fowlerton Baptist Church,85 S SHERMAN FOWLERTON TX 78021
+2012-11-06,TX,La Salle,3A,Intersection-Huajuco Rd & E Hwy 624,NA NA
+2012-11-06,TX,La Salle,6,St. Vincent Hall,"307 S Main St. Cotulla, Tx 78014"
+2012-11-06,TX,La Salle,3,Welhausen Building,"201 NE Lane Cotulla, Tx 77014"
+2012-11-06,TX,Lamb,10,AMHERST CITY HALL,1011 MAIN STREET AMHERST
+2012-11-06,TX,Lamb,3,EARTH COMMUNITY CENTER,1ST AND BIRCH EARTH
+2012-11-06,TX,Lamb,5,H.P. WEBB ELEMENTARY,712 AVE G OLTON
+2012-11-06,TX,Lamb,8,LAMB COUNTY COURTHOUSE,100 6TH DRIVE LITTLEFIELD
+2012-11-06,TX,Lamb,9,LAMB COUNTY ELECTRIC CO-OP,2415 S PHELPS AVE LITTLEFIELD
+2012-11-06,TX,Lamb,2,LITTLEFIELD JUNIOR HIGH SCHOOL LIBRARY,105 LAKE AVE LITTLEFIELD
+2012-11-06,TX,Lamb,1,OLTON COMMUNITY CENTER,406 2ND STREET OLTON 79064
+2012-11-06,TX,Lamb,6,STATE HIGHWAY DEPARTMENT BUILDING,1600 West Delano Littlefield 79339
+2012-11-06,TX,Lamb,11,SUDAN COMMUNITY CENTER,111 EAST 1ST AVENUE SUDAN 79371
 2012-11-06,TX,Lamar,1A3B,Paris Junior High School,"2400 Jefferson Rd, Paris, Texas 75460"
 2012-11-06,TX,Lamar,2G,Brookston Baptist Church ,"259 CR 24760, Brookston, Texas 75421"
 2012-11-06,TX,Lamar,1A5A   ,"City of Paris, City Council Chambers","107 E. Kaufman St., Paris, TX 75460"
@@ -4291,6 +4388,37 @@ Go Texan Building","5220 F.M. 3455 Navasota, TX 77868"
 2012-11-06,TX,Mason,302,Richard P. Eckert Civic Center,"1024 McKinley Ave, Mason, 76856"
 2012-11-06,TX,Mason,405,"Commissioner’s Courtroom, Mason Courthouse","201 Ft. McKavitt, Mason"
 2012-11-06,TX,Mason,210,"District Courtroom, Mason Courthouse","201 Ft. McKavitt, Mason"
+2012-11-06,TX,Matagorda,1F,Bay City Service Center,2105 Ave. M Bay City 77414
+2012-11-06,TX,Matagorda,4,Blessing Community Center,"734 FM 616, Ave A Blessing 77419"
+2012-11-06,TX,Matagorda,13,Cedar Lane Community Center,13622 FM 457 Cedar Lane 77415
+2012-11-06,TX,Matagorda,1A,Church of Christ Fellowship Hall,1200 Nichols Street Bay City 77414
+2012-11-06,TX,Matagorda,7,Collegeport - Mopac House,15308 FM 1095 Collegeport 77428
+2012-11-06,TX,Matagorda,8,Markham Community Center,528 FM 1468 N Markham 77456
+2012-11-06,TX,Matagorda,3A,Matagorda County Courthouse Annex,405 Commerce St. Palacios 77457
+2012-11-06,TX,Matagorda,1B,Matagorda County Multi-purpose Bldg,63 County Road 215 Bay City 77414
+2012-11-06,TX,Matagorda,3B,Matagorda County Navigation District #1,1602 Main St. Palacios 77465
+2012-11-06,TX,Matagorda,2,Matagorda Firemans Hall,683 Market St. Matagorda 77457
+2012-11-06,TX,Matagorda,12,Midfield Community Center,283 Junetta Ave. Midfield 77458
+2012-11-06,TX,Matagorda,1C,New Hope Baptist Church,3300 Ave F Bay City
+2012-11-06,TX,Matagorda,1D,Our Lady of Guadalupe Ed. Bldg.,1412 12th St. Bay City 77414
+2012-11-06,TX,Matagorda,9,Pledger Fire Station,87 3rd St East Pledger 77468
+2012-11-06,TX,Matagorda,6,Sargent Fire Station,22037 FM 457 Sargent 77414
+2012-11-06,TX,Matagorda,5,Van Vleck Community Center,87 Ave F Van Vleck 77482
+2012-11-06,TX,Matagorda,10,Wadsworth Community Center,20710 FM 521 Wadsworth 77483
+2012-11-06,TX,Matagorda,1E,Wharton County Junior College,4000 Ave F Bay City
+2012-11-06,TX,Maverick,2A,Benavides Heights Elem.,890 Florence St. Eagle Pass 78852
+2012-11-06,TX,Maverick,4B,Boys and Girls Club,1904 Second St. Eagle Pass 78852
+2012-11-06,TX,Maverick,4A,County Courthouse,500 Quarry St. Eagle Pass 78852
+2012-11-06,TX,Maverick,2D,El Indio Community Center,115 West Texas Blvd. El Indio 78860
+2012-11-06,TX,Maverick,1B,Fire Station #2,2420 Second St. Eagle Pass 78852
+2012-11-06,TX,Maverick,4D,Iglesia San Bernardo,2010 Calle Coyunda Eagle Pass 78852
+2012-11-06,TX,Maverick,1C,Memorial Jr. High School,12 Memorial Dr. Eagle Pass 78852
+2012-11-06,TX,Maverick,4C,Primera Iglesia Bautista,520 Colorado St. Eagle Pass 78852
+2012-11-06,TX,Maverick,3C,Quemado Community Center,20160 North US Hwy 277 Quemado 78877
+2012-11-06,TX,Maverick,2C,Rosita Valley Elem.,591 Alamo St. Eagle Pass 78852
+2012-11-06,TX,Maverick,1A,SALON DE COLORES,"2055 Williams Street, Eagle Pass, TX 78852"
+2012-11-06,TX,Maverick,3B,SECO MINES ELEM SCHOOL,"2900 Diaz St, Eagle Pass, TX 78852"
+2012-11-06,TX,Maverick,2B,San Luis Elementary School,2090-A Williams St. Eagle Pass 78852
 2012-11-06,TX,McCulloch,301,Brady Public Schools Cafeteria,"607 W. 11th Street, Brady, TX 76825"
 2012-11-06,TX,McCulloch,201,County Clerk's Office,"101 North High Brady, Brady, TX 76825"
 2012-11-06,TX,McCulloch,302,Lohn Community Center,"1123 FM RD 504, Lohn, TX 76852"
@@ -4431,6 +4559,11 @@ Go Texan Building","5220 F.M. 3455 Navasota, TX 77868"
 2012-11-06,TX,Mills,8,Mullin Community Church,"Mullin, TX 76864"
 2012-11-06,TX,Mills,9,Goldthwaite Middle School Library,"1507 Trent St, Goldthwaite, TX 76844"
 2012-11-06,TX,Mills,11,Ebony Community Center,"CR 427, Mullin, TX 76864"
+2012-11-06,TX,Mitchell,46,CALVARY BAPTIST CHURCH,"1025 E 15th St, Colorado City, TX 79512"
+2012-11-06,TX,Mitchell,1,MITCHELL COUNTY APPRAISAL DISTRICT,2112 Hickory St. Colorado City 79512
+2012-11-06,TX,Mitchell,3,MITCHELL COUNTY COURT HOUSE,"349 Oak St, Colorado City, TX 79512"
+2012-11-06,TX,Mitchell,25,OAK STREET BAPTIST CHURCH,"805 Oak St, Colorado City, TX 79512"
+2012-11-06,TX,Mitchell,2,WESTBROOK COMMUNITY BUILDING,100 S MAIN WESTBROOK 79565
 2012-11-06,TX,Montague,,The Bridge Church,"Bowie, Texas 76230"
 2012-11-06,TX,Montague,,City of Bowie Community Room,"307 North Mason Street Bowie, Texas 76230"
 2012-11-06,TX,Montague,,Southside Baptist Church,"311 West Wilbarger Street Bowie, Texas 76230"
@@ -4709,6 +4842,10 @@ Go Texan Building","5220 F.M. 3455 Navasota, TX 77868"
 2012-11-06,TX,Nueces,123,Annaville Elementary School,3901 Cliff Crenshaw St. Corpus Christi TX 78410
 2012-11-06,TX,Nueces,124,Cimarron Senior Apartments,2802 Cimarron Blvd. Corpus Christi TX 78414
 2012-11-06,TX,Nueces,125,Mireles Elementary School-Library,7658 Cimarron Blvd. Corpus Christi TX 78414
+2012-11-06,TX,Ochiltree,3,Catholic Church,1000 SW 15TH AVE PERRYTON 79070
+2012-11-06,TX,Ochiltree,1,City Hall,110 S Ash Perryton 79070
+2012-11-06,TX,Ochiltree,2,Expo Center,County Fairgrounds Perryton 79070
+2012-11-06,TX,Ochiltree,4,Victory Family Church,2322 Main Perryton 79070
 2012-11-06,TX,Oldham,101,Christian Education Building,"Boys Ranch, Texas"
 2012-11-06,TX,Oldham,"103,203,303,403",Oldham County Barn,"305 Coke Street, Vega, Texas 79092"
 2012-11-06,TX,Oldham,202,Wildorado Community Center,"104 W. 5th Street, Wildorado, Texas 79098"
@@ -4747,6 +4884,23 @@ Go Texan Building","5220 F.M. 3455 Navasota, TX 77868"
 2012-11-06,TX,Orange,2,Eagle Heights Church,"11815 Interstate 10 East, Orange, TX 77630"
 2012-11-06,TX,Orange,4,Vidor Elementary School,"400 Old U.S. 90, Vidor, TX 77662"
 2012-11-06,TX,Orange,4,Our Lady of Lourdes Catholic Church ,"1600 N Main, Vidor, TX 77662"
+2012-11-06,TX,Palo Pinto,1,4-H Extension Building,221 S 5th Ave. Palo Pinto 00000
+2012-11-06,TX,Palo Pinto,8,Church of Christ Santo,171 Travis Santo 00000
+2012-11-06,TX,Palo Pinto,5,City Hall,118 East Housley Strawn 00000
+2012-11-06,TX,Palo Pinto,22,Fairview Baptist Church,1062 Fairview Road Mineral Wells 00000
+2012-11-06,TX,Palo Pinto,20,Fox Hollow Westlake Chapel,501 Hwy 1148 Graham 00000
+2012-11-06,TX,Palo Pinto,6,GORDON VFD,111 E CROCKETT ST GORDON 76453
+2012-11-06,TX,Palo Pinto,7,Graford Lions Club,117 North Main Graford 00000
+2012-11-06,TX,Palo Pinto,11,KNIGHTS OF PYTHIAN LODGE # 202,610 SE 14TH ST MINERAL WELLS TX 76067
+2012-11-06,TX,Palo Pinto,16,Lone Camp Community Center,7260 S FM 4 Lone Camp
+2012-11-06,TX,Palo Pinto,14,MWISD DISTRICT SERVICES,906 SW 5TH AVE MINERAL WELLS 76067
+2012-11-06,TX,Palo Pinto,13,Mineral Wells Senior Center,102 NW 6th Ave. Mineral Wells 00000
+2012-11-06,TX,Palo Pinto,18,Mingus City Hall,Mingus Community Center Mingus
+2012-11-06,TX,Palo Pinto,3,P K Lake Lions Club,142 Lavella Road Graford 00000
+2012-11-06,TX,Palo Pinto,12,PPCO Sheriff's Building,1300 FM Rd 1821 Mineral Wells 00000
+2012-11-06,TX,Palo Pinto,15,Salesville Baptist Church,1581 Salesville Rd. Salesville 00000
+2012-11-06,TX,Palo Pinto,21,Southside Church of Christ,1401 SE 25th Ave Mineral Wells
+2012-11-06,TX,Palo Pinto,9,VFD/COMMUNITY CENTER,3140 HELL'S GATE LOOP RD STRAWN TX 76475
 2012-11-06,TX,Panola,1,Carthage Missionary Baptist Church Carthage Community Center,"916 W Sabine St, Carthage, TX 75633"
 2012-11-06,TX,Panola,2,Carthage Community Center,"200 Park Drive Carthage, TX 75633"
 2012-11-06,TX,Panola,3,Beckville United Methodist Church,"141 W Van Buren, Beckville, TX 75631"
@@ -4766,6 +4920,50 @@ Go Texan Building","5220 F.M. 3455 Navasota, TX 77868"
 2012-11-06,TX,Panola,27,Turner Alumni Center,"1023 MLK Blvd Carthage, TX 75633"
 2012-11-06,TX,Panola,28,Carthage Civic Center,"1702 S. Adams St. Carthage, TX 75633"
 2012-11-06,TX,Panola,29,Galloway Methodist Church,"217 CR 4562 Carthage, TX 75633"
+2012-11-06,TX,Parker,140,AGNES BAPTIST CHURCH,350 AGNES NORTH SPRINGTOWN
+2012-11-06,TX,Parker,430,ALEDO COMMUNITY CENTER,104 ROBINSON CT ALEDO 76008
+2012-11-06,TX,Parker,440,ANNETTA CITY HALL,1198 OLD ANNETTA RD ALEDO 76008
+2012-11-06,TX,Parker,111,AZLE MASONIC LODGE,257 W MAIN ST AZLE 76020
+2012-11-06,TX,Parker,335,BROCK BAPTIST CHURCH,2111 FM RD 1189 WEATHERFORD 76087
+2012-11-06,TX,Parker,245,CALVARY BAPTIST CHURCH,1900 N MAIN ST WEATHERFORD 76086
+2012-11-06,TX,Parker,230,CENTRAL VOLUNTEER FIRE DEPARTMENT,3461 N FM ROAD 51 WEATHERFORD
+2012-11-06,TX,Parker,425,CHURCH OF GOD CAMPGROUND,2240 FORT WORTH HWY WEATHERFORD 76086
+2012-11-06,TX,Parker,110,CROSSTIMBERS ELEMENTARY SCHOOL,831 JACKSON TRAIL AZLE 76020
+2012-11-06,TX,Parker,405,FIRE STATION #2 AT THE LAKE,122 W LAKE DR WEATHERFORD 76087
+2012-11-06,TX,Parker,400,FIRE STATION ON WHITE SETTLEMENT RD,6085 WHITE SETTLEMENT RD ALEDO 76008
+2012-11-06,TX,Parker,340,FIRST BAPTIST CHURCH DENNIS,7600 FM RD 1189 DENNIS 76439
+2012-11-06,TX,Parker,120,"FIRST BAPTIST CHURCH, SPRINGTOWN",500 N MAIN ST SPRINGTOWN 76082
+2012-11-06,TX,Parker,300,"FIRST BAPTIST CHURCH, WEATHERFORD",221 W CHURCH ST WEATHERFORD 76086
+2012-11-06,TX,Parker,225,GARNER SCHOOL,2222 GARNER SCHOOL RD WEATHERFORD 76088
+2012-11-06,TX,Parker,305,GRACE FIRST PRESBYTERIAN CHURCH,606 MOCKINGBIRD LN WEATHERFORD 76086
+2012-11-06,TX,Parker,350,GREENWOOD COMMUNITY CENTER,1418 GREENWOOD CUTOFF RD WEATHERFORD 76086
+2012-11-06,TX,Parker,250,HARBERGER HILL COMMUNITY CENTER,701RROW ST WEATHERFORD 76086
+2012-11-06,TX,Parker,200,HARBERGER HILL COMMUNITY CENTER,701RROW ST WEATHERFORD 76086
+2012-11-06,TX,Parker,325,HARMONY BAPTIST CHURCH,242 HARMONY RD WEATHERFORD 76087
+2012-11-06,TX,Parker,450,LAKESHORE DRIVE BAPTIST CHURCH,200 S LAKESHORE RD WEATHERFORD 76087
+2012-11-06,TX,Parker,320,MILLSAP COMMUNITY CENTER,104 FANNIN ST MILLSAP 76066
+2012-11-06,TX,Parker,105,NEWSOM MOUND RD CHURCH OF CHRIST,1460 NEWSOM MOUND RD SPRINGTOWN 76082
+2012-11-06,TX,Parker,125,OUTREACH OF LOVE CHURCH,3591 E HWY 199 SPRINGTOWN 76082
+2012-11-06,TX,Parker,130,PARKER COUNTY COURTHOUSE NE ANNEX,1024 E HWY 199 SPRINGTOWN 76082
+2012-11-06,TX,Parker,330,PARKER COUNTY ESD # 6,"4970 TIN TOP RD., WEATHERFORD, TX 76087"
+2012-11-06,TX,Parker,445,PARKER COUNTY PRECINCT BARN #4,1320 AIRPORT RD ALEDO 76008
+2012-11-06,TX,Parker,215,PEASTER FIRE DEPARTMENT,220 JUDD STREET PEASTER
+2012-11-06,TX,Parker,300,PHOENIX MASONIC LODGE,1009 PALO PINTO ST WEATHERFORD 76086
+2012-11-06,TX,Parker,210,POOLVILLE METHODIST CHURCH,230 W CHURCH ST POOLVILLE 76487
+2012-11-06,TX,Parker,115,RENO CITY HALL,195 W RENO RD AZLE 76020
+2012-11-06,TX,Parker,315,SANTA FE DR BAPTIST CHURCH,1502 SANTA FE DR WEATHERFORD 76086
+2012-11-06,TX,Parker,235,SHADY GROVE BAPTIST CHURCH,2470 W LAMBERT RD WEATHERFORD 76088
+2012-11-06,TX,Parker,100,SILVER CREEK METHODIST CHURCH,2200 CHURCH RD AZLE 76020
+2012-11-06,TX,Parker,310,SOUTH MAIN CHURCH OF CHRIST,121 S MAIN ST WEATHERFORD 76086
+2012-11-06,TX,Parker,345,SPRING CREEK BAPTIST CHURCH,100 SPRING CREEK RD WEATHERFORD 76087
+2012-11-06,TX,Parker,205,TRINITY LUTHERAN CHURCH,1500 BALL ST WEATHERFORD 76086
+2012-11-06,TX,Parker,240,UNION BAPTIST CHURCH,3451 SARRA LN SPRINGTOWN 76082
+2012-11-06,TX,Parker,255,VICTORY BAPTIST CHURCH,1311 E BANKHEAD DR WEATHERFORD 76086
+2012-11-06,TX,Parker,420,WHEATLAND BAPTIST CHURCH,15910 S HWY 377 FORT WORTH 76126
+2012-11-06,TX,Parker,220,WHITT FIRE DEPARTMENT,4312 FM RD 52 WEATHERFORD 76088
+2012-11-06,TX,Parker,435,WILLOW PARK BAPTIST CHURCH,129 S RANCH HOUSE RD ALEDO 76008
+2012-11-06,TX,Parker,410,WILLOW PARK COMMUNITY CENTER POLICE/FIRE,101 STAGECOACH TRAIL WEATHERFORD 76087
+2012-11-06,TX,Parker,415,WILLOW PARK MUNICIPAL BLDG,516 RANCH HOUSE RD WEATHERFORD 76087
 2012-11-06,TX,Parmer,101,CALVARY BAPTIST CHURCH,1500 CLEVELAND AVE FRIONA TX 79305
 2012-11-06,TX,Parmer,202,FRIONA COMMUNITY CENTER,601 W. 15TH ST FRIONA TX 79305
 2012-11-06,TX,Parmer,402,FRIONA PUBLIC LIBRARY,109 W. 7TH ST FRIONA TX 79035
@@ -4798,6 +4996,30 @@ Go Texan Building","5220 F.M. 3455 Navasota, TX 77868"
 2012-11-06,TX,Polk,14,SODA BAPTIST CHURCH,"9199 FM 1276, Dallardsville, TX 77332"
 2012-11-06,TX,Polk,15,SCHWAB CITY BAPTIST CHURCH,"10998 TX-146, Livingston, TX 77351"
 2012-11-06,TX,Polk,16,FIRST UNITED PENTECOSTAL CHURCH,"404 E Church St, Livingston, TX 77351"
+2012-11-06,TX,Potter,123,Austin Middle School,1818 Wimberly Amarillo 79109
+2012-11-06,TX,Potter,325,Avondale School,1500 S. Avondale Amarillo 79106
+2012-11-06,TX,Potter,122,Belmar School,6342 Adirondack Amarillo 79106
+2012-11-06,TX,Potter,125,Bivins School,"1500 S Fannin St, Amarillo, TX 79102"
+2012-11-06,TX,Potter,223,Bowie Middle School,3001 E. 12th Amarillo 79104
+2012-11-06,TX,Potter,321,Bushland High School,"1201 FM 2381, Bushland, TX 79012"
+2012-11-06,TX,Potter,222,Eastridge School,1314 Evergreen Amarillo 79107
+2012-11-06,TX,Potter,221,Forest Hill School,3515 Amarillo Blvd. E Amarillo
+2012-11-06,TX,Potter,424,Hamlet School,705 Sycamore Amarillo 79107
+2012-11-06,TX,Potter,327,Highland Park School,FM 1912 Hwy 60 E. Amarillo 79111
+2012-11-06,TX,Potter,225,Humphreys Highland School,1301 S. Dallas Amarillo 79104
+2012-11-06,TX,Potter,224,Lawndale School,2215 S. Bivins Amarillo 79103
+2012-11-06,TX,Potter,426,Mesa Verde School,4011 Beaver Amarillo 79107
+2012-11-06,TX,Potter,422,North Heights School,607 N. Hughes Amarillo 79107
+2012-11-06,TX,Potter,124,Olsen Park School,2409 Anna Amarillo 79106
+2012-11-06,TX,Potter,421,Palo Duro High School,1400 N. Grant Amarillo 79107
+2012-11-06,TX,Potter,326,Pleasant Valley School,4413 River Road Amarillo 79108
+2012-11-06,TX,Potter,323,River Road Middle School,9500 US 287 North Amarillo 79108
+2012-11-06,TX,Potter,121,San Jacinto School,3400 W. 4th Amarillo 79106
+2012-11-06,TX,Potter,126,Tascosa High School,3921 Westlawn Amarillo 79106
+2012-11-06,TX,Potter,322,Valle de Oro Fire Station,23801 FM 1061 Valle de Oro 00000
+2012-11-06,TX,Potter,425,Whittier School,2004 N. Marrs Amarillo 79107
+2012-11-06,TX,Potter,427,Will Rogers School,920 N. Mirror Amarillo 79107
+2012-11-06,TX,Potter,324,de Zavala Middle School,2801 N Coulter Amarillo
 2012-11-06,TX,Presidio,"1,7 ",Marfa Fire Department,"107 E. LINCOLN MARFA, TEXAS 79843"
 2012-11-06,TX,Presidio,"2,3,4,5,6",Annex Building #C,"301 E. O’REILLY PRESIDIO, TEXAS 79845"
 2012-11-06,TX,Rains,101,Rocky Point Community Center,"2134 S. ST WY 19, EMORY, TX 75440"
@@ -4939,6 +5161,14 @@ Go Texan Building","5220 F.M. 3455 Navasota, TX 77868"
 2012-11-06,TX,Rusk,,Expo-Ag Center Barn,"3303 FM 13, Henderson, TX 75654"
 2012-11-06,TX,Rusk,,Carlisle Box,"2541 Hwy 42, Price, TX 75684"
 2012-11-06,TX,Rusk,,County Barn Pct. #4,"13612 FM 1798 W, Henderson, TX 75654"
+2012-11-06,TX,Sabine,6,BETHANY BAPTIST CHURCH,7078 STATE HWY 87 MILAM 75959
+2012-11-06,TX,Sabine,4,BROOKELAND MISS. BAPT. CHURCH,"300 TX-149 Loop, Brookeland, TX 75931"
+2012-11-06,TX,Sabine,5,FIRST BAPTIST CHURCH - BRONSON,207 Cooper St. Bronson 75930
+2012-11-06,TX,Sabine,1,FIRST BAPTIST CHURCH - HEMPHILL LIFE CENTER,"301 Mann St, Hemphill, TX 75948"
+2012-11-06,TX,Sabine,3,PINELAND VOL. FIRE DEPT.,205 Temple Ave. Pineland 75968
+2012-11-06,TX,Sabine,8,ROSEVINE- CHURCH OF GOD,"6455 State Hwy. 103 Rosevine, TX 75930 "
+2012-11-06,TX,Sabine,7,THOMAS JOHNSON CHURCH OF CHRIST,840 Thomas Johnson Rd. Hemphill 75948
+2012-11-06,TX,Sabine,2,YELLOWPINE BAPTIST CHURCH,"125 Scrappin Valley, Hemphill, TX 75948"
 2012-11-06,TX,San Augustine,1,San Augustine High School Gym Lobby,"500 Norvell Dr., San Augustine, TX 75972"
 2012-11-06,TX,San Augustine,"2,11",Reed Chapel Baptist Church,"301 Ironosa Dr, San Augustine, TX 75972"
 2012-11-06,TX,San Augustine,3,Senior Citizens Building,"405 Bolivar St, San Augustine, TX 75972"
@@ -4973,6 +5203,10 @@ Go Texan Building","5220 F.M. 3455 Navasota, TX 77868"
 2012-11-06,TX,San Saba,,San Saba First Baptist Church,"208 West Wallace Street, San Saba Texas 76877"
 2012-11-06,TX,San Saba,, Richland Springs Volunteer Fire Department,"301 N Carter FM 45, Richland Springs, TX 76871"
 2012-11-06,TX,San Saba,,Cherokee Church of Christ Fellowship Hall,"Highway 308 S Indian Ave., Cherokee, TX 76832"
+2012-11-06,TX,Schleicher,1,First Methodist Church Educational Building,107 W. Warner Ave. Eldorado 76936
+2012-11-06,TX,Schleicher,3,Head Start Building,826 North Divide St. Eldorado 76936
+2012-11-06,TX,Schleicher,2,Memorial Building,1 North Cottonwood St. Eldorado 76936
+2012-11-06,TX,Schleicher,4,Schleicher County ISD/AEP Building,112 W Fields Ave Eldorado 76396
 2012-11-06,TX,Scurry,14,NE Community Center,"7972 Camp Springs Road, Snyder, TX 79549"
 2012-11-06,TX,Scurry,15,Coliseum (North Side),"900 E. Coliseum Drive, Snyder, TX 79549"
 2012-11-06,TX,Scurry,5,Fluvanna Community Center,"14065 FM 612, Snyder, TX 79549"
@@ -4984,6 +5218,10 @@ Go Texan Building","5220 F.M. 3455 Navasota, TX 77868"
 2012-11-06,TX,Scurry,11,Dunn Community Center,"11601 S Hwy 208, Hermleigh, TX 79526"
 2012-11-06,TX,Scurry,12,Coliseum (South Side),"900 E Coliseum Drive, Snyder, TX 79526"
 2012-11-06,TX,Scurry,13,Hermleigh Community Center,"700 Wheat, Hermleigh, TX 79526"
+2012-11-06,TX,Shackelford,404,HASTING,100 CR 241 LUEDERS 79533
+2012-11-06,TX,Shackelford,303,Moran Community Center,223 Waters Moran 76464
+2012-11-06,TX,Shackelford,405,Rock Hill,715 CR 155 Abilene 79601
+2012-11-06,TX,Shackelford,101,Shackelford County Courthouse,225 S. Main Albany 76430
 2012-11-06,TX,Shelby,1 N,First United Methodist Church,"211 N. Porter Street, Center, TX 5935"
 2012-11-06,TX,Shelby,1 SO,Church of Christ,"110 Hurst Street, Center, TX 75935"
 2012-11-06,TX,Shelby,1 SE,Senior Citizens Center,"3580 Loop 500E, Center, TX 75935"
@@ -4998,6 +5236,10 @@ Go Texan Building","5220 F.M. 3455 Navasota, TX 77868"
 2012-11-06,TX,Shelby,8,First Methodist Church-Schiede Hall,"256 N. George Bowers Drive, Tenaha, TX 75974"
 2012-11-06,TX,Shelby,9N,Texas State Bank Annex,"830 N. 1st Street West, Timpson, TX 75975"
 2012-11-06,TX,Shelby,9S,Timpson School Gym Foyer,"836 Bear Dr., Timpson, Texas 75975"
+2012-11-06,TX,Sherman,401,Courtroom Sherman County Courthouse,701 N. 3rd Street Stratford 79084
+2012-11-06,TX,Sherman,101,Precinct 1 County Barn at Lautz,13100 Co Rd 24 Sherman County 00000
+2012-11-06,TX,Sherman,202,Precinct 2 County Barn,13109 Hwy 287 Sherman County 00000
+2012-11-06,TX,Sherman,302,Texhoma Elementary School,401 Denver Texhoma 73949
 2012-11-06,TX,Smith,1,N Dixie Baptist Church,"13520 Hwy 271 N, Tyler 75702"
 2012-11-06,TX,Smith,"2,76",Douglas Elementary,"1525 N Carlyle, Tyler 75702"
 2012-11-06,TX,Smith,"4,81",Pine Springs Baptist Church,"2155 Cr 334, Tyler 75708"
@@ -5066,7 +5308,15 @@ Go Texan Building","5220 F.M. 3455 Navasota, TX 77868"
 2012-11-06,TX,Stephens,3,"Breckenridge Chamber of Commerce, Rear Entrance","100 E Elm, Breckenridge, TX"
 2012-11-06,TX,Stephens,4,BISD Support Center (Bus Barn),"907 U S Hwy 183 N, Breckenridge, TX"
 2012-11-06,TX,Stephens,5,Wayland Volunteer Fire Department,"10276 FM 1852, Breckenridge, TX"
+2012-11-06,TX,Sterling,1,Community Center,304 Main St. Sterling City 76951
+2012-11-06,TX,Sterling,2,County Courthouse,609 4th Ave. Sterling City 76951
+2012-11-06,TX,Sterling,3,Library,303 Main St. Sterling City 76951
+2012-11-06,TX,Sterling,4,Sterling City Depot,500 Stadium Ave. Sterling City 76951
 2012-11-06,TX,Stonewall,,Stonewall County Courthouse,"128 Town Square Ln, Aspermont, TX 79502"
+2012-11-06,TX,Sutton,101,Civic Center,1700 N. Crockett Sonora 76950
+2012-11-06,TX,Sutton,201,Lillian M. Hudspeth Hospital,308 Hudspeth Sonora 76950
+2012-11-06,TX,Sutton,401,Sonora Fire Station,508 W. Concho Sonora 76950
+2012-11-06,TX,Sutton,301,Sutton County Courthouse,102 North Water Sonora 76950
 2012-11-06,TX,Swisher,1,Tulia ISD,"702 NW 8th St Tulia, TX 79088"
 2012-11-06,TX,Swisher,2,Swisher County Courthouse,"119 S Maxwell Tulia, TX 79088"
 2012-11-06,TX,Swisher,3,Mid-Tule Village,"321 SE 7th St Tulia, TX 79088"
@@ -5723,6 +5973,11 @@ Go Texan Building","5220 F.M. 3455 Navasota, TX 77868"
 2012-11-06,TX,Terry,0301,TERRY COUNTY ANNEX,507 W. MAIN BROWNFIELD TX
 2012-11-06,TX,Terry,0401,COUNTY CLERK’S OFFICE,1021 S. 8TH BROWNFIELD TX
 2012-11-06,TX,Terry,0402,WELLMAN ISD (AUDITORIUM),5TH AND TERRY WELLMAN TX
+2012-11-06,TX,Throckmorton,,Elbert Baptist Church Fellowship Hall,"6290 Hwy 79 Elbert, TX 76372"
+2012-11-06,TX,Throckmorton,,Woodson Town Hall,"221 N. Hwy. 183 Woodson, TX 76491"
+2012-11-06,TX,Throckmorton,,Throckmorton First Baptist Church,"211 N Minter Throckmorton, Texas 76483"
+2012-11-06,TX,Throckmorton,,The Christian Center – Fellowship Hall,"704 N. Minter Ave. Throckmorton, TX 76483"
+2012-11-06,TX,Throckmorton,,The Depot Library,120 East Chestnut Throckmorton
 2012-11-06,TX,Titus,1,Sheppard Street Church of Christ,"802 Sheppard St, Mt Pleasant"
 2012-11-06,TX,Titus,2,Piney Baptist Church,"268 CR 1680, Mt Pleasant"
 2012-11-06,TX,Titus,3,Bridges Chapel Community Center,"CR 1465, Mt Pleasant"
@@ -6046,6 +6301,23 @@ Go Texan Building","5220 F.M. 3455 Navasota, TX 77868"
 2012-11-06,TX,Trinity,19,Trinity City Hall,"101 West Madison, Trinity, TX 75862"
 2012-11-06,TX,Trinity,20,Oaklawn Baptist Church,"4833 N. SH 94, Groveton, TX 75845"
 2012-11-06,TX,Trinity,21,River of Life Church,"2390 S. SH 19, Trinity, TX 75862"
+2012-11-06,TX,Tyler,5,A1 Wrecker and Storage,2510 Hwy 69 N. Woodville 75979
+2012-11-06,TX,Tyler,14,AG Building - Spurger ISD,12212 FM 92 Spurger 77660
+2012-11-06,TX,Tyler,8,Bethany Baptist Church,1880 CR 2570 Colmesneil 75938
+2012-11-06,TX,Tyler,4,Bethel Baptist Church,FM 1943 West Warren
+2012-11-06,TX,Tyler,10,Community Center,204 West Elder St. Colmesneil 75938
+2012-11-06,TX,Tyler,9,Ebeneezer Church Fellowship Hall,699 CR 3625 Woodville 75938
+2012-11-06,TX,Tyler,13,Fairview Baptist,1341 FM 92 Woodville 75979
+2012-11-06,TX,Tyler,18,Fire Station,215 Walt Davis Dr. Woodville 75979
+2012-11-06,TX,Tyler,15,Fred Elem School,140 CR 4650 Fred 77616
+2012-11-06,TX,Tyler,3,Hillister First Baptist Church,258 FM 1013 Hillister 77624
+2012-11-06,TX,Tyler,17,Lions Den,Hwy 190 E Woodville
+2012-11-06,TX,Tyler,7,Lions Den City Hall,156 Goolsbee Chester 75936
+2012-11-06,TX,Tyler,2,Masonic Lodge,390 Holly Woodville 75979
+2012-11-06,TX,Tyler,1,Nutrition Center,201 Willow Woodville 75979
+2012-11-06,TX,Tyler,11,Rockland Baptist Church,125 PR 7388 Rockland
+2012-11-06,TX,Tyler,16,Warren High School,395 FM 3290 South Warren 77664
+2012-11-06,TX,Tyler,6,Wildwood,923 Huckleberry Village Mills
 2012-11-06,TX,Upshur,"1,19",Upshur County Rock Bldg.,"301 E. Butler, Gilmer, TX 75644"
 2012-11-06,TX,Upshur,2,East Mountain Community Center,"103 Municipal Dr., Gladewater, TX 75647"
 2012-11-06,TX,Upshur,3,Glenwood Water Dept.,"6792 FM 726 S, Gilmer, TX 75645"
@@ -6183,6 +6455,11 @@ Go Texan Building","5220 F.M. 3455 Navasota, TX 77868"
 2012-11-06,TX,Waller,418,Igloo - Lobby,"777 lgloo Road, Brookshire"
 2012-11-06,TX,Waller,419,Katy VFW Hall,6202 George Bush Avenue.
 2012-11-06,TX,Waller,420,Katy VFW Hall,6202 George Bush Ave.
+2012-11-06,TX,Ward,1W,BARSTOW COMMUNITY CENTER,110 East Concho Street Barstow 79719
+2012-11-06,TX,Ward,3S,GRANDFALLS COMMUNITY CENTER,308 First Street Grandfalls 79742
+2012-11-06,TX,Ward,4W,PYOTE COMMUNITY CENTER,1108 North Ward Street Pyote 79777
+2012-11-06,TX,Ward,2,WARD COUNTY CONVENTION CENTER,"400 East 4th Street, Room #1 Monahans 79756"
+2012-11-06,TX,Ward,4M,WICKETT COMMUNITY CENTER,501 North O'Brien Wickett 79788
 2012-11-06,TX,Washington,101,FRIEDEN'S CHURCH OF WASHINGTON,20322 FM 1155 E-WASHINGTON TX 77880
 2012-11-06,TX,Washington,104,WASHINGTON COUNTY EVENT CENTER,1305 E BLUEBELL RD- BRENHAM TX 77833
 2012-11-06,TX,Washington,109,ST MATTHEW LUTHERAN CHURCH,8819 FM 2621 – BRENHAM TX 77833

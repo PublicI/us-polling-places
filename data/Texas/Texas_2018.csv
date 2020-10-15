@@ -60,7 +60,7 @@ election_date,state,county_name,precinct_id,name,address
 2018-11-06,TX,Archer,,Megargel City Hall,"902 Cedar Street Megargel, TX 76370"
 2018-11-06,TX,Armstrong,"101,201,202,301,404",Courthouse,"100 Trice Claude, Texas 79019"
 2018-11-06,TX,Armstrong,"402,403",Washburn Community & Volunteer Fire Department Community Center,"201 Duncan Ave. Claude, TX 79019"
-2018-11-06,TX,Armstrong,303,,"3407 County Rd. 5 PO Box 131 Wayside, TX 79094"
+2018-11-06,TX,Armstrong,303,,"3407 County Rd. Wayside, TX 79094"
 2018-11-06,TX,Atascosa,1,EVERGREEN UNDERGROUND WATER CONSERVATION DIST. OFFICE OLD ROCK SCHOOL GROUNDS,"110 WYOMING BLVD PLEASANTON, TEXAS 78064"
 2018-11-06,TX,Atascosa,2,OLD ROCK SCHOOL GROUNDS,"1036 OLD ROCK RD. SOMERSET, TEXAS 78069"
 2018-11-06,TX,Atascosa,3,PLEASANTON CHURCH OF CHRIST,"1003 N. MAIN PLEASANTON, TX 78064"
@@ -1982,6 +1982,14 @@ City, 77523"
 2018-11-06,TX,Fort Bend,,Townewest Towne Hall,10322 Old Towne Ln SUGAR LAND 77498
 2018-11-06,TX,Fort Bend,,Travis Elementary School,2700 Avenue K ROSENBERG 77471
 2018-11-06,TX,Fort Bend,,University Branch Library,14010 University Blvd SUGAR LAND 77479
+2018-11-06,TX,Franklin,101,Franklin County Multi-Purlpose Building now known as The Hub,"208 Taylor Street, Mt. Vernon "
+2018-11-06,TX,Franklin,102,Hagansport Community Center,"10284 Texas Hwy 37 North, Talco, TX 75487"
+2018-11-06,TX,Franklin,201,Franklin County Annex East,"502 East Main Street, Mt. Vernon 75457"
+2018-11-06,TX,Franklin,202,Denton Baptist Church,"1113 Holbrook Sreet (Spur 423), Mt. Vernon, TX 75457"
+2018-11-06,TX,Franklin,301,Prosperity Bank,"539 I-30 Frontage Road, Mt. Vernon, TX 75457"
+2018-11-06,TX,Franklin,302,Franklin County Building,"1013 N Main Street, Winnsboro, TX 75494"
+2018-11-06,TX,Franklin,401,Good Hope Family Fellowship Church,"6611 FM 115, Scroggins, TX 75480"
+2018-11-06,TX,Franklin,402,South Franklin Community Center,"3150 FM 1448, Scroggins, TX 75480"
 2018-11-06,TX,Freestone,1,Fairfield Conference Center,"839 East Commerce, Fairfield"
 2018-11-06,TX,Freestone,2,Dogan Cafeteria,"S Bateman, Fairfield"
 2018-11-06,TX,Freestone,3,Donnie Community Center,"State Hwy 164 West, Donic"
@@ -3740,6 +3748,7 @@ Fort Hancock, Texas 79839"
 2018-11-06,TX,Kenedy,3,Justice Building,"101 N. Main St. Sarita, Texas 78385"
 2018-11-06,TX,Kenedy,4,Armstrong Post Office,"2151 N Highway 77 Armstrong, Texas 78338"
 2018-11-06,TX,Kenedy,5,Tax Office,"319 La Parra Ave. Sarita, Texas 78385"
+2018-11-06,TX,Kenedy,6,Constable Office,"1310 S HWY 77 Armstrong, Texas 78338"
 2018-11-06,TX,Kent,401,Kent County Courthouse,"101 North Main Jayton, Texas"
 2018-11-06,TX,Kent,101,Jayton-Girard ISD Foyer,"700 Madison Ave Jayton, Texas"
 2018-11-06,TX,Kent,201,Jayton-Girard ISD Gym Lobby,"156 West 4.lh St J~yton, Texas B-271Hwy380 Clairemont, Tex.as"
@@ -4676,6 +4685,14 @@ Fort Hancock, Texas 79839"
 2018-11-06,TX,Rusk,,Church of Christ Multi-Purpose Bldg.,"402 S Main St, Henderson, TX 75654"
 2018-11-06,TX,Rusk,,Carlisle Box,"2541 Hwy 42, Price, TX 75684"
 2018-11-06,TX,Rusk,,County Barn Pct. #4,"13612 FM 1798 W, Henderson, TX 75654"
+2018-11-06,TX,Sabine,6,BETHANY BAPTIST CHURCH,7078 STATE HWY 87 MILAM TX 75959
+2018-11-06,TX,Sabine,5,BRONSON FIRST BAPTIST CHURCH,207 COOPER ST. BRONSON TX 75930
+2018-11-06,TX,Sabine,4,BROOKELAND MISS. BAPT. CHURCH,300 LOOP 149 BROOKELAND TX 75931
+2018-11-06,TX,Sabine,1,HEMPHILL FIRST BAPTIST CHURCH LIFE CENTER,301 MAIN ST. HEMPHILL TX 75948
+2018-11-06,TX,Sabine,3,PINELAND VOL. FIRE DEPT.,205 TEMPLE AVE. PINELAND TX 75968
+2018-11-06,TX,Sabine,8,ROSEVINE CHURCH OF GOD,6455 STATE HWY 103 BRONSON TX 75930
+2018-11-06,TX,Sabine,2,YELLOWPINE BAPTIST CHURCH,125 SCRAPPIN VALLEY HEMPHILL TX 75948
+2018-11-06,TX,Sabine,7,THOMAS JOHNSON CHURCH OF CHRIST,840 THOMAS JOHNSON RD. HEMPHILL TX 75948
 2018-11-06,TX,San Augustine,1,San Augustine High School Gym Lobby,"500 Norvell Dr., San Augustine, TX 75972"
 2018-11-06,TX,San Augustine,"2,11",Reed Chapel Baptist Church,"301 Ironosa Dr, San Augustine, TX 75972"
 2018-11-06,TX,San Augustine,3,Senior Citizens Building,"405 Bolivar St, San Augustine, TX 75972"
@@ -4729,6 +4746,10 @@ Fort Hancock, Texas 79839"
 2018-11-06,TX,Shelby,8,First Methodist Church-Schiede Hall,"256 N. George Bowers Drive, Tenaha, TX 75974"
 2018-11-06,TX,Shelby,9N,Texas State Bank Annex,"830 N. 1st Street West, Timpson, TX 75975"
 2018-11-06,TX,Shelby,9S,Timpson School Gym Foyer,"836 Bear Dr., Timpson, Texas 75975"
+2018-11-06,TX,Sherman,,COURTROOM SHERMAN COUNTY COURTHOUSE,701 NORTH 3RD STREET STRATFORD TX 79084
+2018-11-06,TX,Sherman,101,PRECINCT 1 COUNTY BARN AT LAUTZ,13101 US HWY 287 S SHERMAN COUNTY TX 79084
+2018-11-06,TX,Sherman,202,PRECINCT 2 COUNTY BARN,13100 CO RD 24 SHERMAN COUNTY TX 79084
+2018-11-06,TX,Sherman,302,TEXHOMA TEXAS CITY HALL,1008 SOUTH SIXTH STREET TEXHOMA TX 73960
 2018-11-06,TX,Smith,,Victor Kay Gymnasium,"605 Wildcat Dr, Winona"
 2018-11-06,TX,Smith,,Crossbrand Cowboy Church,11915 FM 2015
 2018-11-06,TX,Smith,,Red Springs Fire Department,16759 FM 14

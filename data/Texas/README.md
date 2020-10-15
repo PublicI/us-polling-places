@@ -1,7 +1,7 @@
 
 ## Texas Polling Places (2012-2018)
 
-This collection of polling locations in Texas contains 25,786 records. It covers general elections held from 2012 to 2018. It is drawn from 506 documents obtained via open records requests and research by the Center for Public Integrity. The records cover 245 of Texas's 254 counties.
+This collection of polling locations in Texas contains 26,059 records. It covers general elections held from 2012 to 2018. It is drawn from 507 documents obtained via open records requests and research by the Center for Public Integrity. The records cover 252 of Texas's 254 counties.
 
 ### Caveats
 
@@ -28,8 +28,8 @@ This dataset focuses on election day polling places, so early voting locations w
 | Angelina      | 31   | 30   | 27   | 27   |
 | Aransas       | 6    | 5    | 3    | 3    |
 | Archer        | 11   | 11   | 11   | 6    |
-| Armstrong     | N/A  | N/A  | N/A  | 3    |
-| Atascosa      | 22   | 24   | 24   | 24   |
+| Armstrong     | 4    | N/A  | N/A  | 3    |
+| Atascosa      | 23   | 24   | 24   | 24   |
 | Austin        | 18   | 18   | 36   | 16   |
 | Bailey        | 1    | 1    | 1    | 1    |
 | Bandera       | 10   | 10   | 10   | 10   |
@@ -52,13 +52,13 @@ This dataset focuses on election day polling places, so early voting locations w
 | Burnet        | 20   | 20   | 20   | 20   |
 | Caldwell      | 25   | 17   | 13   | 12   |
 | Calhoun       | 27   | 25   | 13   | 21   |
-| Callahan      | N/A  | N/A  | 4    | 4    |
+| Callahan      | 7    | N/A  | 4    | 4    |
 | Cameron       | 83   | 77   | 79   | 76   |
 | Camp          | 4    | 4    | 4    | 4    |
 | Carson        | 8    | 8    | 8    | 8    |
 | Cass          | 18   | 18   | 18   | 18   |
 | Castro        | 8    | 8    | 8    | 8    |
-| Chambers      | N/A  | N/A  | 13   | 14   |
+| Chambers      | 12   | N/A  | 13   | 14   |
 | Cherokee      | 24   | 24   | 25   | 21   |
 | Childress     | 4    | 4    | 4    | 4    |
 | Clay          | 16   | 16   | 16   | 13   |
@@ -67,7 +67,7 @@ This dataset focuses on election day polling places, so early voting locations w
 | Coleman       | 5    | 5    | 5    | 5    |
 | Collin        | 66   | 67   | 71   | 68   |
 | Collingsworth | N/A  | 6    | 6    | N/A  |
-| Colorado      | N/A  | N/A  | 12   | 11   |
+| Colorado      | 12   | N/A  | 12   | 11   |
 | Comal         | 20   | 22   | 22   | 25   |
 | Comanche      | 14   | 13   | 12   | 12   |
 | Concho        | 8    | 8    | 8    | 8    |
@@ -100,12 +100,12 @@ This dataset focuses on election day polling places, so early voting locations w
 | Fayette       | 26   | 24   | 26   | 26   |
 | Fisher        | 10   | 10   | 4    | 4    |
 | Floyd         | 2    | 2    | 1    | 3    |
-| Foard         | N/A  | N/A  | N/A  | N/A  |
+| Foard         | 1    | N/A  | N/A  | N/A  |
 | Fort Bend     | N/A  | 143  | 83   | 79   |
-| Franklin      | N/A  | N/A  | N/A  | N/A  |
+| Franklin      | 8    | 8    | 8    | 8    |
 | Freestone     | 15   | 15   | 14   | 15   |
 | Frio          | 9    | 9    | 9    | 9    |
-| Gaines        | N/A  | N/A  | N/A  | N/A  |
+| Gaines        | 4    | N/A  | N/A  | N/A  |
 | Galveston     | 45   | 55   | 32   | 35   |
 | Garza         | 6    | 6    | 6    | 6    |
 | Gillespie     | 13   | 13   | 13   | 13   |
@@ -144,16 +144,16 @@ This dataset focuses on election day polling places, so early voting locations w
 | Jack          | 6    | N/A  | N/A  | 4    |
 | Jackson       | 9    | 9    | 9    | 9    |
 | Jasper        | 20   | 20   | 20   | 20   |
-| Jeff Davis    | N/A  | 5    | 5    | 5    |
+| Jeff Davis    | 5    | 5    | 5    | 5    |
 | Jefferson     | 57   | 40   | 40   | 39   |
 | Jim Hogg      | 4    | 4    | 4    | 3    |
-| Jim Wells     | N/A  | N/A  | 21   | 21   |
+| Jim Wells     | 21   | N/A  | 21   | 21   |
 | Johnson       | 31   | 29   | 29   | 28   |
 | Jones         | 11   | 11   | 11   | 11   |
 | Karnes        | 11   | 11   | 14   | 15   |
 | Kaufman       | 30   | N/A  | N/A  | 29   |
 | Kendall       | 18   | 16   | 11   | 10   |
-| Kenedy        | N/A  | N/A  | 6    | 5    |
+| Kenedy        | 6    | N/A  | 6    | 6    |
 | Kent          | 6    | 6    | 6    | 6    |
 | Kerr          | 19   | 20   | 21   | 20   |
 | Kimble        | 4    | 4    | 4    | 4    |
@@ -162,9 +162,9 @@ This dataset focuses on election day polling places, so early voting locations w
 | Kleberg       | 12   | 17   | 17   | 16   |
 | Knox          | 9    | 3    | 3    | 3    |
 | Lamar         | 65   | 64   | 64   | 64   |
-| Lamb          | N/A  | N/A  | 6    | 6    |
+| Lamb          | 9    | N/A  | 6    | 6    |
 | Lampasas      | 5    | 5    | 4    | 6    |
-| La Salle      | N/A  | 6    | 6    | 6    |
+| La Salle      | 7    | 6    | 6    | 6    |
 | Lavaca        | 19   | 19   | 19   | 19   |
 | Lee           | 15   | 14   | 15   | 8    |
 | Leon          | 14   | 14   | 14   | 14   |
@@ -183,14 +183,14 @@ This dataset focuses on election day polling places, so early voting locations w
 | Marion        | 9    | 9    | 9    | 9    |
 | Martin        | 6    | 6    | 6    | 6    |
 | Mason         | 4    | 4    | 4    | 4    |
-| Matagorda     | N/A  | N/A  | 16   | 16   |
-| Maverick      | N/A  | N/A  | 14   | 9    |
+| Matagorda     | 18   | N/A  | 16   | 16   |
+| Maverick      | 13   | N/A  | 14   | 9    |
 | Medina        | 7    | 7    | 7    | 7    |
 | Menard        | 3    | 3    | 3    | 3    |
 | Midland       | 14   | 20   | 15   | 15   |
 | Milam         | 7    | 7    | 4    | 4    |
 | Mills         | 7    | 7    | 7    | 7    |
-| Mitchell      | N/A  | N/A  | 5    | 5    |
+| Mitchell      | 5    | N/A  | 5    | 5    |
 | Montague      | 15   | 7    | 7    | 6    |
 | Montgomery    | 85   | 89   | 90   | 96   |
 | Moore         | 5    | N/A  | N/A  | N/A  |
@@ -201,16 +201,16 @@ This dataset focuses on election day polling places, so early voting locations w
 | Newton        | N/A  | N/A  | N/A  | N/A  |
 | Nolan         | 10   | 9    | 9    | 8    |
 | Nueces        | 113  | 114  | 91   | 84   |
-| Ochiltree     | N/A  | 4    | 4    | 4    |
+| Ochiltree     | 4    | 4    | 4    | 4    |
 | Oldham        | 4    | 4    | 4    | 4    |
 | Orange        | 34   | 33   | 33   | 32   |
-| Palo Pinto    | N/A  | 17   | 13   | 12   |
+| Palo Pinto    | 17   | 17   | 13   | 12   |
 | Panola        | 19   | 19   | 19   | 19   |
-| Parker        | N/A  | 42   | 41   | 38   |
+| Parker        | 44   | 42   | 41   | 38   |
 | Parmer        | 9    | 9    | 9    | 9    |
 | Pecos         | 4    | 4    | 4    | 4    |
 | Polk          | 19   | 19   | 19   | 19   |
-| Potter        | N/A  | 24   | N/A  | N/A  |
+| Potter        | 24   | 24   | N/A  | N/A  |
 | Presidio      | 2    | 2    | 2    | 2    |
 | Rains         | 8    | 8    | 8    | 8    |
 | Randall       | 22   | 14   | 14   | 14   |
@@ -224,34 +224,34 @@ This dataset focuses on election day polling places, so early voting locations w
 | Rockwall      | 17   | 17   | 14   | 13   |
 | Runnels       | 8    | 8    | 8    | 8    |
 | Rusk          | 22   | 17   | 17   | 12   |
-| Sabine        | N/A  | N/A  | N/A  | N/A  |
+| Sabine        | 8    | N/A  | N/A  | 8    |
 | San Augustine | 10   | 10   | 10   | 10   |
 | San Jacinto   | 11   | 11   | 11   | 10   |
 | San Patricio  | 10   | 16   | 14   | 2    |
 | San Saba      | 3    | 3    | 3    | 3    |
-| Schleicher    | N/A  | 4    | 4    | 4    |
+| Schleicher    | 4    | 4    | 4    | 4    |
 | Scurry        | 11   | 11   | 11   | 10   |
-| Shackelford   | N/A  | N/A  | N/A  | N/A  |
+| Shackelford   | 4    | N/A  | N/A  | N/A  |
 | Shelby        | 14   | 14   | 14   | 14   |
-| Sherman       | N/A  | N/A  | N/A  | N/A  |
+| Sherman       | 4    | N/A  | N/A  | 4    |
 | Smith         | 48   | 42   | 32   | 35   |
 | Somervell     | 5    | 4    | 3    | 2    |
 | Starr         | 10   | 13   | 7    | 10   |
 | Stephens      | 5    | 5    | 5    | 5    |
-| Sterling      | N/A  | N/A  | N/A  | N/A  |
+| Sterling      | 4    | N/A  | N/A  | N/A  |
 | Stonewall     | 1    | 1    | 1    | 1    |
-| Sutton        | N/A  | N/A  | N/A  | N/A  |
+| Sutton        | 4    | N/A  | N/A  | N/A  |
 | Swisher       | 8    | 8    | N/A  | 4    |
 | Tarrant       | 606  | 694  | 694  | 704  |
 | Taylor        | 34   | 23   | 22   | 20   |
 | Terrell       | 1    | 1    | 1    | 1    |
 | Terry         | 7    | 7    | 7    | 8    |
-| Throckmorton  | N/A  | 3    | 3    | 3    |
+| Throckmorton  | 5    | 3    | 3    | 3    |
 | Titus         | 19   | 19   | 19   | 19   |
 | Tom Green     | 24   | 18   | 21   | 19   |
 | Travis        | 260  | 186  | 194  | 143  |
 | Trinity       | 20   | 20   | 20   | 20   |
-| Tyler         | N/A  | N/A  | N/A  | N/A  |
+| Tyler         | 17   | N/A  | N/A  | N/A  |
 | Upshur        | 16   | 16   | 16   | 16   |
 | Upton         | 3    | 3    | 3    | 3    |
 | Uvalde        | 14   | 14   | 14   | 14   |
@@ -260,7 +260,7 @@ This dataset focuses on election day polling places, so early voting locations w
 | Victoria      | 35   | 35   | 35   | 35   |
 | Walker        | 16   | 16   | 17   | 16   |
 | Waller        | 20   | 20   | 18   | 20   |
-| Ward          | N/A  | N/A  | 8    | 8    |
+| Ward          | 5    | N/A  | 8    | 8    |
 | Washington    | 21   | 21   | 21   | 21   |
 | Webb          | 60   | 68   | 68   | 69   |
 | Wharton       | 12   | 8    | 8    | 8    |
