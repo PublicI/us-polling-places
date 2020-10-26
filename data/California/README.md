@@ -1,7 +1,7 @@
 
 ## California Polling Places (2012-2018)
 
-This collection of polling locations in California contains 57,246 records. It covers general elections held from 2012 to 2018. It is drawn from 172 documents obtained via open records requests and research by the Center for Public Integrity. The records cover 51 of California's 58 counties.
+This collection of polling locations in California contains 58,141 records. It covers general elections held from 2012 to 2018. It is drawn from 181 documents obtained via open records requests and research by the Center for Public Integrity. The records cover 53 of California's 58 counties.
 
 ### Caveats
 
@@ -37,8 +37,8 @@ This dataset focuses on election day polling places, so early voting locations w
 | Inyo            | 7    | 7    | 7    | 7    |
 | Kern            | 141  | 147  | 151  | 151  |
 | Kings           | 33   | 34   | 34   | 22   |
-| Lake            | N/A  | 49   | 20   | 22   |
-| Lassen          | N/A  | N/A  | N/A  | N/A  |
+| Lake            | 50   | 49   | 20   | 22   |
+| Lassen          | 13   | 13   | 14   | 13   |
 | Los Angeles     | 4621 | 4684 | 4523 | 4165 |
 | Madera          | 40   | 40   | 40   | 6    |
 | Marin           | 76   | 96   | 91   | 88   |
@@ -69,10 +69,10 @@ This dataset focuses on election day polling places, so early voting locations w
 | Sierra          | N/A  | N/A  | N/A  | N/A  |
 | Siskiyou        | 38   | 40   | 39   | 40   |
 | Solano          | 107  | 101  | 97   | 91   |
-| Sonoma          | N/A  | N/A  | N/A  | N/A  |
+| Sonoma          | 194  | 194  | 195  | 157  |
 | Stanislaus      | N/A  | N/A  | N/A  | N/A  |
 | Sutter          | N/A  | N/A  | N/A  | N/A  |
-| Tehama          | 29   | 30   | 7    | N/A  |
+| Tehama          | 29   | 30   | 29   | 30   |
 | Trinity         | 5    | 5    | 5    | 5    |
 | Tulare          | N/A  | N/A  | N/A  | N/A  |
 | Tuolumne        | 24   | 24   | 24   | 22   |
