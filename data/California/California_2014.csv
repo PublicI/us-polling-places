@@ -8681,91 +8681,232 @@ election_date,state,county_name,precinct_id,name,address
 2014-11-04,CA,Plumas,,American Valley Polling Center Plumas-Sierra County Fairgrounds,204 Fairgrounds Road Quincy
 2014-11-04,CA,Plumas,,Indian Valley Polling Center Greenville Town Hall,120 Bidwell Street Greenville
 2014-11-04,CA,Plumas,,Almanor Polling Center  Chester Memorial Hall  ,174 Stone Street Chester
-2014-11-04,CA,Placer,0160611,St Clare Catholic Church,"1950 Junction Blvd, Roseville, CA 95747"
-2014-11-04,CA,Placer,0160612,St Clare Catholic Church,"1950 Junction Blvd, Roseville, CA 95747"
-2014-11-04,CA,Placer,0160619,American Sikh Society Of N. California,"1090 Main St, Roseville, CA 95678-2067"
+2014-11-04,CA,Placer,0160603,Roseville Veterans Memorial Hall,"110 Park Dr, Roseville, CA 95678-2749"
+2014-11-04,CA,Placer,0160605,American Sikh Society Of N. California,"1090 Main St, Roseville, CA 95678"
+2014-11-04,CA,Placer,0160606,Roseville First United Methodist Church,"109 Washington Blvd, Roseville, CA 95678"
+2014-11-04,CA,Placer,0160607,Roseville Veterans Memorial Hall,"110 Park Dr, Roseville, CA 95678"
+2014-11-04,CA,Placer,0160608,Grace Bible Church,"1390 Base Line Rd, Roseville, CA 95747"
+2014-11-04,CA,Placer,0160609,Roseville First United Methodist Church,"109 Washington Blvd, Roseville, CA 95678"
+2014-11-04,CA,Placer,0160610,Coyote Ridge Elementary,"1751 Morningstar Dr, Roseville CA 95747"
+2014-11-04,CA,Placer,0160611,St Clare Catholic Church,"1950 Junction Blvd, Roseville CA 95747"
+2014-11-04,CA,Placer,0160612,St Clare Catholic Church,"1951 Junction Blvd, Roseville CA 95747"
+2014-11-04,CA,Placer,0160613,Silverado Middle School,"2525 Country Club Dr, Roseville CA 95747"
+2014-11-04,CA,Placer,0160614,Heritage Oak Elementary School,"2271 Americana Dr, Roseville CA 95747"
+2014-11-04,CA,Placer,0160615,Placer Counry Fairgrounds,"800 All America City Blvd, Roseville CA 95678"
+2014-11-04,CA,Placer,0160616,Eskaton Roseville Manor,"1725 Pleasant Grove Blvd, Roseville, CA"
+2014-11-04,CA,Placer,0160617,Martha Riley Community Library,"1501 Pleasant Grove Blvd, Roseville, CA"
+2014-11-04,CA,Placer,0160618,Grace Bible Church,"1390 Base Line Rd, Roseville, CA 95747"
+2014-11-04,CA,Placer,0160619,American Sikh Society Of N. California,"1090 Main St, Roseville, CA 95678"
+2014-11-04,CA,Placer,0160620,Ferris Spanger Elementary School,"699 Shasta St, Roseville, CA 95678-1276"
+2014-11-04,CA,Placer,0160621,The Retreat @ The Club,"3240 Kennerleigh Pkwy, Roseville, CA 95747"
 2014-11-04,CA,Placer,0160622,Chilton Middle School,"4501 Bob Doyle Dr, Roseville, CA 95747"
+2014-11-04,CA,Placer,0160624,Sun City Roseville,"7050 Del Webb Blvd, Roseville, CA 95747"
+2014-11-04,CA,Placer,0160625,Sun City Roseville,"7051 Del Webb Blvd, Roseville, CA 95747"
+2014-11-04,CA,Placer,0160626,Martha Riley Community Library,"1501 Pleasant Grove Blvd,  Roseville, CA 95747"
+2014-11-04,CA,Placer,0160627,Grace Bible Church,"1390 Base Line Rd, Roseville, CA 95747"
+2014-11-04,CA,Placer,0160628,Placer County Fairgrounds,"800 All America City Blvd, Roseville, CA 95747"
+2014-11-04,CA,Placer,0160629,Ledgends at Woodcreek,"5990 Woodcreak Oaks Blvd, Roseville, CA 95747"
+2014-11-04,CA,Placer,0160630,Ledgends at Woodcreek,"5991 Woodcreak Oaks Blvd, Roseville, CA 95747"
+2014-11-04,CA,Placer,0160631,Harvest Community Church,"1376 Blue Oaks Blvd Roseville, CA 95747"
+2014-11-04,CA,Placer,0160632,Robert C. Cooley Middle School,"9300 Prarie Woods Way Roseville, CA 95747"
+2014-11-04,CA,Placer,0160633,Sun City Roseville,"7050 Del Webb Blvd, Roseville, CA"
+2014-11-04,CA,Placer,0160634,Sun City Roseville,"7050 Del Webb Blvd, Roseville, CA"
+2014-11-04,CA,Placer,0160635,Legends At Woodcreek,"5880 Woodcreek Oaks Blvd, Roseville, CA"
 2014-11-04,CA,Placer,0160636,Chilton Middle School,"4501 Bob Doyle Dr, Roseville, CA 95747"
 2014-11-04,CA,Placer,0160637,Eskaton Village Roseville,"1650 Eskaton Lp, Roseville, CA 95747"
-2014-11-04,CA,Placer,0160638,Eskaton Village Roseville,"1650 Eskaton Lp, Roseville, CA 95747"
-2014-11-04,CA,Placer,0160639,Life Community Church,"10020 Foothills Blvd, Roseville, CA 95747-7102"
-2014-11-04,CA,Placer,0160640,Life Community Church,"10020 Foothills Blvd, Roseville, CA 95747"
-2014-11-04,CA,Placer,0160643,St John's Episcopal Church,"2351 Pleasant Grove Blvd, Roseville, CA"
-2014-11-04,CA,Placer,0260308,Sun City Lincoln Hills Orchard Crk Lodge,"965 Orchard Creek Ln, Lincoln, CA 95648"
-2014-11-04,CA,Placer,0260310,Sun City Lincoln Hills Orchard Crk Lodge,"965 Orchard Creek Ln, Lincoln, CA 95648"
+2014-11-04,CA,Placer,0160638,Eskaton Village Roseville,"1651 Eskaton Lp, Roseville, CA 95747"
+2014-11-04,CA,Placer,0160639,Life Community Church,"10020 Foothills Blvd, Roseville, CA 95747"
+2014-11-04,CA,Placer,0160640,Life Community Church,"10021 Foothills Blvd, Roseville, CA 95747"
+2014-11-04,CA,Placer,0160643,St John's Episcopal Church,"2351 Pleast Grove Blvd Roseville, CA 95747"
+2014-11-04,CA,Placer,0160644,Fiddyment Farms Elementary School,"4001 Brick Masons Circle Roseville, CA 95747"
+2014-11-04,CA,Placer,0160647,Placer County Fairgrounds,"800 All America City Blvd, Roseville, CA 95747"
+2014-11-04,CA,Placer,0161004,Placer Co. Fire #100 - Cook Riolo,"8349 Cook Riolo Rd, Roseville, CA 95747"
+2014-11-04,CA,Placer,0161005,Placer Co. Fire #100 - Cook Riolo,"8350 Cook Riolo Rd, Roseville, CA 95747"
+2014-11-04,CA,Placer,0161006,Impact Church,"8330 Brady Ln, Roseville, CA 95747"
+2014-11-04,CA,Placer,0161011,Dry Creek Elementary School,"2955 P F E Rd, Roseville, CA 95747"
+2014-11-04,CA,Placer,0260302,Lincoln Crossing Lodge (Club Lincoln),"830 Groveland Ln, Lincoln, CA 95648"
+2014-11-04,CA,Placer,0260303,Lincoln Public Library (West Entrance),"485 Twelve Bridges Dr, Lincoln CA 95648"
+2014-11-04,CA,Placer,0260304,Lincoln Public Library (West Entrance),"486 Twelve Bridges Dr, Lincoln CA 95648"
+2014-11-04,CA,Placer,0260305,Sun City Lincoln Hills Orchard Crk Lodge,"965 Orchard Creek Ln, Lincoln CA 95648"
+2014-11-04,CA,Placer,0260307,Sun City Lincoln Hills Orchard Crk Lodge,"959 Orchard Creek Ln, Lincoln, CA 95648"
+2014-11-04,CA,Placer,0260308,Sun City Lincoln Hills Orchard Crk Lodge,"960 Orchard Creek Ln, Lincoln, CA 95648"
+2014-11-04,CA,Placer,0260310,Sun City Lincoln Hills Orchard Crk Lodge,"962 Orchard Creek Ln, Lincoln, CA 95648"
+2014-11-04,CA,Placer,0260311,Sun City Lincoln Hills Orchard Crk Lodge,"963 Orchard Creek Ln, Lincoln, CA 95648"
+2014-11-04,CA,Placer,0260312,Sun City Lincoln Hills Orchard Crk Lodge,"964 Orchard Creek Ln, Lincoln, CA 95648"
+2014-11-04,CA,Placer,0260313,Sun City Lincoln Hills Orchard Crk Lodge,"965 Orchard Creek Ln, Lincoln, CA 95648"
+2014-11-04,CA,Placer,0260314,Lincoln Crossing Lodge (Club Lincoln),"830 Groveland Ln, Lincoln, CA 95648"
 2014-11-04,CA,Placer,0260315,Lincoln Crossing Lodge (Club Lincoln),"830 Groveland Ln, Lincoln, CA 95648"
-2014-11-04,CA,Placer,0260316,Lincoln Crossing Elementary,"635 Groveland Ln, Lincoln, CA 95648-8013"
+2014-11-04,CA,Placer,0260316,Lincoln Crossing Elementary,"635 Groveland Ln, Lincoln, CA 95648"
 2014-11-04,CA,Placer,0260317,Sun City Lincoln Hills Kilaga Springs,"1167 Sun City Blvd, Lincoln, CA 95648"
-2014-11-04,CA,Placer,0260318,Sun City Lincoln Hills Orchard Crk Lodge,"965 Orchard Creek Ln, Lincoln, CA 95648-8444"
-2014-11-04,CA,Placer,0260319,Sun City Lincoln Hills Kilaga Springs,"1167 Sun City Blvd, Lincoln, CA 95648"
-2014-11-04,CA,Placer,0260320,Sun City Lincoln Hills Kilaga Springs,"1167 Sun City Blvd, Lincoln, CA 95648"
+2014-11-04,CA,Placer,0260318,Sun City Lincoln Hills Orchard Crk Lodge,"965 Orchard Creek Ln, Lincoln, CA 95648"
+2014-11-04,CA,Placer,0260319,Sun City Lincoln Hills Orchard Crk Lodge,"966 Orchard Creek Ln, Lincoln, CA 95648"
+2014-11-04,CA,Placer,0260320,Sun City Lincoln Hills Orchard Crk Lodge,"967 Orchard Creek Ln, Lincoln, CA 95648"
+2014-11-04,CA,Placer,0260321,Lincoln Crossing Lodge (Club Lincoln),"830 Groveland Ln, Lincoln, CA 95648"
 2014-11-04,CA,Placer,0260322,Lincoln Community Center,"2010 1st St, Lincoln, CA 95648"
-2014-11-04,CA,Placer,0260323,Lincoln Community Center,"2010 1st St, Lincoln, CA 95648"
+2014-11-04,CA,Placer,0260323,Lincoln Community Center,"2011 1st St, Lincoln, CA 95648"
 2014-11-04,CA,Placer,0260324,St James Episcopal Church,"479 L St, Lincoln, CA 95648"
 2014-11-04,CA,Placer,0260325,Lincoln Veterans Memorial Hall,"541 5th St, Lincoln, CA 95648"
-2014-11-04,CA,Placer,0260326,Lincoln Community Center,"2010 1st St, Lincoln, CA 95648"
-2014-11-04,CA,Placer,0260328,Lincoln United Methodist Church,"629 I St, Lincoln, CA 95648"
-2014-11-04,CA,Placer,0260329,Foskett Ranch School,"1561 Joiner Pkwy, Lincoln, CA 95648"
-2014-11-04,CA,Placer,0260501,William Jessup University,"333 Sunset Blvd, Rocklin CA 95765"
+2014-11-04,CA,Placer,0260326,Lincoln Community Center,"2011 1st St, Lincoln, CA 95648"
+2014-11-04,CA,Placer,0260327,Lincoln United Methodist Church,"629 I St, Lincoln, CA 95648"
+2014-11-04,CA,Placer,0260328,Lincoln United Methodist Church,"630 I St, Lincoln, CA 95648"
+2014-11-04,CA,Placer,0260329,Foskett Ranch School,"1561 Joiner parkway, Lincoln CA 95648"
+2014-11-04,CA,Placer,0260501,William Jessup University,"333 Sunset Blvd Rocklin, CA 95765"
+2014-11-04,CA,Placer,0260502,St Augustine Episcopal,"1800 Wildcat Blvd Rocklin, CA 95765 "
+2014-11-04,CA,Placer,0260503,Twin Oaks Elementary School,"2835 Club Dr, Rocklin, CA 95765"
+2014-11-04,CA,Placer,0260504,William Jessup University,"333 Sunset Blvd Rocklin, CA 95765"
+2014-11-04,CA,Placer,0260505,The Ranch House @ Whitney Ranch,"851 Old Ranch House Rd Rocklin, CA 95765"
+2014-11-04,CA,Placer,0260506,Whitney High School,"701 Wildcat Blvd, Rocklin, CA 95765"
+2014-11-04,CA,Placer,0260507,The Ranch House @ Whitney Ranch,"851 Old Ranch House Rd Rocklin, CA 95765"
 2014-11-04,CA,Placer,0260508,Breen Elementary School,"2751 Breen Dr, Rocklin, CA 95765"
 2014-11-04,CA,Placer,0260509,Granite Oaks Middle School,"2600 Wyckford Blvd, Rocklin, CA 95765"
 2014-11-04,CA,Placer,0260510,The Gables At Springfield,"2801 Springfield Dr, Rocklin, CA 95765"
 2014-11-04,CA,Placer,0260511,Granite Oaks Middle School,"2600 Wyckford Blvd, Rocklin, CA 95765"
 2014-11-04,CA,Placer,0261102,Placer Co. Fire #75 - Nicolaus,"5390 Nicolaus Rd, Lincoln, CA 95648"
+2014-11-04,CA,Placer,261201,Steward Hall,"6005 Camp Far West Rd, Sheridan CA 95681"
 2014-11-04,CA,Placer,0261302,Fruitvale Community Hall,"3425 Fruitvale Rd, Lincoln, CA 95648"
-2014-11-04,CA,Placer,0261310,Mt Pleasant Hall,"3333 Mt Pleasant Rd, Lincoln, CA 95648"
+2014-11-04,CA,Placer,261310,Mt Pleasant Hall,"3333 Mt Pleasant Rd, Lincoln, CA 95648"
+2014-11-04,CA,Placer,261318,Mt Pleasant Hall,"3334 Mt Pleasant Rd, Lincoln, CA 95648"
 2014-11-04,CA,Placer,0261334,Thermalands Community Center,"7755 Me Courtney Rd, Lincoln, CA 95648"
+2014-11-04,CA,Placer,21401,"Placer Co Fire #73, Fruitvale/Fowler","4710 Fruitvale Rd, Newcastle CA 95658"
+2014-11-04,CA,Placer,261201,St Theresa of Avila,"11610 Atwood Rd, Auburn CA 95603-9522"
+2014-11-04,CA,Placer,312211,Parkside Church Of The Nazarene,"3885 Richardson Dr, Auburn, CA 95602"
 2014-11-04,CA,Placer,0312212,Mt Vernon Grange Hall,"3185 Bell Rd, Auburn CA 95603"
 2014-11-04,CA,Placer,0351801,Portuguese Hall,"690 Taylor Rd, Newcastle, CA 95658"
 2014-11-04,CA,Placer,0351802,Castle City Mobile Home Park,"1588 Lisa Dr, Newcastle, CA 95658"
-2014-11-04,CA,Placer,0352110,Newcastle United Methodist Church,"410 Buena Vista Ave, Newcastle, CA 95658"
-2014-11-04,CA,Placer,0360403,Loomis Veterans Memorial Hall,"5945 Horseshoe Bar Rd, Loomis, CA 95650"
-2014-11-04,CA,Placer,0360406,Loomis Veterans Memorial Hall,"5945 Horseshoe Bar Rd, Loomis, CA 95650"
-2014-11-04,CA,Placer,0360408,Loomis LDS Church,"3345 Margaret Dr, Loomis, CA 95650"
-2014-11-04,CA,Placer,0360409,Loomis LDS Church,"3345 Margaret Dr, Loomis, CA 95650"
-2014-11-04,CA,Placer,0360412,Loomis Veterans Memorial Hall,"5945 Horseshoe Bar Rd, Loomis, CA 95650"
+2014-11-04,CA,Placer,0351903,Sierra Baptist Church,"2215 Auburn Folsom Rd, Newcastle, CA 95658"
+2014-11-04,CA,Placer,0352109,Newcastle United Methodist Church,"410 Buena Vista Ave Newcastle, CA 95658"
+2014-11-04,CA,Placer,0352110,Newcastle United Methodist Church,"411 Buena Vista Ave Newcastle, CA 95658"
+2014-11-04,CA,Placer,0360403,Loomis Veterans Memorial Hall,"5945 Horseshoe Bar Rd, Loomis CA 95650"
+2014-11-04,CA,Placer,0360406,Loomis Veterans Memorial Hall,"5946 Horseshoe Bar Rd, Loomis CA 95650"
+2014-11-04,CA,Placer,0360408,Loomis LDS Church,"3345 Margaret Dr, Loomis CA 95650"
+2014-11-04,CA,Placer,0360409,Loomis LDS Church,"3346 Margaret Dr, Loomis CA 95650"
+2014-11-04,CA,Placer,0360412,Loomis Veterans Memorial Hall,"5946 Horseshoe Bar Rd, Loomis CA 95650"
 2014-11-04,CA,Placer,0360501,Gracepoint Adventist (Sunset Oaks),"3500 Sunset Blvd, Rocklin, CA 95677"
+2014-11-04,CA,Placer,0360502,Sierra Elementary School,"6811 Camborne Way, Rocklin, CA 95677"
+2014-11-04,CA,Placer,0360503,Sierra Christian Church,"5645 Rocklin Rd, Loomis, CA 95650"
+2014-11-04,CA,Placer,0360504,Lifehouse Church,"4800 Sierra Coll Blvd, Rocklin, CA 95677"
 2014-11-04,CA,Placer,0360505,Sierra Christian Church,"5645 Rocklin Rd, Loomis, CA 95650"
-2014-11-04,CA,Placer,0360508,Rocklin First Baptist Church,"5425 Coronado Way, Rocklin, CA 95677"
-2014-11-04,CA,Placer,0360509,Rocklin First Baptist Church,"5425 Coronado Way, Rocklin, CA 95677"
+2014-11-04,CA,Placer,0360507,Gracepoint Adventist (Sunset Oaks),"3500 Sunset Blvd, Rocklin, CA 95677"
+2014-11-04,CA,Placer,0360508,Rocklin First Baptist Church,"5425 Coronado Way, Rocklin, CA"
+2014-11-04,CA,Placer,0360509,Rocklin First Baptist Church,"5425 Coronado Way, Rocklin, CA"
 2014-11-04,CA,Placer,0360511,Rocklin Community Center,"5480 5th St, Rocklin, CA 95677"
+2014-11-04,CA,Placer,0360512,Community Covenant Church,"5140 Topaz Ave, Rocklin, CA 95677"
 2014-11-04,CA,Placer,0360513,Finn Hall,"4090 Rocklin Rd, Rocklin, CA 95677-2722"
 2014-11-04,CA,Placer,0360514,Finn Hall,"4090 Rocklin Rd, Rocklin, CA 95677"
 2014-11-04,CA,Placer,0360517,Community Covenant Church,"5140 Topaz Ave, Rocklin, CA 95677-2233"
-2014-11-04,CA,Placer,0360518,Valley View Elementary School,"3000 Crest Dr, Rocklin, CA 95765-5093"
-2014-11-04,CA,Placer,0360519,Rocklin Fire Station #2,"3401 Crest Dr, Rocklin, CA 95765"
+2014-11-04,CA,Placer,0360518,Valley View Elementary School,"3000 Crest Dr Rocklin, CA 95765"
+2014-11-04,CA,Placer,0360519,Rocklin Fire Station #2 ,"3401 Crest Dr, Rocklin, CA 95765"
 2014-11-04,CA,Placer,0360520,Rocklin Fire Station #2,"3401 Crest Dr, Rocklin, CA 95677"
+2014-11-04,CA,Placer,0360521,Ruhkala Elementary School,"6530 Turnstone Way, Rocklin, CA 95765"
+2014-11-04,CA,Placer,0360522,St Augustine Episcopal,"1800 Wildcat Blvd Rocklin, CA 95765 "
+2014-11-04,CA,Placer,0360523,Rock Creek Elementary School,"2140 Collet Quarry Dr Rocklin, CA 95765 "
 2014-11-04,CA,Placer,0360524,Cobblestone Elementary School,"5740 Cobblestone Dr, Rocklin, CA 95765"
 2014-11-04,CA,Placer,0360525,Villa Serena Apartments,"101 Villa Serena Cir, Rocklin, CA 95765"
 2014-11-04,CA,Placer,0360526,Rocklin Alternative Education Center,"3250 Victory Dr, Rocklin, CA 95765"
 2014-11-04,CA,Placer,0360527,The Gables At Springfield,"2801 Springfield Dr, Rocklin, CA 95765"
-2014-11-04,CA,Placer,0360533,The Winsted,"101 Coppervale Circle, Rocklin, CA 95765-4269"
-2014-11-04,CA,Placer,0361501,Franklin Elementary School,"7050 Franklin School Rd, Loomis, CA 95650"
-2014-11-04,CA,Placer,0361502,Placer Elementary School,"8650 Horseshoe Bar Rd, Loomis, CA 95650"
-2014-11-04,CA,Placer,0361503,South Placer Fire Station #20,"3505 Auburn Folsom Rd, Loomis, CA 95650-8889"
-2014-11-04,CA,Placer,0361508,Sierra Baptist Church,"2215 Auburn Folsom Rd, Newcastle, CA"
-2014-11-04,CA,Placer,0462411,Cavitt Junior High School,"7200 Fuller Dr, Granite Bay, CA 95746"
-2014-11-04,CA,Placer,0462418,Lakeview Hills Clubhouse,"8062 N Lake Cir, Granite Bay, CA 95746"
-2014-11-04,CA,Placer,0512501,Martin Park Fire Station,"485 High St, Auburn, CA 95603"
-2014-11-04,CA,Placer,0512527,Placer Energy Center! CCC,"3710 Christian Valley Rd, Auburn, CA"
-2014-11-04,CA,Placer,0512529,Placer Energy Center / CCC,"3710 Christian Valley Rd, Auburn, CA"
-2014-11-04,CA,Placer,0512603,Foresthill Veterans Memorial Hall,"24601 Harrison St, Foresthill, CA 95631"
-2014-11-04,CA,Placer,0512604,Foresthill Veterans Memorial Hall,"24601 Harrison St, Foresthill, CA 95631"
-2014-11-04,CA,Placer,0512605,Calvary Bible Church,"20801 Todd Valley Rd, Foresthill, CA"
-2014-11-04,CA,Placer,0512606,Foresthill Veterans Memorial Hall,"24601 Harrison St, Foresthill, CA 95631"
-2014-11-04,CA,Placer,0512702,Applegate Civic Center,"18014 Applegate Rd, Colfax, CA 95713"
-2014-11-04,CA,Placer,0512901,Sierra Vista Community Center,"55 School St, Colfax, CA 95713"
+2014-11-04,CA,Placer,0360533,The Winsted,"101 Coppervale Cir, Rocklin, CA 95765"
+2014-11-04,CA,Placer,0361501,Franklin Elementary School,"7050 Franklin School Rd, Loomis CA 95650"
+2014-11-04,CA,Placer,0361502,Placer Elementary School,"8650 Horseshoe Rd, Loomis CA 95650"
+2014-11-04,CA,Placer,0361503,South Placer Fire Station #20,"3505 Auburn Folsom Rd, Loomis CA 95650"
+2014-11-04,CA,Placer,0361508,Sierra Baptist Church,"2215 Auburn Folsom Rd, Newcastle, CA 95658"
+2014-11-04,CA,Placer,0361511,Hope Lutheran Church,"7117 Hope Way, Penryn CA 95663-9606"
+2014-11-04,CA,Placer,0361704,Loomis Grange Hall,"6486 Colwell Rd, Penryn CA 95663"
+2014-11-04,CA,Placer,0460601,St Mary Church (formerly Renaissance Ch),"199 Cirby Way, Roseville, CA 95678-5182"
+2014-11-04,CA,Placer,0460602,St Mary Church (formerly Renaissance Ch),"200 Cirby Way, Roseville, CA 95678-5182"
+2014-11-04,CA,Placer,0460603,Hillcrest Alliance Church,"911 Hillcrest Ave, Roseville, CA 95678-5182"
+2014-11-04,CA,Placer,0460607,Light of the Gospel Church,"850 Cirby Way, Roseville, CA 95678-5182"
+2014-11-04,CA,Placer,0460608,Lyman Leak Memorial Community Center,"1203 Gabrielli Dr, Roseville, CA 95661"
+2014-11-04,CA,Placer,0460611,Oakmont High School,"1710 Cirby Way, Roseville, CA 95661-5520"
+2014-11-04,CA,Placer,0460612,Roseville Church Of Christ,"1799 Cirby Way, Roseville, CA 95661"
+2014-11-04,CA,Placer,0460613,Crestmont Elementary School,"1501 Sheridan Ave, Roseville, CA 95661"
+2014-11-04,CA,Placer,0460614,Roseville Church Of Christ,"1799 Cirby Way, Roseville, CA 95661"
+2014-11-04,CA,Placer,0460615,Centerpoint Community Church,"515 Sunrise Ave, Roseville, CA 95661"
+2014-11-04,CA,Placer,0460616,Roseville Seventh Day Adventist Church,"914 Cirby Way, Roseville, CA 95661"
+2014-11-04,CA,Placer,0460617,Roseville Church Of Christ,"1799 Cirby Way, Roseville, CA 95661"
+2014-11-04,CA,Placer,0460618,Roseville Church Of Christ,"1800 Cirby Way, Roseville, CA 95661"
+2014-11-04,CA,Placer,0460619,Maidu Village II Apartments,"101 Sterling Court Roseville, CA 95661"
+2014-11-04,CA,Placer,0460620,Maidu Community Center,"1550 Maidu Dr, Roseville, CA 95661"
+2014-11-04,CA,Placer,0460621,Johnson Ranch Raquet Club South,"2600 Eureka Rd Roseville, CA 95661"
+2014-11-04,CA,Placer,0460622,South Placer Fire Station #5,4650 E Roseville Pkwy Granite Bay VA 95746
+2014-11-04,CA,Placer,0460623,Bayside Church,8191 Sierra College Blvd Granite Bay VA 95746
+2014-11-04,CA,Placer,0460624,Valley Springs Presbyterian Church,"2401 Olympus Drive Roseville, CA 95661"
+2014-11-04,CA,Placer,0460625,Valley Springs Presbyterian Church,"2402 Olympus Drive Roseville, CA 95661"
+2014-11-04,CA,Placer,0460626,Valley Springs Presbyterian Church,"2403 Olympus Drive Roseville, CA 95661"
+2014-11-04,CA,Placer,0460627,Stoneridge Elementary School,"2501 Alexandria Dr, Roseville, CA 95661"
+2014-11-04,CA,Placer,0460628,Silver Ridge Senior Apartment Homes,"1101 Stone Canyon Dr Roseville, CA 95661"
+2014-11-04,CA,Placer,0460630,Placer County Fairgrounds,"800 All America, Roseville, CA 95661"
+2014-11-04,CA,Placer,0460632,Highland Creek Apartments,"800 Gibson Dr Roseville, CA 95661"
+2014-11-04,CA,Placer,0460634,Catheryn Gates Elementary School,"1051 Trehowell Dr, Roseville, CA 95678"
+2014-11-04,CA,Placer,0460635,Buljan Middle School,"100 Hallissy Dr, Roseville, CA 95678"
+2014-11-04,CA,Placer,0460636,Harvest Community Church,"1376 Blue Oaks Rd Roseville, CA 95678"
+2014-11-04,CA,Placer,0460637,Vencil Brown Elementary School,"250 Trestle Rd Roseville, CA 95678"
+2014-11-04,CA,Placer,0460638,Mike Shellito Indoor Pool,"10210 Fairway Dr Roseville, CA 95678"
+2014-11-04,CA,Placer,0460639,Rocklin First Baptist Church,5425 Colorado Way Rocklin CA 95677
+2014-11-04,CA,Placer,0462401,Oakhills Elementary School,"9233 Twin School Rd Granite Bay, CA 95746"
+2014-11-04,CA,Placer,0462402,Ridgeview Elementary School,"9177 Twin School Rd Granite Bay, CA 95746"
+2014-11-04,CA,Placer,0462403,Granite Bay High School,"1 Grizzly Way, Granite Bay, CA 95746"
+2014-11-04,CA,Placer,0462404,Ridgeview Elementary School,"9177 Twin School Rd Granite Bay, CA 95746"
+2014-11-04,CA,Placer,0462405,South Placer Fire Station #17,"6900 Eureka Rd, Granite Bay, CA 95746"
+2014-11-04,CA,Placer,0462406,Eskaton Lodge Granite Bay,"8550 Barton Rd Granite Bay, CA 95746"
+2014-11-04,CA,Placer,0462407,Bayside Church,8191 Sierra College Blvd Granite Bay VA 95746
+2014-11-04,CA,Placer,0462410,Lutheran Church of the Restoration,6365 Douglas Blvd Granite Bay VA 95746
+2014-11-04,CA,Placer,0462411,Cavitt Junior High School,7200 Fuller Dr Granite Bay VA 95746
+2014-11-04,CA,Placer,0462412,Landmark Missionary Baptist Church,7150 Wildwood Pl Granite Bay VA 95746
+2014-11-04,CA,Placer,0462413,Landmark Missionary Baptist Church,7151 Wildwood Pl Granite Bay VA 95746
+2014-11-04,CA,Placer,0462416,South Place Fire Station #16,"5300 Olive Ranch Rd, Granite Bay VA 95746"
+2014-11-04,CA,Placer,0462417,Lutheran Church of the Resurrecton,6365 Douglas Blvd Granite Bay VA 95746
+2014-11-04,CA,Placer,0462418,Lakeview Hills Clubhouse,8062 N Lake Cir Granite Bay VA 95746
+2014-11-04,CA,Placer,0462420,South Placer Fire Station #19,"7070 Auburn Folsom Rd, Granite Bay VA 95746"
+2014-11-04,CA,Placer,0462433,South Placer Fire Station #20,"7071 Auburn Folsom Rd, Granite Bay VA 95746"
+2014-11-04,CA,Placer,0510201,Sierra Vista Community Center,"55 School St, Colfax, CA 95713"
+2014-11-04,CA,Placer,0510501,Martin park Fire Station,"485 High St, Auburn CA 95603"
+2014-11-04,CA,Placer,0510502,Placer COunty Office of Education,360 Nevada St Auburn CA 95603
+2014-11-04,CA,Placer,0510505,Woodside Village Mobile Home Park,12155 Luther Rd Auburn CA 95603
+2014-11-04,CA,Placer,0510506,Colonial Village Apartments,2205 Colonial Village Auburn CA 95603
+2014-11-04,CA,Placer,0510509,Bowman Charter School,13777 Bowman Rd Auburn CA 95603
+2014-11-04,CA,Placer,0510510,Bell Road Baptist Church,707 Bell Rd Auburn CA 95603
+2014-11-04,CA,Placer,0510513,Auburn Seventh Day Baptist Church,12225 Rock Creek Rd Auburn CA 95603
+2014-11-04,CA,Placer,0510514,Parkside Church Of The Nazarene,"3885 Richardson Dr, Auburn, CA 95602"
+2014-11-04,CA,Placer,0510515,Auburn Seventh Day Advent Church,12225 Rock Creek Rd Auburn CA 95603
+2014-11-04,CA,Placer,0510520,Bell Road Baptist Church,707 Bell Rd Auburn CA 95603
+2014-11-04,CA,Placer,0510524,Auburn Seventh Day Advent Church,12225 Rock Creek Rd Auburn CA 95603
+2014-11-04,CA,Placer,0510527,Placer Energy Center / CCC,3710 Christian Valley Rd Auburn CA 95603
+2014-11-04,CA,Placer,0510529,Placer Energy Center / CCC,3711 Christian Valley Rd Auburn CA 95603
+2014-11-04,CA,Placer,0510603,Foresthill Veterans Memorial Hall,"24601 Harrison St, Forestill CA 95631"
+2014-11-04,CA,Placer,0510604,Foresthill Veterans Memorial Hall,"24602 Harrison St, Forestill CA 95631"
+2014-11-04,CA,Placer,0510605,Calvary Bible Church,"20801 Todd Valley Rd, Foresthill CA 95631"
+2014-11-04,CA,Placer,0510606,Foresthill Veterans Memorial Hall,"24602 Harrison St, Forestill CA 95631"
+2014-11-04,CA,Placer,0512702,Applegate Civic Center,"18014 Applegate Rd, Applegate CA 95713"
+2014-11-04,CA,Placer,0512705,Meadow vista 7th Day Advent Church,1461 Meadow Vista Rd Meadow Vista CA 95722
+2014-11-04,CA,Placer,0512706,Meadow vista 7th Day Advent Church,1462 Meadow Vista Rd Meadow Vista CA 95722
+2014-11-04,CA,Placer,0512717,Applegate Civic Center,"18014 Applegate Rd, Applegate CA 95713"
+2014-11-04,CA,Placer,0512803,Placer Hills Community Church,17205 Placer Hills Rd Meadow Vista CA 95722
+2014-11-04,CA,Placer,0512806,Eden Valley Improvement Club,21400 Placer Hills Rd Colfax CA 95713
+2014-11-04,CA,Placer,0512807,Weimar Hills Middle School,200 W Weimar Cross Rd Colfax CA 95713
+2014-11-04,CA,Placer,0512901,Sierra Vista Community Center,"54 School St, Colfax, CA 95713"
 2014-11-04,CA,Placer,0512903,Sierra Vista Community Center,"55 School St, Colfax, CA 95713"
+2014-11-04,CA,Placer,0513101,Alta Fire Station / Community hall,33950 Alta Bonnynook Rd Alta CA 95701
+2014-11-04,CA,Placer,0513102,Alta Fire Station / Community hall,33951 Alta Bonnynook Rd Alta CA 95701
+2014-11-04,CA,Placer,0513402,Squaw Valley Public Serv District,306 Squaw Valley Rd Olympic Valley CA 96146
+2014-11-04,CA,Placer,0513607,Rideout Community Center,740 Timberland Ln Homewood CA 96141
+2014-11-04,CA,Placer,0513609,North Tahoe Fire Station #51 New Station,"222 Fairwat Dr, Tahoe City CA 96145"
 2014-11-04,CA,Placer,0513613,North Tahoe High School,"2945 Polaris Rd, Tahoe City, CA 96145"
+2014-11-04,CA,Placer,0513614,North Tahoe High School,"2945 Polaris Rd, Tahoe City, CA 96145"
+2014-11-04,CA,Placer,0513702,North Tahoe Event Center,"8318 N Lake Blvd (Hwy 28), Kings Beach, CA 96143"
+2014-11-04,CA,Placer,0513706,North Tahoe Event Center,"8318 N Lake Blvd (Hwy 28), Kings Beach, CA 96143 i"
+2014-11-04,CA,Placer,0550101,Maidu Fire Station (Access Maidu Dr),"901 Auburn Folsom Rd, Auburn, CA 95603"
+2014-11-04,CA,Placer,0550102,Maidu Fire Station (Access Maidu Dr),"902 Auburn Folsom Rd, Auburn, CA 95603"
 2014-11-04,CA,Placer,0550103,Canyon View Community Center,"471 Maidu Dr, Auburn, CA 95603"
 2014-11-04,CA,Placer,0550104,Canyon View Community Center,"471 Maidu Dr, Auburn, CA 95603"
-2014-11-04,CA,Placer,0550106,Auburn Veterans Memorial Hall,"100 East St, Auburn, CA 95603"
+2014-11-04,CA,Placer,0550106,Auburn Veterans Memorial Hall,"100 East St. Auburn, CA 95603"
 2014-11-04,CA,Placer,0550107,Auburn Recreation Park,"123 Recreation Dr, Auburn, CA 95603"
 2014-11-04,CA,Placer,0550109,Martin Park Fire Station,"485 High St, Auburn, CA 95603"
-2014-11-04,CA,Placer,0550110,Calvary Chapel,"1101 Auburn Ravine Rd, Auburn, CA 95603"
-2014-11-04,CA,Placer,0550111,Calvary Chapel,"1101 Auburn Ravine Rd, Auburn, CA 95603-3603"
-2014-11-04,CA,Placer,0550114,Placer County Office Of Education,"360 Nevada St, Auburn, CA 95603"
-2014-11-04,CA,Placer,0550116,Woodside Village Mobile Home Park,"12155 Luther Rd, Auburn, CA 95603-3427"
+2014-11-04,CA,Placer,0550110,Calvary Chapel,"1101 Auburn Ravine Rd, Auburn CA 95603"
+2014-11-04,CA,Placer,0550111,Calvary Chapel,"1102 Auburn Ravine Rd, Auburn CA 95603"
+2014-11-04,CA,Placer,0550114,Placer County Office of Education,360 Nevada St Auburn CA 95603
+2014-11-04,CA,Placer,0550116,Woodside Village Mobile Home Park,12155 Luther Rd Auburn CA 95603
+2014-11-04,CA,Placer,0562204,St Theresa of Avila,"11610 Atwood Rd, Auburn CA 95603-9522"
+2014-11-04,CA,Placer,0562206,Parkside Church Of The Nazarene,"3885 Richardson Dr, Auburn, CA 95602"
 2014-11-04,CA,Placer,0562503,Parkside Church Of The Nazarene,"3885 Richardson Dr, Auburn, CA 95602"
 2014-11-04,CA,Riverside,455,"King Arthur Mobile Home Estates, Library","1560 Massachusetts Ave Riverside, CA 92507-6920"
 2014-11-04,CA,Riverside,389,"St. George's Episcopal Church, Davis Hall","950 Spruce St Riverside, CA 92507-2503"
@@ -12182,214 +12323,129 @@ election_date,state,county_name,precinct_id,name,address
 2014-11-04,CA,San Francisco,9902,,", San Francisco, CA"
 2014-11-04,CA,San Francisco,9998,Not A Polling Site,"For Election Day Stand By Workers, San Francisco, CA"
 2014-11-04,CA,San Joaquin,11101,White Rose Church Of God In Christ,2340 S PILGRIM ST STOCKTON CA 95206
-2014-11-04,CA,San Joaquin,11132,White Rose Church Of God In Christ,2340 S PILGRIM ST STOCKTON CA 95206
 2014-11-04,CA,San Joaquin,11102,Montezuma Elementary School LIBRARY,2843 FARMINGTON RD STOCKTON CA 95205
 2014-11-04,CA,San Joaquin,11103,Dorothy L Jones Community Center,2044 FAIR ST STOCKTON CA 95206-2313
 2014-11-04,CA,San Joaquin,11104,Peniel Missions YOUTH CENTER,"1508 S SUTTER ST STOCKTON, CA 95206-2057"
-2014-11-04,CA,San Joaquin,11106,Peniel Missions YOUTH CENTER,"1508 S SUTTER ST STOCKTON, CA 95206-2057"
 2014-11-04,CA,San Joaquin,11105,Trinity Presbyterian Church,1002 W 8TH ST STOCKTON CA 95206-1802
-2014-11-04,CA,San Joaquin,11168,Trinity Presbyterian Church,1002 W 8TH ST STOCKTON CA 95206-1802
 2014-11-04,CA,San Joaquin,11107,St George's Church SAN LORENZO HALL,120 W 5TH ST STOCKTON CA 95206-2604
 2014-11-04,CA,San Joaquin,11108,Corinthian Missionary Baptist Church SOCIAL HALL,71 W 5TH ST STOCKTON CA 95206-2601
+2014-11-04,CA,San Joaquin,11108,St Mark's United Methodist Church,306 E CLAY ST STOCKTON CA 95206
 2014-11-04,CA,San Joaquin,11109,St Mathew Church,305 S F ST STOCKTON CA 95205
-2014-11-04,CA,San Joaquin,11134,St Mathew Church,305 S F ST STOCKTON CA 95205
 2014-11-04,CA,San Joaquin,11110,Mexican Community Center,609 S LINCOLN ST STOCKTON CA 95203
-2014-11-04,CA,San Joaquin,11113,Mexican Community Center,609 S LINCOLN ST STOCKTON CA 95203
-2014-11-04,CA,San Joaquin,11140,Mexican Community Center,609 S LINCOLN ST STOCKTON CA 95203
 2014-11-04,CA,San Joaquin,11111,Chua Residence,2235 STERN PL STOCKTON CA 95206
-2014-11-04,CA,San Joaquin,11171,Chua Residence,2235 STERN PL STOCKTON CA 95206
 2014-11-04,CA,San Joaquin,11112,Stribley Center,1760 E SONORA ST STOCKTON CA 95205
-2014-11-04,CA,San Joaquin,11122,Stribley Center,1760 E SONORA ST STOCKTON CA 95205
+2014-11-04,CA,San Joaquin,11113,Mexican Community Center,609 S LINCOLN ST STOCKTON CA 95203
 2014-11-04,CA,San Joaquin,11113,Alex G Spanos Elementary School ENTER FROM CALIFORNIA ST,536 S CALIFORNIA ST STOCKTON CA 95202
-2014-11-04,CA,San Joaquin,11119,Alex G Spanos Elementary School ENTER FROM CALIFORNIA ST,536 S CALIFORNIA ST STOCKTON CA 95202
+2014-11-04,CA,San Joaquin,11113,St Mark's United Methodist Church,306 E CLAY ST STOCKTON CA 95206
 2014-11-04,CA,San Joaquin,11114,Plymouth Square Senior Center,1319 N MADISON ST STOCKTON CA 95202
-2014-11-04,CA,San Joaquin,11125,Plymouth Square Senior Center,1319 N MADISON ST STOCKTON CA 95202
-2014-11-04,CA,San Joaquin,11126,Plymouth Square Senior Center,1319 N MADISON ST STOCKTON CA 95202
-2014-11-04,CA,San Joaquin,11133,Plymouth Square Senior Center,1319 N MADISON ST STOCKTON CA 95202
-2014-11-04,CA,San Joaquin,11115,Stockton Fire Station 1,1818 S FRESNO AVE STOCKTON CA 95206
-2014-11-04,CA,San Joaquin,11158,Stockton Fire Station 1,1818 S FRESNO AVE STOCKTON CA 95206
-2014-11-04,CA,San Joaquin,11116,Mosswood Park Church Of God,2315 S LINCOLN ST STOCKTON CA 95206
-2014-11-04,CA,San Joaquin,11135,Mosswood Park Church Of God,2315 S LINCOLN ST STOCKTON CA 95206
-2014-11-04,CA,San Joaquin,11117,Community Blind Center,130 W FLORA ST STOCKTON CA 95202
-2014-11-04,CA,San Joaquin,11133,Community Blind Center,130 W FLORA ST STOCKTON CA 95202
-2014-11-04,CA,San Joaquin,11118,New Vision Education Center FRENCH CAMP RD & MCCUEN AVE,4726 MCCUEN AVE STOCKTON CA 95206
-2014-11-04,CA,San Joaquin,11138,New Vision Education Center FRENCH CAMP RD & MCCUEN AVE,4726 MCCUEN AVE STOCKTON CA 95206
-2014-11-04,CA,San Joaquin,11119,El Concilio - Stkn Sutter St,224 S SUTTER ST STOCKTON CA 95203-3541
-2014-11-04,CA,San Joaquin,11123,El Concilio - Stkn Sutter St,224 S SUTTER ST STOCKTON CA 95203-3541
-2014-11-04,CA,San Joaquin,11120,Centro Vida,2295 E FREMONT STREET STOCKTON CA 95205
-2014-11-04,CA,San Joaquin,11124,Centro Vida,2295 E FREMONT STREET STOCKTON CA 95205
-2014-11-04,CA,San Joaquin,11129,Centro Vida,2295 E FREMONT STREET STOCKTON CA 95205
-2014-11-04,CA,San Joaquin,11121,Weston Ranch High School,4606 MCCUEN AVE STOCKTON CA 95206-6388
-2014-11-04,CA,San Joaquin,11166,Weston Ranch High School,4606 MCCUEN AVE STOCKTON CA 95206-6388
-2014-11-04,CA,San Joaquin,11124,Fremont Elementary School,939 D STREET STOCKTON CA 95205
-2014-11-04,CA,San Joaquin,11129,Fremont Elementary School,939 D STREET STOCKTON CA 95205
 2014-11-04,CA,San Joaquin,11114,Stockton Fire Station 2,110 W SONORA ST STOCKTON CA 95203
+2014-11-04,CA,San Joaquin,11115,Stockton Fire Station 1,1818 S FRESNO AVE STOCKTON CA 95206
+2014-11-04,CA,San Joaquin,11116,Mosswood Park Church Of God,2315 S LINCOLN ST STOCKTON CA 95206
+2014-11-04,CA,San Joaquin,11117,Community Blind Center,130 W FLORA ST STOCKTON CA 95202
+2014-11-04,CA,San Joaquin,11118,New Vision Education Center FRENCH CAMP RD & MCCUEN AVE,4726 MCCUEN AVE STOCKTON CA 95206
+2014-11-04,CA,San Joaquin,11119,Alex G Spanos Elementary School ENTER FROM CALIFORNIA ST,536 S CALIFORNIA ST STOCKTON CA 95202
+2014-11-04,CA,San Joaquin,11119,El Concilio - Stkn Sutter St,224 S SUTTER ST STOCKTON CA 95203-3541
+2014-11-04,CA,San Joaquin,11120,Centro Vida,2295 E FREMONT STREET STOCKTON CA 95205
+2014-11-04,CA,San Joaquin,11121,Weston Ranch High School,4606 MCCUEN AVE STOCKTON CA 95206-6388
+2014-11-04,CA,San Joaquin,11124,Fremont Elementary School,939 D STREET STOCKTON CA 95205
 2014-11-04,CA,San Joaquin,11126,Stockton Fire Station 2,110 W SONORA ST STOCKTON CA 95203
 2014-11-04,CA,San Joaquin,11127,San Joaquin County Office Of Education,2901 ARCH AIRPORT RD STOCKTON CA 95206-3974
-2014-11-04,CA,San Joaquin,11156,San Joaquin County Office Of Education,2901 ARCH AIRPORT RD STOCKTON CA 95206-3974
 2014-11-04,CA,San Joaquin,11128,Crossroads Of The Valley Church,3514 E MAIN ST STOCKTON CA 95205-6622
 2014-11-04,CA,San Joaquin,11130,Karl Ross Post 16,2020 PLYMOUTH RD STOCKTON CA 95204-4720
 2014-11-04,CA,San Joaquin,11136,Bethany Christian Center,798 W 3RD ST STOCKTON CA 95206
 2014-11-04,CA,San Joaquin,11137,August Knodt Elementary School LIBRARY NEXT TO OFFICE,3939 EWS WOODS BLVD STOCKTON CA 95206
 2014-11-04,CA,San Joaquin,11139,Maya Angelou - Southeast Library,2324 POCK LN STOCKTON CA 95205
-2014-11-04,CA,San Joaquin,11157,Maya Angelou - Southeast Library,2324 POCK LN STOCKTON CA 95205
-2014-11-04,CA,San Joaquin,11108,St Mark's United Methodist Church,306 E CLAY ST STOCKTON CA 95206
-2014-11-04,CA,San Joaquin,11113,St Mark's United Methodist Church,306 E CLAY ST STOCKTON CA 95206
 2014-11-04,CA,San Joaquin,11140,St Mark's United Methodist Church,306 E CLAY ST STOCKTON CA 95206
 2014-11-04,CA,San Joaquin,11142,Great Valley Elementary School CAFETERIA,4223 MCDOUGALD BLVD STOCKTON CA 95206-6237
-2014-11-04,CA,San Joaquin,11159,Great Valley Elementary School CAFETERIA,4223 MCDOUGALD BLVD STOCKTON CA 95206-6237
 2014-11-04,CA,San Joaquin,11146,Stockton Fire Station 5,3499 MANTHEY RD STOCKTON CA 95206
 2014-11-04,CA,San Joaquin,11147,Van Buskirk Neighborhood Center,734 HOUSTON AVE STOCKTON CA 95206-2967
 2014-11-04,CA,San Joaquin,11149,Madison Elementary School ASSEMBLY ROOM FOYER,2939 MISSION RD STOCKTON CA 95204
-2014-11-04,CA,San Joaquin,11150,Madison Elementary School ASSEMBLY ROOM FOYER,2939 MISSION RD STOCKTON CA 95204
 2014-11-04,CA,San Joaquin,11151,Villa Montecito Apartments MULTI PURPOSE ROOM,1339 KINGSLEY AVE STOCKTON CA 95203
-2014-11-04,CA,San Joaquin,11154,Villa Montecito Apartments MULTI PURPOSE ROOM,1339 KINGSLEY AVE STOCKTON CA 95203
 2014-11-04,CA,San Joaquin,11152,Victory Elementary School PORTABLE 1,1838 W ROSE ST STOCKTON CA 95203
-2014-11-04,CA,San Joaquin,11153,Victory Elementary School PORTABLE 1,1838 W ROSE ST STOCKTON CA 95203
-2014-11-04,CA,San Joaquin,11151,The Alano Club,1812 MONTE DIABLO AVE STOCKTON CA 95203-1434
 2014-11-04,CA,San Joaquin,11153,The Alano Club,1812 MONTE DIABLO AVE STOCKTON CA 95203-1434
-2014-11-04,CA,San Joaquin,11155,Sierra Vista Community Center COMMUNITY CENTER,2436 BELLEVIEW ST STOCKTON CA 95206
 2014-11-04,CA,San Joaquin,11160,Grunsky Elementary School,1550 SCHOOL AVE STOCKTON CA 95205-3420
 2014-11-04,CA,San Joaquin,11164,New Bethel Missionary Baptist Church,1445 MICHAEL AVE STOCKTON CA 95206
 2014-11-04,CA,San Joaquin,11169,August Knodt Elementary School LIBRARY NEXT TO OFFICE,3939 EWS WOODS BLVD STOCKTON CA 95206
-2014-11-04,CA,San Joaquin,11170,August Knodt Elementary School LIBRARY NEXT TO OFFICE,3939 EWS WOODS BLVD STOCKTON CA 95206
 2014-11-04,CA,San Joaquin,11201,Mable Barron School LIBRARY,6835 CUMBERLAND PL STOCKTON CA 95219-3238
-2014-11-04,CA,San Joaquin,11202,Mable Barron School LIBRARY,6835 CUMBERLAND PL STOCKTON CA 95219-3238
 2014-11-04,CA,San Joaquin,11203,Lucchesi Residence,3822 N MONITOR CIR STOCKTON CA 95219
 2014-11-04,CA,San Joaquin,11204,Starbucks,3667 W BENJAMIN HOLT DR STOCKTON CA 95219-3359
-2014-11-04,CA,San Joaquin,11233,Starbucks,3667 W BENJAMIN HOLT DR STOCKTON CA 95219-3359
 2014-11-04,CA,San Joaquin,11205,Church Of The Presentation COMMUNITY CENTER,1515 W BENJAMIN HOLT DR STOCKTON CA 95207
-2014-11-04,CA,San Joaquin,11252,Church Of The Presentation COMMUNITY CENTER,1515 W BENJAMIN HOLT DR STOCKTON CA 95207
 2014-11-04,CA,San Joaquin,11206,Stockton Fire Station 7,1767 W HAMMER LN STOCKTON CA 95209
-2014-11-04,CA,San Joaquin,11207,Stockton Fire Station 7,1767 W HAMMER LN STOCKTON CA 95209
 2014-11-04,CA,San Joaquin,11208,Emeritus Senior Living PARK ALONG STREET,6725 INGLEWOOD AVE STOCKTON CA 95207
-2014-11-04,CA,San Joaquin,11228,Emeritus Senior Living PARK ALONG STREET,6725 INGLEWOOD AVE STOCKTON CA 95207
 2014-11-04,CA,San Joaquin,11209,Quail Lakes Clubhouse,3808 QUAIL LAKES DR STOCKTON CA 95207-4657
-2014-11-04,CA,San Joaquin,11281,Quail Lakes Clubhouse,3808 QUAIL LAKES DR STOCKTON CA 95207-4657
 2014-11-04,CA,San Joaquin,11210,Pulliam Elementary School ROOM 6,230 PRESIDIO WAY STOCKTON CA 95207
-2014-11-04,CA,San Joaquin,11226,Pulliam Elementary School ROOM 6,230 PRESIDIO WAY STOCKTON CA 95207
 2014-11-04,CA,San Joaquin,11211,Quail Lakes Baptist Church ROOM A 118,1904 QUAIL LAKES DR STOCKTON CA 95207-4657
-2014-11-04,CA,San Joaquin,11245,Quail Lakes Baptist Church ROOM A 118,1904 QUAIL LAKES DR STOCKTON CA 95207-4657
-2014-11-04,CA,San Joaquin,11261,Quail Lakes Baptist Church ROOM A 118,1904 QUAIL LAKES DR STOCKTON CA 95207-4657
 2014-11-04,CA,San Joaquin,11212,Cabagbag Residence,2951 ROCKFORD AVE STOCKTON CA 95207
-2014-11-04,CA,San Joaquin,11259,Cabagbag Residence,2951 ROCKFORD AVE STOCKTON CA 95207
-2014-11-04,CA,San Joaquin,11211,Zion Lutheran Church,808 PORTER AVE STOCKTON CA 95207-4208
 2014-11-04,CA,San Joaquin,11213,Zion Lutheran Church,808 PORTER AVE STOCKTON CA 95207-4208
-2014-11-04,CA,San Joaquin,11261,Zion Lutheran Church,808 PORTER AVE STOCKTON CA 95207-4208
 2014-11-04,CA,San Joaquin,11214,Westcoast World Outreach Church,4111 WEST LN STOCKTON CA 95204-2441
-2014-11-04,CA,San Joaquin,11282,Westcoast World Outreach Church,4111 WEST LN STOCKTON CA 95204-2441
+2014-11-04,CA,San Joaquin,11214,Villa Monterey COMMUNITY CENTER,4707 KENTFIELD RD STOCKTON CA 95207
 2014-11-04,CA,San Joaquin,11215,Stockton Fire Station 11 PARKING OFF TAM O SHANTER DR,1211 E SWAIN RD STOCKTON CA 95210
-2014-11-04,CA,San Joaquin,11220,Stockton Fire Station 11 PARKING OFF TAM O SHANTER DR,1211 E SWAIN RD STOCKTON CA 95210
-2014-11-04,CA,San Joaquin,11267,Stockton Fire Station 11 PARKING OFF TAM O SHANTER DR,1211 E SWAIN RD STOCKTON CA 95210
 2014-11-04,CA,San Joaquin,11216,Stockton Honda,2002 E HAMMER LN STOCKTON CA 95210
 2014-11-04,CA,San Joaquin,11217,UOP DeRosa University Center,3601 PACIFIC AVE STOCKTON CA 95211
 2014-11-04,CA,San Joaquin,11218,George Lincoln Mosher Elementary School,3220 BUDDY HOLLY DR STOCKTON CA 95212
 2014-11-04,CA,San Joaquin,11219,Grace United Methodist Church,1625 N LINCOLN ST STOCKTON CA 95204
-2014-11-04,CA,San Joaquin,11223,Grace United Methodist Church,1625 N LINCOLN ST STOCKTON CA 95204
 2014-11-04,CA,San Joaquin,11220,Rio Las Palmas,877 E MARCH LN STOCKTON CA 95207
-2014-11-04,CA,San Joaquin,11239,Rio Las Palmas,877 E MARCH LN STOCKTON CA 95207
-2014-11-04,CA,San Joaquin,11247,Rio Las Palmas,877 E MARCH LN STOCKTON CA 95207
 2014-11-04,CA,San Joaquin,11221,Courtyards At Venetian Terrace,5020 VIRTUE ARC DR STOCKTON CA 95207
-2014-11-04,CA,San Joaquin,11241,Courtyards At Venetian Terrace,5020 VIRTUE ARC DR STOCKTON CA 95207
 2014-11-04,CA,San Joaquin,11222,Grace United Methodist Church,1625 N LINCOLN ST STOCKTON CA 95204
 2014-11-04,CA,San Joaquin,11224,First Unitarian Universalist Church,2737 PACIFIC AVE STOCKTON CA 95204
-2014-11-04,CA,San Joaquin,11229,First Unitarian Universalist Church,2737 PACIFIC AVE STOCKTON CA 95204
 2014-11-04,CA,San Joaquin,11225,Oak Park Senior Center,730 E FULTON ST STOCKTON CA 95204-2236
-2014-11-04,CA,San Joaquin,11227,Oak Park Senior Center,730 E FULTON ST STOCKTON CA 95204-2236
-2014-11-04,CA,San Joaquin,11208,Maxine Hong Kingston Elementary School,6324 N ALTURAS AVE STOCKTON CA 95207
 2014-11-04,CA,San Joaquin,11228,Maxine Hong Kingston Elementary School,6324 N ALTURAS AVE STOCKTON CA 95207
 2014-11-04,CA,San Joaquin,11230,New Day Community Church,7525 OAKMONT DR STOCKTON CA 95207
-2014-11-04,CA,San Joaquin,11246,New Day Community Church,7525 OAKMONT DR STOCKTON CA 95207
 2014-11-04,CA,San Joaquin,11231,Central United Methodist Church,3700 PACIFIC AVE STOCKTON CA 95204
-2014-11-04,CA,San Joaquin,11234,Central United Methodist Church,3700 PACIFIC AVE STOCKTON CA 95204
 2014-11-04,CA,San Joaquin,11232,Casa Manana Memorial Hall ROOM 123,3700 N SUTTER ST STOCKTON CA 95204
-2014-11-04,CA,San Joaquin,11262,Casa Manana Memorial Hall ROOM 123,3700 N SUTTER ST STOCKTON CA 95204
 2014-11-04,CA,San Joaquin,11235,St Basil Church,920 W MARCH LN STOCKTON CA 95207-6209
-2014-11-04,CA,San Joaquin,11243,St Basil Church,920 W MARCH LN STOCKTON CA 95207-6209
-2014-11-04,CA,San Joaquin,11248,St Basil Church,920 W MARCH LN STOCKTON CA 95207-6209
-2014-11-04,CA,San Joaquin,11214,Villa Monterey COMMUNITY CENTER,4707 KENTFIELD RD STOCKTON CA 95207
 2014-11-04,CA,San Joaquin,11236,Villa Monterey COMMUNITY CENTER,4707 KENTFIELD RD STOCKTON CA 95207
-2014-11-04,CA,San Joaquin,11282,Villa Monterey COMMUNITY CENTER,4707 KENTFIELD RD STOCKTON CA 95207
 2014-11-04,CA,San Joaquin,11237,Central United Methodist Church,3700 PACIFIC AVE STOCKTON CA 95204
 2014-11-04,CA,San Joaquin,11238,St Mary's High School ROOM 7,5648 N EL DORADO ST STOCKTON CA 95207-4459
-2014-11-04,CA,San Joaquin,11239,St Mary's High School ROOM 7,5648 N EL DORADO ST STOCKTON CA 95207-4459
-2014-11-04,CA,San Joaquin,11220,The Bridge At Stockton,703 E SWAIN RD STOCKTON CA 95207-3146
+2014-11-04,CA,San Joaquin,11239,Rio Las Palmas,877 E MARCH LN STOCKTON CA 95207
 2014-11-04,CA,San Joaquin,11240,The Bridge At Stockton,703 E SWAIN RD STOCKTON CA 95207-3146
 2014-11-04,CA,San Joaquin,11242,Lang Residence,6838 CUMBERLAND PL STOCKTON CA 95219-3256
 2014-11-04,CA,San Joaquin,11247,Best Western Plus Heritage Inn RIVIERA ROOM,111 E MARCH LN STOCKTON CA 95210
 2014-11-04,CA,San Joaquin,11249,Christian Life Church,4303 CHRISTIAN LIFE WAY STOCKTON CA 95212
-2014-11-04,CA,San Joaquin,11257,Christian Life Church,4303 CHRISTIAN LIFE WAY STOCKTON CA 95212
 2014-11-04,CA,San Joaquin,11250,Cesar Chavez High School,2929 WINDFLOWER LN STOCKTON CA 95212
-2014-11-04,CA,San Joaquin,11251,Cesar Chavez High School,2929 WINDFLOWER LN STOCKTON CA 95212
 2014-11-04,CA,San Joaquin,11253,Stockton Nissan Kia,3077 E HAMMER LANE STOCKTON CA 95212
-2014-11-04,CA,San Joaquin,11273,Stockton Nissan Kia,3077 E HAMMER LANE STOCKTON CA 95212
 2014-11-04,CA,San Joaquin,11254,Arnold Rue Community Center,5758 LORRAINE AVE STOCKTON CA 95210-3607
-2014-11-04,CA,San Joaquin,11268,Arnold Rue Community Center,5758 LORRAINE AVE STOCKTON CA 95210-3607
 2014-11-04,CA,San Joaquin,11255,George Lincoln Mosher Elementary School,3220 BUDDY HOLLY DR STOCKTON CA 95212
-2014-11-04,CA,San Joaquin,11264,George Lincoln Mosher Elementary School,3220 BUDDY HOLLY DR STOCKTON CA 95212
 2014-11-04,CA,San Joaquin,11256,Sansone Residence,9230 BRIDALVEIL CIR STOCKTON CA 95212-3109
 2014-11-04,CA,San Joaquin,11258,Rio Calaveras Elementary School,1819 E BIANCHI RD STOCKTON CA 95210
 2014-11-04,CA,San Joaquin,11260,Stockton # 83 Fraternal Order of Eagles,1492 BOURBON ST STOCKTON CA 95204-2404
-2014-11-04,CA,San Joaquin,11271,Stockton # 83 Fraternal Order of Eagles,1492 BOURBON ST STOCKTON CA 95204-2404
 2014-11-04,CA,San Joaquin,11263,Arnold Rue Community Center,5758 LORRAINE AVE STOCKTON CA 95210-3607
 2014-11-04,CA,San Joaquin,11265,Medrano Reisdence,10437 ALBERT DR STOCKTON CA 95209-4585
 2014-11-04,CA,San Joaquin,11266,Ramsey Residence,628 MISTY MEADOW ST STOCKTON CA 95210
-2014-11-04,CA,San Joaquin,11280,Ramsey Residence,628 MISTY MEADOW ST STOCKTON CA 95210
 2014-11-04,CA,San Joaquin,11269,Rio Calaveras Elementary School,1819 E BIANCHI RD STOCKTON CA 95210
 2014-11-04,CA,San Joaquin,11270,West Lane Oaks,7908 WEST LN STE 201 STOCKTON CA 95210-3143
-2014-11-04,CA,San Joaquin,11277,West Lane Oaks,7908 WEST LN STE 201 STOCKTON CA 95210-3143
 2014-11-04,CA,San Joaquin,11272,Cesar Chavez High School,2929 WINDFLOWER LN STOCKTON CA 95212
 2014-11-04,CA,San Joaquin,11274,Christian Life Center FRONT ENTRANCE,9025 WEST LN STOCKTON CA 95210-1401
 2014-11-04,CA,San Joaquin,11275,Ronald E McNair High School,"9550 RONALD E MCNAIR WAY STOCKTON, CA 95210-2800"
-2014-11-04,CA,San Joaquin,11279,Ronald E McNair High School,"9550 RONALD E MCNAIR WAY STOCKTON, CA 95210-2800"
 2014-11-04,CA,San Joaquin,11276,Peyton Elementary School COMPUTER LAB-VOTERS USE EAST PARKING LOT,2525 GOLD BROOK DR STOCKTON CA 95212-2825
 2014-11-04,CA,San Joaquin,11278,Westwood Elementary School,9444 CAYWOOD DR STOCKTON CA 95210
 2014-11-04,CA,San Joaquin,11302,Fernandez Moreno Residence,8302 LAN ARK DR STOCKTON CA 95210
-2014-11-04,CA,San Joaquin,11318,Fernandez Moreno Residence,8302 LAN ARK DR STOCKTON CA 95210
 2014-11-04,CA,San Joaquin,11303,Christa Mc Auliffe Middle School,3880 IRON CANYON CIR STOCKTON CA 95209
-2014-11-04,CA,San Joaquin,11354,Christa Mc Auliffe Middle School,3880 IRON CANYON CIR STOCKTON CA 95209
 2014-11-04,CA,San Joaquin,11304,Don Riggio School LIBRARY,3110 BROOKSIDE RD STOCKTON CA 95219-2357
-2014-11-04,CA,San Joaquin,11313,Don Riggio School LIBRARY,3110 BROOKSIDE RD STOCKTON CA 95219-2357
 2014-11-04,CA,San Joaquin,11305,Bayside Landing ACTIVITY ROOM,3318 BROOKSIDE RD STOCKTON CA 95219-2343
 2014-11-04,CA,San Joaquin,11306,Wagner Heights Residential RESIDENTIAL ASSISTED LIVING,2435 WAGNER HEIGHTS RD STOCKTON CA 95209
 2014-11-04,CA,San Joaquin,11307,Delta Sierra Middle School LIBRARY,2255 WAGNER HEIGHTS RD STOCKTON CA 95209
 2014-11-04,CA,San Joaquin,11308,Stockton Fire Station 10,2903 W MARCH LN STOCKTON CA 95219-6524
-2014-11-04,CA,San Joaquin,11344,Stockton Fire Station 10,2903 W MARCH LN STOCKTON CA 95219-6524
 2014-11-04,CA,San Joaquin,11309,Manlio Silva Elementary School,6250 SCOTT CREEK DR STOCKTON CA 95219
 2014-11-04,CA,San Joaquin,11310,Victory In Praise Church,2842 COUNTRY CLUB BLVD STOCKTON CA 95204-3957
-2014-11-04,CA,San Joaquin,11328,Victory In Praise Church,2842 COUNTRY CLUB BLVD STOCKTON CA 95204-3957
 2014-11-04,CA,San Joaquin,11311,Ballon Residence,10301 JERICHO DR STOCKTON CA 95219
 2014-11-04,CA,San Joaquin,11312,John Muir Elementary School,2303 WHISTLER WAY STOCKTON CA 95209
-2014-11-04,CA,San Joaquin,11353,John Muir Elementary School,2303 WHISTLER WAY STOCKTON CA 95209
 2014-11-04,CA,San Joaquin,11314,Mendoza Residence,5438 BEARDSLEY LN STOCKTON CA 95219-7141
-2014-11-04,CA,San Joaquin,11352,Mendoza Residence,5438 BEARDSLEY LN STOCKTON CA 95219-7141
 2014-11-04,CA,San Joaquin,11315,Kennedy Elementary School,630 PONCE DE LEON AVE STOCKTON CA 95210-1821
-2014-11-04,CA,San Joaquin,11337,Kennedy Elementary School,630 PONCE DE LEON AVE STOCKTON CA 95210-1821
 2014-11-04,CA,San Joaquin,11316,Linscheid Residence,8039 COLONIAL DR STOCKTON CA 95209
-2014-11-04,CA,San Joaquin,11327,Linscheid Residence,8039 COLONIAL DR STOCKTON CA 95209
 2014-11-04,CA,San Joaquin,11317,Alliance Church,825 HIGHMOOR AVE STOCKTON CA 95210-1860
 2014-11-04,CA,San Joaquin,11319,Loyal Order Moose Lodge 391,9035 DAVIS RD STOCKTON CA 95209-1807
-2014-11-04,CA,San Joaquin,11321,Loyal Order Moose Lodge 391,9035 DAVIS RD STOCKTON CA 95209-1807
 2014-11-04,CA,San Joaquin,11320,The Commons On Thornton,10711 THORNTON RD STOCKTON CA 95209
-2014-11-04,CA,San Joaquin,11329,The Commons On Thornton,10711 THORNTON RD STOCKTON CA 95209
 2014-11-04,CA,San Joaquin,11322,Parklane Elementary School,8405 TAM O SHANTER DR STOCKTON CA 95210
-2014-11-04,CA,San Joaquin,11339,Parklane Elementary School,8405 TAM O SHANTER DR STOCKTON CA 95210
 2014-11-04,CA,San Joaquin,11323,Twin Oaks Community Church,8800 THORNTON RD STOCKTON CA 95209-1867
-2014-11-04,CA,San Joaquin,11336,Twin Oaks Community Church,8800 THORNTON RD STOCKTON CA 95209-1867
 2014-11-04,CA,San Joaquin,11324,Podesta Ranch Elementary School,9950 WINDMILL PARK DR STOCKTON CA 95209-4326
 2014-11-04,CA,San Joaquin,11325,First Congregational Church Of Stockton,3409 BROOKSIDE RD STOCKTON CA 95219-1757
-2014-11-04,CA,San Joaquin,11350,First Congregational Church Of Stockton,3409 BROOKSIDE RD STOCKTON CA 95219-1757
 2014-11-04,CA,San Joaquin,11326,Faith Baptist Church,9862 DAVIS RD STOCKTON CA 95209
-2014-11-04,CA,San Joaquin,11334,Faith Baptist Church,9862 DAVIS RD STOCKTON CA 95209
 2014-11-04,CA,San Joaquin,11330,Calvary Assembly Of God,8407 KELLEY DR STOCKTON CA 95209-2180
-2014-11-04,CA,San Joaquin,11342,Calvary Assembly Of God,8407 KELLEY DR STOCKTON CA 95209-2180
-2014-11-04,CA,San Joaquin,11349,Calvary Assembly Of God,8407 KELLEY DR STOCKTON CA 95209-2180
 2014-11-04,CA,San Joaquin,11332,Holleyman Residence,2172 ORVIS DR STOCKTON CA 95209
 2014-11-04,CA,San Joaquin,11333,Calvary Assembly Of God,8407 KELLEY DR STOCKTON CA 95209-2180
 2014-11-04,CA,San Joaquin,11335,Creekside Elementary School,2515 ESTATE DR STOCKTON CA 95209
-2014-11-04,CA,San Joaquin,11346,Creekside Elementary School,2515 ESTATE DR STOCKTON CA 95209
 2014-11-04,CA,San Joaquin,11338,Wagner-Holt Elementary School CAFETERIA,8778 BRATTLE PL STOCKTON CA 95209-4850
-2014-11-04,CA,San Joaquin,11341,Wagner-Holt Elementary School CAFETERIA,8778 BRATTLE PL STOCKTON CA 95209-4850
 2014-11-04,CA,San Joaquin,11340,Bear Creek High School,10555 THORNTON RD STOCKTON CA 95209
 2014-11-04,CA,San Joaquin,11342,De Young Shoreline Chapel,7676 SHORELINE DR STOCKTON CA 95219-5456
 2014-11-04,CA,San Joaquin,11343,Elkhorn School,10505 DAVIS RD STOCKTON CA 95209
@@ -12399,19 +12455,14 @@ election_date,state,county_name,precinct_id,name,address
 2014-11-04,CA,San Joaquin,11351,First Congregational Church Of Stockton,3409 BROOKSIDE RD STOCKTON CA 95219-1757
 2014-11-04,CA,San Joaquin,33501,South/West Park Elementary School STAFF ROOM,501 MOUNT OSO AVE TRACY CA 95376-4604
 2014-11-04,CA,San Joaquin,33502,Tracy Community Church,1790 SEQUOIA BLVD TRACY CA 95376
-2014-11-04,CA,San Joaquin,33536,Tracy Community Church,1790 SEQUOIA BLVD TRACY CA 95376
 2014-11-04,CA,San Joaquin,33503,Masonic Temple,1601 N TRACY BLVD TRACY CA 95376
 2014-11-04,CA,San Joaquin,33504,St Paul's - Worship Center CHURCH ENTRYWAY,1635 CHESTER DR TRACY CA 95376-2927
-2014-11-04,CA,San Joaquin,33511,St Paul's - Worship Center CHURCH ENTRYWAY,1635 CHESTER DR TRACY CA 95376-2927
 2014-11-04,CA,San Joaquin,33505,Grace Church,1330 N TRACY BLVD TRACY CA 95376-3436
 2014-11-04,CA,San Joaquin,33506,American Legion Hall,1960 N TRACY BLVD TRACY CA 95376
-2014-11-04,CA,San Joaquin,33516,American Legion Hall,1960 N TRACY BLVD TRACY CA 95376
 2014-11-04,CA,San Joaquin,33507,First United Methodist Church GRACE FINE CENTER,330 ACACIA ST TRACY CA 95376
 2014-11-04,CA,San Joaquin,33508,Central Elementary School LIBRARY,1370 PARKER AVE TRACY CA 95376
 2014-11-04,CA,San Joaquin,33509,Green Oaks Mobile Home Park,2929 N MACARTHUR DR TRACY CA 95376-2037
-2014-11-04,CA,San Joaquin,33512,Green Oaks Mobile Home Park,2929 N MACARTHUR DR TRACY CA 95376-2037
 2014-11-04,CA,San Joaquin,33510,North Elementary School LIBRARY,2875 HOLLY DR TRACY CA 95376
-2014-11-04,CA,San Joaquin,33519,North Elementary School LIBRARY,2875 HOLLY DR TRACY CA 95376
 2014-11-04,CA,San Joaquin,33513,Tracy Community Center,950 EAST ST TRACY CA 95376
 2014-11-04,CA,San Joaquin,33514,Calvary Chapel Tracy,125 GANDY DANCER DR STE 140 TRACY CA 95377-8916
 2014-11-04,CA,San Joaquin,33515,Tracy District Education Center GENERAL CONFERENCE ROOM,1875 W LOWELL AVE TRACY CA 95376
@@ -12419,105 +12470,72 @@ election_date,state,county_name,precinct_id,name,address
 2014-11-04,CA,San Joaquin,33518,Peerless Way Club House,455 PEERLESS WAY APT 1 TRACY CA 95376
 2014-11-04,CA,San Joaquin,33520,Victory Christian Church,3402 MARS CT TRACY CA 95377-8299
 2014-11-04,CA,San Joaquin,33521,Louis J Villalovoz Elementary School HALLWAY,1550 CYPRESS DR TRACY CA 95376
-2014-11-04,CA,San Joaquin,33549,Louis J Villalovoz Elementary School HALLWAY,1550 CYPRESS DR TRACY CA 95376
 2014-11-04,CA,San Joaquin,33522,Grace Church,1330 N TRACY BLVD TRACY CA 95376-3436
 2014-11-04,CA,San Joaquin,33523,Mc Kinley Elementary School INNER HALLWAY,800 W CARLTON WAY TRACY CA 95376
-2014-11-04,CA,San Joaquin,33538,Mc Kinley Elementary School INNER HALLWAY,800 W CARLTON WAY TRACY CA 95376
 2014-11-04,CA,San Joaquin,33524,Monticello Elementary School MULTI PURPOSE,1001 CAMBRIDGE PL TRACY CA 95377
 2014-11-04,CA,San Joaquin,33525,Shade Residence,2139 YELLOWSTONE AVE TRACY CA 95377
-2014-11-04,CA,San Joaquin,33526,Shade Residence,2139 YELLOWSTONE AVE TRACY CA 95377
 2014-11-04,CA,San Joaquin,33527,Stromberg Residence,1990 ASHLAND DR TRACY CA 95376
-2014-11-04,CA,San Joaquin,33537,Stromberg Residence,1990 ASHLAND DR TRACY CA 95376
 2014-11-04,CA,San Joaquin,33529,Larch Clover Community Center,11157 W LARCH RD TRACY CA 95304-1505
 2014-11-04,CA,San Joaquin,33530,Anthony C Traina Elementary School,4256 WINDSONG DR TRACY CA 95377-8739
 2014-11-04,CA,San Joaquin,33532,Louis A Bohn Elementary School STAGE OF CAFETERIA,350 E MOUNT DIABLO AVE TRACY CA 95376
-2014-11-04,CA,San Joaquin,33539,Louis A Bohn Elementary School STAGE OF CAFETERIA,350 E MOUNT DIABLO AVE TRACY CA 95376
 2014-11-04,CA,San Joaquin,33533,Heinrich Residence,1220 APPALOSA WAY TRACY CA 95376
 2014-11-04,CA,San Joaquin,33534,Louis J Villalovoz Elementary School HALLWAY,1550 CYPRESS DR TRACY CA 95376
 2014-11-04,CA,San Joaquin,33535,Gladys Poet-Christian School ROOM 21/22,1701 S CENTRAL AVE TRACY CA 95376
-2014-11-04,CA,San Joaquin,33559,Gladys Poet-Christian School ROOM 21/22,1701 S CENTRAL AVE TRACY CA 95376
 2014-11-04,CA,San Joaquin,33540,Hilliard Residence,2190 SEVILLE DR TRACY CA 95377
-2014-11-04,CA,San Joaquin,33547,Hilliard Residence,2190 SEVILLE DR TRACY CA 95377
 2014-11-04,CA,San Joaquin,33542,Tracy Toyota,2895 NAGLEE RD TRACY CA 95304-7307
 2014-11-04,CA,San Joaquin,33543,Hidden Lake Home Owners Association CLUB HOUSE,1355 EASTLAKE CIR TRACY CA 95304
-2014-11-04,CA,San Joaquin,33560,Hidden Lake Home Owners Association CLUB HOUSE,1355 EASTLAKE CIR TRACY CA 95304
 2014-11-04,CA,San Joaquin,33545,Tom Hawkins Elementary School,475 DARLENE LN TRACY CA 95377
 2014-11-04,CA,San Joaquin,33546,George Kelly Elementary School MULTI-PURPOSE ROOM,535 MABEL JOSEPHINE DR TRACY CA 95377-6645
 2014-11-04,CA,San Joaquin,33548,Monticello Elementary School MULTI PURPOSE,1001 CAMBRIDGE PL TRACY CA 95377
 2014-11-04,CA,San Joaquin,33550,Victory Christian Church,3402 MARS CT TRACY CA 95377-8299
 2014-11-04,CA,San Joaquin,33551,John C Kimball High School FOYER OF MAIN GYM,3200 JAGUAR RUN TRACY CA 95377-7216
 2014-11-04,CA,San Joaquin,33552,Jefferson School District Admin Office,"1219 WHISPERING WIND DR TRACY, CA 95377"
-2014-11-04,CA,San Joaquin,33558,Jefferson School District Admin Office,"1219 WHISPERING WIND DR TRACY, CA 95377"
 2014-11-04,CA,San Joaquin,33553,Tracy Sports Complex MEETING ROOM,955 CROSSROADS DR TRACY CA 95377
-2014-11-04,CA,San Joaquin,33557,Tracy Sports Complex MEETING ROOM,955 CROSSROADS DR TRACY CA 95377
 2014-11-04,CA,San Joaquin,33554,Hidden Lake Home Owners Association CLUB HOUSE,1355 EASTLAKE CIR TRACY CA 95304
 2014-11-04,CA,San Joaquin,33555,Redbridge House,2935 REDBRIDGE RD TRACY CA 95377
 2014-11-04,CA,San Joaquin,42401,Lodi Grape Festival BURGUNDY HALL,413 E LOCKEFORD ST LODI CA 95240
-2014-11-04,CA,San Joaquin,42434,Lodi Grape Festival BURGUNDY HALL,413 E LOCKEFORD ST LODI CA 95240
 2014-11-04,CA,San Joaquin,42402,Woodbridge Elementary School ROOM 24 (ENTER FROM ACADEMY ST),1290 LILAC ST LODI CA 95242
-2014-11-04,CA,San Joaquin,42443,Woodbridge Elementary School ROOM 24 (ENTER FROM ACADEMY ST),1290 LILAC ST LODI CA 95242
 2014-11-04,CA,San Joaquin,42403,Big Valley Bible Church,226 POPLAR ST LODI CA 95240
-2014-11-04,CA,San Joaquin,42444,Big Valley Bible Church,226 POPLAR ST LODI CA 95240
+2014-11-04,CA,San Joaquin,42403,Lodi Academy Fireside Room,1230 S CENTRAL AVE LODI CA 95240
 2014-11-04,CA,San Joaquin,42404,Lois E Borchardt Elementary School,375 CULBERTSON DR LODI CA 95240-8873
 2014-11-04,CA,San Joaquin,42405,Fuentes Residence,2424 BANYAN DR LODI CA 95240
-2014-11-04,CA,San Joaquin,42429,Fuentes Residence,2424 BANYAN DR LODI CA 95240
 2014-11-04,CA,San Joaquin,42406,Chancellor Place,2220 W KETTLEMAN LN LODI CA 95242
-2014-11-04,CA,San Joaquin,42440,Chancellor Place,2220 W KETTLEMAN LN LODI CA 95242
 2014-11-04,CA,San Joaquin,42407,Leroy Nichols Elementary School,1301 S CRESCENT AVE LODI CA 95240
-2014-11-04,CA,San Joaquin,42409,Leroy Nichols Elementary School,1301 S CRESCENT AVE LODI CA 95240
 2014-11-04,CA,San Joaquin,42408,St Paul's Lutheran Church,701 S PLEASANT AVE LODI CA 95240
-2014-11-04,CA,San Joaquin,42412,St Paul's Lutheran Church,701 S PLEASANT AVE LODI CA 95240
-2014-11-04,CA,San Joaquin,42409,United Congregational Christian Church,701 S HUTCHINS ST LODI CA 95240
 2014-11-04,CA,San Joaquin,42410,United Congregational Christian Church,701 S HUTCHINS ST LODI CA 95240
 2014-11-04,CA,San Joaquin,42411,Hutchins Street Square Senior Center WALNUT STREET ENTRANCE,"125 S HUTCHINS ST LODI, CA 95240-3470"
-2014-11-04,CA,San Joaquin,42413,Hutchins Street Square Senior Center WALNUT STREET ENTRANCE,"125 S HUTCHINS ST LODI, CA 95240-3470"
 2014-11-04,CA,San Joaquin,42414,Arbor Senior Apartments,115 LOUIE AVE LODI CA 95240
-2014-11-04,CA,San Joaquin,42448,Arbor Senior Apartments,115 LOUIE AVE LODI CA 95240
 2014-11-04,CA,San Joaquin,42415,Nicolaou Residence,710 EUREKA AVE LODI CA 95240
 2014-11-04,CA,San Joaquin,42416,Lakewood Elementary School,1100 N HAM LN LODI CA 95242
 2014-11-04,CA,San Joaquin,42417,Lawrence Elementary School KINDERGARTEN ROOM,721 CALAVERAS ST LODI CA 95240
 2014-11-04,CA,San Joaquin,42418,Grace Presbyterian Church,10 N MILLS AVE LODI CA 95242-3130
-2014-11-04,CA,San Joaquin,42425,Grace Presbyterian Church,10 N MILLS AVE LODI CA 95242-3130
 2014-11-04,CA,San Joaquin,42419,Lodi Fire Station 4,180 N LOWER SACRAMENTO RD LODI CA 95242-2843
-2014-11-04,CA,San Joaquin,42435,Lodi Fire Station 4,180 N LOWER SACRAMENTO RD LODI CA 95242-2843
 2014-11-04,CA,San Joaquin,42420,Erma B Reese Elementary School,1800 W ELM ST LODI CA 95242-2917
 2014-11-04,CA,San Joaquin,42421,St Peter Lutheran Church ADMINISTRATION BLDG,2400 OXFORD WAY LODI CA 95242
-2014-11-04,CA,San Joaquin,42447,St Peter Lutheran Church ADMINISTRATION BLDG,2400 OXFORD WAY LODI CA 95242
 2014-11-04,CA,San Joaquin,42422,Emanuel Lutheran Church,1540 W LODI AVE LODI CA 95242-3010
-2014-11-04,CA,San Joaquin,42424,Emanuel Lutheran Church,1540 W LODI AVE LODI CA 95242-3010
 2014-11-04,CA,San Joaquin,42422,Temple Baptist Church,801 S LOWER SACRAMENTO RD LODI CA 95242
 2014-11-04,CA,San Joaquin,42423,Temple Baptist Church,801 S LOWER SACRAMENTO RD LODI CA 95242
-2014-11-04,CA,San Joaquin,42438,Temple Baptist Church,801 S LOWER SACRAMENTO RD LODI CA 95242
 2014-11-04,CA,San Joaquin,42424,The Vintage Retirement Residence,2145 W KETTLEMAN LN LODI CA 95242-4312
-2014-11-04,CA,San Joaquin,42432,The Vintage Retirement Residence,2145 W KETTLEMAN LN LODI CA 95242-4312
 2014-11-04,CA,San Joaquin,42426,Golden Oaks Recreation Room,1210 W CENTURY BLVD LODI CA 95240
-2014-11-04,CA,San Joaquin,42445,Golden Oaks Recreation Room,1210 W CENTURY BLVD LODI CA 95240
-2014-11-04,CA,San Joaquin,42403,Lodi Academy Fireside Room,1230 S CENTRAL AVE LODI CA 95240
 2014-11-04,CA,San Joaquin,42427,Lodi Academy Fireside Room,1230 S CENTRAL AVE LODI CA 95240
 2014-11-04,CA,San Joaquin,42428,Lewis Residence,2534 KIRSTEN DR LODI CA 95240
 2014-11-04,CA,San Joaquin,42430,Redeemer Lutheran Church FIRESIDE ROOM,1845 S HAM LN LODI CA 95242
-2014-11-04,CA,San Joaquin,42449,Redeemer Lutheran Church FIRESIDE ROOM,1845 S HAM LN LODI CA 95242
 2014-11-04,CA,San Joaquin,42431,Bethel Open Bible Church,760 S HAM LN LODI CA 95242-3536
 2014-11-04,CA,San Joaquin,42433,Wine & Roses,2505 W TURNER RD LODI CA 95242-4643
 2014-11-04,CA,San Joaquin,42437,American Legion Lodi Post 22,320 N WASHINGTON ST LODI CA 95240-0608
 2014-11-04,CA,San Joaquin,42439,St Peter Lutheran Church ADMINISTRATION BLDG,2400 OXFORD WAY LODI CA 95242
-2014-11-04,CA,San Joaquin,42440,Ellerth E Larson Elementary School,2375 GIANNONI WAY LODI CA 95242-4795
 2014-11-04,CA,San Joaquin,42441,Ellerth E Larson Elementary School,2375 GIANNONI WAY LODI CA 95242-4795
 2014-11-04,CA,San Joaquin,42446,Lois E Borchardt Elementary School,375 CULBERTSON DR LODI CA 95240-8873
 2014-11-04,CA,San Joaquin,42449,Lodi Fire Station 3,2141 S HAM LN LODI CA 95242
 2014-11-04,CA,San Joaquin,54301,George Mc Parland School Annex LIBRARY,1370 LONDON AVE MANTECA CA 95336
-2014-11-04,CA,San Joaquin,54304,George Mc Parland School Annex LIBRARY,1370 LONDON AVE MANTECA CA 95336
 2014-11-04,CA,San Joaquin,54302,Neil Hafley Elementary School ENTER GYM FROM HOYT LANE,849 NORTHGATE DR MANTECA CA 95336
 2014-11-04,CA,San Joaquin,54303,Hays Residence,1159 LEXINGTON AVE MANTECA CA 95336-3349
 2014-11-04,CA,San Joaquin,54305,United Lutheran Church,649 NORTHGATE DR MANTECA CA 95336-3144
 2014-11-04,CA,San Joaquin,54306,Manteca Manor,544 EASTWOOD AVE MANTECA CA 95336-3170
 2014-11-04,CA,San Joaquin,54307,George Mc Parland School Annex LIBRARY,1370 LONDON AVE MANTECA CA 95336
 2014-11-04,CA,San Joaquin,54308,Stonegate Apartments RECREATION ROOM,1451 W CENTER ST MANTECA CA 95337-4223
-2014-11-04,CA,San Joaquin,54313,Stonegate Apartments RECREATION ROOM,1451 W CENTER ST MANTECA CA 95337-4223
-2014-11-04,CA,San Joaquin,54316,Stonegate Apartments RECREATION ROOM,1451 W CENTER ST MANTECA CA 95337-4223
 2014-11-04,CA,San Joaquin,54309,First Christian Church,1125 N UNION RD MANTECA CA 95336
 2014-11-04,CA,San Joaquin,54310,Golden West Elementary School,1031 N MAIN ST MANTECA CA 95336
-2014-11-04,CA,San Joaquin,54315,Golden West Elementary School,1031 N MAIN ST MANTECA CA 95336
 2014-11-04,CA,San Joaquin,54311,Boys & Girls Club Of Manteca,545 W ALAMEDA ST MANTECA CA 95336-3634
 2014-11-04,CA,San Joaquin,54312,Manteca Presbyterian Church,275 N MAIN ST MANTECA CA 95336-4632
 2014-11-04,CA,San Joaquin,54314,George Mc Parland Elementary School LIBRARY,1601 NORTHGATE DR MANTECA CA 95336-6255
@@ -12532,22 +12550,14 @@ election_date,state,county_name,precinct_id,name,address
 2014-11-04,CA,San Joaquin,54325,Prestige Senior Living,1130 EMPIRE AVE MANTECA CA 95336
 2014-11-04,CA,San Joaquin,54326,Prestige Senior Living,1130 EMPIRE AVE MANTECA CA 95336
 2014-11-04,CA,San Joaquin,54327,The Commons At Union Ranch,2241 N UNION RD MANTECA CA 95336
-2014-11-04,CA,San Joaquin,54329,The Commons At Union Ranch,2241 N UNION RD MANTECA CA 95336
 2014-11-04,CA,San Joaquin,54501,The Emory Hall,"1028 W YOSEMITE AVE MANTECA, CA 95337-5341"
-2014-11-04,CA,San Joaquin,54502,The Emory Hall,"1028 W YOSEMITE AVE MANTECA, CA 95337-5341"
 2014-11-04,CA,San Joaquin,54503,Paseo Villas Apartments,801 ATHERTON DR MANTECA CA 95337-8595
-2014-11-04,CA,San Joaquin,54524,Paseo Villas Apartments,801 ATHERTON DR MANTECA CA 95337-8595
 2014-11-04,CA,San Joaquin,54504,Manteca Fire Station 241,290 S POWERS AVE MANTECA CA 95336-5916
 2014-11-04,CA,San Joaquin,54505,Brock Elliott Elementary School,1110 STONUM LN MANTECA CA 95337
-2014-11-04,CA,San Joaquin,54515,Brock Elliott Elementary School,1110 STONUM LN MANTECA CA 95337
 2014-11-04,CA,San Joaquin,54507,Best Buy,961 LIFESTYLE ST MANTECA CA 95337-9508
-2014-11-04,CA,San Joaquin,54521,Best Buy,961 LIFESTYLE ST MANTECA CA 95337-9508
-2014-11-04,CA,San Joaquin,54523,Best Buy,961 LIFESTYLE ST MANTECA CA 95337-9508
 2014-11-04,CA,San Joaquin,54508,Paseo Villas Apartments,801 ATHERTON DR MANTECA CA 95337-8595
 2014-11-04,CA,San Joaquin,54509,Best Buy,961 LIFESTYLE ST MANTECA CA 95337-9508
-2014-11-04,CA,San Joaquin,54522,Best Buy,961 LIFESTYLE ST MANTECA CA 95337-9508
 2014-11-04,CA,San Joaquin,54510,Almond Blossom Estate (CLUBHOUSE),1901 E YOSEMITE AVE MANTECA CA 95336-5036
-2014-11-04,CA,San Joaquin,54516,Almond Blossom Estate (CLUBHOUSE),1901 E YOSEMITE AVE MANTECA CA 95336-5036
 2014-11-04,CA,San Joaquin,54511,Manteca Fire Station 242 BETWEEN HWY 120 & WAWONA,1154 S UNION RD MANTECA CA 95337
 2014-11-04,CA,San Joaquin,54512,Manteca Fire Station 242 BETWEEN HWY 120 & WAWONA,1154 S UNION RD MANTECA CA 95337
 2014-11-04,CA,San Joaquin,54514,Walter Woodward Elementary School LIBRARY,575 TANNEHILL DR MANTECA CA 95337
@@ -12556,23 +12566,16 @@ election_date,state,county_name,precinct_id,name,address
 2014-11-04,CA,San Joaquin,54519,Halleck Residence,230 MARTHA ST MANTECA CA 95337-5658
 2014-11-04,CA,San Joaquin,54520,Vonhof Residence,352 FRAGRANCE CT MANTECA CA 95337
 2014-11-04,CA,San Joaquin,64401,El Portal Middle School CAFETERIA,805 1ST ST ESCALON CA 95320-1508
-2014-11-04,CA,San Joaquin,64406,El Portal Middle School CAFETERIA,805 1ST ST ESCALON CA 95320-1508
-2014-11-04,CA,San Joaquin,64490,El Portal Middle School CAFETERIA,805 1ST ST ESCALON CA 95320-1508
 2014-11-04,CA,San Joaquin,64402,Escalon United Methodist Church,2000 JACKSON AVE ESCALON CA 95320-2039
-2014-11-04,CA,San Joaquin,64406,Escalon United Methodist Church,2000 JACKSON AVE ESCALON CA 95320-2039
-2014-11-04,CA,San Joaquin,64401,Escalon Community Service Center,1055 ESCALON AVE ESCALON CA 95320
-2014-11-04,CA,San Joaquin,64403,Escalon Community Service Center,1055 ESCALON AVE ESCALON CA 95320
-2014-11-04,CA,San Joaquin,64405,Escalon Community Service Center,1055 ESCALON AVE ESCALON CA 95320
 2014-11-04,CA,San Joaquin,64402,Escalon Library,1540 2ND ST ESCALON CA 95320
-2014-11-04,CA,San Joaquin,64404,Escalon Library,1540 2ND ST ESCALON CA 95320
+2014-11-04,CA,San Joaquin,64403,Escalon Community Service Center,1055 ESCALON AVE ESCALON CA 95320
 2014-11-04,CA,San Joaquin,64403,Saron Lutheran Church,1742 NORTH ST ESCALON CA 95320-1834
+2014-11-04,CA,San Joaquin,64404,Escalon Library,1540 2ND ST ESCALON CA 95320
 2014-11-04,CA,San Joaquin,64405,Saron Lutheran Church,1742 NORTH ST ESCALON CA 95320-1834
 2014-11-04,CA,San Joaquin,74401,Ripona Elementary School,415 OREGON ST RIPON CA 95366
-2014-11-04,CA,San Joaquin,74409,Ripona Elementary School,415 OREGON ST RIPON CA 95366
 2014-11-04,CA,San Joaquin,74402,Almond Valley Christian Reformed Church,333 S WILMA AVE RIPON CA 95366-2354
 2014-11-04,CA,San Joaquin,74403,Winters Glen Apartments,145 ROBERT AVENUE RIPON CA 95366
 2014-11-04,CA,San Joaquin,74404,Ripon City Hall LOBBY,259 N WILMA AVE RIPON CA 95366
-2014-11-04,CA,San Joaquin,74411,Ripon City Hall LOBBY,259 N WILMA AVE RIPON CA 95366
 2014-11-04,CA,San Joaquin,74405,Grace Brethren Church,734 W MAIN ST RIPON CA 95366
 2014-11-04,CA,San Joaquin,74406,Ripon Senior Center,433 S WILMA AVE RIPON CA 95366
 2014-11-04,CA,San Joaquin,74407,First Baptist Church,803 RIPONA AVE RIPON CA 95366
@@ -12587,87 +12590,60 @@ election_date,state,county_name,precinct_id,name,address
 2014-11-04,CA,San Joaquin,84306,Eagle's Nest Harley Davidson,13900 S HARLAN RD LATHROP CA 95330
 2014-11-04,CA,San Joaquin,84307,Camino Real Mobile Estates (CLUBHOUSE),15820 S HARLAN RD LATHROP CA 95330-9752
 2014-11-04,CA,San Joaquin,84308,Lathrop High School,647 LATHROP RD LATHROP CA 95330
-2014-11-04,CA,San Joaquin,84309,Lathrop High School,647 LATHROP RD LATHROP CA 95330
 2014-11-04,CA,San Joaquin,84310,Joseph Widmer Jr Elementary School,751 STONEBRIDGE LN LATHROP CA 95330
 2014-11-04,CA,San Joaquin,84312,Lathrop City Hall CITY COUNCIL CHAMBERS,390 TOWNE CENTRE DR LATHROP CA 95330
 2014-11-04,CA,San Joaquin,91101,Taft Park Community Center,389 DOWNING AVE STOCKTON CA 95206
 2014-11-04,CA,San Joaquin,91102,New Harvest Christian Fellowship,1950 CHEROKEE RD STOCKTON CA 95205-2721
 2014-11-04,CA,San Joaquin,91105,New Beginnings Deliverance Center,2571 WATERLOO RD STOCKTON CA 95205
 2014-11-04,CA,San Joaquin,91107,Kennedy Community Center,2800 S D ST STOCKTON CA 95206
-2014-11-04,CA,San Joaquin,91117,Kennedy Community Center,2800 S D ST STOCKTON CA 95206
 2014-11-04,CA,San Joaquin,91108,Garcia Residence,1966 W SONOMA AVE STOCKTON CA 95204
-2014-11-04,CA,San Joaquin,91114,Garcia Residence,1966 W SONOMA AVE STOCKTON CA 95204
 2014-11-04,CA,San Joaquin,91111,Stockton Covenant Church,1720 OXFORD WAY STOCKTON CA 95204
-2014-11-04,CA,San Joaquin,91112,Stockton Covenant Church,1720 OXFORD WAY STOCKTON CA 95204
 2014-11-04,CA,San Joaquin,91113,Valle Del Sol,"4701 FARMINGTON RD STOCKTON, CA 95215-7951"
 2014-11-04,CA,San Joaquin,91115,St Paul's Methodist Church,2220 W ALPINE AVE STOCKTON CA 95204-2728
-2014-11-04,CA,San Joaquin,91116,St Paul's Methodist Church,2220 W ALPINE AVE STOCKTON CA 95204-2728
 2014-11-04,CA,San Joaquin,91121,Hmong C&MA Church Of Stockton,4040 CLARK DR STOCKTON CA 95215-8204
 2014-11-04,CA,San Joaquin,91203,Peck Residence,3218 SHERIDAN WAY STOCKTON CA 95219
 2014-11-04,CA,San Joaquin,91204,Ed Stewart American Legion,3110 WEST LN STOCKTON CA 95204
 2014-11-04,CA,San Joaquin,91205,Holy Cross Methodist Church,1200 W HAMMER LN STOCKTON CA 95209-3013
 2014-11-04,CA,San Joaquin,91206,August Elementary School,2101 SUTRO AVE STOCKTON CA 95205
-2014-11-04,CA,San Joaquin,91225,August Elementary School,2101 SUTRO AVE STOCKTON CA 95205
 2014-11-04,CA,San Joaquin,91207,New Directions,1981 CHEROKEE RD STOCKTON CA 95205
-2014-11-04,CA,San Joaquin,91222,New Directions,1981 CHEROKEE RD STOCKTON CA 95205
 2014-11-04,CA,San Joaquin,91208,Stockton Baptist Church,5480 N HIGHWAY 99 STOCKTON CA 95212-1106
 2014-11-04,CA,San Joaquin,91209,Tully C Knoles Elementary School MULTIPURPOSE ROOM,6511 CLARKSBURG PL STOCKTON CA 95207
 2014-11-04,CA,San Joaquin,91210,Lincoln USD Education Center,2010 W SWAIN RD STOCKTON CA 95207-4055
-2014-11-04,CA,San Joaquin,91223,Lincoln USD Education Center,2010 W SWAIN RD STOCKTON CA 95207-4055
 2014-11-04,CA,San Joaquin,91211,Lincoln Presbyterian Church,900 DOUGLAS RD STOCKTON CA 95207
-2014-11-04,CA,San Joaquin,91212,Lincoln Presbyterian Church,900 DOUGLAS RD STOCKTON CA 95207
 2014-11-04,CA,San Joaquin,91213,Laborers' Local 73,3984 CHEROKEE RD STOCKTON CA 95215-2201
 2014-11-04,CA,San Joaquin,91216,Stockton Fire Station 12,4010 E MAIN ST STOCKTON CA 95215
 2014-11-04,CA,San Joaquin,91217,Garden Acres Community Center,607 BIRD AVE STOCKTON CA 95215-6017
 2014-11-04,CA,San Joaquin,91218,St Edwards Church,731 S CARDINAL AVE STOCKTON CA 95215
 2014-11-04,CA,San Joaquin,91219,Franklin High School CAFE,300 N GERTRUDE AVE STOCKTON CA 95215-4820
-2014-11-04,CA,San Joaquin,91220,Franklin High School CAFE,300 N GERTRUDE AVE STOCKTON CA 95215-4820
 2014-11-04,CA,San Joaquin,91225,Northeast Community Center,2885 E HARDING WAY STOCKTON CA 95205
 2014-11-04,CA,San Joaquin,91301,Lighthouse Revival Center,8007 LOWER SACRAMENTO RD STOCKTON CA 95210-3751
-2014-11-04,CA,San Joaquin,91302,Lighthouse Revival Center,8007 LOWER SACRAMENTO RD STOCKTON CA 95210-3751
 2014-11-04,CA,San Joaquin,91303,Michigan Heights Baptist Church,3156 MICHIGAN AVE STOCKTON CA 95204
-2014-11-04,CA,San Joaquin,91306,Michigan Heights Baptist Church,3156 MICHIGAN AVE STOCKTON CA 95204
 2014-11-04,CA,San Joaquin,91305,Rauzi Residence,3158 RAINIER AVE STOCKTON CA 95204
 2014-11-04,CA,San Joaquin,91402,Linden Lions Club,5041 N MARKET ST LINDEN CA 95236-9439
 2014-11-04,CA,San Joaquin,91403,Linden High School JACK MOLINI LIBRARY,18527 E FRONT ST LINDEN CA 95236-9703
-2014-11-04,CA,San Joaquin,91407,Linden High School JACK MOLINI LIBRARY,18527 E FRONT ST LINDEN CA 95236-9703
 2014-11-04,CA,San Joaquin,91404,United Methodist Church STEPHENS HALL,25626 ELM ST FARMINGTON CA 95230
 2014-11-04,CA,San Joaquin,91405,Linden United Methodist Church PARLOR ROOM,19147 E HIGHWAY 26 LINDEN CA 95236-9781
 2014-11-04,CA,San Joaquin,91408,Waterloo-Morada Fire District No 1,6925 FOPPIANO LN STOCKTON CA 95212
 2014-11-04,CA,San Joaquin,91409,Berea Baptist Church,4957 QUASHNICK RD STOCKTON CA 95212
 2014-11-04,CA,San Joaquin,91410,Waverly School,3507 WILMARTH RD STOCKTON CA 95215
-2014-11-04,CA,San Joaquin,91414,Waverly School,3507 WILMARTH RD STOCKTON CA 95215
-2014-11-04,CA,San Joaquin,91420,Waverly School,3507 WILMARTH RD STOCKTON CA 95215
 2014-11-04,CA,San Joaquin,91411,Davis Elementary School,5224 E MORADA LN STOCKTON CA 95212
 2014-11-04,CA,San Joaquin,91412,Free Methodist Church,4799 FOPPIANO LN STOCKTON CA 95212
 2014-11-04,CA,San Joaquin,91415,Waterloo School,7007 PEZZI RD STOCKTON CA 95215
-2014-11-04,CA,San Joaquin,91416,Waterloo School,7007 PEZZI RD STOCKTON CA 95215
 2014-11-04,CA,San Joaquin,91421,Glenwood Elementary School MULTIPURPOSE ROOM,2005 N ALPINE RD STOCKTON CA 95215
 2014-11-04,CA,San Joaquin,92401,Grange Hall,19727 COTTON ST LOCKEFORD CA 95237-9555
 2014-11-04,CA,San Joaquin,92402,Farm Labor Center,14320 E HARNEY LN LODI CA 95240
 2014-11-04,CA,San Joaquin,92404,Live Oak Elementary School RM 14,5099 BEAR CREEK RD LODI CA 95240
 2014-11-04,CA,San Joaquin,92405,Gribaudo Residence,10516 E PELTIER RD ACAMPO CA 95220-9717
-2014-11-04,CA,San Joaquin,92410,Gribaudo Residence,10516 E PELTIER RD ACAMPO CA 95220-9717
 2014-11-04,CA,San Joaquin,92406,Mokelumne Fire District FIRE HOUSE,13157 E BRANDT RD LOCKEFORD CA 95237-9746
 2014-11-04,CA,San Joaquin,92408,Liberty Fire District,24124 N BRUELLA RD ACAMPO CA 95220-9620
-2014-11-04,CA,San Joaquin,92423,Liberty Fire District,24124 N BRUELLA RD ACAMPO CA 95220-9620
 2014-11-04,CA,San Joaquin,92409,Woodbridge Fire Station 73,25440 N EUNICE RD ACAMPO CA 95220-9399
-2014-11-04,CA,San Joaquin,92433,Woodbridge Fire Station 73,25440 N EUNICE RD ACAMPO CA 95220-9399
 2014-11-04,CA,San Joaquin,92411,Grange Hall,19727 COTTON ST LOCKEFORD CA 95237-9555
-2014-11-04,CA,San Joaquin,92415,Grange Hall,19727 COTTON ST LOCKEFORD CA 95237-9555
 2014-11-04,CA,San Joaquin,92413,Woodbridge Fire Station 74 NEAR FLAG CITY HIGHWAY 12,6365 CAPITOL AVE LODI CA 95242
-2014-11-04,CA,San Joaquin,92417,Woodbridge Fire Station 74 NEAR FLAG CITY HIGHWAY 12,6365 CAPITOL AVE LODI CA 95242
-2014-11-04,CA,San Joaquin,92428,Woodbridge Fire Station 74 NEAR FLAG CITY HIGHWAY 12,6365 CAPITOL AVE LODI CA 95242
-2014-11-04,CA,San Joaquin,92429,Woodbridge Fire Station 74 NEAR FLAG CITY HIGHWAY 12,6365 CAPITOL AVE LODI CA 95242
-2014-11-04,CA,San Joaquin,92431,Woodbridge Fire Station 74 NEAR FLAG CITY HIGHWAY 12,6365 CAPITOL AVE LODI CA 95242
-2014-11-04,CA,San Joaquin,92432,Woodbridge Fire Station 74 NEAR FLAG CITY HIGHWAY 12,6365 CAPITOL AVE LODI CA 95242
 2014-11-04,CA,San Joaquin,92414,Thornton Public Library,26341 THORNTON RD THORNTON CA 95686
 2014-11-04,CA,San Joaquin,92416,Faith Community Church Of The Nazarene,18621 N HIGHWAY 99 ACAMPO CA 95220-9428
 2014-11-04,CA,San Joaquin,92418,Dougherty Residence,23525 N SOWLES RD ACAMPO CA 95220
 2014-11-04,CA,San Joaquin,92419,Woodbridge Fire Station 71,400 E AUGUSTA ST WOODBRIDGE CA 95258
-2014-11-04,CA,San Joaquin,92427,Woodbridge Fire Station 71,400 E AUGUSTA ST WOODBRIDGE CA 95258
 2014-11-04,CA,San Joaquin,92420,First Missionary Baptist Church,673 WOODBRIDGE RD WOODBRIDGE CA 95258-9743
-2014-11-04,CA,San Joaquin,92406,Country Cafe,18700 N HIGHWAY 88 LOCKEFORD CA 95237-9556
 2014-11-04,CA,San Joaquin,92421,Country Cafe,18700 N HIGHWAY 88 LOCKEFORD CA 95237-9556
 2014-11-04,CA,San Joaquin,92422,Tower Park Village CLUBHOUSE,14950 W HIGHWAY 12 LODI CA 95242-9514
 2014-11-04,CA,San Joaquin,92424,Woodbridge Inn,18878 N LOWER SACRAMENTO RD WOODBRIDGE CA 95258-9284
@@ -12678,30 +12654,19 @@ election_date,state,county_name,precinct_id,name,address
 2014-11-04,CA,San Joaquin,93505,Lammersville Elementary School,16555 VON SOSTEN RD TRACY CA 95304
 2014-11-04,CA,San Joaquin,93511,Lammersville USD Office,111 S DE ANZA BLVD MOUNTAIN HOUSE CA 95391-7900
 2014-11-04,CA,San Joaquin,93512,Journey Christian Church,4600 S TRACY BLVD SUITE 101 TRACY CA 95377-8105
-2014-11-04,CA,San Joaquin,93517,Journey Christian Church,4600 S TRACY BLVD SUITE 101 TRACY CA 95377-8105
 2014-11-04,CA,San Joaquin,93515,Tracy Fire Station 93,1400 W DURHAM FERRY RD TRACY CA 95304
-2014-11-04,CA,San Joaquin,93516,Tracy Fire Station 93,1400 W DURHAM FERRY RD TRACY CA 95304
-2014-11-04,CA,San Joaquin,93524,Tracy Fire Station 93,1400 W DURHAM FERRY RD TRACY CA 95304
 2014-11-04,CA,San Joaquin,93521,Mountain House Community Services District,230 S STERLING DR MOUNTAIN HOUSE CA 95391
-2014-11-04,CA,San Joaquin,93505,Tracy Fire Station 98,911 S TRADITION ST MOUNTAIN HOUSE CA 95391
 2014-11-04,CA,San Joaquin,93522,Tracy Fire Station 98,911 S TRADITION ST MOUNTAIN HOUSE CA 95391
 2014-11-04,CA,San Joaquin,93523,Tracy Fire Station 98,911 S TRADITION ST MOUNTAIN HOUSE CA 95391
 2014-11-04,CA,San Joaquin,93531,Mountain House Community Services District,230 S STERLING DR MOUNTAIN HOUSE CA 95391
-2014-11-04,CA,San Joaquin,93532,Mountain House Community Services District,230 S STERLING DR MOUNTAIN HOUSE CA 95391
 2014-11-04,CA,San Joaquin,94101,French Camp Fire District,310 E FRENCH CAMP RD FRENCH CAMP CA 95231-9616
 2014-11-04,CA,San Joaquin,94305,Lathrop-Manteca New Haven Station 33,9121 E LATHROP RD MANTECA CA 95336-8218
-2014-11-04,CA,San Joaquin,94309,Lathrop-Manteca New Haven Station 33,9121 E LATHROP RD MANTECA CA 95336-8218
 2014-11-04,CA,San Joaquin,94310,San Joaquin Irrigation District,11011 E HIGHWAY 120 MANTECA CA 95336-9751
 2014-11-04,CA,San Joaquin,94403,Colony Oak Elementary School MULTI-USE ROOM,22241 S MURPHY RD RIPON CA 95366
-2014-11-04,CA,San Joaquin,94411,Colony Oak Elementary School MULTI-USE ROOM,22241 S MURPHY RD RIPON CA 95366
 2014-11-04,CA,San Joaquin,94404,Van Allen Elementary School,21051 STATE HIGHWAY 120 ESCALON CA 95320-9798
-2014-11-04,CA,San Joaquin,94408,Van Allen Elementary School,21051 STATE HIGHWAY 120 ESCALON CA 95320-9798
-2014-11-04,CA,San Joaquin,94405,Ripon Fire Station 2,18800 S MURPHY RD RIPON CA 95366-9725
 2014-11-04,CA,San Joaquin,94407,Ripon Fire Station 2,18800 S MURPHY RD RIPON CA 95366-9725
-2014-11-04,CA,San Joaquin,94409,Ripon Fire Station 2,18800 S MURPHY RD RIPON CA 95366-9725
 2014-11-04,CA,San Joaquin,94410,Achterberg Residence,"30137 ORANGE AVE ESCALON, CA 95320"
 2014-11-04,CA,San Joaquin,94501,Lathrop-Manteca Nile Garden Station 32,22754 S UNION RD MANTECA CA 95337-8855
-2014-11-04,CA,San Joaquin,94502,Lathrop-Manteca Nile Garden Station 32,22754 S UNION RD MANTECA CA 95337-8855
 2014-11-04,CA,San Joaquin,94503,Park Greenhouse Garden Center,"12813 W RIPON RD RIPON, CA 95366-9634"
 2014-11-04,CA,San Joaquin,94506,Lathrop-Manteca Nile Garden Station 32,22754 S UNION RD MANTECA CA 95337-8855
 2014-11-04,CA,San Luis Obispo,,CONSOLIDATION FILE ABBREVIATED,2 S CHEROKEE LN LODI CA 95240-3019

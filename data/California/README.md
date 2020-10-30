@@ -1,7 +1,7 @@
 
 ## California Polling Places (2012-2018)
 
-This collection of polling locations in California contains 58,141 records. It covers general elections held from 2012 to 2018. It is drawn from 181 documents obtained via open records requests and research by the Center for Public Integrity. The records cover 53 of California's 58 counties.
+This collection of polling locations in California contains 57,775 records. It covers general elections held from 2012 to 2018. It is drawn from 185 documents obtained via open records requests and research by the Center for Public Integrity. The records cover 53 of California's 58 counties.
 
 ### Caveats
 
@@ -51,15 +51,15 @@ This dataset focuses on election day polling places, so early voting locations w
 | Napa            | 20   | 13   | 11   | 8    |
 | Nevada          | 56   | 52   | 52   | 7    |
 | Orange          | 1154 | 1135 | 1093 | 984  |
-| Placer          | 79   | 86   | 181  | 231  |
+| Placer          | 444  | 227  | 181  | 231  |
 | Plumas          | 4    | 4    | 1    | 1    |
-| Riverside       | 690  | 429  | 488  | 950  |
+| Riverside       | 684  | 429  | 488  | 950  |
 | Sacramento      | 469  | 526  | 548  | 78   |
 | San Benito      | 14   | 16   | 21   | 16   |
 | San Bernardino  | 444  | 413  | 405  | 402  |
 | San Diego       | 1527 | 1432 | 1552 | 1542 |
 | San Francisco   | 573  | 598  | 582  | 589  |
-| San Joaquin     | 524  | 523  | 492  | 558  |
+| San Joaquin     | 309  | 347  | 322  | 253  |
 | San Luis Obispo | 75   | 146  | 78   | 139  |
 | San Mateo       | 368  | 383  | 362  | 39   |
 | Santa Barbara   | 94   | 86   | 85   | 84   |
