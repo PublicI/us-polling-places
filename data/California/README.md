@@ -1,7 +1,7 @@
 
 ## California Polling Places (2012-2018)
 
-This collection of polling locations in California contains 57,775 records. It covers general elections held from 2012 to 2018. It is drawn from 185 documents obtained via open records requests and research by the Center for Public Integrity. The records cover 53 of California's 58 counties.
+This collection of polling locations in California contains 58,980 records. It covers general elections held from 2012 to 2018. It is drawn from 191 documents obtained via open records requests and research by the Center for Public Integrity. The records cover 56 of California's 58 counties.
 
 ### Caveats
 
@@ -21,14 +21,14 @@ This dataset focuses on election day polling places, so early voting locations w
 
 | county          | 2012 | 2014 | 2016 | 2018 |
 | --------------- | ---- | ---- | ---- | ---- |
-| Alameda         | 786  | 798  | 659  | 572  |
+| Alameda         | 786  | 798  | 813  | 813  |
 | Alpine          | N/A  | N/A  | N/A  | N/A  |
 | Amador          | 30   | 31   | 30   | 30   |
 | Butte           | 43   | 44   | 43   | 37   |
 | Calaveras       | 18   | 15   | 15   | 15   |
 | Colusa          | 13   | 10   | 10   | 9    |
 | Contra Costa    | 386  | 565  | 278  | 268  |
-| Del Norte       | 16   | 16   | 34   | N/A  |
+| Del Norte       | 16   | 16   | 17   | 17   |
 | El Dorado       | 63   | 60   | 59   | 59   |
 | Fresno          | 402  | 393  | 412  | 420  |
 | Glenn           | 9    | 10   | 10   | 10   |
@@ -37,14 +37,14 @@ This dataset focuses on election day polling places, so early voting locations w
 | Inyo            | 7    | 7    | 7    | 7    |
 | Kern            | 141  | 147  | 151  | 151  |
 | Kings           | 33   | 34   | 34   | 22   |
-| Lake            | 50   | 49   | 20   | 22   |
+| Lake            | 50   | 50   | 22   | 22   |
 | Lassen          | 13   | 13   | 14   | 13   |
 | Los Angeles     | 4621 | 4684 | 4523 | 4165 |
 | Madera          | 40   | 40   | 40   | 6    |
-| Marin           | 76   | 96   | 91   | 88   |
-| Mariposa        | 17   | 17   | 17   | 17   |
+| Marin           | 76   | 96   | 92   | 88   |
+| Mariposa        | 19   | 19   | 19   | 19   |
 | Mendocino       | N/A  | N/A  | N/A  | N/A  |
-| Merced          | 88   | 56   | 55   | 57   |
+| Merced          | 88   | 56   | 56   | 57   |
 | Modoc           | 8    | 8    | 9    | 8    |
 | Mono            | 6    | 6    | 6    | 6    |
 | Monterey        | 81   | 83   | 83   | 83   |
@@ -64,21 +64,21 @@ This dataset focuses on election day polling places, so early voting locations w
 | San Mateo       | 368  | 383  | 362  | 39   |
 | Santa Barbara   | 94   | 86   | 85   | 84   |
 | Santa Clara     | 754  | 834  | 836  | 849  |
-| Santa Cruz      | 88   | 84   | 72   | 143  |
+| Santa Cruz      | 88   | 91   | 72   | 143  |
 | Shasta          | 79   | 77   | 72   | 70   |
 | Sierra          | N/A  | N/A  | N/A  | N/A  |
 | Siskiyou        | 38   | 40   | 39   | 40   |
 | Solano          | 107  | 101  | 97   | 91   |
 | Sonoma          | 194  | 194  | 195  | 157  |
-| Stanislaus      | N/A  | N/A  | N/A  | N/A  |
-| Sutter          | N/A  | N/A  | N/A  | N/A  |
+| Stanislaus      | 254  | 113  | 112  | 112  |
+| Sutter          | 26   | 21   | 22   | 21   |
 | Tehama          | 29   | 30   | 29   | 30   |
 | Trinity         | 5    | 5    | 5    | 5    |
-| Tulare          | N/A  | N/A  | N/A  | N/A  |
+| Tulare          | 63   | 57   | 53   | 47   |
 | Tuolumne        | 24   | 24   | 24   | 22   |
 | Ventura         | 365  | 361  | 365  | 361  |
-| Yolo            | 96   | 95   | 95   | 96   |
-| Yuba            | N/A  | N/A  | 25   | 20   |
+| Yolo            | 96   | 95   | N/A  | 96   |
+| Yuba            | N/A  | N/A  | N/A  | 20   |
 
 
 ### Credits
