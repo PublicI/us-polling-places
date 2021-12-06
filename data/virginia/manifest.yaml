@@ -1,0 +1,22 @@
+state: Virginia
+sources:
+  - source_date: 2019-10-05
+    source: VIP
+    data: "./input/2019-10-05/VA-2012.csv"
+    election_date: 2012-11-06
+  - source_date: 2019-10-05
+    source: VIP
+    data: "./input/2019-10-05/VA-2014.csv"
+    election_date: 2014-11-04
+  - source_date: 2019-10-22
+    source: ORR
+    data: "./input/2019-10-22/2016 Locality_Election_Districts_Precincts_and_Polling_Places_2.xls"
+    election_date: 2016-11-08
+  - source_date: 2019-10-22
+    source: ORR
+    data: "./input/2019-10-22/Locality_Election_Districts_Precincts_and_Polling_Places_November 2018 General.xls"
+    election_date: 2018-11-06
+  - source_date: 2020-11-01
+    source: ORR
+    data: "./input/2020-11-01/Nov2020PollLocations (1).xlsx"
+    election_date: 2020-11-03
