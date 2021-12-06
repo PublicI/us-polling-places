@@ -1,0 +1,7 @@
+state: Missouri
+jurisdiction_type: county
+sources:
+  - source_date: 2020-10-06
+    source: website
+    data: './input/2020-10-06/10-6-20 Polling places.xls'
+    election_date: 2020-11-03

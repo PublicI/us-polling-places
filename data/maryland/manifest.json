@@ -1,0 +1,8 @@
+[
+    {
+        "source": "ORR",
+        "data": "input/2020-11-01/PG20_List of Election Day Vote Centers.xlsx",
+        "source_date": "2020-11-01",
+        "election_date": "2020-11-03"
+    }
+]

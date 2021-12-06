@@ -1,0 +1,19 @@
+state: Minnesota
+jurisdiction_type: county
+sources:
+  - source_date: 2019-10-21
+    source: VIP
+    data: "./input/2019-10-21/MN_2014-11-04.csv"
+    election_date: 2014-11-04
+  - source_date: 2019-10-21
+    source: VIP
+    data: "./input/2019-10-21/MN_2016-11-08.csv"
+    election_date: 2016-11-08
+  - source_date: 2019-10-21
+    source: VIP
+    data: "./input/2019-10-21/MN_2018-11-06.csv"
+    election_date: 2018-11-06
+  - source_date: 2020-10-15
+    source: ORR
+    data: "./input/2020-10-05/Polling_Place_List_for_Election_for_Excel_20201005.xls"
+    election_date: 2020-11-03

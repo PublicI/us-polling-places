@@ -1,0 +1,27 @@
+state: Indiana
+jurisdiction_type: municipality
+sources:
+  - source_date: 2019-09-24
+    source: ORR
+    data: "./input/2019-09-24/Statewide_Poll_Location_By_Precinct_2012 General.xlsx"
+    election_date: 2012-11-06
+    source_notes: "Vote Centers not included in this dataset."
+  - source_date: 2019-09-24
+    source: ORR
+    data: "./input/2019-09-24/Statewide_Poll_Location_By_Precinct_2014 General.xlsx"
+    election_date: 2014-11-04
+    source_notes: "Vote Centers not included in this dataset."
+  - source_date: 2019-09-24
+    source: ORR
+    data: "./input/2019-09-24/Statewide_Poll_Location_By_Precinct_2016 General.xlsx"
+    election_date: 2016-11-08
+    source_notes: "Vote Centers not included in this dataset."
+  - source_date: 2019-09-24
+    source: ORR
+    data: "./input/2019-09-24/Statewide_Poll_Location_By_Precinct_2018 General.xlsx"
+    election_date: 2018-11-06
+    source_notes: "Vote Centers not included in this dataset."
+  - source_date: 2020-11-02
+    source: ORR
+    data: "./input/2020-11-02/2020 GE Early Voting and Election Day Poll Locations 11.2.2020.xlsx"
+    election_date: 2020-11-03

@@ -1,0 +1,8 @@
+[
+    {
+        "source": "website",
+        "data": "input/2020-11-01/Precincts.csv",
+        "source_date": "2020-11-01",
+        "election_date": "2020-11-03"
+    }
+]

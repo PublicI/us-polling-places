@@ -1,0 +1,6 @@
+state: California
+sources:
+- source: ORR
+  source_date: 2020-10-15
+  data: input/2020-10-15/County Elections Master List 10.15.20 (1).xlsx
+  election_date: 2020-11-03

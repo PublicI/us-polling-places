@@ -1,0 +1,15 @@
+state: Georgia
+jurisdiction_type: county
+sources:
+  - source_date: 2019-09-11
+    source: ORR
+    data: "./input/2019-09-11/Polling Place Report 11.1.16.xlsx"
+    election_date: 2016-11-08
+  - source_date: 2019-09-11
+    source: ORR
+    data: "./input/2019-09-11/Polling Place Report 10.16.18.xlsx"
+    election_date: 2018-11-06
+  - source_date: 2020-10-19
+    source: ORR
+    data: "./input/2020-10-19/Updated Statewide Polling Locations 10132020.xlsx"
+    election_date: 2020-11-03

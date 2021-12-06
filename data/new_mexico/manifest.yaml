@@ -1,0 +1,13 @@
+state: New Mexico
+sources:
+  - source_date: 2019-10-02
+    source: ORR
+    data: "./input/2019-10-02/Copy of GeneralElectionPollingPlaces.xlsx"
+    election_date:
+      - 2014-11-04
+      - 2016-11-08
+      - 2018-11-06
+  - source_date: 2020-10-22
+    source: ORR
+    data: "./input/2020-10-22/2020 Polling Locations FINAL.XLS"
+    election_date: 2020-11-03

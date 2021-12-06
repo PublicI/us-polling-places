@@ -1,0 +1,28 @@
+state: Mississippi
+jurisdiction_type: county
+sources:
+  - source_date: 2019-10-04
+    source: ORR
+    source_notes: PDFs extracted using ABBYY
+    data: "./input/2019-10-04/abbyy_output/2012 Statewide Precinct List"
+    election_date: 2012-11-06
+  - source_date: 2019-10-04
+    source: ORR
+    source_notes: PDFs extracted using ABBYY
+    data: "./input/2019-10-04/abbyy_output/2014 Statewide Precinct List"
+    election_date: 2014-11-04
+  - source_date: 2019-10-04
+    source: ORR
+    source_notes: PDFs extracted using ABBYY
+    data: "./input/2019-10-04/abbyy_output/2016 Statewide Precinct List"
+    election_date: 2016-11-08
+  - source_date: 2019-10-04
+    source: ORR
+    source_notes: PDFs extracted using ABBYY
+    data: "./input/2019-10-04/abbyy_output/2018 Precincts 10.11.18"
+    election_date: 2018-11-06
+  - source_date: 2020-09-22
+    source: ORR
+    data: "./input/2020-09-22/2020.09.22 - Precinct Polling Place List_abbyy.xlsx"
+    source_notes: PDF extracted using ABBYY
+    election_date: 2020-11-03

@@ -1,0 +1,22 @@
+state: Ohio
+sources:
+  - source_date: 2019-10-18
+    source: ORR
+    data: "./input/2019-10-18/Copy of OH Polling Locations 8-1-2012.xls"
+    election_date: 2012-11-06
+  - source_date: 2019-10-18
+    source: ORR
+    data: "./input/2019-10-18/Copy of Polling Locations as of 12-30-14.xlsx"
+    election_date: 2014-11-04
+  - source_date: 2019-10-18
+    source: ORR
+    data: "./input/2019-10-18/Copy of Ohio Polling Locations for the Gen 2016 election.xls"
+    election_date: 2016-11-08
+  - source_date: 2019-10-18
+    source: ORR
+    data: "./input/2019-10-18/Copy of Ohio Precincts and Polling Locations 10-18-18.xlsx"
+    election_date: 2018-11-06
+  - source_date: 2020-10-19
+    source: ORR
+    data: "./input/2020-10-19/Polling Locations as of 10-19-2020.xlsx"
+    election_date: 2020-11-03

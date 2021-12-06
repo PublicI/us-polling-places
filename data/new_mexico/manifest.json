@@ -1,0 +1,8 @@
+[
+    {
+        "source": "ORR",
+        "data": "input/2020-10-22/2020 Polling Locations FINAL.XLS",
+        "source_date": "2020-10-22",
+        "election_date": "2020-11-03"
+    }
+]

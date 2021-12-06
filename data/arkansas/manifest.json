@@ -1,0 +1,8 @@
+[
+    {
+        "source": "ORR",
+        "data": "input/2020-10-08/Polling Places 10-8.csv",
+        "source_date": "2020-10-08",
+        "election_date": "2020-11-03"
+    }
+]

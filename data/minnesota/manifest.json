@@ -1,0 +1,8 @@
+[
+    {
+        "source": "ORR",
+        "data": "input/2020-10-05/Polling_Place_List_for_Election_for_Excel_20201005.xls",
+        "source_date": "2020-10-05",
+        "election_date": "2020-11-03"
+    }
+]

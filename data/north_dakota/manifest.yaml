@@ -1,0 +1,22 @@
+state: North Dakota
+sources:
+  - source_date: 2019-10-14
+    source: ORR
+    data: "./input/2019-10-14/2012 StatewidePollingPlacesandPrecincts (1).xls"
+    election_date: 2012-11-06
+  - source_date: 2019-10-14
+    source: ORR
+    data: "./input/2019-10-14/2014 StatewidePollingPlacesandPrecincts.xls"
+    election_date: 2014-11-04
+  - source_date: 2019-10-14
+    source: ORR
+    data: "./input/2019-10-14/2016 StatewideElectionInformationPrecinctsandPollingPlaces.xls"
+    election_date: 2016-11-08
+  - source_date: 2019-10-14
+    source: ORR
+    data: "./input/2019-10-14/2018 polling places.xlsx"
+    election_date: 2018-11-06
+  - source_date: 2020-11-01
+    source: website
+    data: "./input/2020-11-01/Precincts.csv"
+    election_date: 2020-11-03
