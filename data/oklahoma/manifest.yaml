@@ -1,0 +1,22 @@
+state: Oklahoma
+sources:
+  - source_date: 2019-10-05
+    source: ORR
+    data: "./input/2019-10-05/2012 OKLAHOMA DATA PROVIDED BY VIP/OK_2012-11-06.csv"
+    election_date: 2012-11-06
+  - source_date: 2019-09-17
+    source: ORR
+    data: "./input/2019-09-17/OK_110414"
+    election_date: 2014-11-04
+  - source_date: 2019-09-17
+    source: ORR
+    data: "./input/2019-09-17/vipFeed-40-2016-11-08/data"
+    election_date: 2016-11-08
+  - source_date: 2019-09-17
+    source: ORR
+    data: "./input/2019-09-17/vipFeed-40-2018-11-06/data"
+    election_date: 2018-11-06
+  - source_date: 2020-10-20
+    source: ORR
+    data: "./input/2020-10-20/Polling Place Report_11032020.xls"
+    election_date: 2020-11-03

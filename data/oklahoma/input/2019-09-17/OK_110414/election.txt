@@ -1,0 +1,2 @@
+date,election_type,state_id,statewide,registration_info,absentee_ballot_info,results_url,polling_hours,election_day_registration,registration_deadline,absentee_request_deadline,id
+2014-11-04,FEDERAL,40,YES,http://www.ok.gov/elections/Voter_Registration/About_Voter_Registration/index.html,http://www.ok.gov/elections/Absentee_Voting/About_Absentee_Voting/index.html,http://www.ok.gov/elections/,http://www.ok.gov/elections/faqs.html#c104,NO,2014-10-10,2014-10-29,44201411

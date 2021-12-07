@@ -1,0 +1,2 @@
+date,election_type,state_id,statewide,registration_info,absentee_ballot_info,results_url,polling_hours,election_day_registration,registration_deadline,absentee_request_deadline,id
+2016-11-08,STATE,40,YES,http://www.ok.gov/elections/Voter_Info/Register_to_Vote/index.html,http://www.ok.gov/elections/Voter_Info/Absentee_Voting/index.html,http://www.ok.gov/elections/,http://www.ok.gov/elections/faqs.html#c104,NO,2016-10-14,2016-11-02,44201611
