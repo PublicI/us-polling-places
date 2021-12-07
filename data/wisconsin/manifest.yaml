@@ -1,0 +1,22 @@
+state: Wisconsin
+sources:
+  - source: ORR
+    source_date: 2020-01-12
+    data: "input/2020-01-12/2012_presidentialgeneralelection_pollingplacesbywa_11322.xlsx"
+    election_date: 2012-11-06
+  - source: ORR
+    source_date: 2020-01-12
+    data: "input/2020-01-12/2014generalelectionpollingplacesbyward_20141014_xl_17647.xlsx"
+    election_date: 2014-11-04
+  - source: ORR
+    source_date: 2020-01-12
+    data: "input/2020-01-12/polling_place_locations_2016_nov_general_xlsx_81288.xlsx"
+    election_date: 2016-11-08
+  - source: ORR
+    source_date: 2020-01-12
+    data: "input/2020-01-12/2018 General Elections PPL.xlsx"
+    election_date: 2018-11-06
+  - source: ORR
+    source_date: 2020-10-21
+    data: "input/2020-10-21/wi_polling_places_2020-11-03.xlsx"
+    election_date: 2020-11-03
