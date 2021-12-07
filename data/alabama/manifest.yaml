@@ -1,0 +1,6 @@
+state: Alabama
+sources:
+  - source: ORR
+    source_date: 2020-10-21
+    election_date: 2020-11-03
+    data: input/2020-10-21/Alabama - Statewide List of Polling Places - 2020-10-21.XLSX
