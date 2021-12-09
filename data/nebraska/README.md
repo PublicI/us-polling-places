@@ -16,8 +16,8 @@
 
 | Date | Source | Notes | Elections | Data |
 | :---|:----|:---|:---|:---|
-| 2019-09-17 | ORR |  | 2012-11-06 | [./input/2019-09-17/List of Polling Places - GN12.txt](./input/2019-09-17/List of Polling Places - GN12.txt) |
-| 2019-09-17 | ORR |  | 2014-11-04 | [./input/2019-09-17/List of Polling Places - GN14.txt](./input/2019-09-17/List of Polling Places - GN14.txt) |
-| 2019-09-17 | ORR |  | 2016-11-08 | [./input/2019-09-17/List of Polling Places - GN16.txt](./input/2019-09-17/List of Polling Places - GN16.txt) |
-| 2019-09-17 | ORR |  | 2018-11-06 | [./input/2019-09-17/List of Polling Places - GN18.txt](./input/2019-09-17/List of Polling Places - GN18.txt) |
-| 2020-10-21 | ORR |  | 2020-11-03 | [./input/2020-10-21/2020 GN Polling  Places.xlsx](./input/2020-10-21/2020 GN Polling  Places.xlsx) |
+| 2019-09-17 | ORR |  | 2012-11-06 | [./input/2019-09-17/List of Polling Places - GN12.txt](./input/2019-09-17/List%20of%20Polling%20Places%20-%20GN12.txt) |
+| 2019-09-17 | ORR |  | 2014-11-04 | [./input/2019-09-17/List of Polling Places - GN14.txt](./input/2019-09-17/List%20of%20Polling%20Places%20-%20GN14.txt) |
+| 2019-09-17 | ORR |  | 2016-11-08 | [./input/2019-09-17/List of Polling Places - GN16.txt](./input/2019-09-17/List%20of%20Polling%20Places%20-%20GN16.txt) |
+| 2019-09-17 | ORR |  | 2018-11-06 | [./input/2019-09-17/List of Polling Places - GN18.txt](./input/2019-09-17/List%20of%20Polling%20Places%20-%20GN18.txt) |
+| 2020-10-21 | ORR |  | 2020-11-03 | [./input/2020-10-21/2020 GN Polling  Places.xlsx](./input/2020-10-21/2020%20GN%20Polling%20%20Places.xlsx) |
