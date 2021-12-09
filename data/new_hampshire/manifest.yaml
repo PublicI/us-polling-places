@@ -1,4 +1,7 @@
 state: New Hampshire
+state_notes: >
+  State-wide polling place data for 2012, 2016 and 2018 was obtained from the Secretary of State through a public records request. The SoS was unable to find any records on the 2016 polling locations.
+  The 2016 Primary file included here is sourced from DailyKos via Scribd.
 sources:
   - source_date: 2019-10-03
     source: ORR
@@ -6,15 +9,15 @@ sources:
     election_date: 2012-11-06
   - source_date: 2019-10-03
     source: ORR
-    data: "./input/2019-10-03/abbyy_output/Statewide - Production As of 2012-10-08"
+    data: "./input/2019-10-03/abbyy_output/Statewide Polling Place Information 2014-11-03"
     election_date: 2014-11-04
   - source_date: 2019-10-03
     source: ORR
-    data: "./input/2019-10-03/abbyy_output/Statewide - Production As of 2012-10-08"
-    election_date: 2016-11-08
+    data: "./input/2019-10-03/abbyy_output/323456700-New-Hampshire-Poll-Close-Times-Sept-2016"
+    election_date: 2016-02-09
   - source_date: 2019-10-03
     source: ORR
-    data: "./input/2019-10-03/abbyy_output/Statewide - Production As of 2012-10-08"
+    data: "./input/2019-10-03/abbyy_output/StateList-Clerks & PollingPlaces 2018-11-06"
     election_date: 2018-11-06
   - source_date: 2020-10-27
     source: ORR
