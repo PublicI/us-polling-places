@@ -2,6 +2,7 @@
 
 -------------
 
+The 2012 and 2014 files only contain building names (no addresses).
 
 
 ### Coverage

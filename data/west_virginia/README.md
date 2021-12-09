@@ -2,6 +2,7 @@
 
 -------------
 
+The data provided by the SOS is missing street address information for a few precincts prior to 2018.
 
 
 ### Coverage

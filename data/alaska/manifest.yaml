@@ -1,4 +1,5 @@
 state: Alaska
+state_notes: Precincts in the "Unorganized Borough" in Alaska have a null for the county_name column.
 sources:
 - source: ORR
   source_date: 2019-05-13

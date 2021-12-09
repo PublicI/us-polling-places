@@ -1,4 +1,7 @@
 state: Michigan
+state_notes: >
+  State-wide polling place data for 2012, 2014 general elections was provided by the Voting Information Project with permission from the Secretary of State.
+  The data for 2016, 2018 did not have any polling location information and hence is not included in this release.
 jurisdiction_type: county
 sources:
   - source_date: 2019-10-21

@@ -2,6 +2,7 @@
 
 -------------
 
+State-wide polling place data for the 2012-2018 general elections was provided by the Voting Information Project with permission from the Secretary of State.
 
 
 ### Coverage

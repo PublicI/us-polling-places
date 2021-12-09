@@ -1,4 +1,6 @@
 state: Vermont
+state_notes: >
+  The 2012 and 2014 files only contain building names (no addresses).
 sources:
   - source_date: 2019-09-19
     source: ORR

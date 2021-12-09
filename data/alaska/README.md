@@ -2,7 +2,7 @@
 
 -------------
 
-
+Precincts in the "Unorganized Borough" in Alaska have a null for the county_name column.
 
 ### Coverage
 - 2018-11-06

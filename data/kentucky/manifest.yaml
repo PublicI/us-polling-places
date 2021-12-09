@@ -1,4 +1,6 @@
 state: Kentucky
+state_notes: >
+  State-wide polling place data for the 2012-2018 general elections was provided by the Voting Information Project with permission from the Secretary of State.
 jurisdiction_type: county
 sources:
   - source_date: 2019-10-21

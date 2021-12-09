@@ -2,6 +2,7 @@
 
 -------------
 
+N.B: The elections seem to be held at the city/county level. We've imputed county_name from the jurisdiction where possible. Aurora, IL is part of more than one county ( DuPage, Kane, Kendall, Will) hence the county_name column is null.
 
 
 ### Coverage

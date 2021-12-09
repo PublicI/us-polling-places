@@ -2,6 +2,7 @@
 
 -------------
 
+The SoS provided this data but is unable to confirm that these were the finalized polling places that were used in this election. Several municipalties were consolidated after the 2012 election which means there would be some municipalities that are present in the 2012 file but not in the 2014-2018 data.
 
 
 ### Coverage

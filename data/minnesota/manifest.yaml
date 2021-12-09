@@ -1,4 +1,7 @@
 state: Minnesota
+state_notes: >
+  The 2014 data from VIP seems to contain duplicate "precinct names". This is happening because of additional district information that's getting appended to the precinct_name column. E.g. SEVERANCE TWP._ISD_2365, SEVERANCE TWP.
+  However, addresses are identical for all these rows. The duplicate rows are included here as a reference.
 jurisdiction_type: county
 sources:
   - source_date: 2019-10-21
@@ -10,7 +13,7 @@ sources:
     data: "./input/2019-10-21/MN_2016-11-08.csv"
     election_date: 2016-11-08
   - source_date: 2019-10-21
-    source: VIP
+    source: LCCHR
     data: "./input/2019-10-21/MN_2018-11-06.csv"
     election_date: 2018-11-06
   - source_date: 2020-10-15

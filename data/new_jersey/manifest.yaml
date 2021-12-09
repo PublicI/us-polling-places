@@ -1,4 +1,6 @@
 state: New Jersey
+state_notes: >
+  State-wide polling place data for 2012-2018 general elections was provided by the Voting Information Project with permission from the Secretary of State.
 sources:
   - source_date: 2019-10-21
     source: VIP

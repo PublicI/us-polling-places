@@ -1,4 +1,6 @@
 state: West Virginia
+state_notes: >
+  The data provided by the SOS is missing street address information for a few precincts prior to 2018.
 sources:
   - source_date: 2019-09-24
     source: ORR
