@@ -1,12 +1,23 @@
 ## Connecticut
 
+-------------
+
+
+
 ### Coverage
+- 2012-11-06
+- 2020-11-03
+- 2016-11-08
+- 2018-11-06
+- 2014-11-04
 
-- 2012 General
-- 2014 General
-- 2016 General
-- 2018 General
 
-### Source
+### Sources
 
-State-wide polling place data for 2012-2018 general elections was obtained from the Secretary of State through a public records request.
+| Date | Source | Notes | Elections | Data |
+| :---|:----|:---|:---|:---|
+| 2019-09-04 | ORR |  | 2012-11-06 | [input/2019-09-03/PollingPlaceLocation10.16.12 with exact addresses.xls](input/2019-09-03/PollingPlaceLocation10.16.12 with exact addresses.xls) |
+| 2019-09-04 | ORR |  | 2014-11-04 | [input/2019-09-03/Polling place list 10.8.14.xlsx](input/2019-09-03/Polling place list 10.8.14.xlsx) |
+| 2019-09-04 | ORR |  | 2016-11-08 | [input/2019-09-03/Copy of poll_place 10.17.16.xlsx](input/2019-09-03/Copy of poll_place 10.17.16.xlsx) |
+| 2019-09-04 | ORR |  | 2018-11-06 | [input/2019-09-03/Polling Places Nov Election 10.17.18.xlsx](input/2019-09-03/Polling Places Nov Election 10.17.18.xlsx) |
+| 2020-10-13 | ORR |  | 2020-11-03 | [input/2020-10-13/POLLING_PLACES_101320.xlsx](input/2020-10-13/POLLING_PLACES_101320.xlsx) |

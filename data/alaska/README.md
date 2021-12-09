@@ -1,16 +1,20 @@
 ## Alaska
 
+-------------
+
+
+
 ### Coverage
+- 2018-11-06
+- 2016-11-08
+- 2020-11-03
+- 2012-11-06
+- 2014-11-04
 
-- 2012 General
-- 2014 General
-- 2016 General
-- 2018 General
 
-### Source
+### Sources
 
-State-wide polling place data for 2012-2018 general elections was obtained from the Secretary of State through a public records request.
-
-### Notes
-
-Precincts in the "Unorganized Borough" in Alaska have a `null` for the `county_name` column.
+| Date | Source | Notes | Elections | Data |
+| :---|:----|:---|:---|:---|
+| 2019-05-13 | ORR |  | 2012-11-06, 2014-11-04, 2016-11-08, 2018-11-06 | [input/2019-05-13/Alaska Polling Locations 2012-2018.xlsx](input/2019-05-13/Alaska Polling Locations 2012-2018.xlsx) |
+| 2020-10-26 | ORR |  | 2020-11-03 | [input/2020-10-26/ak_polling_places_2020-11-03.csv](input/2020-10-26/ak_polling_places_2020-11-03.csv) |
