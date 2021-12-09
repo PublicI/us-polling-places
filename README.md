@@ -2,15 +2,15 @@
 
 Learn more about this data here: [National data release sheds light on past polling place changes.](https://publicintegrity.org/politics/elections/ballotboxbarriers/data-release-sheds-light-on-past-polling-place-changes)
 
-This data release contains standardized data on polling locations that were used in each election cycle since 2012 for all the states covered by the dataset.
+This data release contains standardized data on polling locations used in general elections from 2012 to 2020.
 
 Detailed information about the source of the data and coverage is available in state specific README files. This information is also available as a machine-readable file in the `manifest.yaml` file for each state.
 
 ### Provenance
 
-This data was primarily acquired through public records requests to state or county election officials. In some cases, when state election officials no longer had the data, they authorized the Voting Information Project to release any data that was available in their archives. The source of each election year’s data is mentioned in the state’s README file. Additionally, the state README file contains any additional caveats about the data that you need to be aware of.
+This data was primarily acquired through public records requests to state or county election officials. In some cases, when state election officials no longer had the data, they authorized the Voting Information Project to release any available archival data that was available in their archives. The source of each election year’s data is mentioned in the state’s README file. Additionally, the state README file contains any additional caveats about the data that you need to be aware of.
 
-This data set is only as good as the information that is provided by state and local officials. Often times polling places can be moved under "emergency changes" which might not be reflected in this dataset.
+This data set is only as good as the information that is provided by state and local officials. Many states permit polling places to be moved under laws permitting "emergency changes." Some of those changes may not be reflected in this dataset.
 
 We have made our best effort to ensure that the standardized data reflects the source documents as closely as possible. However, if you find any errors or any missing data, please open an Issue or reach out to Pratheek Rebala at <prebala@publicintegrity.org>.
 
