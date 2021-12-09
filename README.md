@@ -4,7 +4,7 @@ Learn more about this data here: [National data release sheds light on past poll
 
 This data release contains standardized data on polling locations that were used in each election cycle since 2012 for all the states covered by the dataset.
 
-Detailed information about current and future coverage in each state is available on the [Status page](STATUS.md). Further information about the source of the data and coverage is available in state specific README files. This information is also available as a machine-readable file in the `manifest.yaml` file for each state.
+Detailed information about the source of the data and coverage is available in state specific README files. This information is also available as a machine-readable file in the `manifest.yaml` file for each state.
 
 ### Provenance
 
