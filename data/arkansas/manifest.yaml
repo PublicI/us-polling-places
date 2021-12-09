@@ -1,0 +1,18 @@
+state: Arkansas
+sources:
+- source: VIP
+  source_date: 2020-01-12
+  data: input/2020-01-12/AR_2012-11-06.csv
+  election_date: 2012-11-06
+- source: VIP
+  source_date: 2020-01-12
+  data: input/2020-01-12/AR_2018-11-06.csv
+  election_date: 2018-11-06
+- source: ORR
+  source_date: 2019-10-07
+  data: input/2019-10-07/2014 Polling Site Precinct Breakdown.xlsx
+  election_date: 2014-11-04
+- source: ORR
+  source_date: 2020-10-08
+  data: input/2020-10-08/Polling Places 10-8.csv
+  election_date: 2020-11-03

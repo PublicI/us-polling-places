@@ -1,0 +1,26 @@
+state: Illinois
+state_notes: > 
+  N.B: The elections seem to be held at the city/county level. We've imputed county_name from the jurisdiction where possible.
+  Aurora, IL is part of more than one county ( DuPage, Kane, Kendall, Will) hence the county_name column is null.
+jurisdiction_type: city/county
+sources:
+  - source_date: 2019-09-06
+    source: ORR
+    data: "./input/2019-09-06/polling places 11-6-12.xlsx"
+    election_date: 2012-11-06
+  - source_date: 2019-09-06
+    source: ORR
+    data: "./input/2019-09-06/polling places 10-16-14.xlsx"
+    election_date: 2014-11-04
+  - source_date: 2019-09-06
+    source: ORR
+    data: "./input/2019-09-06/Polling Places 10-17-16.xlsx"
+    election_date: 2016-11-08
+  - source_date: 2019-09-06
+    source: ORR
+    data: "./input/2019-09-06/polling locations 11-18.xlsx"
+    election_date: 2018-11-06
+  - source_date: 2019-09-06
+    source: ORR
+    data: "./input/2020-10-22/Polling Place.xlsx"
+    election_date: 2020-11-03

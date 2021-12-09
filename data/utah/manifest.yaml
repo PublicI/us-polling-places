@@ -1,0 +1,6 @@
+state: Utah
+sources:
+  - source_date: 2020-10-21
+    source: ORR
+    data: "./input/2020-10-21/PollingLocations-2020-10-21.xlsx"
+    election_date: 2020-11-03

@@ -1,0 +1,26 @@
+state: Virginia
+state_notes: >
+  The data for 2012, 2014 is missing the county_name column because the underlying data from the Voting Information Project did not contain this information.
+  The system used by the Virgnia board of elections does not reliably track historical precinct names. Depending on how the county clerks recorded precinct changes ("editing" vs "deleting") - the precinct name column for 2016 might reflect the precinct as it was named in 2018. This only affects a small percent of precincts which say a change in their boundary or name during the study period. We are working on updating this dataset with the correct precincts substituted for the historical data.
+  This issue ONLY affects precinct names. The polling locations themselves seem to be accurately reflected.
+sources:
+  - source_date: 2019-10-05
+    source: VIP
+    data: "./input/2019-10-05/VA-2012.csv"
+    election_date: 2012-11-06
+  - source_date: 2019-10-05
+    source: VIP
+    data: "./input/2019-10-05/VA-2014.csv"
+    election_date: 2014-11-04
+  - source_date: 2019-10-22
+    source: ORR
+    data: "./input/2019-10-22/2016 Locality_Election_Districts_Precincts_and_Polling_Places_2.xls"
+    election_date: 2016-11-08
+  - source_date: 2019-10-22
+    source: ORR
+    data: "./input/2019-10-22/Locality_Election_Districts_Precincts_and_Polling_Places_November 2018 General.xls"
+    election_date: 2018-11-06
+  - source_date: 2020-11-01
+    source: ORR
+    data: "./input/2020-11-01/Nov2020PollLocations (1).xlsx"
+    election_date: 2020-11-03

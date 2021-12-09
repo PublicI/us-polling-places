@@ -1,0 +1,657 @@
+name,party,candidate_url,biography,phone,photo_url,filed_mailing_address_location_name,filed_mailing_address_line1,filed_mailing_address_line2,filed_mailing_address_line3,filed_mailing_address_city,filed_mailing_address_state,filed_mailing_address_zip,email,sort_order,id
+"RICKY LYNN VARDELL",DEM,,,,,,"P.O. BOX 461","",,"TEMPLE","OK","73568",,2,8124472
+"NIKKI CAROLE VARDELL",DEM,,,,,,"P.O. BOX 461","",,"TEMPLE","OK","73568",,1,8124477
+"Jerry Lee Niles",REP,,,,,,"1412 S Baker","",,"Enid","OK","73701",,1,8124485
+"Reese Dane Wedel",REP,,,,,,"212 Versailles","",,"Garber","OK","73738",,1,8124522
+"Paul Sullivan",DEM,,,,,,"416 West B St","",,"Jenks","OK","74037",,2,8124856
+"Lee Ann Langston",DEM,,,,,,"1628 N Country Club Rd","",,"Muskogee","OK","74403",,2,8124858
+"Emily Virgin",DEM,,,,,,"802 Classen Blvd","",,"Norman","OK","73071",,1,8124859
+"Scott R. Biggs",REP,,,,,,"PO Box 601","",,"Chickasha","OK","73023",,1,8124864
+"Jon Echols",REP,,,,,,"7701 SW 104th St","",,"Oklahoma City","OK","73169",,1,8124865
+"Liz George",DEM,,,,,,"PO Box 1375","",,"Blanchard","OK","73010",,2,8124866
+"Kevin Matthews",DEM,,,,,,"PO Box 481084","",,"Tulsa","OK","74148",,1,8124868
+"Dianna Phillips",DEM,,,,,,"1624 Holly Ave","",,"Sand Springs","OK","74063",,2,8124873
+"Greg McCortney",REP,,,,,,"PO Box 2444","",,"Ada","OK","74821",,1,8124876
+"Jay Means",REP,,,,,,"5715 S Kentucky Ave","",,"Oklahoma City","OK","73119",,1,8124881
+"Leslie Kathryn Osborn",REP,,,,,,"PO Box 1200","",,"Mustang","OK","73064",,1,8124890
+"Darrell L. Moore",DEM,,,,,,"PO Box 517","",,"Pryor","OK","74362",,2,8124896
+"David S. Weir",DEM,,,,,,"701 W Kings Rd","",,"Ada","OK","74820",,2,8124901
+"Scott Inman",DEM,,,,,,"PO Box 55532","",,"Del City","OK","73155",,2,8124902
+"Jason Dunnington",DEM,,,,,,"PO Box 1240","",,"Oklahoma City","OK","73101",,1,8124904
+"Ronnie Kell",DEM,,,,,,"15570 N 350 Rd","",,"Boynton","OK","74422",,2,8124908
+"Jacob Rosecrants",DEM,,,,,,"1055 Rambling Oaks Dr","",,"Norman","OK","73072",,2,8124915
+"Wanda S. Pearce",DEM,,,,,,"PO Box 126","",,"Madill","OK","73446",wandaP89@yahoo.com,1,8124597
+"Cassie  LynAnne Key",DEM,,,,,,"P.O. Box 652","",,"Miami","OK","74355",,1,8124683
+"Chad Michael Masterson",DEM,,,,,,"68350 E 120 Road","",,"Wyandotte","OK","74370",mastersonchad@yahoo.com,2,8124694
+"Derek James-David Derwin",DEM,,,,,,"2237 Elmwood Lane","",,"Miami","OK","74354",dderwin@cableone.net,2,8124757
+"Robyn Lyn Mitchell",DEM,,,,,,"714 Sunset Strip","",,"Miami","OK","74354",ROBYNLMITCHELL2004@yahoo.com,1,8124818
+"JANET SHIVELY BURK",DEM,,,,,,"402 E. TEXAS ST.","",,"WALTERS","OK","73572",,1,8124935
+"Rick West",REP,,,,,,"47152 Walker Mt Rd","",,"Heavener","OK","74937",,1,8124928
+"Will Fourkiller",DEM,,,,,,"Rte 3 Box 2410","",,"Stilwell","OK","74960",,3,8124929
+"Charly Lynn Criner",DEM,,,,,,"16133 Briar Rd","",,"Morris","OK","74445",pinkclcl3@gmail.com,1,8125173
+"STAN TUCKER",REP,,,,,,"300 Randolph","",,"Cherokee","OK","73728",,1,8125185
+"Steven Weber",IND,,,,,,"12112 Monarch Pass","",,"Oklahoma City","OK","73162",,3,8125386
+"Teresa Marler",IND,,,,,,"5732 S 80th East Ave","",,"Tulsa","OK","74145",,2,8125388
+"Chris Verser",REP,,,,,,"925 Brower Rd","",,"Anadarko","OK","73005",,1,8125390
+"David S. Northcutt",DEM,,,,,,"PO Box 231","",,"Achille","OK","74720",,2,8125396
+"Eric Epperson",DEM,,,,,,"Rte 1 Box 166","",,"Delaware","OK","74027",,2,8125404
+"Robert Jobe",DEM,,,,,,"Rte 1 Box 221","",,"Delaware","OK","74027",,2,8125405
+"Micheal Bergstrom",REP,,,,,,"PO Box 818","",,"Adair","OK","74330-0818",,1,8125406
+"Kimberly Fobbs",DEM,,,,,,"5566 S 79th East Pl","",,"Tulsa","OK","74145",,2,8125420
+"Ashlee Renee Ortiz",DEM,,,,,,"PO Box 123","",,"Goodwell","OK","73939",,2,8125426
+"Donna Marie Howell",DEM,,,,,,"12351 N 1910 RD","",,"Sayre","OK","73662",kentanddonna@itlnet.net,1,8124500
+"Lisa Markus",REP,,,,,,"910 Park Lane","",,"KINGFISHER","OK","73750",,1,8124666
+"Derek Wayne Manning",REP,,,,,,"2302 Bell Ave ","",,"Elk City","OK","73644",,1,8124743
+"Buddy Darrell Carnes",DEM,,,,,,"19540 E 1140 RD","",,"Elk City","OK","73644",,2,8124775
+"Leasa Jane Hartman",REP,,,,,,"11403 N 1830 RD","",,"Sayre","OK","73662",,1,8124823
+"Traci Smith",DEM,,,,,,"212 West D Ave.","",,"Waurika","OK","73573",,1,8125058
+"Jeremie G. Wilson",REP,,,,,,"P.O. Box 127","",,"Waurika","OK","73573",,1,8125131
+"Kurt Hamburger",REP,,,,,,"24115 E1060 Rd. ","",,"Weatherford","OK","73096",,1,8125325
+"Rhonda Henry",DEM,,,,,,"217 W Grant St.","",,"Mangum","OK","73554",,1,8125328
+"Meredith Ann Frailey",REP,,,,,,"8435 S. 437","",,"Locust Grove ","OK","74352",mfrailey@sstelco.com,1,8125364
+"LARRY  DUANE COX",DEM,,,,,,"1301 E JONES STREET","",,"HOLLIS","OK","73550",,2,8125525
+"Shelia Bellamy",DEM,,,,,,"609 Mathews","",,"Pawhuska","OK","74056",,1,8124586
+"Kevin Paslay",REP,,,,,,"109 N. Hummingbird Lane","",,"Skiatook","OK","74070",pascon@sbcglobal.net,1,8124608
+"SHELLEY REED",REP,,,,,,"1011 Silkstocking Ave.","",,"Dacoma","OK","73731",shelleydot3@yahoo.com,1,8124715
+"RANDY MCMURPHY",REP,,,,,,"32162 U S HWY 64","",,"ALVA","OK","73717",randy.mcmurphy@yahoo.com,1,8124810
+"Kyle Hilbert",REP,,,,,,"PO Box 260","",,"Depew","OK","74028",,1,8125026
+"John Waldron",DEM,,,,,,"533 S Erie Ave","",,"Tulsa","OK","74112",,2,8125028
+"Bryce Marlatt",REP,,,,,,"29 Country Oaks St","",,"Woodward","OK","73801",,1,8125032
+"Nick Atwood",DEM,,,,,,"1501 N Oklahoma","",,"Shawnee","OK","74804",,2,8125036
+"Dave Rader",REP,,,,,,"8086 S Yale Ave","#200",,"Tulsa","OK","74136",,1,8125037
+"Jeff Coody",REP,,,,,,"523 S Bridge Blvd","",,"Grandfield","OK","73546",,1,8125047
+"Ryan Martinez",REP,,,,,,"PO Box 31021","",,"Edmond","OK","73003",,1,8125050
+"Tess Teague",REP,,,,,,"1909 Overland Trl","",,"Choctaw","OK","73020",,1,8125052
+"Wayne Shaw",REP,,,,,,"PO Box 6836","",,"Grove","OK","74344",,1,8125055
+"Jason Sansone",REP,,,,,,"4009 Oakbrook Dr","",,"Del City","OK","73115",,1,8125079
+"Scott Martin",REP,,,,,,"2916 Stonebridge Ct","",,"Norman","OK","73071",,1,8125081
+"Kevin Wallace",REP,,,,,,"PO Box 367","",,"Wellston","OK","74881",,1,8125082
+"Marc Etters",REP,,,,,,"2151 108th Ave NE","",,"Norman","OK","73026",,1,8125084
+"Steven E Vaughan",REP,,,,,,"1 Skinner Ln","",,"Ponca City","OK","74604",,1,8125085
+"Donald Wentroth Jr.",DEM,,,,,,"7925 Michael Ct","",,"Oklahoma City","OK","73132",,3,8125087
+"Adam Pugh",REP,,,,,,"4625 Spectacular Bid Ave","",,"Edmond","OK","73025",,1,8125089
+"Jacobi T. Crowley",DEM,,,,,,"302 NW Arlington Ave","",,"Lawton","OK","73507",,2,8125090
+"Sean Braddy",IND,,,,,,"PO Box 5591","",,"Norman","OK","73070",,5,8125447
+"Keith Welch Sr.",DEM,,,,,,"2167 S 106th East Ave","",,"Tulsa","OK","74129-4802",,2,8125459
+"Tonni Canaday",REP,,,,,,"4307 Spencer Rd","",,"Spencer","OK","73084",,1,8125473
+"Charles L. Murdock",DEM,,,,,,"801 W Cheyenne","",,"Marlow","OK","73055",,2,8125481
+"James J. Cook",DEM,,,,,,"10201 SE 55th St","",,"Oklahoma City","OK","73150",,2,8125490
+"Christina Wright",LIB,,,,,,"8332 NW 109th Ter","",,"Oklahoma City","OK","73162",,2,8125492
+"Zachary Knight",LIB,,,,,,"2100 Pebble Creek Blvd","",,"Edmond","OK","73003",,2,8125506
+"Lori Allen",REP,,,,,,"414 N. Agra Rd","",,"Ripley","OK","74062",lori.allen@oscn.net,1,8124506
+"Glenna Craig",REP,,,,,,"3918 Yorkshire Drive","",,"Stillwater","OK","74074",,1,8124520
+"Chris Reding",REP,,,,,,"2009 E. Mathews Ave.","",,"Stillwater","OK","74075",,1,8124568
+"R.B. Hauf",REP,,,,,,"7919 West Lakeview Road","",,"Stillwater","OK","74075",,1,8124589
+"KRISTEN DOWELL",REP,,,,,,"612 N. WEST STREET","",,"CORDELLl","OK","73632",kristen dowell@hotmail.com,1,8124677
+"Kevin Francis Mitchell",REP,,,,,,"PO Box 1021","",,"Woodward","OK","73802",,1,8124798
+"Jim Hight",REP,,,,,,"PO BOX 140535","",,"Broken Arrow","OK","74014",jimhight1@gmail.com,1,8125070
+"Chris Edwards",REP,,,,,,"68235 S 240 Rd","",,"Wagoner","OK","74467",,1,8125074
+"Tate Jay Finnell",REP,,,,,,"3800 S Washington Ave","",,"Elk Ctiy","OK","73664",,1,8125091
+"Kevin Calvey",REP,,,,,,"4244 Cherry Hill Ln","",,"Oklahoma City","OK","73120",,1,8125103
+"Jason Lowe",DEM,,,,,,"228 Robert S Kerr Ave","Ste 630",,"Oklahoma City","OK","73102",,2,8125111
+"Katie Henke",REP,,,,,,"PO Box 52530","",,"Tulsa","OK","74152",,1,8125113
+"Rhonda Harlow",DEM,,,,,,"2709 W Broadway","",,"Enid","OK","73703",,2,8125116
+"Dan Myers",DEM,,,,,,"3009 Aerie Dr","",,"Edmond","OK","73013",,3,8125117
+"John Elvin Roberts",REP,,,,,,"902 Arlington Center","PMB 303",,"Ada","OK","74820",johnok147@cableone.net,1,8124481
+"Kara Gollihare",DEM,,,,,,"215 E Vivian","",,"Hollis","OK","73550",karagollihare@hotmail.com,1,8124497
+"Karen Lyn Dunnigan",DEM,,,,,,"809 E. Williams St.","",,"Ada","OK","74820",karen.dunnigan@oscn.net,1,8124509
+"Joe Johnson",DEM,,,,,,"306 N 1st Street","",,"Hollis","OK","73550",,1,8124517
+"Stacy Macias",DEM,,,,,,"503 W Vivian Street","",,"Hollis","OK","73550",sjmacias68@gmail.com,1,8124532
+"Nicky D. Boone",DEM,,,,,,"17311 East 1650 Rd.","",,"Hollis","OK","73550",,1,8124548
+"Tamara Danean Brown",DEM,,,,,,"12325 State Highway 19W","",,"Ada","OK","74820",,1,8124569
+"LAURA LYNN SMITH",REP,,,,,,"187616 E COUNTY ROAD 60","",,"ARNETT","OK","73832",,1,8124761
+"SALLY JAREE WAYLAND",REP,,,,,,"182375 EAST COUNTY ROAD 57","",,"GAGE","OK","73843",sally.wayland@oscn.net,1,8124768
+"JEANNIE KAY STRICK",REP,,,,,,"61507 S COUNTY ROAD 191","",,"ARNETT","OK","73832",hunterjeannie@yahoo.com,1,8124772
+"SONNY SHANE BOOTH",REP,,,,,,"RT 1 BOX 551","",,"GAGE","OK","73843",BOOTH.SONNY@YAHOO.COM,1,8124776
+"LAYTON FRANKIE STEVENS",REP,,,,,,"43912 S COUNTY ROAD 176","",,"GAGE","OK","73843",,1,8124783
+"CHRIS H. BRYANT",REP,,,,,,"P O BOX 2491","",,"ARDMORE","OK","73402",,1,8124847
+"KAYELYN JACKSON CLUBB",DEM,,,,,,"94 LAKEVIEW ","",,"HEALDTON","OK","73438",,2,8124871
+"TRENTON CARRELL McGEE",DEM,,,,,,"1712 OIL CITY ROAD","",,"ARDMORE","OK","73401",,2,8124877
+"JOHN TIMOTHY KING JR",REP,,,,,,"P.O. BOX 233","",,"RANDLETT","OK","73562",TKING205@GMAIL.COM,1,8124879
+"WILLIAM BRANDON BAKER",REP,,,,,,"403 HAMON STREET","",,"HEALDTON","OK","73438",,1,8124911
+"Belita J. Lee Byrd",REP,,,,,,"P.O. Box 399","",,"Binger","OK","73009",,1,8125422
+"RONDA GAIL PRINCE",DEM,,,,,,"525 S. BROADWAY","",,"CHECOTAH","OK","74426",edrgprince@yahoo.com,1,8124733
+"KAREN KEITH",DEM,,,,,,"1348 EAST 35TH STREET","",,"TULSA","OK","74105-2649",,2,8125162
+"JOHN BANKEL",REP,,,,,,"P.O. BOX 885","",,"STILWELL","OK","74960",,1,8125499
+"CATHY JONES HARRISON",DEM,,,,,,"RT. 5 BOX 4845","",,"STILWELL","OK","74960",,1,8125505
+"Dianna Lynn Cope",DEM,,,,,,"7321 S. 25th St. E.","",,"Muskogee","OK","74403",lincope@sbcglobal.net,1,8124789
+"John Robert Frazier",DEM,,,,,,"1747 E. 53RD Street S. ","",,"Muskogee","OK","74403",rfrazier536@gmail.com,2,8124854
+"Shawn W Ketcher",IND,,,,,,"PO Box 938","",,"Sand Springs","OK","74063",,3,8125220
+"JIMMY WREN SCOTT",IND,,,,,,"RT 1   BOX  5617","",,"ANTLERS","OK","74523",,3,8125483
+"April Nicole Caughern",DEM,,,,,,"101 Foothill Dr. ","Poteau",,"74953","OK","",aprilcaughern2016@yahoo.com,1,8124541
+"Lance Edward Smith",DEM,,,,,,"36744 Kennedy Rd","",,"Wister","OK","74966",,2,8124601
+"Kelli Anne Ford",DEM,,,,,,"15862 Nailcreek Rd","",,"Poteau","OK","74953",fordkelli@hotmail.com,1,8124621
+"William Robert Seale II",DEM,,,,,,"28327 Monks Drive","",,"Poteau","OK","74953",robseale57@yahoo.com,2,8124670
+"David Brumbaugh",REP,,,,,,"PO Box 364","",,"Broken Arrow","OK","74013",,1,8125009
+"Dustin Roberts",REP,,,,,,"1802 Timberline Dr","",,"Durant","OK","74701",,1,8125011
+"Chad Caldwell",REP,,,,,,"2010 Ramona Dr","",,"Enid","OK","73703",,1,8125012
+"Kevin McDugle",REP,,,,,,"3104 S Elm Pl","Ste C",,"Broken Arrow","OK","74012",,1,8125013
+"Dennis Casey",REP,,,,,,"43801 S 33800 Rd","",,"Morrison","OK","73061",,1,8125014
+"brian maughan",REP,,,,,,"1521 SW 40th","",,"Oklahoma City","OK","73119",,1,8125017
+"rick warren",REP,,,,,,"3705 Yucca Dr.","",,"Edmond","OK","73013",,1,8125021
+"Randy Wade Floyd",DEM,,,,,,"10500 CR 3440","",,"Stratford","OK","74872",,2,8125027
+"John Gilbert Christian",DEM,,,,,,"7948 CR 3618 Loop","",,"Ada","OK","74820",,2,8125077
+"Tammy Carol Millikan",REP,,,,,,"Rt. 2 Box 55","",,"Beaver","OK","73932",,1,8124501
+"Carl Jay Rose",REP,,,,,,"Route 2 Box 108A","",,"Beaver","OK","73932",,1,8124519
+"Melissa Whittington Parker",REP,,,,,,"101 Maplewood Drive","",,"Clinton","OK","73601",parker_melissa45@yahoo.com,1,8124547
+"Ron Lockhart",DEM,,,,,,"P. O.  Box 882","",,"Sallisaw","OK","74955",,2,8124609
+"Reuben Anderson Parker Jr.",REP,,,,,,"PO Box 591","",,"Beaver","OK","73932",,1,8124713
+"Julie Haywood",DEM,,,,,,"1703 E Fryar Dr.","",,"Sallisaw","OK","74955",,1,8124744
+"Steve Carter",DEM,,,,,,"1404 N Main ","",,"Gore","OK","74435",district2stevecarter@hotmail.com,1,8124822
+"Vicki Beaty",DEM,,,,,,"P. O.  Box 1308","",,"Roland","OK","74954",,1,8124930
+"Tammy  Bridgett Reynolds",DEM,,,,,,"36 Forest Lane","",,"Durant","OK","74701",,1,8125177
+"KEVIN SMITH",DEM,,,,,,"PO BOX 32","",,"BLANCO","OK","74528",,1,8124473
+"CHRIS MORRIS",DEM,,,,,,"816 KINKEAD RD","",,"MC ALESTER","OK","74501",ELECTCHRISMORRIS@YAHOO.COM,1,8124499
+"JANET LYNN DALLAS",DEM,,,,,,"47250 S. 352 ROAD","",,"PAWNEE","OK","74058",janet.dallas@oscn.net,1,8124502
+"HOPE TRAMMELL",DEM,,,,,,"140 COUNTRY AIRE AVENUE","",,"MCALESTER","OK","74501",LH.BARRETT@YAHOO.COM,1,8124530
+"CINDY LEDFORD",DEM,,,,,,"1314 S 10TH STREET","",,"MC ALESTER","OK","74501",CINDY.LEDFORD@OSCN.NET,1,8124556
+"JIMMIE RAY McCORMICK",REP,,,,,,"51651 E. 4200 road","",,"PAWNEE","OK","74058",,1,8124580
+"KRISTIE MOLES",DEM,,,,,,"48501 S. 34300 RD","",,"PAWNEE","OK","74058",KRMOLES@YAHOO.COM,1,8124633
+"DAVID MICHAEL WATERS",DEM,,,,,,"50674 S. 347 RD","",,"PAWNEE","OK","74058",,1,8124659
+"JON SMITH",REP,,,,,,"P. O. Box 64","",,"Ravia","OK","73455",rockharborone@gmail.com,1,8125096
+"KATHY ROSS",DEM,,,,,,"4200 W. Devils Den Road","",,"Tishomingo","OK","73460",jococlerk@yahoo.com,1,8125100
+"CASSANDRA D. SLOVER",DEM,,,,,,"3505 W. Blue Cedar Lane","",,"Tishomingo","OK","73460",,1,8125104
+"JERRI LYNN SHAW",IND,,,,,,"344100 E. 4400 RD","",,"PAWNEE","OK","74058",,2,8125135
+"ARNOLD ISENBERG",DEM,,,,,,"P. O. BOX 338","",,"MILBURN","OK","73450",,2,8125140
+"Jason W. Murphey",REP,,,,,,"1521 Olison Turn Trl","",,"Guthrie","OK","73044",,1,8125200
+"Dewayne Pemberton",REP,,,,,,"4011 E 67th St S","",,"Muskogee","OK","74403",,1,8125202
+"Trey Puckett",DEM,,,,,,"3509 SW 127","",,"Oklahoma City","OK","73170",,2,8125218
+"O.A. Cargill",DEM,,,,,,"10300 Birkenhead Rd","",,"Yukon","OK","73099",,2,8125234
+"Christopher J Crawford",IND,,,,,,"16509 Tonka Trl","",,"Edmond","OK","73012",,3,8125266
+"Leland Cole",REP,,,,,,"PO Box 6543","",,"Tulsa","OK","74156",,1,8125267
+"Marcus McEntire",REP,,,,,,"1101 Crescent Dr","",,"Duncan","OK","73533",,1,8125268
+"Bron Gardner",REP,,,,,,"PO Box 321","",,"Keyes","OK","73947",,1,8125031
+"Terry Dillard Wilson",DEM,,,,,,"107061 N. 3780 Rd.","",,"Okemah","OK","74859",,1,8125254
+"Joseph L Bray",REP,,,,,,"10375 N. Perry Loop Rd.","",,"Stigler","OK","74462",,1,8125361
+"Linda Andre",DEM,,,,,,"1108 E. 7th St.","",,"Cushing","OK","74023",mrs.lindaandre@yahoo.com,2,8125409
+"DONALD J. TRUMP",REP,,,,,,"","",,"","","",,1,8125581
+"Charles Jay Hanger",DEM,,,,,,"24101 County Road 120","",,"Perry","OK","73077",,1,8124471
+"Larry Gene Montgomery",DEM,,,,,,"1202 Pecan","",,"Perry","OK","73077",,2,8124605
+"Todd Thomsen",REP,,,,,,"PO Box 2347","",,"Ada","OK","74821",,1,8125270
+"RENEE BURKHART BRYANT",DEM,,,,,,"P O BOX 1372","",,"ARDMORE","OK","73402",,1,8125256
+"John McCarthy",IND,,,,,,"PO Box 3808","",,"Bernice","OK","74331",,3,8125272
+"Tamara Morton",LIB,,,,,,"2607 S Oswego Ave","",,"Tulsa","OK","74114",,2,8125273
+"Zac Davis",LIB,,,,,,"8707 S Pittsburg Ave","",,"Tulsa","OK","74137",,2,8125274
+"Frank Grove",LIB,,,,,,"1426 S Carson Ave","",,"Tulsa","OK","74119",,2,8125283
+"Matt Nowlin",DEM,,,,,,"56015 E 287 Rd","",,"Monkey Island","OK","74331",,2,8125285
+"Al McAffrey",DEM,,,,,,"2 Oakwood Dr","",,"Forest Park","OK","73121",,3,8125290
+"Mike Osburn",REP,,,,,,"2505 Brixton Rd","",,"Edmond","OK","73034",,1,8125332
+"Rhonda Baker",REP,,,,,,"4116 Rambling Rose","",,"Yukon","OK","73099",,1,8125342
+"James Lankford",REP,,,,,,"PO Box 1639","",,"Bethany","OK","73008",,1,8125352
+"Josh West",REP,,,,,,"PO Box 451387","",,"Grove","OK","74345",,1,8125358
+"TIMOTHY PORTER",DEM,,,,,,"11677 NS 3570","",,"SEMINOLE","OK","74868",,2,8125471
+"Mike Workman",DEM,,,,,,"5862 S Pittsburg Ave","",,"Tulsa","OK","74135",,3,8125493
+"Billy Hinton",DEM,,,,,,"357604 E 1070 Rd","",,"Prague","OK","74864",,2,8125510
+"Matt Failing",DEM,,,,,,"PO Box 282","",,"Noble","OK","73068",,2,8125511
+"STACI DAVEY",REP,,,,,,"28141 County Road 320","",,"Alva","OK","73717",bsdavey@wildblue.net,1,8124582
+"RUDY BRIGGS, JR",DEM,,,,,,"920 Noble St.","",,"Alva","OK","73717",,1,8124592
+"ALICIA MERLE WAGNON",REP,,,,,,"220 S 1st Ave","",,"Stroud","OK","74079",aliciawagnon@yahoo.com,1,8125304
+"Ryan Bentley",IND,,,,,,"9042 E Salem Dr","",,"Claremore","OK","74019",bentley_752@msn.com,2,8125320
+"Karen Hickman",REP,,,,,,"P.O. Box 197","",,"Buffalo","OK","73834",okcody@msn.com,1,8124575
+"Ray Alan Shimanek",REP,,,,,,"20756 St. Hwy 51","",,"Hennessey","OK","73742",rjshimanek@hotmail.com,1,8124617
+"Rebecca Sue Thomas",DEM,,,,,,"1211 W. Division","",,"Henryetta","OK","74437",,1,8124662
+"Mark Jones",IND,,,,,,"Box 85","",,"Laverne","OK","73848",,2,8124753
+"Susan Breon",REP,,,,,,"Rt. 1 Box 143","",,"May","OK","73851",sbhappymom@gmail.com,1,8124848
+"Gary Nielsen",REP,,,,,,"Rt. 2 Box 384","",,"Laverne","OK","73848",,1,8124976
+"Christina Owen",DEM,,,,,,"PO Box 5791","",,"Norman","OK","73070",,3,8125515
+"Mark T. Beard",IND,,,,,,"PO Box 720989","",,"Oklahoma City","OK","73172",,4,8125517
+"TAMARA JO REESE",REP,,,,,,"21109 W. ADOBE RD","",,"NARDIN","OK","74646",,1,8124468
+"ROY STEVE KELLEY JR",REP,,,,,,"1005 N. 7TH ST.","",,"TONKAWA","OK","74653",stevekelley@cableone.net,1,8124482
+"MIke Brown",DEM,,,,,,"17954 S. Muskogee Ave","",,"Tahlequah","OK","74464",repmikebrown@yahoo.com,1,8124490
+"Norman Fisher",DEM,,,,,,"PO Box 66","",,"Tahlequah","OK","74465",nfisher@cherokeecoso.org,2,8124523
+"Cheryl A Trammel",DEM,,,,,,"PO Box 62","",,"Moodys","OK","74464",ctrammel.countyclerk@gmail.com,1,8124599
+"MARILEE K THORNTON",REP,,,,,,"513 S. MAIN ST","",,"NEWKIRK","OK","74647",MARILEE.THORNTON@OSCN.NET,1,8124603
+"KENNETH EUGENE CLAGG",DEM,,,,,,"PO BOX 177","",,"FINLEY","OK","74543",,2,8125359
+"JILL HALL",REP,,,,,,"402 BIRDSEYE DR","",,"SULPHUR","OK","73086",jilljoneshall@gmail.com,1,8125379
+"BILL BURTCHETT",DEM,,,,,,"11500 S. 457TH W. AVE","",,"DRUMRIGHT","OK","74030",,2,8125401
+"Vicki Justus",DEM,,,,,,"Po Box 1333","",,"Idabel","OK","74745",,1,8124480
+"Sevier White",LIB,,,,,,"2532 Butler Dr","",,"Norman","OK","73069",,2,8125168
+"Judy Mullen Hopper",DEM,,,,,,"11912 Sawgrass Rd","",,"Oklahoma City","OK","73162",,2,8125169
+"Kyle D. Loveless",REP,,,,,,"4701 SW 127th St","",,"Oklahoma City","OK","73170",,1,8125170
+"JOSH R. TURLEY",REP,,,,,,"21403 W 20TH SOUTH","",,"SAND SPRINGS","OK","74063",,1,8125186
+"REX BERRY",DEM,,,,,,"P O BOX 4747","#4A",,"TULSA ","OK","74159",Rex4Sheriff16@gmail.com,2,8125237
+"chris powell",LIB,,,,,,"8583 Candlewood Dr.","",,"Oklahoma City","OK","73132",,2,8125495
+"Charolett Ruth Waggoner",DEM,,,,,,"210 7th Street","",,"Woodward","OK","73801",cwaggoner06@sbcglobal.net,1,8124536
+"Tamara Ann Roberts",REP,,,,,,"42971 S County Road 197","",,"Woodward","OK","73801",,1,8124745
+"Cheryl Lynn Smith",REP,,,,,,"1324 E. Noble Ave.","",,"Guthrie","OK","73044",,1,8124535
+"Troy L Cole",REP,,,,,,"1402 W. Washington","",,"Guthrie","OK","73044",,1,8124560
+"Michael Allen Pearson",REP,,,,,,"P.O. Box 634","",,"Guthrie","OK","73044",mike.logancounty@gmail.com,1,8124591
+"Molly McKay",REP,,,,,,"6510 E 24th St","",,"Tulsa","OK","74129",,1,8125241
+"Avery Carl Frix",REP,,,,,,"PO Box 1149","",,"Muskogee","OK","74402",,1,8125242
+"Sooner Davenport",IND,,,,,,"216 Redbud St","",,"Yukon","OK","73099",,3,8125244
+"Morgan Hopson",IND,,,,,,"RR 1 Box 6050","",,"Antlers","OK","74523",,3,8125245
+"Leah Pollan",DEM,,,,,,"18813 308th St","",,"Norman","OK","73072",,2,8125247
+"John B. Tiller",DEM,,,,,,"3975 E Ridgeview Dr","",,"Guthrie","OK","73044",,2,8125261
+"Eugene Bell",LIB,,,,,,"9406 E 37th Ct","",,"Tulsa","OK","74145",,2,8125262
+"Troy Dyer",DEM,,,,,,"PO Box 761","",,"Heavener","OK","74937",,2,8125284
+"Elle Collins",LIB,,,,,,"2221 NW 45th St","",,"Oklahoma City","OK","73112",,2,8125286
+"Dan Newberry",REP,,,,,,"4823 S 81st W Ave","",,"Tulsa","OK","74107",,1,8125295
+"Jeri Moberly",DEM,,,,,,"10724 N 146th E Ave","",,"Owasso","OK","74055",,2,8125300
+"Roland Pederson",REP,,,,,,"33842 CR 530","",,"Burlington","OK","73722",,1,8125309
+"Jack A. Reavis",DEM,,,,,,"PO Box 1212","",,"Muskogee","OK","74402",,2,8125313
+"Sean Roberts",REP,,,,,,"114 W Main St","",,"Hominy","OK","74035",,1,8125315
+"TAHASHA WILCOTS",DEM,,,,,,"P O BOX 55","",,"WEWOKA","OK","74884",,1,8125086
+"Freddie Lynn LeValley",REP,,,,,,"1712 N. 10th","",,"Perry","OK","73077",chieflevalley@gmail.com,1,8125321
+"LUKE POLLARD",REP,,,,,,"P O BOX 2004","",,"ARDMORE","OK","73402",,1,8125452
+"Barbara Mae Barnes",DEM,,,,,,"43100 CR 570","",,"Eucha","OK","74342",,1,8124493
+"Shelly Kaye Russell",DEM,,,,,,"11848 Rogers Rd","",,"Thackerville","OK","73459",totherussells@yahoo.com,1,8124531
+"Kirk L. Painter",REP,,,,,,"2268 State Highway 92","",,"Chickasha","OK","73018",kirk.l.painter@gmail.com,1,8124571
+"Lisa Hannah",REP,,,,,,"2804 Country Club Drivve","",,"Chickasha","OK","73018",lisa.hannah@oscn.net,1,8124576
+"Jim Weir",REP,,,,,,"2087 CR 1237","",,"Tuttle","OK","73089",weir52@atlinkwifi.com,1,8124583
+"Sharon L. Shoemake",DEM,,,,,,"118 Bowerwood Drive","",,"Chickasha","OK","73018",shoe62854@aol.com,1,8124594
+"Mike Lennier",DEM,,,,,,"1328 County Road 1350","",,"Chickasha","OK","73018",,2,8124851
+"William Lamar Grisham",DEM,,,,,,"11034 Allen Road","",,"Marietta","OK","73448",,1,8124857
+"Harlan Max Moore",REP,,,,,,"5641 CR 366","",,"Eucha","OK","74342",harlanmoore62@yahoo.com,1,8124880
+"KENT ALLEN SIMPSON",DEM,,,,,,"528 W. MISSOURI","",,"WALTERS","OK","73572",,2,8125022
+"Linda Jean Hyman",DEM,,,,,,"28005 Margie Phillips Ln","",,"Leon","OK","73441",,1,8125060
+"Larry Wasson",DEM,,,,,,"214 Willowcreek Rd","",,"Chickasha","OK","73018",,2,8125205
+"John Karlin",DEM,,,,,,"613 N 4th St","",,"Tecumseh","OK","74873",,2,8125207
+"Marilyn Rainwater",DEM,,,,,,"225 Christopher Cir","",,"Seminole","OK","74868",,2,8125209
+"Tom Bates",DEM,,,,,,"7204 S 1st St","",,"Broken Arrow","OK","74011",,2,8125211
+"Scott Walton",REP,,,,,,"PO Box 306","",,"Inola","OK","74036",,1,8125213
+"Kim Henry",REP,,,,,,"PO Box 1211","",,"Claremore","OK","74018",kimberlyhenry2011@hotmail.com,1,8125217
+"Steve Hendrix",REP,,,,,,"3201 Callaway Drive","",,"Claremore","OK","74019",hendrix.district2@gmail.com,1,8125223
+"Danny Lee Cryer",REP,,,,,,"1106 NW Gaye St.","",,"Kingston","OK","73439",cryer.mcso@yahoo.com,1,8125249
+"COLT WILLIAMS",DEM,,,,,,"1876 EAST PALMER RD.","",,"SULPHUR","OK","73086",,1,8124512
+"CHRISTIE PITTMAN",DEM,,,,,,"1028 BRIARWOOD DRIVE","",,"SULPHUR","OK","73086",,1,8124537
+"DARIN ROGERS",DEM,,,,,,"6625 CHIGLEY RD","",,"WYNNEWOOD","OK","73098",,2,8124557
+"Jenny Moore",REP,,,,,,"3405 Kristin Lane","",,"Duncan","OK","73533",jmooremom3@gmail.com,1,8124593
+"Randy K. Robertson",DEM,,,,,,"2420 Tanglewood Lane","",,"Hugo","OK","74743",,1,8124620
+"Laura Leah Sumner",DEM,,,,,,"2004 E. 2060 Road","",,"Hugo","OK","74743",,1,8124648
+"Dana Blevins",DEM,,,,,,"4995 West Plato Road","",,"Duncan","OK","73533",,1,8124701
+"Dana K. Buchanan",REP,,,,,,"1708 West Parkview Avenue","",,"Duncan","OK","73533",dbuchanan@scaook.com,1,8124718
+"Emily Josephine Van Worth",DEM,,,,,,"474 North 4240 Road","",,"Hugo","OK","74743",cotyclrk@sbcglobal.net,1,8124760
+"Terry Eugene Park",DEM,,,,,,"225 Dorothy Orton Dr.","",,"Hugo","OK","74743",teparkccso@yahoo.com,2,8124779
+"Don Gordon Loman",REP,,,,,,"P.O. Box 228","",,"Grant","OK","74738",dldiamondcross@hotmail.com,1,8124793
+"Todd Churchman",REP,,,,,,"179580 North 2770 Road","",,"Comanche","OK","73529",,1,8124825
+"Wayne McKinney",REP,,,,,,"277266 Blackburn Road","",,"Marlow","OK","73055",,1,8125029
+"Damon Ronald Devereaux",REP,,,,,,"5511 Meadow Lake Dr.","",,"Guthrie","OK","73044",ddevereaux@yahoo.com,1,8125435
+"Kenneth Wayne Stradley",DEM,,,,,,"14702 SE BISHOP RD","",,"LAWTON ","OK","73501",,1,8124656
+"Johnny Ned Owens",DEM,,,,,,"P.O. BOX 181","",,"LAWTON","OK","73502",JOHNNY.OWENS@COMANCHECOUNTY.COM,2,8124664
+"Robert Morales",DEM,,,,,,"5420 SW VICTORIA BLVD","",,"LAWTON","OK","73505",RO128MO@AOL.COM,1,8124668
+"Carrie Elizabeth Tubbs",REP,,,,,,"3029 NE LANCASTER LANE","",,"LAWTON","OK","73507",CARRIETUBBS70@GMAIL.COM,1,8124676
+"Melba Lynn Hall",DEM,,,,,,"PO BOX 1122","",,"Poteau","OK","74953",,1,8125030
+"BENNY MCCORD",REP,,,,,,"443353 E. HWY 60","",,"VINITA","OK","74301",,1,8125344
+"HEATH WINFREY",DEM,,,,,,"13467 S. 4440 ROAD","",,"BLUEJACKET","OK","74333",WINFREY4SHERIFF@GMAIL.COM,2,8125432
+"Ricky Straub",REP,,,,,,"34636 ECR 1440","",,"Granite","OK","73547",,1,8125448
+"Christina Louise Freeman",DEM,,,,,,"212 S. Pecan ","",,"Nowata","OK","74048",cfreeman1979.cf@gmail.com,1,8125512
+"TAMMI WAGGONER MILLER",REP,,,,,,"62271 Greer Road","",,"Cherokee","OK","73728",vote_for_tammi.@yahoo.com,1,8124484
+"RICK WALLACE",REP,,,,,,"1306 SOUTH PENNSYLVANIA AVENUE","",,"CHEROKEE","OK","73728",wallacerd@sbcglobal.net,1,8124528
+"MARTHA ANN BISHOP",DEM,,,,,,"914 N 4TH","",,"STILWELL","OK","74960",,2,8124555
+"SAMMY FEREL CHANDLER",DEM,,,,,,"RT. 3 BOX 1380","",,"STILWELL","OK","74960",,1,8124570
+"LANETA UNRUH",REP,,,,,,"PO Box 133","",,"Cherokee","OK","73728",ljunruh03@yahoo.com,1,8124763
+"KATHY  RYEL",DEM,,,,,,"4380 County Road 600","",,"Aline","OK","73716",bkryel@pldi.net,2,8125123
+"Jeremy Hitchcock",REP,,,,,,"One Plaza South PMB 434","",,"Tahlequah","OK","74464",hitchcock4sheriff@gmail.com,1,8125302
+"MICHAEL WILLIS",REP,,,,,,"2530 W. 78TH STREET","",,"TULSA","OK","74132",tulsawillis@yahoo.com,1,8124495
+"DONALD NEWBERRY",REP,,,,,,"P.O. BOX 703152","",,"TULSA","OK","74170",,1,8124514
+"SHANNON D. SMITH",DEM,,,,,,"P O BOX 504","",,"WEWOKA","OK","74884",sem6701@yahoo.com,2,8124625
+"JOHN R. ANDREW",DEM,,,,,,"8301 E. 51ST ST","STE 228",,"TULSA ","OK","74145",john@johnandrew.com,2,8124641
+"KIM A. DAVIS",DEM,,,,,,"13806 NS 366 RD","",,"HOLDENVILLE","OK","74848",kimberly.davis@oscn.net,1,8124655
+"VIC REGALADO",REP,,,,,,"P O  BOX 571175","",,"TULSA","OK","74157",,1,8124925
+"Jackie Cloyd",DEM,,,,,,"21980 NCR 1870","",,"Mangum","OK","73554",,1,8125197
+"Devin Huckabay",DEM,,,,,,"613 N Byers St.","",,"Mangum","OK","73554",,1,8125199
+"Jeannie Boevers",REP,,,,,,"601 W. Overstreet","",,"Kingfisher","OK","73750",ljboevers@yahoo.com,1,8125434
+"Jeremy Eugene Floyd",REP,,,,,,"5550 S 540 Road","",,"Miami","OK","74354",jmfloyd72@gmal.com,1,8125501
+"Rita Ann Harrison",DEM,,,,,,"1208 Veyda Street","",,"Pryor","OK","74361",,1,8124619
+"Brittany Renea True-Howard",DEM,,,,,,"1505 Heather Ct","",,"Pryor","OK","74361",btruecoclerk12@hotmail.com,1,8124640
+"Michael Charles Reed",DEM,,,,,,"P.O. Box 434","",,"Locust Grove","OK","74352",,1,8124749
+"Bruce  Lennox Sheats",DEM,,,,,,"2756 N 427","",,"Pryor","OK","74361",brucesheats@yahoo.com,2,8125107
+"KEVIN LEE LEDBETTER",DEM,,,,,,"107163 S 4230 RD","",,"CHECOTAH","OK","74426",KLLEDBETTER69@YAHOO.COM,2,8125127
+"Joel Kerns",DEM,,,,,,"283 Bucks of Gainescreek Rd","",,"McAlester","OK","74501",,2,8124533
+"John Enns",REP,,,,,,"1741 Pawhuska","",,"Enid","OK","73703",,1,8124562
+"Donnie Condit",DEM,,,,,,"1109 Easy St","",,"McAlester","OK","74501",,1,8124566
+"Matt Jackson",REP,,,,,,"3001 Willow Brook Rd","",,"Oklahoma City","OK","73120",,1,8124585
+"Ed Cannaday",DEM,,,,,,"PO Box 98","",,"Porum","OK","74455",,2,8124595
+"Robert Founds",DEM,,,,,,"303 E Washington","",,"Bixby","OK","74008",,2,8124604
+"Bobby Cleveland",REP,,,,,,"14250 108th","",,"Lexington","OK","73051",,1,8124629
+"Mark Lawson",REP,,,,,,"1037 S Moccasin Pl","",,"Sapulpa","OK","74066",,1,8124634
+"Mark Lepak",REP,,,,,,"3217 Heritage Dr","",,"Claremore","OK","74019",,1,8124639
+"Dennis Purifoy",DEM,,,,,,"1137 Elk St","",,"Yukon","OK","73099",,2,8124644
+"Joe Jennings",DEM,,,,,,"PO Box 700292","",,"Tulsa","OK","74170",,3,8124657
+"Chris Kannady",REP,,,,,,"2909 SW 136th Ter","",,"Oklahoma City","OK","73170",,1,8124661
+"John L. Myers",DEM,,,,,,"PO Box 463","",,"Vinita","OK","74301",,2,8124669
+"Earl Sears",REP,,,,,,"1721 Cherokee Pl","",,"Bartlesville","OK","74003",,1,8124675
+"Rhonda Cox",DEM,,,,,,"PO Box 665","",,"Locust Grove","OK","74352",,2,8124682
+"Kevin West",REP,,,,,,"PO Box 6572","",,"Moore ","OK","73153",,1,8124685
+"Steve Kouplen",DEM,,,,,,"5910 Garfield Rd","",,"Beggs","OK","74421",,1,8124691
+"Shawn P. Sheehan",IND,,,,,,"1037 Shadowlake Rd","",,"Norman","OK","73071",,2,8124693
+"Johnny Tadlock",DEM,,,,,,"PO Box 1722","",,"Idabel","OK","74745",,2,8124703
+"Greg Babinec",REP,,,,,,"PO Box 566","",,"Cushing","OK","74023",,1,8124720
+"Mike Sanders",REP,,,,,,"PO Box 861","",,"Kingfisher","OK","73750",,1,8124724
+"Casey Murdock",REP,,,,,,"Rt 1 Box 45","",,"Felt","OK","73937",,1,8124726
+"TIMOTHY R PENDLEY",DEM,,,,,,"PO BOX 796","",,"EUFAULA","OK","74432",D2-MCINTOSHCO@ATT.NET,1,8124734
+"Markwayne Mullin",REP,,,,,,"PO Box 3681","",,"Muskogee","OK","74402",,1,8124736
+"George Faught",REP,,,,,,"PO Box 2014","",,"Muskogee","OK","74402",,1,8124740
+"LISA DEANN RODEBUSH",DEM,,,,,,"PO BOX 131","",,"EUFAULA","OK","74432",RODEBUSH.LISA@YAHOO.COM,1,8124742
+"Scooter Park",REP,,,,,,"247906 E 1920 Rd","",,"Devol","OK","73531-4279",,1,8124747
+"JUSTIN WALKER",DEM,,,,,,"9474 N 2020 RD","",,"HAMMON","OK","73650",,1,8124467
+"ROBIN BOOKER",REP,,,,,,"2817 N. TOWNE DR.","",,"ALTUS","OK","73521",BOOKER.M@SBCGLOBAL.NET,1,8124663
+"Michael W. Bryant",DEM,,,,,,"6565 State Hwy 5","",,"Waurika","OK","73573",jefferson@att.net,2,8124688
+"Emily Follis",REP,,,,,,"319 North Elm","",,"Waurika","OK","73573",parkergurl18@gmail.com,1,8124698
+"KIRK BUTLER",REP,,,,,,"P.O. BOX 238","",,"ELMER","OK","73539",KBUTLERDP@YAHOO.COM,1,8124711
+"RHONDA J STEPANOVICH",REP,,,,,,"2901 LEARLY LANE","",,"ALTUS","OK","73521",,1,8124735
+"BUDDY DEHTAN",DEM,,,,,,"902 WEST MAIN ST.","",,"ELDORADO","OK","73537",DEHTANFARMS@GMAIL.COM,2,8124756
+"ROGER LEVICK",REP,,,,,,"15037 S CR 212","",,"BLAIR","OK","73526",,1,8124797
+"Ty Phillips",DEM,,,,,,"28408 E1910 Rd","",,"Ringling","OK","73456",,1,8124832
+"anastasia  a. pittman",DEM,,,,,,"P.O. Box 17479","",,"Oklahoma City","OK","73136",,2,8124961
+"mike christian",REP,,,,,,"648 SW 41st Street","",,"Oklahoma City","OK","73109",,1,8125073
+"MARCIA MAXWELL",DEM,,,,,,"3264 N. 377 RD.","",,"HOLDENVILLE","OK","74848",,2,8125208
+"Jeanne M. Heidlage",REP,,,,,,"PO Box 326","",,"Claremore","OK","74018",heidlageforcountyclerk@gmail.com,1,8125257
+"MIKE FITZPATRICK",DEM,,,,,,"441134 E 130 RD","",,"BLUEJACKET","OK","74333",,2,8124476
+"TAMMY MALONE",DEM,,,,,,"210 W Delaware Ave","",,"Vinita","OK","74301",tjclerk@junct.com,1,8124684
+"DEBBIE MASON",DEM,,,,,,"930 Christy Lane","",,"Vinita","OK","74301",themasons@cableone.net,1,8124707
+"Tim Downing",REP,,,,,,"25129 Kody Ln","",,"Purcell","OK","73080",,1,8124758
+"Randy McDaniel",REP,,,,,,"15513 Blue Mesa Dr","",,"Edmond","OK","73013",,1,8124766
+"Mark McBride",REP,,,,,,"400 S Riverside Dr","",,"Moore","OK","73160",,1,8124771
+"Larry Boggs",REP,,,,,,"PO Box 775","",,"Wilburton","OK","74578-0775",,1,8124782
+"Tom Cole",REP,,,,,,"PO Box 722256","",,"Norman","OK","73070",,1,8124788
+"Eric Proctor",DEM,,,,,,"3932 E 3rd St","",,"Tulsa","OK","74112",,1,8124794
+"CLARENCE NATHAN BIVINS",REP,,,,,,"195039 N. 2640 RD.","",,"TEMPLE","OK","73568",rookie73572@yahoo.com,1,8124800
+"Steve Russell",REP,,,,,,"PO Box 1565","",,"Choctaw","OK","73020",,1,8124805
+"Tommy C. Hardin",REP,,,,,,"14002 S Highway 377","",,"Madill","OK","73446-9131",,1,8124808
+"Julie Daniels",REP,,,,,,"2191 Kyle Rd","",,"Bartlesville","OK","74006",,1,8124814
+"Will Hollander",DEM,,,,,,"4512 NW 31st St","",,"Oklahoma City","OK","73122",,2,8124816
+"Cyndi Munson",DEM,,,,,,"PO Box 3302","",,"Oklahoma City","OK","73103",,2,8124826
+"Claudia Griffith",DEM,,,,,,"Box 6203","",,"Norman","OK","73070",,2,8124830
+"James Leewright",REP,,,,,,"29000 W Highway 66","",,"Bristow","OK","74010",,1,8124835
+"Greg Treat",REP,,,,,,"PO Box 721884","",,"Oklahoma City","OK","73172",,1,8124836
+"Weldon Watson",REP,,,,,,"PO Box 35692","",,"Tulsa","OK","74153",,1,8124839
+"Tom Stites",DEM,,,,,,"PO Box 1083","",,"Sallisaw","OK","74955",,2,8124841
+"Monroe Nichols",DEM,,,,,,"2637 E 4th St","",,"Tulsa","OK","74104",,1,8124846
+"Collin Walke",DEM,,,,,,"PO Box 84","",,"Oklahoma City","OK","73101",,3,8124850
+"JULIE GARZA",REP,,,,,,"1511 NORTH 14TH STREET","",,"FREDERICK","OK","73542",tillmancountytreasurer@pldi.net,1,8124488
+"CACY CALDWELL",REP,,,,,,"22081 STATE HIGHWAY 5","",,"FREDERICK","OK","73542",,1,8124507
+"KEVIN STEVENS",DEM,,,,,,"604 CEDAR LANE","",,"FREDERICK","OK","73542",,1,8124554
+"JOE DON DICKEY",REP,,,,,,"1300 SOUTH 15TH ST","",,"FREDERICK","OK","73542",,1,8124696
+"BOBBY WHITTINGTON",REP,,,,,,"408 N SIMPSON","",,"GRANDFIELD","OK","73546",,1,8124781
+"Trigina Renee Richardson",REP,,,,,,"PO Box 293","",,"Boise City","OK","73933",,1,8124784
+"Debra Ann Kincannon",DEM,,,,,,"HC 2 Box 28 ","",,"Boise City","OK","73933",,2,8124799
+"Joshua Aaron Cantrell",REP,,,,,,"802 N Marshall","",,"Kingston","OK","73439",electjoshcantrell@att.net,1,8124812
+"Stacey Allen Ebert",DEM,,,,,,"PO Box 1052","",,"Idabel","OK","74745",,2,8124937
+"Eric Hall",DEM,,,,,,"1027 E 18th St","",,"Ada","OK","74820",,2,8124941
+"MELINDA  LEA BRINLEE",DEM,,,,,,"520 NW 1075 AVE","",,"WILBURTON","OK","74578",melinda.brinlee@osco.net,1,8125323
+"ERIN ADAMS",DEM,,,,,,"PO BOX 265","",,"WILBURTON","OK","74578",,1,8125330
+"CRIS EPPERLEY",REP,,,,,,"108 MUSKOGEE PLACE","",,"WEWOKA","OK","74884",,1,8125433
+"G DALE FULLERTON",REP,,,,,,"P.O. BOX 724","",,"DAVIS","OK","73030",GDALEFULLERTON@GMAIL.COM,1,8124729
+"Bryan Dwight Jump",DEM,,,,,,"103 West Hooker Avenue","",,"Coalgate","OK","74538",coalcosheriffjump@gmail.com,1,8124526
+"Eugina Marie Laudermilk",DEM,,,,,,"Rt 5 Box 1706","",,"Coalgate","OK","74538",eugina_520@hotmail.com,1,8124673
+"Melvin Keith Jackson",DEM,,,,,,"17031 CR 3880","Rt 1 Box 1975",,"Coalgate","OK","74538",h_sjackson@hotmail.com,1,8124770
+"LaDonna Rae Flowers",DEM,,,,,,"17325 Lake Street","",,"Coalgate","OK","74538",slscpk@gmail.com,1,8124942
+"Karen S. Bryan",DEM,,,,,,"310 SE Van Buren St","",,"Idabel","OK","74745",karensue3d@yahoo.com,1,8125188
+"Rachelle LeAnn Rogers",REP,,,,,,"222237 US Hwy 60","",,"Seiling","OK","73663",,1,8124496
+"Rupert Edward Irving",REP,,,,,,"P.O Box 385","",,"Seiling","OK","73663",deweycobarn@pldi.net,1,8124751
+"JASON RUSSELL SHANKS",REP,,,,,,"416 W 7TH ST","",,"NEWKIRK","OK","74647",JRSHANKS@NEWKIRK.OK.NET,1,8124764
+"Misty Gayle Moore",REP,,,,,,"421 West 4th Street","",,"Vici","OK","73859",,1,8124827
+"Lanny Clay Sander",REP,,,,,,"P.O. Box 582","",,"Seiling","OK","73663",,1,8124883
+"Kim Berry",DEM,,,,,,"222 West D","",,"Waurika","OK","73573",kjdep4@yahoo.com,1,8125054
+"Tommy  D. Barnes",REP,,,,,,"HC 2 Box 24","",,"Boise City","OK","73933",,1,8125062
+"Sandra Kay Zachry",DEM,,,,,,"10539 N. Perry Rd.","",,"Stigler","OK","74462",sandrazachry19@gmail.com,2,8125187
+"Daryl Todd Seagraves",REP,,,,,,"31107 S. Cooper Bend West Rd.","",,"Kinta","OK","74552",,1,8125198
+"Michael Dean Booth",REP,,,,,,"11000 Eastway","",,"McLoud","OK","74851",miklnkn@yahoo.com,1,8124491
+"Valerie Nicole Ueltzen",DEM,,,,,,"102 W. 34th","",,"Shawnee","OK","74804",,1,8124518
+"KATHLEEN RENE' McCLURE",REP,,,,,,"215 EAST MAPLE","",,"FAIRVIEW","OK","73737",,1,8124578
+"SHAUNA NICOLE HOFFMAN",REP,,,,,,"507 W BECK","",,"FAIRVIEW","OK","73737",,1,8124623
+"Thera Raeshel Flewallen",DEM,,,,,,"37740 Garrett's Lake Rd.","",,"Shawnee","OK","74804",,1,8124636
+"STEVEN PAUL RANDOLPH",REP,,,,,,"43382 S COUNTY ROAD 261","",,"RINGWOOD","OK","73768",,1,8124741
+"Randel James Thomas",REP,,,,,,"26743 Patterson Rd.","",,"Macomb","OK","74852",randyjthomas@sbcglobal.net,1,8124769
+"KENT CALVIN SCHLOTTHAUER",REP,,,,,,"250798 E COUNTY ROAD 48","",,"FAIRVIEW","OK","73737",,1,8124834
+"Tammie Marie Patzkowsky",REP,,,,,,"Rt. 2 Box 29A.","",,"Beaver","OK","73932",,1,8124613
+"david b. hooten",REP,,,,,,"5030 N. May, Ste. 112","",,"Oklahoma City","OK","73112",,1,8125366
+"Russell Martin",REP,,,,,,"PO Box 1391","",,"Jay","OK","74346",,1,8125470
+"DEBORAH KAY GREENFIELD",DEM,,,,,,"1104 Kimberly Drive","",,"Chandler","OK","74834",,2,8124489
+"JAN BAILEY",DEM,,,,,,"18783 HWY 33","",,"CHEYENNE","OK","73628",janbailey@cableone.net,1,8124630
+"DARREN ATHA",REP,,,,,,"P.O. BOX 712","",,"CHEYENNE","OK","73628",cdatha@aol.com,1,8124637
+"EDWARD CHARLES DOUGHERTY",DEM,,,,,,"118 KEY DRIVE","",,"WELLSTON","OK","74881",sheriffdougherty@cotc.net,2,8124732
+"JIMMY BEAVIN",DEM,,,,,,"P.O. BOX 714","",,"CHEYENNE","OK","73628",,1,8124807
+"TROY W. EVANS",REP,,,,,,"331421 E 900 RD","",,"WELLSTON","OK","74881",,1,8125064
+"Richard Charley Strickland",REP,,,,,,"1512 NW Smith Ave","",,"Lawton","OK","73507",,1,8125260
+"BRANDON McCOY",REP,,,,,,"521 S. BULLITT ST.","",,"HOLDENVILLE ","OK","74848",BDMCCOY1@GMAIL.COM,1,8124588
+"PATTY TILLEY",DEM,,,,,,"125 ADAMS ST.","",,"HOLDENVILLE","OK","74848",,1,8124671
+"CAROLYN A PREBLE",DEM,,,,,,"8249 E. 133 RD","",,"HOLDENVILLE","OK","74848",,1,8124704
+"GARY GRAY",DEM,,,,,,"P.O. BOX 390091","",,"DUSTIN","OK","74839",,1,8124721
+"Roy Christopher West",REP,,,,,,"440 Cactus Road","",,"Yukon","OK","73099",chriswest4sheriff@gmail.com,1,8124767
+"Sherry Denise Murray",REP,,,,,,"PO Box 682","",,"El Reno","OK","73036",sherrymurray16@outlook.com,1,8124787
+"Venus Marie Ramsey-Hirst",REP,,,,,,"1221 E Watts","",,"El Reno","OK","73036",marieramsey13@yahoo.com,1,8124844
+"David Mark Anderson",REP,,,,,,"PO Box 1182","",,"Mustang","OK","73064",prov31debby@aol.com,1,8124870
+"Cindy L Wood",DEM,,,,,,"21876 E. 990 Rd. ","",,"Arapaho","OK","73620",cindy.wood61@gmail.com,2,8125171
+"John Bennett",REP,,,,,,"803 Pinto Ave","",,"Sallisaw","OK","74955",,1,8125144
+"Kevin McDonald",DEM,,,,,,"1913 Cedar Ridge Rd","",,"Edmond","OK","73013",,3,8125146
+"Michelle Bray",DEM,,,,,,"15799 Highway 70F","",,"Madill","OK","73446",,2,8125149
+"Shelly Kissinger",DEM,,,,,,"12433 Hwy 82-A","",,"Tahlequah","OK","74464",,1,8124598
+"TINA DANETTE FREEMAN",DEM,,,,,,"191569 N 4080 RD  ","",,"ANTLERS","OK","74523",,1,8124791
+"LOUVENA JANE DUNLAP",DEM,,,,,,"435779 E 1931 RD ","",,"RATTAN","OK","74562",,1,8124804
+"BRYON DALE HEDGECOCK JR",DEM,,,,,,"PO BOX 755","",,"ANTLERS","OK","74523",,2,8124809
+"JOSEPH BRADLEY BURGETT",REP,,,,,,"436942 E 1855 LP","",,"RATTAN ","OK","74562",,1,8124819
+"CHESTER JAMES MARZEK",REP,,,,,,"305 NE 5","",,"ANTLERS","OK","74523",JAMESTRUCK2000@YAHOO.COM,1,8124953
+"LORI MICHELLE FULKS",DEM,,,,,,"P.O. BOX 558","",,"STRATFORD","OK","74872",lorimgarrett@hotmail.com,1,8124574
+"CINDY JANE ROBERTS",DEM,,,,,,"14311 NCR 3280","",,"PAULS VALLEY","OK","73075",Ccindy.roberts@oscn.net,1,8124590
+"LARRY KEVIN RHODES",REP,,,,,,"32296 ECR 1497","",,"PAOLI","OK","73074",reelect_larryrhodes@aol.com,1,8124602
+"Patrice Dolch",DEM,,,,,,"25175 CR 1330","",,"Anadarko","OK","73005",,1,8124658
+"Patti Barger",DEM,,,,,,"23019 CR 1377","",,"Anadarko","OK","73005",,1,8124672
+"Randy Wilford McLemore",DEM,,,,,,"25067 CS 2660","",,"Gracemont","OK","73042",,2,8124679
+"Lennis D. Miller",DEM,,,,,,"23061 CR 1377","",,"Anadarko","OK","73005",,1,8124686
+"GARY DILLARD AYERS",DEM,,,,,,"28767 NCR 3182","",,"ELMORE CITY","OK","73433",ayers@gmail.com,1,8124725
+"Paula Kay Sexton",DEM,,,,,,"2601 Buford St","",,"Muskogee","OK","74403",paula.sexton@osen.net,1,8124815
+"Stephen Dwayne Wright",DEM,,,,,,"P.O. Box 55","",,"Porum","OK","74455",,1,8124837
+"WILLIAM B. ROADY JR.",DEM,,,,,,"28744 ECR 1670","",,"ELMORE CITY","OK","73433",,2,8124852
+"Roger Richard Posey",REP,,,,,,"4120 E. 73rd St. So","",,"Muskogee","OK","74403",poseyforsheriff@gmail.com,1,8124855
+"Glenda K Puett",DEM,,,,,,"1604 S Elder Ave","",,"Broken Arrow","OK","74012",,2,8125372
+"Misty Warfield",DEM,,,,,,"12416 Covey Creek Dr","",,"Oklahoma City","OK","73142",,2,8125385
+"Pierce Jones",DEM,,,,,,"2308 Kiowa","",,"Enid","OK","73703",,2,8125389
+"Cheryl Mooneyham-Hessman",DEM,,,,,,"12814 Glen Aerie","",,"Choctaw","OK","73020",,2,8125393
+"Sandra Louise Richardson",REP,,,,,,"P.O.Box 281","",,"Perry","OK","73077",,1,8124504
+"john whetsel",DEM,,,,,,"811 Hidden Valley Circle","",,"Choctaw","OK","73020-7125",,2,8124534
+"Hillary Dawn Vorndran",DEM,,,,,,"P.O. Box 347","",,"Perry","OK","73077",,1,8124564
+"Mike Layne Shambaugh",DEM,,,,,,"332 S Hampton Dr","",,"Jay","OK","74346",,2,8125122
+"Jeremy Gus Fisher",DEM,,,,,,"PO Box 505","",,"Jay","OK","74346",gfisher5821@gmail.com,2,8125291
+"Kevin Clardy",DEM,,,,,,"1304 Shirleys Crossing","",,"Idabel","OK","74745",,1,8125338
+"KEVIN IRWIN",DEM,,,,,,"PO Box 36","",,"Carmen","OK","73726",irwinhvac68@yahoo.com,2,8125368
+"HILLARY CLINTON",DEM,,,,,,"","",,"","","",,3,8125582
+"GARY JOHNSON",LIB,,,,,,"","",,"","","",,2,8125583
+"Janelle Marie Sharp",REP,,,,,,"4630 S. Covered Wagon Trail","",,"Enid","OK","73701",GDSHARP1@GMAIL.COM,1,8124475
+"Lorraine Lee Legere",REP,,,,,,"2018 LANTERN LANE","",,"ENID","OK","73703",LORIELEGERE@YAHOO.COM,1,8124542
+"KELLY OWINGS",IND,,,,,,"10181 BANNER ROAD","",,"LEXINGTON","OK","73051",kjowings50@gmail.com,3,8125394
+"Cathy Ross",DEM,,,,,,"PO Box 1329","",,"Pawhuska","OK","74056",,2,8125421
+"Wayne A. Walters",DEM,,,,,,"10934 N 2080 Rd","",,"Canute","OK","73626",,2,8125440
+"Shannon Grimes",LIB,,,,,,"1603 S Muskogee Ave","",,"Tahlequah","OK","74464",,2,8125453
+"Richard Prawdzienski",LIB,,,,,,"1712 Timber Ridge Rd","",,"Edmond","OK","73034",,2,8125455
+"Erin K. Adams",LIB,,,,,,"806 Doll Rd","",,"Glencoe","OK","74032",,2,8125456
+"Joshua Harris-Till",DEM,,,,,,"PO Box 1261","",,"Tahlequah","OK","74465",,2,8125458
+"Steve Long",LIB,,,,,,"620 Reynolds Rd","",,"Edmond","OK","73013",,2,8125464
+"Lloyd W. Snow",DEM,,,,,,"1544 Lakeside Ridge Dr","",,"Sand Springs","OK","74063",,2,8125466
+"Jim Sneed",DEM,,,,,,"PO Box 406","",,"Collinsville","OK","74021",,2,8125469
+"Frankie Robbins",DEM,,,,,,"PO Box 86","",,"Medford","OK","73759",,2,8125472
+"Mike Bounds",DEM,,,,,,"1109 Westminster Ln","",,"Yukon","OK","73099",,2,8125475
+"Robert T. Murphy",LIB,,,,,,"PO Box 2344","",,"Norman","OK","73070",,2,8125480
+"Clinton Leon Apple",REP,,,,,,"HCR 1 BOX 24","",,"KENTON","OK","73946",,1,8124607
+"Randy Lynn Johnson Sr",REP,,,,,,"220506 East Co Rd 57","",,"Mutual","OK","73853-5099",,1,8124652
+"Joe Coffman",DEM,,,,,,"4101 Old 21 Rd","",,"Idabel","OK","74745",,1,8124933
+"Terry Nickell",DEM,,,,,,"1100 W Parker St.","",,"Granite","OK","73547",terrynickell@att.net,2,8124944
+"Earl Edwin Rice",DEM,,,,,,"13650 Hwy 16","",,"Beggs","OK","74421",,1,8124969
+"RICHARD ELBERT BRYAN",REP,,,,,,"RT 1 BOX 119A","",,"GUYMON","OK","73942",,1,8125329
+"Mary Atwood",DEM,,,,,,"107 East F","",,"Waurika","OK","73573",matwood314@hotmail.com,2,8125498
+"CYNTHIA R. BOBBITT",REP,,,,,,"107075 COMANCHE","",,"LAMONT","OK","74643",,1,8124469
+"CYNTHIA SUE PRATT",REP,,,,,,"P. O. BOX 365","",,"MEDFORD","OK","73759",CPRATT05@SBCGLOBAL.NET,1,8124503
+"DEANA ANN KILIAN",DEM,,,,,,"110 KRETCHMAR DRIVE","",,"MEDFORD","OK","73759",COURT.CLERK@YAHOO.COM,1,8124524
+"Kimberly Renee Jackson",DEM,,,,,,"34807 State Highway 32","",,"Ringling","OK","73456",Kim.Jackson@oscn.net,1,8124584
+"BRET BOWLING",REP,,,,,,"P O BOX 653","",,"KIEFER","OK","74041",,1,8125294
+"MICHEAL BURKHART",REP,,,,,,"P O BOX 1279","",,"SEMINOLE","OK","74818",,1,8125336
+"JOHN DALE LINDSEY SR.",REP,,,,,,"417858 DOGWOOD LANE","",,"CHECOTAH","OK","74426",JOHNLINDSEY4SHERIFF@GMAIL.COM,1,8125354
+"Johnny Ray Miller",DEM,,,,,,"709 W. Drew","",,"Madill","OK","73446",millcreek707@yahoo.com,2,8125067
+"Douglas LaMarr Sonenberg",DEM,,,,,,"RR 1 Box 351","",,"South Coffeyville","OK","74072",,1,8125128
+"Troy L. Friddle",REP,,,,,,"rt 1 box 367-4","",,"south coffeyville","OK","74072",friddletroy@yahoo.com,1,8125133
+"Richard Lee Miller",DEM,,,,,,"PO Box 55 ","",,"delaware","OK","74027",,2,8125136
+"april dawn Frauenberger",DEM,,,,,,"PO Box 185 ","",,"Nowata","OK","74048",,1,8125137
+"LARRY CHAD ROBINSON",REP,,,,,,"17755 E 1630 RD","",,"GOULD","OK","73544",CHADNASHLE@PLDI.NET,1,8125523
+"Caryl Talley",DEM,,,,,,"3014 W 44th","",,"Stillwater","OK","74074",,3,8125307
+"RICKY DEAN TAYLOR",DEM,,,,,,"1611 East 15th ","",,"Chandler","OK","74834",,2,8124479
+"CINDY ANNE KIRBY",DEM,,,,,,"920505 S. 3490 Road","",,"Chandler","OK","74834",cc_kirby@yahoo.com,1,8124616
+"JOHN DANIEL TICE",REP,,,,,,"138 Lee Ann Lane","",,"Chandler","OK","74834",,1,8124843
+"SCOTT EDWARD STERLING",REP,,,,,,"124 N. 7TH","",,"MEDFORD","OK","73759",,1,8125179
+"Ron Reynolds",DEM,,,,,,"PO Box 1776","",,"Chickasha","OK","73023",,2,8125367
+"RHET JOHNSON",REP,,,,,,"15858 S CR 185","",,"DUKE","OK","73532",RASHELLRHET@YAHOO.COM,1,8125419
+"MATTHEW DOYLE BOLEY",REP,,,,,,"PO BOX 133","",,"GOODWELL","OK","73939",mboley1899@gmail.com,1,8124483
+"Robert Allen Hardridge",DEM,,,,,,"17135 Sharp Road","",,"Okmulgee","OK","74447",,1,8124513
+"Brian Renegar",DEM,,,,,,"1414 Country Club Rd","",,"McAlester","OK","74501",,2,8124540
+"Charles L. Ortega",REP,,,,,,"1509 N Main St","PMB 292",,"Altus","OK","73521",,1,8124567
+"Bob Ed Culver",REP,,,,,,"PO Box 1523","",,"Tahlequah","OK","74465",,1,8124579
+"Ron Sharp",REP,,,,,,"1835 N Oklahoma Ave","",,"Shawnee","OK","74804",,1,8124596
+"Mike Ritze",REP,,,,,,"18574 E 101st St S","",,"Broken Arrow","OK","74011",,1,8124606
+"Matt Meredith",DEM,,,,,,"PO Box 26","",,"Hulbert","OK","74441",,2,8124614
+"Gary Stanislawski",REP,,,,,,"2992 E 78th St","",,"Tulsa","OK","74136",,1,8124624
+"Charles A. McCall",REP,,,,,,"PO Box 1405","",,"Atoka","OK","74525",,1,8124632
+"MAYCLE RENEE ELLIS",REP,,,,,,"P.O. BOX 37","",,"TEXHOMA","OK","73949",mrelliscrtclrk@gmail.com,1,8124635
+"Joseph W. Silk",REP,,,,,,"PO Box 214","",,"Broken Bow","OK","74728",,1,8124638
+"WENDY LEE JOHNSON",REP,,,,,,"P.O. BOX 387","",,"GUYMON","OK","73942",wendyjohnson@gmail.com,1,8124645
+"David Dickerson",IND,,,,,,"18033 Cristobal Blvd","",,"Edmond","OK","73012",,4,8124650
+"Tammy West",REP,,,,,,"7916 NW 23rd St","Box 200",,"Bethany","OK","73008",,1,8124674
+"April Lynn Maxey",DEM,,,,,,"PO Box 592","",,"Atoka","OK","74525",,1,8124681
+"Christie Dawn Henry",DEM,,,,,,"260 East Roping Rd","",,"Atoka","OK","74525",,1,8124687
+"Frank D. Lucas",REP,,,,,,"PO Box 1726","",,"Oklahoma City","OK","73101",,1,8124689
+"Macy Gleason",DEM,,,,,,"2391 Stone Creek Way","",,"Mannford","OK","74044",,2,8124695
+"William Gilbert Wilson",DEM,,,,,,"1431 S WCW & Sons Lane","",,"Boswell","OK","74727",,1,8124699
+"Darla Milligan",DEM,,,,,,"22911 E 720 Rd","",,"Wagoner","OK","74467",,2,8124700
+"Pat Ownbey",REP,,,,,,"2303 Cloverleaf Pl","",,"Ardmore","OK","73401",,1,8124705
+"DARRY STACY",REP,,,,,,"7204 ALAMEDA STREET","",,"NORMAN","OK","73026",darrystacy@sbcglobal.net,1,8124474
+"JOE LESTER",REP,,,,,,"1100 W LINDSEY ST","",,"NORMAN","OK","73069",,1,8124516
+"TAMMY BELINSON",REP,,,,,,"13217 ALMOND DRIVE","",,"OKLAHOMA CITY","OK","73127",tbelinson@gmail.com,1,8124550
+"Dennis Banther",REP,,,,,,"137 Wildwood Drive","",,"Kingfisher","OK","73750",,1,8124600
+"Jennifer Burd",DEM,,,,,,"120 E. 11th St.","",,"Pawhuska","OK","74056",,1,8124710
+"NIKKi DODD",DEM,,,,,,"119 MEDLEY AVE.","",,"GOTEBO","OK","73041",nikkijododd@yahoo.com,1,8124862
+"STAN FUNKHOUSER",REP,,,,,,"14524 N. 2145 RD","",,"HOBART","OK","73651",stan_funkhouser@hotmail.com,1,8124867
+"LORI JACKSON ARITE",DEM,,,,,,"1027 W. 2nd STREET","",,"HOBART","OK","73651",arite5@msn.com,2,8124875
+"JEFF W. SMITH",REP,,,,,,"129 S. HILL","",,"HOBART","OK","73651",,1,8124884
+"MILES BREWSTER",IND,,,,,,"21112 EAST 1400 RD.","",,"LONE WOLF","OK","73655",brewstercrew13@icloud.com,2,8124893
+"KAY RICHARDS",REP,,,,,,"21606 E. 1370 RD.","",,"HOBART","OK","73651",kayri0922@gmail.com,1,8124988
+"Scott Hilton",DEM,,,,,,"6275 W. Rogers","",,"Skiatook","OK","74070",,2,8125043
+"Lou Ann Brown",DEM,,,,,,"5042 Woodland Drive","",,"Skiatook","OK","74070",lbrown4sheriff@aol.com,2,8125068
+"Eddie Virden",REP,,,,,,"45049 State Highway 99","",,"Pawhuska","OK","74056",thebarjranch@aol.com,1,8125114
+"LYNN C. R. STATTON",DEM,,,,,,"10705 SOUTH HARVEY AVENUE","",,"OKLAHOMA CITY","OK","73170",lynnstatton@yahoo.com,2,8125293
+"Clark Duffe",LIB,,,,,,"109 Rocky Point Dr","",,"Edmond","OK","73003-4715",,2,8125331
+"Dell Kerbs",REP,,,,,,"1212 Windsor Pl","",,"Shawnee","OK","74804",,1,8125340
+"Karen Gaddis",DEM,,,,,,"5828 S 81st E Pl","",,"Tulsa","OK","74145-7927",,2,8125351
+"RODGER KIMBLE",REP,,,,,,"8472 SE 113 RD","",,"RED OAK","OK","74563",,1,8124572
+"JOHN F MEDDERS",DEM,,,,,,"13192 SE 1096 AVE","",,"TALIHINA","OK","74571",,1,8124610
+"Josh Cockroft",REP,,,,,,"PO Box 281","",,"Tecumseh","OK","74873",,1,8124714
+"Shane Stone",DEM,,,,,,"1121 SW 41st St","",,"Oklahoma City","OK","73109",,1,8124723
+"Elise Hall",REP,,,,,,"7616 Northgate Ave","",,"Oklahoma City","OK","73162",,1,8124727
+"Tom Newell",REP,,,,,,"905 William Blvd","",,"Seminole","OK","74868",,1,8124731
+"Michael Rogers",REP,,,,,,"1628 E Boston Ct","",,"Broken Arrow","OK","74012",,1,8124739
+"Ben Loring",DEM,,,,,,"201 16th Pl  SW","",,"Miami","OK","74354",,2,8124748
+"Todd Russ",REP,,,,,,"PO Box 98","",,"Cordell","OK","73632",,1,8124754
+"Tom J. Dugger",REP,,,,,,"PO Box 191","",,"Stillwater","OK","74076",,1,8124759
+"David Perryman",DEM,,,,,,"689 County Road 1365","",,"Chickasha","OK","73018",,2,8124773
+"Bradley Keith Horn",REP,,,,,,"681 E. Windy Ln","",,"Atoka","OK","74525",bradsserviceandrentals@gmail.com,1,8124777
+"Harold Wright",REP,,,,,,"10132 Highway 54","",,"Weatherford","OK","73096",,1,8124778
+"Regina Goodwin",DEM,,,,,,"PO Box 1383","",,"Tulsa","OK","74101",,2,8124785
+"Tom Gann",REP,,,,,,"PO Box 662","",,"Inola","OK","74036",,1,8124790
+"Perry Brinegar",DEM,,,,,,"PO Box 639","",,"Duncan","OK","73534",,2,8124796
+"Roger Ford",REP,,,,,,"PO Box 10498","",,"Midwest City","OK","73140",,1,8124803
+"Dan Kirby",REP,,,,,,"12208 E 38th Pl","",,"Tulsa","OK","74146",,1,8124806
+"Dewey Harrison",IND,,,,,,"33241 Harrison Ln","",,"Poteau","OK","74953",,3,8124824
+"JESSE JAMES",DEM,,,,,,"307 NW 6 ST","",,"WILBURTON","OK","74578",,1,8124546
+"Chuck Hoskin",DEM,,,,,,"PO Box 941","",,"Vinita","OK","74301",,1,8124828
+"Glen Mulready",REP,,,,,,"660 W 77th Pl","",,"Tulsa","OK","74132",,1,8124833
+"Carl Newton",REP,,,,,,"PO Box 2644","",,"Woodward","OK","73802",,1,8124838
+"Terry O'Donnell",REP,,,,,,"PO Box 460","",,"Catoosa","OK","74015",,1,8124842
+"Rob Standridge",REP,,,,,,"101 E Gray St","#A",,"Norman","OK","73069",,1,8124878
+"Dianne Marie Flanders",DEM,,,,,,"803 Glen Johnson Road","",,"Okemah","OK","74859",dianneflanders@sbcglobal.net,1,8124642
+"Sherri Louise Foreman",DEM,,,,,,"96094 N. 3820 Rd.","",,"Okemah","OK","74859",sherrifore61@hotmail.com,1,8124651
+"Derrall Leon Summers",DEM,,,,,,"300 South Choctaw","Apt. 2B",,"Weleetka","OK","74880",,2,8124948
+"Scott Fetgatter",REP,,,,,,"PO Box 576","",,"Okmulgee","OK","74447",,1,8124949
+"James Albert Campbell",DEM,,,,,,"1962 E 2110 Rd","",,"Hugo","OK","74743",,2,8124950
+"John Michael Montgomery",REP,,,,,,"6921 W Gore Blvd","Apt 518",,"Lawton","OK","73505",,1,8124954
+"Bruce Lee Smith",REP,,,,,,"PO Box 75727","",,"Oklahoma City","OK","73147",,1,8124955
+"Millie Hardesty York",DEM,,,,,,"3020 S Boston Pl","",,"Tulsa","OK","74114",,2,8124963
+"Marina Mangiaracina",IND,,,,,,"504 N Bath Ave","",,"Oklahoma City","OK","73117",,2,8124989
+"Hoguen Apperson",REP,,,,,,"PO Box 450164","",,"Grove","OK","74346",,1,8124992
+"Forrest Bennett",DEM,,,,,,"424 SW 54th St","",,"Oklahoma City","OK","73109",,2,8124998
+"Richard Steven Worley",REP,,,,,,"371094 E. 1005 Rd.","",,"Castle","OK","74833",rockingbw@yahoo.com,1,8125160
+"DAVID MITCHELL HARDIN",DEM,,,,,,"RT. 2 BOX 288","",,"STILWELL","OK","74960",adsoa1@yahoo.com,1,8124649
+"ANDREA NICHOLE COOPER",DEM,,,,,,"RT 3 BOX 2780","",,"STILWELL","OK","74960",,1,8124627
+"JASON ELI RITCHIE",IND,,,,,,"PO BOX 1157","",,"STILWELL","OK","74960",je_ritchie@hotmail.com,2,8124752
+"Rick Gilleland",DEM,,,,,,"PO Box 1139","",,"Rush Springs","OK","73082-1139",,2,8124887
+"Jadine Nollan",REP,,,,,,"1220 N Renaissance Dr","",,"Sand Springs","OK","74063",,1,8124891
+"Jim Bridenstine",REP,,,,,,"PMB 230","8086 S Yale",,"Tulsa","OK","74136",,1,8124895
+"John Pfeiffer",REP,,,,,,"27750 N Kelley Ave","",,"Orlando","OK","73073",,1,8124898
+"Carol Bush",REP,,,,,,"2829 E 35th St","",,"Tulsa","OK","74105",,1,8124900
+"Meloyde Blancett",DEM,,,,,,"1620 S Newport Ave","",,"Tulsa","OK","74120",,3,8124906
+"Elizabeth Larios",IND,,,,,,"PO Box 95852","",,"Oklahoma City","OK","73143",,3,8124909
+"Joe Newhouse",REP,,,,,,"4111 W Laredo Pl","",,"Broken Arrow","OK","74012",,1,8124927
+"Wayne Herriman",DEM,,,,,,"PO Box 1354","",,"Muskogee","OK","74402",,2,8124934
+"JANET MAUZEY",DEM,,,,,,"201 SW 2 ST","",,"RED OAK","OK","74563",,2,8124959
+"Rande Worthen",REP,,,,,,"2811 NE Coronado","",,"Lawton","OK","73507",,1,8124968
+"Joe Griffin",REP,,,,,,"404 SW 65th St","",,"Oklahoma City","OK","73139",,1,8124970
+"Dana Murphy",REP,,,,,,"PO Box 7552","",,"Edmond","OK","73083",,1,8124971
+"Paul Scott",REP,,,,,,"1111 W Willow","Ste 103",,"Duncan","OK","73533",,1,8124974
+"George E. Young",DEM,,,,,,"2332 NW 121st St","",,"Oklahoma City","OK","73120",,1,8124977
+"Lonnie Paxton",REP,,,,,,"PO Box 7","",,"Tuttle","OK","73089",,1,8124980
+"Chris Kidd",REP,,,,,,"PO Box 159","",,"Addington","OK","73520",,1,8124986
+"Chuck Strohm",REP,,,,,,"PO Box 714","",,"Jenks","OK","74037",,1,8124990
+"Gayla Raye Holsapple",DEM,,,,,,"P.O. Box 321","",,"Taloga","OK","73667",,2,8124511
+"D. Jennifer Haigler",REP,,,,,,"RR 1 Box 110","",,"Canton","OK","73724",,1,8124869
+"MARILYN WILLIAMS",REP,,,,,,"14400 S MAY AVE","",,"OKLAHOMA CITY","OK","73170",,1,8125221
+"Sherridan Ann Perdue",REP,,,,,,"PO Box 903","",,"Boise City","OK","73933",,1,8125265
+"Mary  F. Bonilla",DEM,,,,,,"808 W. Kens Rd","",,"Kingfisher","OK","73750",,2,8125275
+"Marjorie Joan Parrish",REP,,,,,,"1539 SE Dewey","",,"Barltesville","OK","74003",,1,8124525
+"Jill Levin Spitzer",REP,,,,,,"5415 SE Harvard Dr.","",,"Bartlesville","OK","74006",jill.spitzer@yahoo.com,1,8124551
+"Michael Gale Bouvier",REP,,,,,,"1248 SE Willocreek Dr.","",,"Bartlesville","OK","74006",bratt1964mike@aol.com,1,8124653
+"Ricky Lynn Silver",REP,,,,,,"5821 Baylor Dr.","",,"Bartlesville","OK","74006",rsilver@countycourthouse.org,1,8124665
+"Justin JJ Humphrey",REP,,,,,,"425 Mimosa Rd","",,"Lane","OK","74555",,1,8124996
+"Travis Dunlap",REP,,,,,,"4936 Amherst Dr","",,"Bartlesville","OK","74006",,1,8125003
+"Lori Decter Wright",DEM,,,,,,"8706 E 86th St","",,"Tulsa","OK","74133",,3,8125019
+"Randy Batt",DEM,,,,,,"PO Box 914","",,"Cache","OK","73527",,2,8125035
+"Steven McGowen",REP,,,,,,"4636 State Highway 37","",,"Garvin","OK","74736",,1,8125038
+"Larry Bush",DEM,,,,,,"1820 SW 69th St","",,"Lawton","OK","73505",,2,8125040
+"John Paul Jordan",REP,,,,,,"610 Oak Ave","",,"Yukon","OK","73099",,1,8125041
+"Melissa Tilley",DEM,,,,,,"716 N 7th","",,"Comanche","OK","73529",,2,8125051
+"Mary Newcome-Hatch",DEM,,,,,,"617 N Dallas Ave","",,"Moore","OK","73160",,2,8125056
+"Anthony Eugene Head",DEM,,,,,,"910 S Buckholt Rd","",,"Caney","OK","74533",t.headacso1@yahoo.com,2,8125072
+"Scott McEachin",REP,,,,,,"7032 E 100th St","",,"Tulsa","OK","74133",,1,8125094
+"Dale Derby",REP,,,,,,"7247 N 201st E Ave","",,"Owasso","OK","74055",,1,8125098
+"Paul Marean",REP,,,,,,"1524 Pennsylvania Ave","",,"Hartshorne","OK","74547",,1,8125102
+"Cory T. Williams",DEM,,,,,,"621 S Husband","",,"Stillwater","OK","74074",,1,8125110
+"Danny Wayne Davis",REP,,,,,,"9502 County Road 1500","",,"Ada","OK","74820",dannydavis62@icloud.com,1,8125134
+"DON HEWETT",REP,,,,,,"PO BOX 142","",,"WASHINGTON","OK","73093",DHEWETT@YAHOO.COM,1,8124510
+"KRISTEL GRAY",REP,,,,,,"PO BOX 10","",,"PURCELL","OK","73080",SCARLETTG2004@YAHOO.COM,1,8124538
+"PAM BELLER",REP,,,,,,"23491 HILLTOP CIRCLE","",,"WASHINGTON","OK","73093",,1,8124553
+"WILSON R LYLES",REP,,,,,,"469 W CHESNUT","",,"GOLDSBY","OK","73093",,1,8124678
+"Christy Matli",REP,,,,,,"RRt2 Box 346","",,"Watonga","OK","73772",christy.matli@oscn.net,1,8124618
+"Jonathon Cross",DEM,,,,,,"211 North Pine","",,"Okeene","OK","73763",,1,8124612
+"Lewis H. Moore",REP,,,,,,"10100 Sunday Dr","",,"Arcadia","OK","73007",,1,8125150
+"Mickey Dollens",DEM,,,,,,"PO Box 19629","",,"Oklahoma City","OK","73144",,2,8125154
+"Whitney Hall",IND,,,,,,"3809 Rockwood Rd","",,"Enid","OK","73703",,3,8125172
+"Don Herrold",REP,,,,,,"65 Alder Rd","",,"Stigler","OK","74462",,1,8125180
+"Chris Elliott",REP,,,,,,"PO BOX 140746","",,"Broken Arrow","OK","74012",,1,8125239
+"Lori Hendricks",REP,,,,,,"3005 E Indianola St","",,"Broken Arrow","OK","74014",,1,8125243
+"Larry Lane",REP,,,,,,"98025 S 4523 Rd","",,"Vian","OK","74962",11jr_74962@yahoo.com,1,8125334
+"Tony Almaguer",REP,,,,,,"212 N. Laing","",,"Watonga","OK","73772",,1,8125474
+"CHARLES HULETT",DEM,,,,,,"RT 1 BOX 526","",,"CLINTON","OK","73601",Charles-Hulett3@outlook.com,2,8124521
+"CAROL CORBETT",DEM,,,,,,"706 N. LEE STREET","",,"CORDELL","OK","73632",,1,8124544
+"ROGER L. REEVE",DEM,,,,,,"P.O. BOX 44","",,"DILL CITY","OK","73641",,1,8124654
+"LEO GOERINGER",REP,,,,,,"11147 N 2280 RD.","",,"BESSIE","OK","73622",,1,8125034
+"TAYLOR G. ADAMSON",REP,,,,,,"439690 E. 170 ROAD","",,"BLUEJACKET","OK","74333",ROCKINGJ@LIVE.COM,1,8125175
+"Tra W. Snider",REP,,,,,,"P.O. Box 192","",,"Buffalo","OK","73834",,1,8125350
+"Paul Joseph LaRosa",REP,,,,,,"37303 FLINT HILL LANE","",,"HOWE","OK","74940",,1,8125439
+"Billy Thomas Shropshire Sr",REP,,,,,,"42881 CURTIS LANE","",,"WISTER","OK","74966",btsrpsrsr@hotmail.com,1,8125444
+"Michael Lappin",IND,,,,,,"P.O. Box 793","",,"Broken Bow","OK","74728",,2,8125306
+"Ray Lynn Cantrell",DEM,,,,,,"8643 Hwy 199","",,"Madill","OK","73446",raycantrell3@gmail.com,2,8124487
+"Teresa Ann Hartin",DEM,,,,,,"8476 Four Corners Road","",,"Madill","OK","73446",,1,8124539
+"Tony Wayne Simmons",DEM,,,,,,"3174 Long Creek Road","",,"Bokchito","OK","74726",,1,8124647
+"Donna Rae Alexander",DEM,,,,,,"1130  Mead Cemetery Road","",,"Mead","OK","73449",donna.alexander@oscn.net,1,8124712
+"Johnny  Lynn Christian",REP,,,,,,"831 Rock Creek Road","",,"Bokchito","OK","74726",,1,8124786
+"John Ray Haislip JR.",DEM,,,,,,"3853 Bryan Road","",,"Durant","OK","74701",jayhaislip74@gmail.com,2,8124981
+"LEON WARNER",REP,,,,,,"18637 WEST 106TH STREET SOUTH","",,"SAPULPA","OK","74066",LANDDWARNER@AOL.COM,1,8125156
+"JENNIFER MORTAZAVI",REP,,,,,,"11069 S. 51ST W. AVE","",,"SAPULPA","OK","74066",DAVOOD1@COX.NET,1,8125161
+"Amanda VanOrsdol",REP,,,,,,"32101 SOUTH 385TH WEST DRIVE","",,"DEPEW","OK","74028",,1,8125163
+"Rhonda Hopkins",REP,,,,,,"16204 E 620 Rd","",,"Rose","OK","74364",,1,8125230
+"Marty Sherman Swinney",DEM,,,,,,"34167 Gaddy Rd.","",,"Macomb","OK","74852",,2,8125252
+"Kenneth Tidwell",REP,,,,,,"800 N. 15th St. ","",,"Clinton","OK","73601",longarm521@gmail.com,1,8124529
+"Staci M. Hunter",DEM,,,,,,"10070 N. 2263 Rd. ","",,"Arapaho","OK","73620",,1,8124631
+"Karen Renee McClary",DEM,,,,,,"21482 ECR 1185","",,"Keota","OK","74941",,1,8124979
+"Timothy  Wayne Turner",DEM,,,,,,"11592 West State Highway 9","",,"Stigler","OK","74462",,2,8124991
+"Robin Lynn Rea",DEM,,,,,,"40389 SCR 4550","",,"Keota","OK","74941",robin.rea@oscn.net,1,8125001
+"Nathan Dahm",REP,,,,,,"PO Box 2323","",,"Broken Arrow","OK","74013-2323",,1,8125176
+"Jimmy Dale King",REP,,,,,,"10151 S 652 Rd","",,"Miami","OK","74354",,1,8125310
+"Caroline Marie Weaver",DEM,,,,,,"PO Box 161","",,"Jay","OK","74346",,1,8124667
+"KEVIN DAVENPORT",DEM,,,,,,"4237 BURNSIDE RD","",,"DAVIS","OK","73030",,2,8124802

@@ -1,0 +1,22 @@
+state: South Dakota
+state_notes: >
+  Where possible, we flagged vote centers in the polling_place_type field. For some years, the vote-centers weren't explicitly added but were just all assigned to every single precinct in the county. In these cases, we only reatined the first record of the vote center.
+  The 2014 data does have the address column, but the data provided by the Secretary of State only contained the last line information (City, State, Zip)
+  We were unable to identify any vote centers in the 2012 data. Additionally, the 2012 file provided by the secretary of state did not contain any address information (only building names).
+sources:
+  - source_date: 2019-10-17
+    source: ORR
+    data: "./input/2019-10-17/2012 Precincts by County.pdf"
+    election_date: 2012-11-06
+  - source_date: 2019-10-17
+    source: ORR
+    data: "./input/2019-10-17/Copy of 2014GenPollingPlaces.xlsx"
+    election_date: 2014-11-04
+  - source_date: 2019-10-17
+    source: ORR
+    data: "./input/2019-10-17/2016GeneralElectionPollingPlaces_SouthDakota.pdf"
+    election_date: 2016-11-08
+  - source_date: 2019-10-17
+    source: ORR
+    data: "./input/2019-10-17/2018GeneralElectionPrecinctandPollingPlaces.pdf"
+    election_date: 2018-11-06

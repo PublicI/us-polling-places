@@ -1,0 +1,6 @@
+state: Texas
+sources:
+  - source_date: 2020-11-02
+    source: website
+    data: "./input/2020-11-02/tx_polling_places_2020-11-02.csv"
+    election_date: 2020-11-03

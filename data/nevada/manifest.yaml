@@ -1,0 +1,6 @@
+state: Nevada
+sources:
+  - source_date: 2020-10-26
+    source: website
+    data: './input/2020-10-26/'
+    election_date: 2020-11-03

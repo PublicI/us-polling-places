@@ -1,0 +1,46 @@
+state: Delaware
+jurisdiction_type: county
+sources:
+  - source_date: 2019-09-05
+    source: ORR
+    county_name: Kent
+    data: input/2019-09-05/Kent/2012 Polling Places_textract
+    election_date: 2012-11-06
+  - source_date: 2019-09-05
+    source: ORR
+    county_name: Kent
+    data: input/2019-09-05/Kent/0231_001.pdf_textract
+    election_date: 2014-11-04
+  - source_date: 2019-09-05
+    source: ORR
+    county_name: Kent
+    data: input/2019-09-05/Kent/List of Polling Places-PresPrimary-20160426-KC.PDF_textract
+    election_date: 2016-11-08
+  - source_date: 2019-09-05
+    source: ORR
+    county_name: Kent
+    data: input/2019-09-05/Kent/List of Polling Places-Primary-20181106-KC.PDF_textract
+    election_date: 2018-11-06
+  - source_date: 2019-09-05
+    source: ORR
+    county_name: New Castle
+    data: input/2019-09-05/New Castle/Master - 2012 2014 2016 2018 General Polling Places to SEC.XLSX
+    election_date:
+      - 2012-11-06
+      - 2014-11-04
+      - 2016-11-08
+      - 2018-11-06
+  - source_date: 2019-09-05
+    source: ORR
+    county_name: Sussex
+    source_notes: SoS stated the Sussex County did not change any polling places for years 2012-2018
+    data: input/2019-09-05/Sussex/List of Polling Places-Primary-20181106-SC_textract
+    election_date:
+      - 2012-11-06
+      - 2014-11-04
+      - 2016-11-08
+      - 2018-11-06
+  - source_date: 2020-11-01
+    source: ORR
+    data: "./input/2020-11-01/"
+    election_date: 2020-11-03

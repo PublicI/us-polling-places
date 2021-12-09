@@ -1,0 +1,26 @@
+state: Maine
+state_notes: >
+  The SoS provided this data but is unable to confirm that these were the finalized polling places that were used in this election.
+  Several municipalties were consolidated after the 2012 election which means there would be some municipalities that are present in the 2012 file but not in the 2014-2018 data.
+jurisdiction_type: county
+sources:
+  - source_date: 2019-09-10
+    source: ORR
+    data: "./input/2019-09-10/Poll opening time Nov-2012.xls"
+    election_date: 2012-11-06
+  - source_date: 2019-09-10
+    source: ORR
+    data: "./input/2019-09-10/2014-November-polling places for posting.xlsx"
+    election_date: 2014-11-04
+  - source_date: 2019-09-10
+    source: ORR
+    data: "./input/2019-09-10/2016 Nov Voting Place Report for Posting.xlsx"
+    election_date: 2016-11-08
+  - source_date: 2019-09-10
+    source: ORR
+    data: "./input/2019-09-10/votingplace1118 downloaded from web.xlsx"
+    election_date: 2018-11-06
+  - source_date: 2020-11-01
+    source: ORR
+    data: "./input/2020-11-01/votingplace1120.xlsx"
+    election_date: 2020-11-03

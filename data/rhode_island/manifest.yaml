@@ -1,0 +1,22 @@
+state: Rhode Island
+sources:
+  - source_date: 2019-09-17
+    source: ORR
+    data: "./input/2019-09-17/2012 General Election Polling Places.xls"
+    election_date: 2012-11-06
+  - source_date: 2019-09-17
+    source: ORR
+    data: "./input/2019-09-17/2014 General Election Polling Place.xls"
+    election_date: 2014-11-04
+  - source_date: 2019-09-17
+    source: ORR
+    data: "./input/2019-09-17/2016 General Election Polling Places.xlsx"
+    election_date: 2016-11-08
+  - source_date: 2019-09-17
+    source: ORR
+    data: "./input/2019-09-17/2018 General Election Polling Places.xlsx"
+    election_date: 2018-11-06
+  - source_date: 2020-10-28
+    source: ORR
+    data: "./input/2020-10-28/November Polling Places - 2020.xlsx"
+    election_date: 2020-11-03

@@ -1,0 +1,16 @@
+state: West Virginia
+state_notes: >
+  The data provided by the SOS is missing street address information for a few precincts prior to 2018.
+sources:
+  - source_date: 2019-09-24
+    source: ORR
+    data: "./input/2019-09-24/Copy of PollingPlaces.xlsx"
+    election_date:
+      - 2012-11-06
+      - 2014-11-04
+      - 2016-11-08
+      - 2018-11-06
+  - source_date: 2020-10-21
+    source: ORR
+    data: "./input/2020-10-21/2020 General Polling Places.xlsx"
+    election_date: 2020-11-03

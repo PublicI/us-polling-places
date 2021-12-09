@@ -1,0 +1,79 @@
+name,eo_id,ovc_id,physical_address_state,physical_address_city,physical_address_line3,physical_address_line2,physical_address_line1,physical_address_location_name,physical_address_zip,mailing_address_state,mailing_address_line1,mailing_address_line2,mailing_address_line3,mailing_address_location_name,mailing_address_zip,mailing_address_city,elections_url,registration_url,am_i_registered_url,absentee_url,where_do_i_vote_url,what_is_on_my_ballot_url,rules_url,voter_services,hours,id
+ADAIR COUNTY ELECTION BOARD,2201,,OK,Stilwell,,"","4 E Walnut St",,74960,OK,"PO Box 6","",,,74960-0006,Stilwell,,,,,,,,,8:00 - 4:00,1101
+ALFALFA COUNTY ELECTION BOARD,2202,,OK,Cherokee,,"","602 W 5th St, Ste 3",,73728,OK,"602 W 5th St, Ste 3","",,,73728-2560,Cherokee,,,,,,,,,8:30 - 2:30,1102
+ATOKA COUNTY ELECTION BOARD,2203,,OK,Atoka,,"200 E Court St, Ste 106E","County Courthouse",,74525,OK,"200 E Court St, Ste 106E","",,,74525-2056,Atoka,,,,,,,,,8:30 - 2:30,1103
+BEAVER COUNTY ELECTION BOARD,2204,,OK,Beaver,,"111 W 2nd St","County Courthouse, Basement",,73932,OK,"PO Box 639","",,,73932-0639,Beaver,,,,,,,,,8:30 - 2:30,1104
+BECKHAM COUNTY ELECTION BOARD,2205,,OK,Sayre,,"","306 E Main St",,73662-2923,OK,"306 E Main St","",,,73662-2923,Sayre,,,,,,,,,8:00 - 2:00,1105
+BLAINE COUNTY ELECTION BOARD,2206,,OK,Watonga,,"212 N Weigle Ave, Ste 6","County Courthouse",,73772-3844,OK,"212 N Weigle Ave, Ste 6 ","",,,73772-3844,Watonga,,,,,,,,,8:00 - 4:00,1106
+BRYAN COUNTY ELECTION BOARD,2207,,OK,Durant,,"","402 W Evergreen St, Ste A2",,74701,OK,"PO Box 1396","",,,74702-1396,Durant,,,,,,,,,9:00 - 3:00,1107
+CADDO COUNTY ELECTION BOARD,2208,,OK,Anadarko,,"","110 SW 2nd St, Ste 112",,73005,OK,"PO Box 277","",,,73005-0277,Anadarko,,,,,,,,,8:30 - 2:30,1108
+CANADIAN COUNTY ELECTION BOARD,2209,,OK,El Reno,,"","200 S Bickford Ave",,73036,OK,"PO Box 307","",,,73036-0307,El Reno,,,,,,,,,8:00 - 4:30,1109
+CARTER COUNTY ELECTION BOARD,2210,,OK,Ardmore,,"106 Hinkle St SW","Courthouse Annex #1",,73401,OK,"106 Hinkle St SW","",,,73401-6412,Ardmore,,,,,,,,,8:00 - 5:00,1110
+CHEROKEE COUNTY ELECTION BOARD,2211,,OK,Tahlequah,,"","914 S College Ave",,74464,OK,"914 S College Ave","",,,74464-4726,Tahlequah,,,,,,,,,8:00 - 4:30,1111
+CHOCTAW COUNTY ELECTION BOARD,2212,,OK,Hugo,,"300 E Duke St","County Courthouse, West Side",,74743,OK,"PO Box 517","",,,74743-0517,Hugo,,,,,,,,,9:00 - 3:00,1112
+CIMARRON COUNTY ELECTION BOARD,2213,,OK,Boise City,,"","County Courthouse, Basement",,73933,OK,"PO Box 331","",,,73933-0331,Boise City,,,,,,,,,9:00 - 3:00,1113
+CLEVELAND COUNTY ELECTION BOARD,2214,,OK,Norman,,"","641 E Robinson St, Ste 200",,73071,OK,"641 E Robinson St, Ste 200","",,,73071-6656,Norman,,,,,,,,,8:00 - 5:00,1114
+COAL COUNTY ELECTION BOARD,2215,,OK,Coalgate,,"","18 N Michigan St ",,74538-2823,OK,"18 N Michigan St","",,,74538-2823,Coalgate,,,,,,,,,9:00 - 3:00,1115
+COMANCHE COUNTY ELECTION BOARD,2216,,OK,Lawton,,"315 SW 5th St, Rm 206","County Courthouse",,73501,OK,"315 SW 5th St, Rm 206","",,,73501-4326,Lawton,,,,,,,,,8:30 - 5:00,1116
+COTTON COUNTY ELECTION BOARD,2217,,OK,Walters,,"301 N Broadway St, Rm 2","County Courthouse",,73572,OK,"301 N Broadway St, Rm 2","",,,73572-1271,Walters,,,,,,,,,9:00 - 3:00,1117
+CRAIG COUNTY ELECTION BOARD,2218,,OK,Vinita,,"","210 W Delaware Ave, Ste 108",,74301,OK,"210 W Delaware Ave, Ste 108","",,,74301-4236,Vinita,,,,,,,,,8:30 - 4:30,1118
+CREEK COUNTY ELECTION BOARD,2219,,OK,Sapulpa,,"","230 E Hobson Ave",,74066,OK,"PO Box 990","",,,74067-0990,Sapulpa,,,,,,,,,8:00 - 5:00,1119
+CUSTER COUNTY ELECTION BOARD,2220,,OK,Clinton,,"","633 N 6th St",,73601,OK,"PO Box 1326","",,,73601-1326,Clinton,,,,,,,,,8:00 - 4:00,1120
+DELAWARE COUNTY ELECTION BOARD,2221,,OK,Jay,,"","225 S 5th St",,74346,OK,"PO Box 589","",,,74346-0589,Jay,,,,,,,,,9:00 - 3:00,1121
+DEWEY COUNTY ELECTION BOARD,2222,,OK,Taloga,,"","County Courthouse, Basement",,73667,OK,"PO Box 115","",,,73667-0115,Taloga,,,,,,,,,8:00 - 4:00,1122
+ELLIS COUNTY ELECTION BOARD,2223,,OK,Arnett,,"101 S Washington St","County Courthouse, Basement",,73832,OK,"PO Box 492","",,,73832-0492,Arnett,,,,,,,,,8:30 - 2:30,1123
+GARFIELD COUNTY ELECTION BOARD,2224,,OK,Enid,,"","903 Failing Dr",,73701,OK,"PO Box 1872","",,,73702-1872,Enid,,,,,,,,,9:00 - 4:00,1124
+GARVIN COUNTY ELECTION BOARD,2225,,OK,Pauls Valley,,"201 W Grant Ave, Rm 8","County Courthouse, 1st Floor",,73075,OK,"201 W Grant Ave, Rm 8","",,,73075-3234,Pauls Valley,,,,,,,,,8:30 - 4:30,1125
+GRADY COUNTY ELECTION BOARD,2226,,OK,Chickasha,,"","307 W Pennsylvania Ave",,73018,OK,"PO Box 1226","",,,73023-1226,Chickasha,,,,,,,,,9:00 - 3:00,1126
+GRANT COUNTY ELECTION BOARD,2227,,OK,Medford,,"112 E Guthrie St, Ste 101A","County Courthouse",,73759,OK,"PO Box 68","",,,73759-0068,Medford,,,,,,,,,8:00 - 2:00,1127
+GREER COUNTY ELECTION BOARD,2228,,OK,Mangum,,"106 E Jefferson St, Rm 1","County Courthouse, 1st Floor",,73554-4273,OK,"106 E Jefferson St, Rm 1","",,,73554-4273,Mangum,,,,,,,,,8:00 - 2:00,1128
+HARMON COUNTY ELECTION BOARD,2229,,OK,Hollis,,"114 W Hollis St, Fl 2 Rm 5","County Courthouse",,73550,OK,"114 W Hollis St, Fl 2 Rm 5","",,,73550-3053,Hollis,,,,,,,,,8:00 - 2:00,1129
+HARPER COUNTY ELECTION BOARD,2230,,OK,Buffalo,,"311 SE 1st St","County Courthouse, 2nd Floor",,73834,OK,"PO Box 541","",,,73834-0541,Buffalo,,,,,,,,,9:00 - 3:00,1130
+HASKELL COUNTY ELECTION BOARD,2231,,OK,Stigler,,"202 E Main St, Ste 1","County Courthouse Annex",,74462,OK,"202 E Main St, Ste 1","",,,74462-2439,Stigler,,,,,,,,,8:00 - 4:30,1131
+HUGHES COUNTY ELECTION BOARD,2232,,OK,Holdenville,,"200 N Broadway St, Ste 3","County Courthouse",,74848,OK,"200 N Broadway St, Ste 3","",,,74848-3400,Holdenville,,,,,,,,,8:00 - 4:30,1132
+JACKSON COUNTY ELECTION BOARD,2233,,OK,Altus,,"101 N Main St, Rm 105","County Courthouse",,73521-3142,OK,"101 N Main St, Rm 105","",,,73521-3142,Altus,,,,,,,,,9:00 - 3:00,1133
+JEFFERSON COUNTY ELECTION BOARD,2234,,OK,Waurika,,"220 N Main St, Rm 203","County Courthouse",,73573,OK,"220 N Main St, Rm 203","",,,73573-2236,Waurika,,,,,,,,,8:00 - 2:00,1134
+JOHNSTON COUNTY ELECTION BOARD,2235,,OK,Tishomingo,,"","705 W Main St",,73460-1734,OK,"705 W Main St","",,,73460-1734,Tishomingo,,,,,,,,,9:00 - 3:00,1135
+KAY COUNTY ELECTION BOARD,2236,,OK,Newkirk,,"201 S Main St","County Courthouse, Basement",,74647,OK,"PO Box 331","",,,74647-0331,Newkirk,,,,,,,,,8:00 - 4:00,1136
+KINGFISHER COUNTY ELECTION BOARD,2237,,OK,Kingfisher,,"101 S Main St, Ste 8","County Courthouse",,73750,OK,"101 S Main St, Ste 8","",,,73750-3241,Kingfisher,,,,,,,,,9:00 - 3:00,1137
+KIOWA COUNTY ELECTION BOARD,2238,,OK,Hobart,,"","215 N Lincoln St",,73651,OK,"PO Box 31","",,,73651-0031,Hobart,,,,,,,,,9:00 - 3:00,1138
+LATIMER COUNTY ELECTION BOARD,2239,,OK,Wilburton,,"109 N Central St, Ste 102","County Courthouse",,74578,OK,"109 N Central St, Ste 102","",,,74578-2440,Wilburton,,,,,,,,,8:00 - 2:00,1139
+LEFLORE COUNTY ELECTION BOARD,2240,,OK,Poteau,,"","103 N Church St",,74953,OK,"PO Box 249","",,,74953-0249,Poteau,,,,,,,,,8:00 - 4:30,1140
+LINCOLN COUNTY ELECTION BOARD,2241,,OK,Chandler,,"811 Manvel Ave, Ste 15","County Courthouse",,74834-3800,OK,"PO Box 97","",,,74834-0097,Chandler,,,,,,,,,8:30 - 4:30,1141
+LOGAN COUNTY ELECTION BOARD,2242,,OK,Guthrie,,"","224 E Vilas Ave",,73044,OK,"224 E Vilas Ave","",,,73044-4834,Guthrie,,,,,,,,,8:00 - 4:30,1142
+LOVE COUNTY ELECTION BOARD,2243,,OK,Marietta,,"405 W Main St, Ste 103","County Courthouse",,73448,OK,"405 W Main St, Ste 103","",,,73448-2849,Marietta,,,,,,,,,8:00 - 2:00,1143
+MCCLAIN COUNTY ELECTION BOARD,2244,,OK,Purcell,,"121 N 2nd Ave, Ste 101","County Courthouse",,73080,OK,"PO Box 759","",,,73080-0759,Purcell,,,,,,,,,8:00 - 4:30,1144
+MCCURTAIN COUNTY ELECTION BOARD,2245,,OK,Idabel,,"","104 N Central Ave",,74745,OK,"104 N Central Ave","",,,74745-3846,Idabel,,,,,,,,,8:00 - 4:00,1145
+MCINTOSH COUNTY ELECTION BOARD,2246,,OK,Eufaula,,"110 N 1st St, Ste 101","County Courthouse, 1st floor",,74432,OK,"PO Box 1022","",,,74432-1022,Eufaula,,,,,,,,,8:00 - 2:00,1146
+MAJOR COUNTY ELECTION BOARD,2247,,OK,Fairview,,"","500 E Broadway, Ste 8",,73737-2243,OK,"500 E Broadway, Ste 8","",,,73737-2243,Fairview,,,,,,,,,8:30 - 2:30,1147
+MARSHALL COUNTY ELECTION BOARD,2248,,OK,Madill,,"","County Courthouse, Rm 301",,73446,OK,"PO Box 9","",,,73446-0009,Madill,,,,,,,,,8:30 - 2:30,1148
+MAYES COUNTY ELECTION BOARD,2249,,OK,Pryor,,"1 Court Pl, Ste 130","County Courthouse",,74361,OK,"1 Court Pl, Ste 130","",,,74361-2449,Pryor,,,,,,,,,9:00 - 3:00,1149
+MURRAY COUNTY ELECTION BOARD,2250,,OK,Sulphur,,"10th & Wyandotte","County Courthouse",,73086,OK,"PO Box 556","",,,73086-0556,Sulphur,,,,,,,,,8:00 - 2:00,1150
+MUSKOGEE COUNTY ELECTION BOARD,2251,,OK,Muskogee,,"","400 W Broadway St, Ste 120",,74401,OK,"PO Box 216","",,,74402-0216,Muskogee,,,,,,,,,8:00 - 4:30,1151
+NOBLE COUNTY ELECTION BOARD,2252,,OK,Perry,,"300 Courthouse Dr, Ste 2","County Courthouse, 1st Floor",,73077,OK,"300 Courthouse Dr, Ste 2","",,,73077-6649,Perry,,,,,,,,,8:30 - 2:30,1152
+NOWATA COUNTY ELECTION BOARD,2253,,OK,Nowata,,"","228 N Maple St",,74048-2626,OK,"228 N Maple St","",,,74048-2626,Nowata,,,,,,,,,9:00 - 3:00,1153
+OKFUSKEE COUNTY ELECTION BOARD,2254,,OK,Okemah,,"209 N 3rd St","County Courthouse, 1st floor",,74859,OK,"209 N 3rd St","",,,74859-2627,Okemah,,,,,,,,,9:00 - 4:30,1154
+OKLAHOMA COUNTY ELECTION BOARD,2255,,OK,Oklahoma City,,"","4201 N Lincoln Blvd",,73105-5210,OK,"4201 N Lincoln Blvd","",,,73105-5210,Oklahoma City,,,,,,,,,8:00 - 5:00,1155
+OKMULGEE COUNTY ELECTION BOARD,2256,,OK,Okmulgee,,"314 W 7th St, Ste 102","County Courthouse",,74447,OK,"314 W 7th St, Ste 102","",,,74447-5028,Okmulgee,,,,,,,,,8:30 - 4:30,1156
+OSAGE COUNTY ELECTION BOARD,2257,,OK,Pawhuska,,"","630 Kihekah Ave",,74056,OK,"PO Box 929","",,,74056-0929,Pawhuska,,,,,,,,,9:00 - 4:00,1157
+OTTAWA COUNTY ELECTION BOARD,2258,,OK,Miami,,"123 E Central Ave, Ste 104","County Courthouse",,74354-7080,OK,"123 E Central Ave, Ste 104","",,,74354-7080,Miami,,,,,,,,,9:00 - 5:00,1158
+PAWNEE COUNTY ELECTION BOARD,2259,,OK,Pawnee,,"500 Harrison St, Rm 101","County Courthouse",,74058,OK,"PO Box 38","",,,74058-0038,Pawnee,,,,,,,,,8:00 - 2:00,1159
+PAYNE COUNTY ELECTION BOARD,2260,,OK,Stillwater,,"","315 W 6th Ave, Ste 207",,74074,OK,"315 W 6th Ave, Ste 207","",,,74074-4080,Stillwater,,,,,,,,,8:30 - 4:30,1160
+PITTSBURG COUNTY ELECTION BOARD,2261,,OK,McAlester,," ","109 E Carl Albert Pkwy Rm 101",,74501,OK,"109 E Carl Albert Pkwy Rm 101","",,,74501-5039,McAlester,,,,,,,,,8:00 - 5:00,1161
+PONTOTOC COUNTY ELECTION BOARD,2262,,OK,Ada,,"","131 W 13th St",,74820,OK,"PO Box 302","",,,74821-0302,Ada,,,,,,,,,8:00 - 4:00,1162
+POTTAWATOMIE COUNTY ELECTION BOARD,2263,,OK,Shawnee,,"","14101 Acme Rd",,74804-9250,OK,"14101 Acme Rd","",,,74804-9250,Shawnee,,,,,,,,,8:30 - 4:00,1163
+PUSHMATAHA COUNTY ELECTION BOARD,2264,,OK,Antlers,,"","204 SW 4th St, Ste A",,74523,OK,"204 SW 4th St, Ste A","",,,74523-3814,Antlers,,,,,,,,,8:00 - 2:00,1164
+ROGER MILLS COUNTY ELECTION BOARD,2265,,OK,Cheyenne,,"504 E Broadway","County Courthouse, 1st Floor",,73628,OK,"PO Box 147","",,,73628-0147,Cheyenne,,,,,,,,,8:00 - 2:00,1165
+ROGERS COUNTY ELECTION BOARD,2266,,OK,Claremore,,"","415 W 1st St",,74017-7801,OK,"415 W 1st St","",,,74017-7801,Claremore,,,,,,,,,8:00 - 5:00,1166
+SEMINOLE COUNTY ELECTION BOARD,2267,,OK,Wewoka,,"110 S Wewoka Ave, Ste 101","County Courthouse",,74884,OK,"110 S Wewoka Ave, Ste 101","",,,74884-2645,Wewoka,,,,,,,,,8:00 - 4:00,1167
+SEQUOYAH COUNTY ELECTION BOARD,2268,,OK,Sallisaw,,"","110 E Creek Ave",,74955,OK,"110 E Creek Ave","",,,74955-4613,Sallisaw,,,,,,,,,8:00 - 4:00,1168
+STEPHENS COUNTY ELECTION BOARD,2269,,OK,Duncan,,"101 S 11th St, Rm 100","County Courthouse",,73533-4758,OK,"101 S 11th St, Rm 100","",,,73533-4758,Duncan,,,,,,,,,8:30 - 4:30,1169
+TEXAS COUNTY ELECTION BOARD,2270,,OK,Guymon,,"301 N Main St","Courthouse Annex",,73942,OK,"PO Box 607","",,,73942-0607,Guymon,,,,,,,,,9:00 - 3:00,1170
+TILLMAN COUNTY ELECTION BOARD,2271,,OK,Frederick,,"201 N Main St, Rm 5","County Courthouse, 1st Floor",,73542,OK,"201 N Main St, Rm 5","",,,73542-5400,Frederick,,,,,,,,,9:00 - 3:00,1171
+TULSA COUNTY ELECTION BOARD,2272,,OK,Tulsa,,"","555 N Denver Ave",,74103-1008,OK,"555 N Denver Ave","",,,74103-1008,Tulsa,,,,,,,,,8:00 - 5:00,1172
+WAGONER COUNTY ELECTION BOARD,2273,,OK,Wagoner,,"","208 N Lee Ave",,74467,OK,"PO Box 714","",,,74477-0714,Wagoner,,,,,,,,,8:00 - 4:30,1173
+WASHINGTON COUNTY ELECTION BOARD,2274,,OK,Bartlesville,,"","420 S Johnstone Ave, Ste 101",,74003,OK,"420 S Johnstone Ave, Ste 101","",,,74003-6602,Bartlesville,,,,,,,,,9:00 - 4:00,1174
+WASHITA COUNTY ELECTION BOARD,2275,,OK,Cordell,,"","111 E Main St",,73632,OK,"PO Box 602","",,,73632-0602,Cordell,,,,,,,,,9:00 - 3:00,1175
+WOODS COUNTY ELECTION BOARD,2276,,OK,Alva,,"","410 4th St, Ste C",,73717,OK,"PO Box 184","",,,73717-0184,Alva,,,,,,,,,8:00 - 2:00,1176
+WOODWARD COUNTY ELECTION BOARD,2277,,OK,Woodward,,"1600 Main St, Ste 2","County Courthouse ",,73801,OK,"PO Box 613","",,,73802-0613,Woodward,,,,,,,,,9:00 - 3:00,1177
+STATE ELECTION BOARD,2299,,OK,OKLAHOMA CITY,,"2300 N LINCOLN BLVD RM B6","STATE CAPITOL BLDG RM B6",,73105-4804,OK,"PO BOX 53156","",,,73152-3156,OKLAHOMA CITY,,,,,,,,,8:00 - 5:00,1199

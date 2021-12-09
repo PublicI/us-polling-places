@@ -1,0 +1,1213 @@
+jurisdiction_name	text_election_code	date_election	text_name	text_address1	text_address2	text_address3	text_city	cde_state	text_zip5	text_zip4
+Adams	GN18	11/6/2018 00:00:00	1st Christian Church 16 2-C	1201 Sheridan			Hastings	NE	68901	
+Adams	GN18	11/6/2018 00:00:00	1st Congregational Church 14 2-A	2810 W 7th St			Hastings	NE	68901	
+Adams	GN18	11/6/2018 00:00:00	1st Congregational Church 15 2-B	2810 W 7th St			Hastings	NE	68901	
+Adams	GN18	11/6/2018 00:00:00	1st Congregational Church 18 2-E	2810 W 7th St			Hastings	NE	68901	
+Adams	GN18	11/6/2018 00:00:00	1st St Pauls Luth - 501 N Burl. 19 3-A	501 N Burlington Ave			Hastings	NE	68901	
+Adams	GN18	11/6/2018 00:00:00	Ayr School	1270 S First St			Ayr	NE	68925	
+Adams	GN18	11/6/2018 00:00:00	Barrett Alumni Center - 1001 N 6th Ave 26 4-C	1001 N 6th Ave			Hastings	NE	68901	
+Adams	GN18	11/6/2018 00:00:00	Barrett Alumni Center-1001 N 6th Ave 27 4-D	1001 N 6th Ave			Hastings	NE	68901	
+Adams	GN18	11/6/2018 00:00:00	Church of the Good Shepherd 21 3-C	1338 N Saunders Ave			Hastings	NE	68901	
+Adams	GN18	11/6/2018 00:00:00	Church of the Good Shepherd 22 3-D	1338 Saunders Ave			Hastings	NE	68901	
+Adams	GN18	11/6/2018 00:00:00	Comm Serv Bldg - Fairgrounds 05 Denver	947 S Baltimore Ave			Hastings	NE	68901	
+Adams	GN18	11/6/2018 00:00:00	Crosier Park 223 E 14th St 25 4-b	223 E 14th St			Hastings	NE	68901	
+Adams	GN18	11/6/2018 00:00:00	Crosier Park 223 E 14th St 28 4-E	223 E 14th St			Hastings	NE	68901	
+Adams	GN18	11/6/2018 00:00:00	Dawson Bldg-Fir Rm Ccc 06 Blaine	550 S Technical Blvd	PO Box 1024		Hastings	NE	68902	
+Adams	GN18	11/6/2018 00:00:00	Dawson Bldg-Fir Rm Ccc 07 Pauline	550 S Technical Blvd	PO Box 1024		Hastings	NE	68902	
+Adams	GN18	11/6/2018 00:00:00	Evangel. Free Church-2015 N St Joe 23 3-E	2015 N Saint Joseph Ave			Hastings	NE	68901	
+Adams	GN18	11/6/2018 00:00:00	First Christian Church 17 2-D	1201 Sheridan			Hastings	NE	68901	
+Adams	GN18	11/6/2018 00:00:00	Golden Friendship Center 12 1-B	509 S Bellevue			Hastings	NE	68901	
+Adams	GN18	11/6/2018 00:00:00	Hastings Airport-Terminal Bldg 01 West Blue/Highla	3300 W 12th St			Hastings	NE	68901	
+Adams	GN18	11/6/2018 00:00:00	Hastings Utilities Comm Room 20 3b	1228 N Denver Ave			Hastings	NE	68901	
+Adams	GN18	11/6/2018 00:00:00	Holstein Fire Hall 10 Holstein	9610 S Holstein Ave			Holstein	NE	68950	
+Adams	GN18	11/6/2018 00:00:00	Juniata Fire Hall 02 Verona	1202 N Juniata Ave			Juniata	NE	68955	
+Adams	GN18	11/6/2018 00:00:00	Juniata Fire Hall 04 Juniata	1202 N Juniata Ave			Juniata	NE	68955	
+Adams	GN18	11/6/2018 00:00:00	Kenesaw Senior Center	110 W Maple Ave			Kenesaw	NE	68956	
+Adams	GN18	11/6/2018 00:00:00	Lincoln Park Fire Stat.-1145 S Hastings 11 1-A	1145 S Hastings Ave			Hastings	NE	68901	
+Adams	GN18	11/6/2018 00:00:00	Peace Lutheran - 906 N California 24 4-A	906 N California Ave			Hastings	NE	68901	
+Adams	GN18	11/6/2018 00:00:00	Roseland Town Hall 09 Roseland	PO Box 170			Roseland	NE	68973	
+Adams	GN18	11/6/2018 00:00:00	Senior Center - Gsv 13 1-C	926 East E St			Hastings	NE	68901	
+Antelope	GN18	11/6/2018 00:00:00	American Legion Club Post 172	115 W 3rd St	Joyce Cameron		Neligh	NE	68756	
+Antelope	GN18	11/6/2018 00:00:00	American Legion Post 267	507 Main St	PO Box 104		Clearwater	NE	68726	
+Antelope	GN18	11/6/2018 00:00:00	Brunswick Community Room	203 Franklin Street	Ashlee Masat		Brunswick	NE	68720	
+Antelope	GN18	11/6/2018 00:00:00	Elgin KC Hall	115 S. 2nd St.			Elgin	NE	68636	
+Antelope	GN18	11/6/2018 00:00:00	Oakdale Community Center	308 5th St			Oakdale	NE	68761	
+Antelope	GN18	11/6/2018 00:00:00	Orchard Fire Hall	204 Windom St	Brenda Harrison		Orchard	NE	68764	
+Antelope	GN18	11/6/2018 00:00:00	Royal Auditorium	401 Fremont St	Diane Ober          Chelle McElhaney  402-929-0267		Royal	NE	68773	
+Antelope	GN18	11/6/2018 00:00:00	Tilden Public Library	202 S Center St	PO Box 457		Tilden	NE	68781	
+Arthur	GN18	11/6/2018 00:00:00	Arthur County Courthouse	205 Fir Street			Arthur	NE	69121	
+Banner	GN18	11/6/2018 00:00:00	Banner County Courthouse	204 State Street			Harrisburg	NE	69345	
+Blaine	GN18	11/6/2018 00:00:00	Brewster	Blaine County Courthouse	145 Lincoln Avenue		Brewster	NE	68821	
+Boone	GN18	11/6/2018 00:00:00	Casey's Building @ Fairgrounds	100 W Fairview St			Albion	NE	68620	
+Boone	GN18	11/6/2018 00:00:00	Direct Mail to Beaver					NE		
+Boone	GN18	11/6/2018 00:00:00	Direct Mail to Boone					NE		
+Boone	GN18	11/6/2018 00:00:00	Direct Mail to Cedar					NE		
+Boone	GN18	11/6/2018 00:00:00	Direct Mail to Dublin-Bonanza					NE		
+Boone	GN18	11/6/2018 00:00:00	Direct Mail to North Branch-Shell Creek					NE		
+Boone	GN18	11/6/2018 00:00:00	Direct Mail to Oakland					NE		
+Boxbutte	GN18	11/6/2018 00:00:00	Box Butte County Courthouse	515 Box Butte			Alliance	NE	69301	
+Boxbutte	GN18	11/6/2018 00:00:00	Burkeholder Building	616 Black Hills			Alliance	NE	69301	
+Boxbutte	GN18	11/6/2018 00:00:00	St. Bridgets Parsh Hall	812 Ogallala			Hemingford	NE	69348	
+Boyd	GN18	11/6/2018 00:00:00	Butte Community Center	505 Thayer St.			Butte	NE	68722	
+Boyd	GN18	11/6/2018 00:00:00	Lynch Town Hall	401 S Fifth Street			Lynch	NE	68746	
+Boyd	GN18	11/6/2018 00:00:00	Spencer Fire Hall	100 E Main St			Spencer	NE	68777	
+Brown	GN18	11/6/2018 00:00:00	Ainsworth Conference Center	606 E 4th St.			Ainsworth	NE	69210	
+Buffalo	GN18	11/6/2018 00:00:00	01 First Church of God	4310 17th Ave			Kearney	NE	68845	
+Buffalo	GN18	11/6/2018 00:00:00	02 First Presbyterian Church	4511 6th Ave			Kearney	NE	68845	
+Buffalo	GN18	11/6/2018 00:00:00	03 First United Methodist Church	4500 Linden Dr			Kearney	NE	68847	
+Buffalo	GN18	11/6/2018 00:00:00	04 Good Shepherd Lutheran Church	1208 E 47th St			Kearney	NE	68847	
+Buffalo	GN18	11/6/2018 00:00:00	05 Exhibit Hall in Extension Bldg	North door on West side	1400 E 34th St		Kearney	NE	68847	
+Buffalo	GN18	11/6/2018 00:00:00	06 Holy Cross Lutheran Church	3315 11th  Ave			Kearney	NE	68845	
+Buffalo	GN18	11/6/2018 00:00:00	07 Activity Center/Harmon Park	3100 5th Ave			Kearney	NE	68845	
+Buffalo	GN18	11/6/2018 00:00:00	08 St. James Catholic Church	3801 Ave A			Kearney	NE	68847	
+Buffalo	GN18	11/6/2018 00:00:00	09 First Lutheran Church	3315 Ave G			Kearney	NE	68847	
+Buffalo	GN18	11/6/2018 00:00:00	10 Exhibit Hall in Extension Bldg	North door on West side	1400 E 34th St		Kearney	NE	68847	
+Buffalo	GN18	11/6/2018 00:00:00	11 Meadowlark Manor	2110 30th Ave			Kearney	NE	68845	
+Buffalo	GN18	11/6/2018 00:00:00	12 Activity Center @ Harmon Park	3100 5th Ave			Kearney	NE	68845	
+Buffalo	GN18	11/6/2018 00:00:00	13 Peterson Senior Activities Center	Yanney Heritage Park	2020 W 11th St		Kearney	NE	68845	
+Buffalo	GN18	11/6/2018 00:00:00	14 American Legion/Bingo Hall	1223 Central Ave			Kearney	NE	68847	
+Buffalo	GN18	11/6/2018 00:00:00	15 Miller Community Hall	322 W Omaha Ave			Miller	NE	68858	
+Buffalo	GN18	11/6/2018 00:00:00	16 Pleasanton Community Center	202 N Sycamore			Pleasanton	NE	68866	
+Buffalo	GN18	11/6/2018 00:00:00	17 Ravenna City Auditorium-Rural	301 Alba			Ravenna	NE	68869	
+Buffalo	GN18	11/6/2018 00:00:00	18 Ravenna City Auditorium-Rav City	301 Alba Ave			Ravenna	NE	68869	
+Buffalo	GN18	11/6/2018 00:00:00	19 Amherst Community Center	110 N Main St			Amherst	NE	68812	
+Buffalo	GN18	11/6/2018 00:00:00	20 Prince of Peace Catholic Church	Use East door	2407 W 56th St		Kearney	NE	68845	
+Buffalo	GN18	11/6/2018 00:00:00	21 Colony Acres Comm. Rm	413 1st St			Gibbon	NE	68840	
+Buffalo	GN18	11/6/2018 00:00:00	22 Gib. Faith United Church-Ward I	203 Garfield St			Gibbon	NE	68840	
+Buffalo	GN18	11/6/2018 00:00:00	23 Gib. Faith United Church-Ward II	203 Garfield St			Gibbon	NE	68840	
+Buffalo	GN18	11/6/2018 00:00:00	24 Shelton Municipal Building	219 C St			Shelton	NE	68876	
+Buffalo	GN18	11/6/2018 00:00:00	25 Elm Creek Village Center	535 W Boyd Ave			Elm Creek	NE	68836	
+Buffalo	GN18	11/6/2018 00:00:00	26 Spirit of Life Church	3148 Dove Hill Ave			Kearney	NE	68845	
+Buffalo	GN18	11/6/2018 00:00:00	27 Cornerstone Berean Church	1004 30th Ave			Kearney	NE	68845	
+Buffalo	GN18	11/6/2018 00:00:00	28 Riverdale Comm. Center	221 3rd Ave			Riverdale	NE	68870	
+Buffalo	GN18	11/6/2018 00:00:00	29  Ace Irrigation Mfg Co.	4740 E 39h St			Kearney	NE	68847	
+Burt	GN18	11/6/2018 00:00:00	Craig Fire Hall	333 S Main St.			Craig	NE	68019	
+Burt	GN18	11/6/2018 00:00:00	Decatur Fire Hall	1012 S. Broadway St			Decatur	NE	68020	
+Burt	GN18	11/6/2018 00:00:00	Lyons City Hall	335 Main St			Lyons	NE	68038	
+Burt	GN18	11/6/2018 00:00:00	Oakland City Hall	401 N Oakland Ave			Oakland	NE	68045	
+Burt	GN18	11/6/2018 00:00:00	Tekamah City Hall	1315 K St.			Tekamah	NE	68061	
+Butler	GN18	11/6/2018 00:00:00	American Legion Hall	203 N Madison			Brainard	NE	68626	
+Butler	GN18	11/6/2018 00:00:00	Assumption Parish Hall	291 N 3rd Street			Dwight	NE	68635	
+Butler	GN18	11/6/2018 00:00:00	Bruno Civic Center	96 Elm St.			Bruno	NE	68014	
+Butler	GN18	11/6/2018 00:00:00	David City Auditorium	699 Kansas Street			David City	NE	68632	
+Butler	GN18	11/6/2018 00:00:00	Hruska Memorial Public Library	399 N 5th Street			David City	NE	68632	
+Butler	GN18	11/6/2018 00:00:00	Rising City Fire Hall	Highway 92			Rising City	NE	68658	
+Butler	GN18	11/6/2018 00:00:00	St. Peter's Parish Hall	211 Esplanade			Bellwood	NE	68624	
+Butler	GN18	11/6/2018 00:00:00	Ulysses Community Hall	300 C Street			Ulysses	NE	68669	
+Cass	GN18	11/6/2018 00:00:00	001 Tipton	Eagle Elementary Waverly Dist. 145	600 S 1st St		Eagle	NE	68347	
+Cass	GN18	11/6/2018 00:00:00	002 McKelverly	Alvo Fire Department	135 Main Street	Po Box 48	Eagle	NE	68347	
+Cass	GN18	11/6/2018 00:00:00	003 Salt Creek	Greenwood Community Building	619 Main Street	PO Box 190	Greenwood	NE	68366	
+Cass	GN18	11/6/2018 00:00:00	004 Stove Creek	Elmwood Fire Station C/O Ed Blunt	601 N. 4th	P O Box 135	Elmwood	NE	68349	
+Cass	GN18	11/6/2018 00:00:00	005 Murdock	Murdock Fire Hall	201 Atlantic St		Murdock	NE	68407	
+Cass	GN18	11/6/2018 00:00:00	006 South Bend	Round The Bend Steakhouse	30801 E Park Hwy,		Ashland	NE	68003	
+Cass	GN18	11/6/2018 00:00:00	007 Buccaneer Bay	Bay Hills Golf Club	3200 Buccaneer Blvd		Plattsmouth	NE	68048	
+Cass	GN18	11/6/2018 00:00:00	008 Center	Cass County Extension Office	8400 144th Street Ste 100	Cass County Fairgrounds (144th & Hwy 1)	Weeping Water	NE	68463	
+Cass	GN18	11/6/2018 00:00:00	009 East Louisville	Louisville Senior Citizen Ctr.	423 Elm St, Louisville	PO box 370	Louisville	NE	68037	
+Cass	GN18	11/6/2018 00:00:00	010 West Louisville	Louisville Fire Station Hall	122 Main St	PO Box 370	Louisville	NE	68037	
+Cass	GN18	11/6/2018 00:00:00	011 Avoca	Avoca Town Hall	623 House Street	PO Box 699	Avoca	NE	68307	
+Cass	GN18	11/6/2018 00:00:00	012 Mount Pleasant	Cass County Extension Office	8400 144th St, Ste 100		Weeping Water	NE	68463	
+Cass	GN18	11/6/2018 00:00:00	013 Eight Mile Grove	Christ Lutheran Church	15616 S 84th St		Louisville	NE	68037	
+Cass	GN18	11/6/2018 00:00:00	014 Nehawka	Nehawka Community Bldg (Town Hall)	217 Sherman Avenue	PO Box 134	Nehawka	NE	68413	
+Cass	GN18	11/6/2018 00:00:00	015 Liberty	American Legion Hall	104 Main Street		Union	NE	68455	
+Cass	GN18	11/6/2018 00:00:00	016 North Rock Bluff	Beaver Lake Clubhouse	9410 Clubhouse Cir		Plattsmouth	NE	68048	
+Cass	GN18	11/6/2018 00:00:00	017 South Rock Bluff	Beaver Lake Clubhouse	9410 Clubhouse Cir		Plattsmouth	NE	68048	
+Cass	GN18	11/6/2018 00:00:00	018 West Rock Bluff	Murray Town Hall	106 W Main St	PO Box 79	Murray	NE	68409	
+Cass	GN18	11/6/2018 00:00:00	019 North Plattsmouth	Plattsmouth Community Center-Gym	308 S 18th St		Plattsmouth	NE	68048	
+Cass	GN18	11/6/2018 00:00:00	020 South Plattsmouth	Woodhouse Ford South	2288 Osage Ranch Blvd		Plattsmouth	NE	68048	
+Cass	GN18	11/6/2018 00:00:00	021 Weeping Water-1st Ward	Weeping Water City Hall	101 W Eldora Ave	PO Box 329	Weeping Water	NE	68463	
+Cass	GN18	11/6/2018 00:00:00	022 Weeping Water-2nd Ward	Weeping Water City Hall	101 W. Eldora Ave	PO Box 329	Weeping Water	NE	68463	
+Cass	GN18	11/6/2018 00:00:00	023 1st Ward 1st Pct	Plattsmouth Library	401 Avenue A		Plattsmouth	NE	68048	
+Cass	GN18	11/6/2018 00:00:00	024 1st Ward 2nd Pct	Plattsmouth Fitness Center-Gym	308 S 18 St		Plattsmouth	NE	68048	
+Cass	GN18	11/6/2018 00:00:00	025 2nd Ward 1st Pct	1st United Methodist Church	702 Main St.		Plattsmouth	NE	68048	
+Cass	GN18	11/6/2018 00:00:00	026 2nd Ward 2nd Pct	Church Of The Holy Spirit	520 S. 18th St.		Plattsmouth	NE	68048	
+Cass	GN18	11/6/2018 00:00:00	027 3rd Ward 1st Pct	Living Water Church	1623 S. 15th St.	PO Box 117	Plattsmouth	NE	68048	
+Cass	GN18	11/6/2018 00:00:00	028 3rd Ward 2nd Pct	The Waterford at Woodbridge	1913 Old Hwy 34		Plattsmouth	NE	68048	
+Cass	GN18	11/6/2018 00:00:00	029 4th Ward 1st Pct	Plattsmouth High School Admin Bldg	1912 Old Hwy 34		Plattsmouth	NE	68048	
+Cass	GN18	11/6/2018 00:00:00	030 4th Ward 2nd Pct	Presbyterian Church	701 Chicago Ave		Plattsmouth	NE	68048	
+Cedar	GN18	11/6/2018 00:00:00	All Mail Precinct			Ballots will automatically be mailed to you.		NE		
+Cedar	GN18	11/6/2018 00:00:00	Coleridge Community Building	111 S. Main			Coleridge	NE	68727	
+Cedar	GN18	11/6/2018 00:00:00	Hartington Vfw Club	126 E. Main			Hartington	NE	68739	
+Cedar	GN18	11/6/2018 00:00:00	Laurel City Auditorium	101 W. 2nd St.			Laurel	NE	68745	
+Cedar	GN18	11/6/2018 00:00:00	Randolph City Auditorium	119 N. Main			Randolph	NE	68771	
+Cedar	GN18	11/6/2018 00:00:00	Wynot Fire Hall	405 E. Jones St.			Wynot	NE	68792	
+Chase	GN18	11/6/2018 00:00:00	Champion Community Center	265 Broadway St			Champion	NE	69023	
+Chase	GN18	11/6/2018 00:00:00	Imperial Community Center	1000 Wellington St			Imperial	NE	69033	
+Chase	GN18	11/6/2018 00:00:00	Imperial Public Library	703 Broadway St.			Imperial	NE	69033	
+Chase	GN18	11/6/2018 00:00:00	United Methodist Church	420 Holland St			Imperial	NE	69033	
+Chase	GN18	11/6/2018 00:00:00	Wauneta Senior Center	231 N Tecumseh Ave	P O Box 187		Wauneta	NE	69045	
+Cherry	GN18	11/6/2018 00:00:00	Direct Mail to Barley							
+Cherry	GN18	11/6/2018 00:00:00	Direct Mail to Cleveland							
+Cherry	GN18	11/6/2018 00:00:00	Direct Mail to Cody							
+Cherry	GN18	11/6/2018 00:00:00	Direct Mail to Crookston							
+Cherry	GN18	11/6/2018 00:00:00	Direct Mail to Gillaspie							
+Cherry	GN18	11/6/2018 00:00:00	Direct Mail to Goose Creek							
+Cherry	GN18	11/6/2018 00:00:00	Direct Mail to Kennedy							
+Cherry	GN18	11/6/2018 00:00:00	Direct Mail to Kilgore							
+Cherry	GN18	11/6/2018 00:00:00	Direct Mail to King							
+Cherry	GN18	11/6/2018 00:00:00	Direct Mail to Lackey							
+Cherry	GN18	11/6/2018 00:00:00	Direct Mail to Loup							
+Cherry	GN18	11/6/2018 00:00:00	Direct Mail to Merriman					NE		
+Cherry	GN18	11/6/2018 00:00:00	Direct Mail to Mother Lake							
+Cherry	GN18	11/6/2018 00:00:00	Direct Mail to Nenzel					NE		
+Cherry	GN18	11/6/2018 00:00:00	Direct Mail to Russell							
+Cherry	GN18	11/6/2018 00:00:00	Direct Mail to Wells							
+Cherry	GN18	11/6/2018 00:00:00	Direct Mail to Wood Lake							
+Cheyenne	GN18	11/6/2018 00:00:00	Cheyenne County Fairgrounds	10955 US Highway 30			Sidney	NE	69162	
+Cheyenne	GN18	11/6/2018 00:00:00	Fire Hall Dalton	404 Broad St			Dalton	NE	69131	
+Cheyenne	GN18	11/6/2018 00:00:00	Fire Hall Gurley	738 3rd			Gurley	NE	69141	
+Cheyenne	GN18	11/6/2018 00:00:00	Fire Hall Lodgepole	804 Sheldon			Lodgepole	NE	69149	
+Cheyenne	GN18	11/6/2018 00:00:00	Fire Hall Potter	900 Front St.			Potter	NE	69156	
+Clay	GN18	11/6/2018 00:00:00	Activity Bldg, Fairgrounds	701 North Martin			Clay Center	NE	68933	
+Clay	GN18	11/6/2018 00:00:00	Deweese Community Building	101 E Lena St			Deweese	NE	68934	
+Clay	GN18	11/6/2018 00:00:00	Edgar City Hall	601 5th St			Edgar	NE	68935	
+Clay	GN18	11/6/2018 00:00:00	Fairfield City Auditorium	304 D St			Fairfield	NE	68938	
+Clay	GN18	11/6/2018 00:00:00	Glenvil Fire Hall	201 Winters Ave			Glenvil	NE	68941	
+Clay	GN18	11/6/2018 00:00:00	Harvard Community Room	128 N Harvard Ave			Harvard	NE	68944	
+Clay	GN18	11/6/2018 00:00:00	Senior Community Center	204 South Saunders			Sutton	NE	68979	
+Clay	GN18	11/6/2018 00:00:00	Trumbull Community Center	511 Miles			Trumbull	NE	68980	
+Colfax	GN18	11/6/2018 00:00:00	Clarkson Fire Station	220 Bryan St			Clarkson	NE	68629	
+Colfax	GN18	11/6/2018 00:00:00	Colfax County Courthouse	411 East 11th St			Schuyler	NE	68661	
+Colfax	GN18	11/6/2018 00:00:00	Community Center	128 N. 3rd St.			Howells	NE	68641	
+Colfax	GN18	11/6/2018 00:00:00	Fire Station - Schuyler	302 E16th St			Schuyler	NE	68661	
+Colfax	GN18	11/6/2018 00:00:00	St. Augustine'S Parish Hall	604 Chicago St			Schuyler	NE	68661	
+Cuming	GN18	11/6/2018 00:00:00	All Mail (sw4) Direct Mail							
+Cuming	GN18	11/6/2018 00:00:00	Bancroft Fire Hall	Main St.			Bancroft	NE	68004	
+Cuming	GN18	11/6/2018 00:00:00	Beemer Municipal Building	Main St.			Beemer	NE	68716	
+Cuming	GN18	11/6/2018 00:00:00	Nielsen Community Center	200 Anna Stalp Ave			West Point	NE	68788	
+Cuming	GN18	11/6/2018 00:00:00	Nielsen Community Center(2)					NE		
+Cuming	GN18	11/6/2018 00:00:00	Nielsen Community Center(ssgc)					NE		
+Cuming	GN18	11/6/2018 00:00:00	Wisner Auditorium	1001 Ave D			Wisner	NE	68791	
+Custer	GN18	11/6/2018 00:00:00	Community Building Mason City	463 Main St			Mason City	NE	68855	
+Custer	GN18	11/6/2018 00:00:00	Community Building Merna	428 E Center Ave			Merna	NE	68856	
+Custer	GN18	11/6/2018 00:00:00	Community Building Oconto	101 W 6th			Oconto	NE	68860	
+Custer	GN18	11/6/2018 00:00:00	Community Hall Ansley	720 Douglas St			Ansley	NE	68814	
+Custer	GN18	11/6/2018 00:00:00	Community Hall Comstock	113 W Main			Comstock	NE	68828	
+Custer	GN18	11/6/2018 00:00:00	Legion Hall Arnold	112 N Walnut			Arnold	NE	69120	
+Custer	GN18	11/6/2018 00:00:00	Municipal Building BB	310 S 10th Ave			Broken Bow	NE	68822	
+Custer	GN18	11/6/2018 00:00:00	Sargent Community Building	314 W Main St			Sargent	NE	68874	
+Custer	GN18	11/6/2018 00:00:00	Senior Center Callaway	105 N Grand Ave			Callaway	NE	68825	
+Custer	GN18	11/6/2018 00:00:00	Veteran's Building BB	416 S 1st Ave			Broken Bow	NE	68822	
+Custer	GN18	11/6/2018 00:00:00	Winter Memorial Library	201 E Smith			Anselmo	NE	68813	
+Dakota	GN18	11/6/2018 00:00:00	Dakota City Hall	1511 Broadway			Dakota City	NE	68731	
+Dakota	GN18	11/6/2018 00:00:00	Emerson Fire Hall	209 North Main Street			Emerson	NE	68733	
+Dakota	GN18	11/6/2018 00:00:00	First Lutheran Church	3601 Dakota Avenue			S Sioux City	NE	68776	
+Dakota	GN18	11/6/2018 00:00:00	Homer Legion Hall	22 John Street			Homer	NE	68030	
+Dakota	GN18	11/6/2018 00:00:00	Hubbard Community Center	310 Nebraska Street			Hubbard	NE	68741	
+Dakota	GN18	11/6/2018 00:00:00	Jackson Legion Hall	103 Elk Street			Jackson	NE	68743	
+Dakota	GN18	11/6/2018 00:00:00	Knights Of Columbus Hall	Old Highway 20 West			S Sioux City	NE	68776	
+Dakota	GN18	11/6/2018 00:00:00	River Hills Assembly of God Church	1101 5th Avenue			S Sioux City	NE	68776	
+Dakota	GN18	11/6/2018 00:00:00	Salem Luthern Church	1753 G Avenue		At the Intersection of Hwy 110 & 35	Dakota City	NE	68731	
+Dakota	GN18	11/6/2018 00:00:00	South Sioux City Legion Hall	109 E. 19th Street			S Sioux City	NE	68776	
+Dakota	GN18	11/6/2018 00:00:00	South Sioux City Memorial Hall	(previously the Fire Hall)	201 W 16th Street		S Sioux City	NE	68776	
+Dakota	GN18	11/6/2018 00:00:00	South Sioux City Middle School	3625 G Street		Enter at Apache & G St. Enter South door	S Sioux City	NE	68776	
+Dawes	GN18	11/6/2018 00:00:00	Direct Mail to P01					NE		
+Dawes	GN18	11/6/2018 00:00:00	Direct Mail to P02					NE		
+Dawes	GN18	11/6/2018 00:00:00	Direct Mail to P03					NE		
+Dawes	GN18	11/6/2018 00:00:00	Direct Mail to P04					NE		
+Dawes	GN18	11/6/2018 00:00:00	Direct Mail to P05					NE		
+Dawes	GN18	11/6/2018 00:00:00	Direct Mail to P06					NE		
+Dawes	GN18	11/6/2018 00:00:00	Direct Mail to P07					NE		
+Dawes	GN18	11/6/2018 00:00:00	Direct Mail to P08					NE		
+Dawes	GN18	11/6/2018 00:00:00	Direct Mail to P09					NE		
+Dawes	GN18	11/6/2018 00:00:00	Direct Mail to P10					NE		
+Dawes	GN18	11/6/2018 00:00:00	Direct Mail to P11					NE		
+Dawson	GN18	11/6/2018 00:00:00	Coyote 001	Saint Ann's Parish Center	1003 Taft St		Lexington	NE	68850	
+Dawson	GN18	11/6/2018 00:00:00	Cozad East 002	Wilson Public Library	910 Meridian Ave		Cozad	NE	69130	
+Dawson	GN18	11/6/2018 00:00:00	Cozad West 003	Cozad City Offices	215 West 8th		Cozad	NE	69130	
+Dawson	GN18	11/6/2018 00:00:00	Fairview 004	Chipper Hall	144 E 8th		Cozad	NE	69130	
+Dawson	GN18	11/6/2018 00:00:00	Farnam 005	Community Room/Fire Hall			Farnam	NE	69029	
+Dawson	GN18	11/6/2018 00:00:00	German 006	Zion Lutheran Church	77191 Hwy 47		Gothenburg	NE	69138	
+Dawson	GN18	11/6/2018 00:00:00	Gillan 007	Chipper Hall	144 E 8th		Cozad	NE	69130	
+Dawson	GN18	11/6/2018 00:00:00	Goth East 008	American Lutheran Church	1512 Ave G		Gothenburg	NE	69138	
+Dawson	GN18	11/6/2018 00:00:00	Goth West 009	United Methodist Church	1401 Lake Ave		Gothenburg	NE	69138	
+Dawson	GN18	11/6/2018 00:00:00	Grant 010	Saint Ann's Parish Center	1003 Taft St		Lexington	NE	68850	
+Dawson	GN18	11/6/2018 00:00:00	Kennebec 011	Eddyville Community Center			Eddyville	NE	68834	
+Dawson	GN18	11/6/2018 00:00:00	Lex 1st 012	Grand Generation Center	Meeting Room	407 E 6th	Lexington	NE	68850	
+Dawson	GN18	11/6/2018 00:00:00	Lex 2nd 013	Grace Lutheran Church	105 E 17th		Lexington	NE	68850	
+Dawson	GN18	11/6/2018 00:00:00	Lex 3rd 014	Parkview Baptist Church	803 W 18th St		Lexington	NE	68850	
+Dawson	GN18	11/6/2018 00:00:00	Lex 4th 015	City Library	907 N Washington		Lexington	NE	68850	
+Dawson	GN18	11/6/2018 00:00:00	Lex 5th 016	Evangelical Free Church	810 S Washington		Lexington	NE	68850	
+Dawson	GN18	11/6/2018 00:00:00	Overton 017	Overton Family Center	Overton Ballfield Area		Overton	NE	68863	
+Dawson	GN18	11/6/2018 00:00:00	Platte 018	Johnson Lake EMS Building	42734 Johnson Lake Dr		Johnson Lake	NE	68937	
+Dawson	GN18	11/6/2018 00:00:00	Ringgold 019	Chipper Hall	144 E 8th		Cozad	NE	69130	
+Dawson	GN18	11/6/2018 00:00:00	Woodriver 021	Community Building			Sumner	NE	68878	
+Deuel	GN18	11/6/2018 00:00:00	Big Springs Fire Hall	Big Springs Fire Hall	3rd And Pine		Big Springs	NE	69122	
+Deuel	GN18	11/6/2018 00:00:00	Chappell Fire Hall	Chappell Fire Hall	1650 2nd Street		Chappell	NE	69129	
+Deuel	GN18	11/6/2018 00:00:00	Chappell Swan Fire Hall	Chappell Fire Hall	1650 2nd Street		Chappell	NE	69129	
+Dixon	GN18	11/6/2018 00:00:00	All Mail			Ballots will automatically be mailed to you.		NE		
+Dixon	GN18	11/6/2018 00:00:00	Allen Firehall	201 South Harrison Street			Allen	NE	68710	
+Dixon	GN18	11/6/2018 00:00:00	Dixon Community Center	210 2nd Street			Dixon	NE	68732	
+Dixon	GN18	11/6/2018 00:00:00	Ponca Community Center	119 West 3rd Street			Ponca	NE	68770	
+Dixon	GN18	11/6/2018 00:00:00	St. Paul's Lutheran Church Social Hall	103 W 3rd Street			Emerson	NE	68733	
+Dixon	GN18	11/6/2018 00:00:00	Wakefield American Legion Hall	211 Main Street			Wakefield	NE	68784	
+Dodge	GN18	11/6/2018 00:00:00	City of Hooper 029	Hooper Public Library	126 N Main Street		Hooper	NE	68031	
+Dodge	GN18	11/6/2018 00:00:00	City Of North Bend 021	VFW Club	742 Main St		North Bend	NE	68649	
+Dodge	GN18	11/6/2018 00:00:00	City Of Scribner 022	Mohr Auditorium	650 Co Rd 13 Blvd		Scribner	NE	68057	
+Dodge	GN18	11/6/2018 00:00:00	Cuming/Everett Twps 023	Mohr Auditorium	650 Co Rd 13 Blvd		Scribner	NE	68057	
+Dodge	GN18	11/6/2018 00:00:00	Elkhorn Township 031	Trinity Lutheran School	1546 N Luther Rd		Fremont	NE	68025	
+Dodge	GN18	11/6/2018 00:00:00	Everett Township 029	Mohr Auditorium	650 Co Rd 13 Blvd		Scribner	NE	68057	
+Dodge	GN18	11/6/2018 00:00:00	Fremont 1A 001	Evangelical Free Church	2050 N Lincoln Ave		Fremont	NE	68025	
+Dodge	GN18	11/6/2018 00:00:00	Fremont 1B 002	Event Center Lobby	700 E 10th St		Fremont	NE	68025	
+Dodge	GN18	11/6/2018 00:00:00	Fremont 1C 003	Trinity Lutheran School	1546 N Luther RD		Fremont	NE	68025	
+Dodge	GN18	11/6/2018 00:00:00	Fremont 1D 004	Gifford Tower	2510 N Clarkson St.		Fremont	NE	68025	
+Dodge	GN18	11/6/2018 00:00:00	Fremont 1E 005	St. Patrick's Catholic Church	3400 E 16th Street		Fremont	NE	68025	
+Dodge	GN18	11/6/2018 00:00:00	Fremont 2A 006	First Congregational Church	1550 N Broad Street		Fremont	NE	68025	
+Dodge	GN18	11/6/2018 00:00:00	Fremont 2B 007	Stone Bridge Christian Church	1041 N Nye Ave		Fremont	NE	68025	
+Dodge	GN18	11/6/2018 00:00:00	Fremont 2C 008	Extension Service	1206 West 23rd St		Fremont	NE	68025	
+Dodge	GN18	11/6/2018 00:00:00	Fremont 2D 009	Premier Estates	2550 N Nye Ave		Fremont	NE	68025	
+Dodge	GN18	11/6/2018 00:00:00	Fremont 2E 010	Nye Square	650 W 21st St		Fremont	NE	68025	
+Dodge	GN18	11/6/2018 00:00:00	Fremont 3A 011	City Auditorium	929 N Broad St68025		Fremont	NE		
+Dodge	GN18	11/6/2018 00:00:00	Fremont 3B 012	Courthouse	435 N Park Ave		Fremont	NE	68025	
+Dodge	GN18	11/6/2018 00:00:00	Fremont 3C 013	Brady's Meats & Foods	450 S Broad Street		Fremont	NE	68025	
+Dodge	GN18	11/6/2018 00:00:00	Fremont 3D 014	Christensen Field Community Rm	1730 W 16th Street		Fremont	NE	68025	
+Dodge	GN18	11/6/2018 00:00:00	Fremont 3E 015	Salem Lutheran Church	401 E Military Ave		Fremont	NE	68025	
+Dodge	GN18	11/6/2018 00:00:00	Fremont 4A 016	Good Shepherd Lutheran Church	1544 E. Military Ave.		Fremont	NE	68025	
+Dodge	GN18	11/6/2018 00:00:00	Fremont 4B 017	Good Shepherd  Lutheran Church	1544 E Military Ave		Fremont	NE	68025	
+Dodge	GN18	11/6/2018 00:00:00	Fremont 4C 018	Deerfield Club House	1021 S Howard DR		Fremont	NE	68025	
+Dodge	GN18	11/6/2018 00:00:00	Fremont 4D 019	First Lutheran Church	3200 E Military Ave		Fremont	NE	68025	
+Dodge	GN18	11/6/2018 00:00:00	Fremont 4E 020	Swanson Hall Of Science	8th & Irving Sts		Fremont	NE	68025	
+Dodge	GN18	11/6/2018 00:00:00	Logan/Hooper Twps 030	Logan View Jr Sr High School	2163 Co Rd G		Hooper	NE	68031	
+Dodge	GN18	11/6/2018 00:00:00	Maple Township 033	Fireman's Community Center	207 Maple St		Nickerson	NE	68044	
+Dodge	GN18	11/6/2018 00:00:00	Nickerson/Maple Twps M 028	Nickerson's Fireman Community Center	207 Maple St		Nickerson	NE	68044	
+Dodge	GN18	11/6/2018 00:00:00	Nickerson/Maple Twps N 028	Fireman's Community Center	207 Maple Street		Nickerson	NE	68044	
+Dodge	GN18	11/6/2018 00:00:00	Pebble Township 025	City Auditorium	203 Ash St		Snyder	NE	68664	
+Dodge	GN18	11/6/2018 00:00:00	Platte East Township 026	Church Of Christ	3969 N Broad St		Fremont	NE	68025	
+Dodge	GN18	11/6/2018 00:00:00	Platte West Township 027	Christensen Field Community Room	1730 W 16th Street		Fremont	NE	68025	
+Dodge	GN18	11/6/2018 00:00:00	Ridgeley Township 036	Vfw Hall-Nb/School Dist. 95	Snyder Aud./School Dist. 62			NE		
+Dodge	GN18	11/6/2018 00:00:00	UN/CT/RG/PV North 032	VFW Club-NB/School Dist. 95	Snyder Aud./Schools 46 & 62			NE		
+Dodge	GN18	11/6/2018 00:00:00	UN/CT/RG/PV South 032	VFW Club	742 Main St		North Bend	NE	68649	
+Dodge	GN18	11/6/2018 00:00:00	Webster Township 024	Dodge City Hall/All but Snyder Residents	226 N Elm St		Dodge	NE	68633	
+Dodge	GN18	11/6/2018 00:00:00	Webster Township Snyder Residents 024	Snyder Auditorium/Webster Snyder Residents	203 Ash St		Snyder	NE	68664	
+Douglas	GN18	11/6/2018 00:00:00	A V Sorenson Center	4808 Cass Street		Community Room (ADA EAST OR SOUTH DOORS)	Omaha	NE	68132	
+Douglas	GN18	11/6/2018 00:00:00	Abrahams Branch Library	5111 North 90th Street		Meeting Room (ADA MAIN ENTRANCE)	Omaha	NE	68134	
+Douglas	GN18	11/6/2018 00:00:00	Agnes Robinson Waterloo Public Library	23704 Cedar Drive		Meeting Room (ALL VOTERS USE THE MTG RM ENTRANCE)	Waterloo	NE	68069	
+Douglas	GN18	11/6/2018 00:00:00	Aldrich Elementary School	506 North 162nd Avenue		Orchestra Classroom (ADA MAIN ENTRANCE)	Omaha	NE	68118	
+Douglas	GN18	11/6/2018 00:00:00	Alfonza W. Davis Middle School	8050 North 129th Avenue		Community Connection Rm (ADA USE MAIN ENTRANCE)	Omaha	NE	68142	
+Douglas	GN18	11/6/2018 00:00:00	Alice Buffett Magnet Middle School	14101 Larimore Avenue		Commons (ADA MAIN ENTRANCE)	Omaha	NE	68164	
+Douglas	GN18	11/6/2018 00:00:00	Autism Center of Nebraska	9012 Q Street		The Great Room (ALL VOTERS USE SW ENTRANCE)	Omaha	NE	68127	
+Douglas	GN18	11/6/2018 00:00:00	Bancroft Elementary School	2724 Riverview Blvd.		East Main Lobby (ADA EAST MAIN LOBBY ENTRANCE)	Omaha	NE	68108	
+Douglas	GN18	11/6/2018 00:00:00	Beadle Middle School	18201 Jefferson Street		Commons Area (ADA MAIN ENTRANCE)	Omaha	NE	68135	
+Douglas	GN18	11/6/2018 00:00:00	Bennington Elementary School	11620 North 156th Street		Commons (ADA USE NW ENTRANCE)	Bennington	NE	68007	
+Douglas	GN18	11/6/2018 00:00:00	Bennington Fire and Rescue	10801 North 156th Street		Lobby Area (ADA USE EAST ENTRANCE)	Bennington	NE	68007	
+Douglas	GN18	11/6/2018 00:00:00	Benson High School	5120 Maple Street		North Hallway (ADA MAIN NORTH ENTRANCE)	Omaha	NE	68104	
+Douglas	GN18	11/6/2018 00:00:00	Benson Park Pavilion	7002 Military Avenue		Main Floor (ADA MAIN WEST DOORS)	Omaha	NE	68104	
+Douglas	GN18	11/6/2018 00:00:00	Benson Tower	5900 NW Radial Highway		Community Room 1st Floor (ADA N OR S ENTRANCE)	Omaha	NE	68104	
+Douglas	GN18	11/6/2018 00:00:00	Bethany Lutheran Church	5151 NW Radial Highway		Fellowship Hall (ADA MAIN ENTRANCE)	Omaha	NE	68104	
+Douglas	GN18	11/6/2018 00:00:00	Bethany Lutheran Church - Elkhorn	4200 North 204th Street		Fellowship Hall (ALL VOTERS USE EAST DOORS)	Elkhorn	NE	68022	
+Douglas	GN18	11/6/2018 00:00:00	Bethel Lutheran Church	1312 South 45th Street		Educational Wing (ALL VOTERS USE SW ENTRANCE)	Omaha	NE	68106	
+Douglas	GN18	11/6/2018 00:00:00	Black Elk Elementary School	6708 South 161st Avenue		Classroom #302 (ALL VOTERS USE MAIN ENTRANCE)	Omaha	NE	68135	
+Douglas	GN18	11/6/2018 00:00:00	Boy Scouts of America Mid-America Council	12401 West Maple Road		Storz Conference Room (ALL VOTERS USE MAIN ENTR)	Omaha	NE	68164	
+Douglas	GN18	11/6/2018 00:00:00	Brookestone Meadows	600 Brookestone Meadows Plaza		Community Room (ADA MAIN ENTRANCE)	Elkhorn	NE	68022	
+Douglas	GN18	11/6/2018 00:00:00	Brookestone Village	4330 South 144th Street		The Great Room (ADA MAIN ENTRANCE)	Omaha	NE	68137	
+Douglas	GN18	11/6/2018 00:00:00	Brookside Church	11607 M Circle		Worship Center (ADA LOWER WEST ENTRANCE)	Omaha	NE	68137	
+Douglas	GN18	11/6/2018 00:00:00	Brown Park Pavilion	5708 South 15th Street		Main Floor (ADA EAST ENTRANCE)	Omaha	NE	68107	
+Douglas	GN18	11/6/2018 00:00:00	Brownell Talbot Field House	400 N Happy Hollow Blvd.		Suzanne & Walter Scott Jr Gym (ADA SE ENTRANCE)	Omaha	NE	68132	
+Douglas	GN18	11/6/2018 00:00:00	Burke High School	12200 Burke Blvd.		South Lobby (ADA E OR W RAMP OFF STEPS)	Omaha	NE	68154	
+Douglas	GN18	11/6/2018 00:00:00	Butler-Gast Y M C A	3501 Ames Avenue		Lobby (ALL VOTERS USE MAIN/EAST ENTRANCE)	Omaha	NE	68111	
+Douglas	GN18	11/6/2018 00:00:00	Calvary Lutheran Church	2941 North 80th Street		Fellowship Hall (ADA LOWER EAST ENTRANCE)	Omaha	NE	68134	
+Douglas	GN18	11/6/2018 00:00:00	Christ Community Church	404 South 108th Avenue		C117 (ADA USE MAIN OR SOUTHEAST ENTRANCE)	Omaha	NE	68154	
+Douglas	GN18	11/6/2018 00:00:00	Christ The King Parish Center	654 South 86th Street		Parish Center (ADA NORTH ENTRANCE)	Omaha	NE	68114	
+Douglas	GN18	11/6/2018 00:00:00	City of Ralston Fire Department	7629 Park Drive		Upstairs Training Room (ADA MAIN ENTRANCE)	Ralston	NE	68127	
+Douglas	GN18	11/6/2018 00:00:00	Clair Memorial United Methodist Church	5544 Ames Avenue		Streeter Hall (ADA LOWER LEVEL ENTRANCE)	Omaha	NE	68104	
+Douglas	GN18	11/6/2018 00:00:00	Columbus Park Recreation Center	1515 South 24th Street		Meeting Room (ALL VOTERS USE NORTH ENTRANCE)	Omaha	NE	68108	
+Douglas	GN18	11/6/2018 00:00:00	Comfort Inn & Suites	7007 Grover Street		Ballroom C (ADA MAIN ENTRANCE)	Omaha	NE	68106	
+Douglas	GN18	11/6/2018 00:00:00	Common Ground Community Center	1701 Veterans Drive		Front Meeting Room (ADA USE MAIN ENTRANCE)	Elkhorn	NE	68022	
+Douglas	GN18	11/6/2018 00:00:00	Community Bible Church	9001 'Q' Street		Gymnasium (ADA GYM/EAST ENTRANCE)	Omaha	NE	68127	
+Douglas	GN18	11/6/2018 00:00:00	Community of Grace Lutheran Church	3434 North 204th Street		Fellowship Hall (ADA USE WEST ENTRANCE)	Elkhorn	NE	68022	
+Douglas	GN18	11/6/2018 00:00:00	Covenant Presbyterian Church	15002 Blondo Street		Gymnasium (All Voters Use Gymnasium Entrance)	Omaha	NE	68116	
+Douglas	GN18	11/6/2018 00:00:00	Crown Tower	5904 Henninger Drive		Community Room (ADA MAIN/SOUTH ENTRANCE)	Omaha	NE	68104	
+Douglas	GN18	11/6/2018 00:00:00	Disabled American Veterans	4515 F Street		South Hall (ALL VOTERS USE SOUTH ENTRANCE)	Omaha	NE	68117	
+Douglas	GN18	11/6/2018 00:00:00	Discovery Presbyterian Church	4622 Monroe Street		Fellowship Hall (ALL VOTERS USE WEST ENTRANCE)	Omaha	NE	68117	
+Douglas	GN18	11/6/2018 00:00:00	Don Stroh Administrative Center	5606 South 147th Street		Room A (ADA MAIN ENTRANCE)	Omaha	NE	68137	
+Douglas	GN18	11/6/2018 00:00:00	Douglas County Housing Authority North Acres	5449 North 108th Street		Community Room (ADA FRONT OR BACK ENTRANCES)	Omaha	NE	68134	
+Douglas	GN18	11/6/2018 00:00:00	Dundee Presbyterian Church	5312 Underwood Ave		Sanctuary Annex (ADA EAST ENTRANCE)	Omaha	NE	68132	
+Douglas	GN18	11/6/2018 00:00:00	Edison Elementary School	2303 North 97th Street		Front Lobby Area (ADA NORTH/CADY ST ENTRANCE)	Omaha	NE	68134	
+Douglas	GN18	11/6/2018 00:00:00	Elkhorn Hills United Methodist Church	20227 Veterans Drive		Family Life Center (ADA EAST ENTRANCE)	Elkhorn	NE	68022	
+Douglas	GN18	11/6/2018 00:00:00	Elkhorn Ridge Middle School	17880 Marcy Street		Auxiliary Gym (ALL VOTERS USE EAST SIDE ENTRANCE)	Omaha	NE	68118	
+Douglas	GN18	11/6/2018 00:00:00	Elkhorn Valley View Middle School	1313 South 208 Street		West Academic Hallway (ALL VOTERS USE WEST DOOR)	Elkhorn	NE	68022	
+Douglas	GN18	11/6/2018 00:00:00	Elks Lodge #39	6410 South 96th Street		Downstairs Mtg Room (ALL VOTERS USE LL/WEST ENTR)	Ralston	NE	68127	
+Douglas	GN18	11/6/2018 00:00:00	Elmwood Tower	801 South 52nd Street		Terrace Room, First Floor (ADA MAIN/WEST ENTRANCE)	Omaha	NE	68106	
+Douglas	GN18	11/6/2018 00:00:00	Emmanuel Fellowship	8345 Crown Point Avenue		Sanctuary (ALL VOTERS USE MAIN/WEST DOORS)	Omaha	NE	68134	
+Douglas	GN18	11/6/2018 00:00:00	Esprit Whispering Ridge	17550 Wirt Street		Rotunda Room (ALL VOTERS USE SOUTH ENTRANCE)	Omaha	NE	68116	
+Douglas	GN18	11/6/2018 00:00:00	Evans Tower	3600 North 24th Street		Community Room (ADA EAST OR WEST ENTRANCE)	Omaha	NE	68110	
+Douglas	GN18	11/6/2018 00:00:00	Ezra Millard Elementary School	14111 Blondo Street		Conference Room (ADA MAIN ENTRANCE)	Omaha	NE	68164	
+Douglas	GN18	11/6/2018 00:00:00	Faith Christian Church	2201 South 132nd Street		Narthex (ADA NORTH ENTRANCE)	Omaha	NE	68144	
+Douglas	GN18	11/6/2018 00:00:00	Faithful Shepherd Presbyterian Church	2530 South 165th Avenue		Family Life Center (ADA MAIN/SOUTH ENTRANCE)	Omaha	NE	68130	
+Douglas	GN18	11/6/2018 00:00:00	Field Club Elementary School	3512 Walnut Street		Commons Area (ADA SOUTH FLAGPOLE ENTRANCE)	Omaha	NE	68105	
+Douglas	GN18	11/6/2018 00:00:00	First Christian Church	6630 Dodge Street		Youth Center (ADA NORTHEAST ENTRANCE)	Omaha	NE	68132	
+Douglas	GN18	11/6/2018 00:00:00	First Covenant Church	201 North 90th Street (S of W Dodge Rd)		Fellowship Hall (ALL VOTERS USE SOUTH WEST DOORS)	Omaha	NE	68114	
+Douglas	GN18	11/6/2018 00:00:00	First Unitarian Church of Omaha	3114 Harney Street		Lower Level Common Room (ADA WEST SIDE ENTRANCE)	Omaha	NE	68131	
+Douglas	GN18	11/6/2018 00:00:00	First United Methodist Church	7020 Cass Street		Gathering Place (ALL VOTERS USE S OR N ENTRANCES)	Omaha	NE	68132	
+Douglas	GN18	11/6/2018 00:00:00	Flatland Church	4801 North 144th Street		Foyer (ADA WEST HNDCP ENTRANCE)	Omaha	NE	68116	
+Douglas	GN18	11/6/2018 00:00:00	Florence Christian Church	7300 North Ridge Drive		Main Entrance/East Side (ADA MAIN ENTRANCE)	Omaha	NE	68112	
+Douglas	GN18	11/6/2018 00:00:00	Florence Recreation Center	2920 Bondesson Street		Preschool Room (ADA SOUTH OR WEST DOORS)	Omaha	NE	68112	
+Douglas	GN18	11/6/2018 00:00:00	Florence Tower	5100 Florence Blvd.		Community Room (ADA FRONT OR BACK ENTRANCE)	Omaha	NE	68110	
+Douglas	GN18	11/6/2018 00:00:00	Fullerton Elementary Magnet Center	4711 North 138th Street		Main Hallway (ADA MAIN ENTRANCE)	Omaha	NE	68164	
+Douglas	GN18	11/6/2018 00:00:00	Georgia Wheeler Elementary School	6707 South 178th Street		Gymnasium (ADA USE DOOR 1)	Omaha	NE	68135	
+Douglas	GN18	11/6/2018 00:00:00	Girls Inc. of Omaha	2811 North 45th Street		Board Room (ADA MAIN ENTRANCE)	Omaha	NE	68104	
+Douglas	GN18	11/6/2018 00:00:00	Good News Church	7415 Hickory Street		Room 109 (ADA EAST LOWER LEVEL)	Omaha	NE	68124	
+Douglas	GN18	11/6/2018 00:00:00	Grace Abbott Elementary School	1313 North 156th Street		Portable Classroom (ADA PORTABLE MAIN ENTRANCE)	Omaha	NE	68118	
+Douglas	GN18	11/6/2018 00:00:00	Great Plains Paralyzed Veterans of America	7612 Maple Street		Gymnasium (ADA MAIN SOUTH ENTRANCE)	Omaha	NE	68134	
+Douglas	GN18	11/6/2018 00:00:00	Gregg Young Chevrolet	17750 Burt Street		Showroom (ADA MAIN ENTRANCE SOUTHSIDE)	Omaha	NE	68118	
+Douglas	GN18	11/6/2018 00:00:00	Hampton Inn Omaha West Dodge / Old Mill	11201 Davenport Street		1st Flr Meeting Rm (ALL VOTERS USE MAIN ENTRANCE)	Omaha	NE	68154	
+Douglas	GN18	11/6/2018 00:00:00	Hampton Inn Omaha West Lakeside	17606 Arbor Plaza		Omaha Meeting Room (ADA MAIN ENTRANCE)	Omaha	NE	68130	
+Douglas	GN18	11/6/2018 00:00:00	Hanscom Park Pavilion	3201 Woolworth Ave		Main Floor (ADA WEST ENTRANCE)	Omaha	NE	68105	
+Douglas	GN18	11/6/2018 00:00:00	Hanscom Park United Methodist Church	4444 Frances Street		Fellowship Hall (ADA N OR E SIDE OF MAIN ENTR.)	Omaha	NE	68105	
+Douglas	GN18	11/6/2018 00:00:00	Harry Andersen Middle School	15404 Adams Street		Commons Area (ADA NORTH OR SOUTH DOORS)	Omaha	NE	68137	
+Douglas	GN18	11/6/2018 00:00:00	Harvey Oaks Baptist Church	14515 Harvey Oaks Avenue		Board Room (205) (ADA EAST ENTRANCE)	Omaha	NE	68144	
+Douglas	GN18	11/6/2018 00:00:00	Harvey Oaks Elementary School	15228 Shirley Street		Conference Room (ADA MAIN ENTRANCE)	Omaha	NE	68144	
+Douglas	GN18	11/6/2018 00:00:00	Heartland Church Network	2100 South 51st Street		Main Floor Lobby (ALL VOTERS USE N GLASS DOORS)	Omaha	NE	68106	
+Douglas	GN18	11/6/2018 00:00:00	Heritage Pointe Retirement	16811 Burdette Street		Lower Level (ALL VOTERS USE SOUTH ENTRANCE)	Omaha	NE	68116	
+Douglas	GN18	11/6/2018 00:00:00	Herman Rohwer Elementary School	17701 'F' Street		New Gym (ADA DOOR 3 ENTRANCE)	Omaha	NE	68135	
+Douglas	GN18	11/6/2018 00:00:00	Highland Tower	2500 'B' Street		Recreation Room (ADA EAST ENTRANCE)	Omaha	NE	68105	
+Douglas	GN18	11/6/2018 00:00:00	Hillside Elementary School	7500 Western Avenue		North Gymnaisum (ADA NORTH GYM ENTRANCE)	Omaha	NE	68114	
+Douglas	GN18	11/6/2018 00:00:00	Hitchcock Elementary School	5809 South 104th Street		Hallway (ADA MAIN ENTRANCE)	Omaha	NE	68127	
+Douglas	GN18	11/6/2018 00:00:00	Holiday Inn Express	17677 Wright Street		1st Floor (ADA MAIN ENTRANCE)	Omaha	NE	68130	
+Douglas	GN18	11/6/2018 00:00:00	Holiday Inn Express & Suites Cherry Hills	6939 North 102 Circle		Lobby Area (ALL VOTERS USE MAIN ENTRANCE)	Omaha	NE	68122	
+Douglas	GN18	11/6/2018 00:00:00	Holy Cross Lutheran Church	4117 Terrace Drive		Narthex (ADA SOUTH ENTRANCE)	Omaha	NE	68134	
+Douglas	GN18	11/6/2018 00:00:00	Holy Name Parish Hall	2901 Fontenelle Blvd.		Church Basement Cafeteria (ADA SW MAPLE ST ENTR)	Omaha	NE	68104	
+Douglas	GN18	11/6/2018 00:00:00	Home2 Suites by Hilton	17889 Chicago Street		Retreat Room (ALL VOTERS USE MAIN ENTRANCE)	Omaha	NE	68118	
+Douglas	GN18	11/6/2018 00:00:00	Hope Presbyterian Church	5220 South 159th Avenue		Lobby (ADA MAIN ENTRANCE)	Omaha	NE	68135	
+Douglas	GN18	11/6/2018 00:00:00	Igelsia La Paz De Cristo	2410 South 16th Street		Lower Level Hall (ADA USE LL NORTH DOOR)	Omaha	NE	68108	
+Douglas	GN18	11/6/2018 00:00:00	IL Palazzo	5110 North 132 Street		Main Ballroom (ALL VOTERS USE FRONT ENTRANCE)	Omaha	NE	68164	
+Douglas	GN18	11/6/2018 00:00:00	Immanuel Lutheran Church	2725 North 60th Avenue		Fellowship Hall (ALL VOTERS USE NW ENTRANCE)	Omaha	NE	68104	
+Douglas	GN18	11/6/2018 00:00:00	Jefferson Elementary School	4065 Vinton Street		Front Lobby/Entryway (ALL VOTERS USE FRONT ENTR.)	Omaha	NE	68105	
+Douglas	GN18	11/6/2018 00:00:00	Joslyn Castle	3902 Davenport Street		Library (ADA NORTH LIFT ENTRANCE)	Omaha	NE	68131	
+Douglas	GN18	11/6/2018 00:00:00	Joy of Life Ministries	6401 North 56th Street		2nd Floor Lobby (ALL VOTERS USE S LOT ENTRANCE)	Omaha	NE	68104	
+Douglas	GN18	11/6/2018 00:00:00	Karen Western Elementary School	6224 'H' Street		Cardinal Square (ADA MAIN ENTRANCE)	Omaha	NE	68117	
+Douglas	GN18	11/6/2018 00:00:00	Keith Lutz Horizon High School	5300 George B. Lake Pkwy (208th & Q)		Gymnasium (ALL VOTERS USE FRONT ENTRANCE)	Omaha	NE	68137	
+Douglas	GN18	11/6/2018 00:00:00	Kids Can Community Center	4860 'Q' Street		Gym (ADA WEST ENTRANCE)	Omaha	NE	68117	
+Douglas	GN18	11/6/2018 00:00:00	King Science & Technology Magnet Center	3720 Florence Blvd.		Planetarium Hallway/Entrance (ADA SW ENTRANCE)	Omaha	NE	68110	
+Douglas	GN18	11/6/2018 00:00:00	Kingsway Christian Church	1106 South 139th Street		Foyer (ADA SOUTH DOUBLE DOORS)	Omaha	NE	68144	
+Douglas	GN18	11/6/2018 00:00:00	K-J Tower	4500 South 25th Street		Recreation Room (ADA EAST OR WEST ENTRANCE)	Omaha	NE	68107	
+Douglas	GN18	11/6/2018 00:00:00	Lakeside Hills Apartments Clubhouse	17040 Frances Street		Clubhouse (ADA USE MAIN ENTRANCE)	Omaha	NE	68130	
+Douglas	GN18	11/6/2018 00:00:00	Lexus of Omaha	13025 West Dodge Road		Showroom Floor (ADA USE EAST ENTRANCE)	Omaha	NE	68154	
+Douglas	GN18	11/6/2018 00:00:00	Lifegate Church	15555 West Dodge Road		Main Entrance (ADA NORTHEAST ENTRANCE)	Omaha	NE	68154	
+Douglas	GN18	11/6/2018 00:00:00	Lifegate Midtown	726 South 55th Street		LL Meeting Room (ADA USE NORTH LOT ELEVATOR)	Omaha	NE	68106	
+Douglas	GN18	11/6/2018 00:00:00	Lord of Hosts Church	5351 South 139th Plaza		LOH Future Auditorium (ALL VOTERS USE NORTH DOOR)	Omaha	NE	68137	
+Douglas	GN18	11/6/2018 00:00:00	Lord of Life Lutheran Church	20844 Bonanza Blvd		Fellowship Hall (ADA MAIN ENTRANCE)	Elkhorn	NE	68022	
+Douglas	GN18	11/6/2018 00:00:00	Lord of Love Lutheran Church	10405 Fort Street		The Narthex (ADA NORTH AND WEST DOORS)	Omaha	NE	68134	
+Douglas	GN18	11/6/2018 00:00:00	Luther Memorial Lutheran Church	1031 Sunset Trail		Fellowship Hall (ALL VOTERS USE SOUTH DOORS)	Omaha	NE	68132	
+Douglas	GN18	11/6/2018 00:00:00	Lutheran Church of the Master East	2617 South 114th Street		Fellowship Hall (ADA NORTH OR EAST ENTRANCE)	Omaha	NE	68144	
+Douglas	GN18	11/6/2018 00:00:00	Malcolm X Memorial Foundation	3448 Evans Street		Shabazz Ballroom (ALL VOTERS USE MAIN/WEST ENTR.)	Omaha	NE	68111	
+Douglas	GN18	11/6/2018 00:00:00	Manchester Elementary School	2750 North HWS Cleveland Blvd		Foyer (All Voters Use Main Entrance)	Omaha	NE	68116	
+Douglas	GN18	11/6/2018 00:00:00	Maple Ridge Retirement	3525 North 167th Circle		Maple Room (ALL VOTERS USE MAIN ENTRACE)	Omaha	NE	68116	
+Douglas	GN18	11/6/2018 00:00:00	Maplewood United Methodist Church	3535 Maplewood Blvd.		Fellowship Hall (ADA NORTH ENTRANCE)	Omaha	NE	68134	
+Douglas	GN18	11/6/2018 00:00:00	Messiah Lutheran Church	5015 South 80th Street		Fellowship Hall (ADA USE WEST/80TH ST ENTRANCE)	Ralston	NE	68127	
+Douglas	GN18	11/6/2018 00:00:00	Metropolitan Community College Fort Omaha	32nd and Sorensen Parkway		Mule Barn-Bldg 21 (ALL VOTERS USE MAIN/WEST ENTR)	Omaha	NE	68103	
+Douglas	GN18	11/6/2018 00:00:00	Millard Alliance Church	15405 Adams Street		Fellowship Hall (ADA Use East Main Entrance)	Omaha	NE	68137	
+Douglas	GN18	11/6/2018 00:00:00	Millard Branch Library	13214 Westwood Lane		Meeting Room (ALL VOTERS USE MAIN ENTRANCE)	Omaha	NE	68144	
+Douglas	GN18	11/6/2018 00:00:00	Millard West High School	5710 South 176th Avenue		Auditorium Foyer (ADA MAIN EAST ENTRANCE)	Omaha	NE	68135	
+Douglas	GN18	11/6/2018 00:00:00	Miller Park Pavilion	2707 Redick Avenue		Main Floor (ADA RAMP AT FRONT DOORS)	Omaha	NE	68111	
+Douglas	GN18	11/6/2018 00:00:00	Mockingbird Hills Community Center	10242 Mockingbird Drive		Party Room (ADA MAIN ENTRANCE)	Omaha	NE	68127	
+Douglas	GN18	11/6/2018 00:00:00	Morning Star Baptist Church	2019 Burdette Street		Multi-Purpose Room (ADA NORTH ENTRANCE)	Omaha	NE	68110	
+Douglas	GN18	11/6/2018 00:00:00	Morton Magnet Middle School	4606 Terrace Drive		South Foyer (ADA MAIN NORTH ENTRANCE)	Omaha	NE	68134	
+Douglas	GN18	11/6/2018 00:00:00	Mount Nebo Baptist Church	5501 North 50th Street		Multipurpose Room (ADA MAIN ENTRANCE)	Omaha	NE	68104	
+Douglas	GN18	11/6/2018 00:00:00	Mount Olive Lutheran Church	7301 North 28th Avenue		Luther Hall (ADA PARK WEST LOT/ USE NORTH  ENTR.)	Omaha	NE	68112	
+Douglas	GN18	11/6/2018 00:00:00	Moylan Iceplex	12550 West Maple Road		Birthday Party Rm (ADA USE FRONT ENTRANCE)	Omaha	NE	68164	
+Douglas	GN18	11/6/2018 00:00:00	Nathan Hale Middle School	6143 Whitmore Street		Room 44 (ALL VOTERS USE EAST SIDE NORTH ENTRANCE)	Omaha	NE	68152	
+Douglas	GN18	11/6/2018 00:00:00	New Cassel Retirement Center	900 North 90th Street		Auditorium (ADA AUDITORIUM DOORS)	Omaha	NE	68114	
+Douglas	GN18	11/6/2018 00:00:00	New Life Presbyterian Church	4060 Pratt Street		Fellowship Hall (ADA EAST ENTRANCE)	Omaha	NE	68111	
+Douglas	GN18	11/6/2018 00:00:00	Northwest Hills Church	9334 Fort Street		Commons Area (ALL VOTERS USE MAIN/SOUTH ENTRANCE)	Omaha	NE	68134	
+Douglas	GN18	11/6/2018 00:00:00	Olive Crest United Methodist Church	7180 North 60th Street		1st Floor Narthex (ADA NORTHWEST ENTRANCE)	Omaha	NE	68152	
+Douglas	GN18	11/6/2018 00:00:00	Omaha Bible Church	7940 State Street		Main Lobby (ALL VOTERS USE MAIN ENTRANCE)	Omaha	NE	68122	
+Douglas	GN18	11/6/2018 00:00:00	Omaha Northwest High School	8204 Crown Point Avenue		Band Room (ALL VOTERS USE EAST BAND ROOM ENTRANCE)	Omaha	NE	68134	
+Douglas	GN18	11/6/2018 00:00:00	Omaha Public Schools T A C Bldg.	3215 Cuming St		First Floor Lobby (ADA EAST ENTRANCE)	Omaha	NE	68131	
+Douglas	GN18	11/6/2018 00:00:00	Our Lady of Guadalupe Social Hall	5001 South 23rd Street		Social Hall (ALL VOTERS USE MAIN ENTRANCE)	Omaha	NE	68107	
+Douglas	GN18	11/6/2018 00:00:00	Our Lady of Lourdes Church	2110 South 32nd Avenue		St. Bernadette Hall (ADA NORTHEAST ENTRANCE)	Omaha	NE	68105	
+Douglas	GN18	11/6/2018 00:00:00	Pacific Springs Assembly of God	17515 Pacific St		Family Room (ADA MAIN ENTRANCE)	Omaha	NE	68118	
+Douglas	GN18	11/6/2018 00:00:00	Paddock Road Elementary School	3535 Paddock Road		Media Center RM 113 (ADA MEDIA CNTR ENTRANCE)	Omaha	NE	68124	
+Douglas	GN18	11/6/2018 00:00:00	Peace International Friendship Center	3314 South 44th Avenue		Front Foyer (ADA EAST OR WEST DOORS)	Omaha	NE	68105	
+Douglas	GN18	11/6/2018 00:00:00	Peace Presbyterian Church	333 South 204th Street		Fellowship Hall (ADA SOUTH DOORS)	Omaha	NE	68022	
+Douglas	GN18	11/6/2018 00:00:00	Peter Kiewit Middle School	15650 Howard Street		Small Gymnasium (ADA MAIN ENTRANCE)	Omaha	NE	68118	
+Douglas	GN18	11/6/2018 00:00:00	Picotte Elementary School	14506 Ohio Street		Front Hallway (ADA MAIN ENTRANCE)	Omaha	NE	68116	
+Douglas	GN18	11/6/2018 00:00:00	Pine Creek Elementary School	7801 North HWS Cleveland Blvd.		Gymnasium (ALL VOTERS USE EAST (GYM) ENTRANCE)	Bennington	NE	68007	
+Douglas	GN18	11/6/2018 00:00:00	Pine Towers	1500 Pine Street		Recreation Room (ADA SOUTH OR NORTH ENTRANCE)	Omaha	NE	68108	
+Douglas	GN18	11/6/2018 00:00:00	Pipal Park Community Center	7770 Hascall Street		Game Room (ADA EAST ENTRANCE)	Omaha	NE	68124	
+Douglas	GN18	11/6/2018 00:00:00	Ponca Hills Volunteer Fire Department	12919 Ponca Road		Meeting Room (ADA USE EAST ENTRANCE)	Omaha	NE	68112	
+Douglas	GN18	11/6/2018 00:00:00	Prairie Lane Reformed Church	3111 South 119th Street		Worship Center (ADA MAIN ENTRANCE BY SOUTH LOT)	Omaha	NE	68144	
+Douglas	GN18	11/6/2018 00:00:00	Prairie Wind Elementary School	10908 Ellison Avenue		Front Hallway (ADA MAIN ENTRANCE)	Omaha	NE	68164	
+Douglas	GN18	11/6/2018 00:00:00	Presbyterian Church of the Cross	1517 South 114th Street		Gathering Space (ALL VOTERS USE NORTH/LOWER ENTR.)	Omaha	NE	68144	
+Douglas	GN18	11/6/2018 00:00:00	Presbyterian Church of the Master	10710 Corby Circle		Commons (ADA MAIN ENTRANCE)	Omaha	NE	68164	
+Douglas	GN18	11/6/2018 00:00:00	Ralston City Hall	5500 South 77th Street		Lower Level Centennial Room (ADA LOWER WEST DOORS)	Ralston	NE	68127	
+Douglas	GN18	11/6/2018 00:00:00	Ralston Public Schools Administrative Offices	8545 Park Drive		Board Room (ALL VOTERS USE DOOR #2)	Ralston	NE	68127	
+Douglas	GN18	11/6/2018 00:00:00	Ralston United Church of Christ	7638 Maywood Street		Fellowship Hall (ALL VOTERS USE MAIN ENTRANCE)	Ralston	NE	68127	
+Douglas	GN18	11/6/2018 00:00:00	Regency Lake & Tennis Club	606 Regency Parkway		Clubhouse - Upper Level (ADA RAMP TO UPPER LEVEL)	Omaha	NE	68114	
+Douglas	GN18	11/6/2018 00:00:00	Rejoice! Lutheran Church	2556 South 138th Street		Commons Area (ADA EAST ENTRANCE)	Omaha	NE	68144	
+Douglas	GN18	11/6/2018 00:00:00	Rockbrook United Methodist Church	9855 West Center Road		Fellowship Hall (ADA SOUTHWEST ENTRANCE)	Omaha	NE	68124	
+Douglas	GN18	11/6/2018 00:00:00	Rolling Hills Ranch Retirement	4324 North 132nd Street		2nd Floor Library (ADA MAIN ENTRANCE)	Omaha	NE	68164	
+Douglas	GN18	11/6/2018 00:00:00	Ronald W. Reagan Elementary School	4440 South 198th Avenue		South Side Portable (ALL VOTERS USE MAIN ENTRANCE)	Omaha	NE	68135	
+Douglas	GN18	11/6/2018 00:00:00	Russell Middle School	5304 South 172nd Street		Commons Area (ADA MAIN ENTRANCE)	Omaha	NE	68135	
+Douglas	GN18	11/6/2018 00:00:00	Saddlebrook Community Center	14850 Laurel Avenue		Commons (ADA USE NORTH ENTRANCE)	Omaha	NE	68116	
+Douglas	GN18	11/6/2018 00:00:00	Sagewood Elementary School	4910 North 177th Street		Front Entryway (ALL VOTERS USE FRONT ENTRANCE)	Omaha	NE	68116	
+Douglas	GN18	11/6/2018 00:00:00	Salvation Army Kroc Center	2825 Y Street		Fellowship Hall (ALL VOTERS USE MAIN ENTRANCE)	Omaha	NE	68107	
+Douglas	GN18	11/6/2018 00:00:00	Santa Lucia Hall	725 Pierce Street		Main Hall (ALL VOTERS USE MAIN/NORTH ENTRANCE)	Omaha	NE	68108	
+Douglas	GN18	11/6/2018 00:00:00	Shepherd of the Hills Lutheran Church	6201 North 60th Street		The Gathering Area (ALL VOTERS USE MAIN ENTRANCE)	Omaha	NE	68104	
+Douglas	GN18	11/6/2018 00:00:00	Southwest Church of the Nazarene	14808 'Q' Street		Worship Area (ADA MAIN SOUTH ENTRANCE)	Omaha	NE	68137	
+Douglas	GN18	11/6/2018 00:00:00	Spring Lake Elementary School	4215 South 20th Street		Office Hallway (ADA MAIN NW DOORS)	Omaha	NE	68107	
+Douglas	GN18	11/6/2018 00:00:00	Spring Ridge Elementary School	17830 Shadow Ridge Dr		Gymnasium (ADA EAST ENTRANCE)	Omaha	NE	68130	
+Douglas	GN18	11/6/2018 00:00:00	Springville Elementary School	7400 North 60th Street		Atrium (ADA FRONT ENTRANCE)	Omaha	NE	68152	
+Douglas	GN18	11/6/2018 00:00:00	St. Andrew United Methodist Church	15050 West Maple Road		Family Life Cntr. (ALL VOTERS USE WEST SIDE ENTR)	Omaha	NE	68116	
+Douglas	GN18	11/6/2018 00:00:00	St. Andrews Episcopal Church	925 South 84th Street		Parish Hall (ALL VOTERS USE LWR EAST DOUBLE DOORS)	Omaha	NE	68114	
+Douglas	GN18	11/6/2018 00:00:00	St. Bernard's Church Rectory	3601 North 65th Street		Clairvaux Center (ADA MAIN WEST DOORS)	Omaha	NE	68104	
+Douglas	GN18	11/6/2018 00:00:00	St. Elizabeth Ann Seton Catholic Church	5419 North 114th Street		Parish Center (ADA MAIN ENTRANCE)	Omaha	NE	68164	
+Douglas	GN18	11/6/2018 00:00:00	St. Francis of Assisi Church	4513 South 32nd Street		Church Hall (ADA NORTHEAST ENTRANCE)	Omaha	NE	68107	
+Douglas	GN18	11/6/2018 00:00:00	St. Joan Of Arc Catholic Church	7501 Vinton Street		Gathering Area (ADA NORTHEAST ENTRANCE)	Omaha	NE	68124	
+Douglas	GN18	11/6/2018 00:00:00	St. John Lutheran Church	322 North Molley Street		Fellowship Hall (ADA MAIN EAST ENTRANCE)	Bennington	NE	68007	
+Douglas	GN18	11/6/2018 00:00:00	St. Leo Catholic Church	1920 North 102nd Street		Fireplace Room (ADA SOUTHEAST ENTRANCE)	Omaha	NE	68114	
+Douglas	GN18	11/6/2018 00:00:00	St. Margaret Mary Catholic Church	6116 Dodge Street		Suneg Center (ADA SOUTHEAST ENTRANCE)	Omaha	NE	68132	
+Douglas	GN18	11/6/2018 00:00:00	St. Matthew Lutheran Church	1725 South 60th Street		Fellowship Hall (ADA NORTH ENTRANCE)	Omaha	NE	68106	
+Douglas	GN18	11/6/2018 00:00:00	St. Michael Lutheran Church	13232 Blondo Street		Bronstad Center (ALL VOTER USE LL EAST ENTRANCE)	Omaha	NE	68164	
+Douglas	GN18	11/6/2018 00:00:00	St. Paul Lutheran Church	13271 Millard Avenue		Church Commons (ADA NORTH OR SOUTH ENTRANCE)	Omaha	NE	68137	
+Douglas	GN18	11/6/2018 00:00:00	St. Paul Lutheran Church and School	5020 Grand Avenue		Northwest Room (ALL VOTERS USE NW/LOWER ENTRANCE)	Omaha	NE	68104	
+Douglas	GN18	11/6/2018 00:00:00	St. Peter's McMahon Hall	723 South 27th Street		NW Area of Building (ADA WEST ENTRANCE)	Omaha	NE	68105	
+Douglas	GN18	11/6/2018 00:00:00	St. Pius X/St. Leo School	6905 Blondo Street		Parish Center Entry (ALL VOTERS USE NORTH ENTRY)	Omaha	NE	68104	
+Douglas	GN18	11/6/2018 00:00:00	St. Stephen Church Parish Center	5625 South 167th Plaza		Gonderinger Parish Cntr (S of Church) (ADA MAIN)	Omaha	NE	68135	
+Douglas	GN18	11/6/2018 00:00:00	St. Thomas Lutheran Church	17007 'Q' Street		Fellowship Hall (ADA MAIN ENTRANCE)	Omaha	NE	68135	
+Douglas	GN18	11/6/2018 00:00:00	Standing Bear Elementary School	15860 Taylor Street		Lobby (ADA FRONT ENTRANCE)	Omaha	NE	68116	
+Douglas	GN18	11/6/2018 00:00:00	Starlight Chateau	1310 North 29th Street		Skylight Room (ALL VOTERS USE WEST ENTRANCE)	Omaha	NE	68131	
+Douglas	GN18	11/6/2018 00:00:00	State Office Building	1313 Farnam Street		2nd Floor Atrium (North Side) (ADA EAST ENTRANCE)	Omaha	NE	68102	
+Douglas	GN18	11/6/2018 00:00:00	Stonebridge Christian Church (Omaha Campus)	15801 Butler Avenue		Foyer (ALL VOTERS USE WEST ENTRANCE)	Omaha	NE	68116	
+Douglas	GN18	11/6/2018 00:00:00	Stony Brook Church	14345 Y Street		Fellowship Hall (ADA USE MAIN ENTRANCE)	Omaha	NE	68137	
+Douglas	GN18	11/6/2018 00:00:00	Sts. Peter & Paul School	3619 'X' Street		School Gymnasium (ADA NORTH OR SOUTH ENTRANCE)	Omaha	NE	68107	
+Douglas	GN18	11/6/2018 00:00:00	Sunny Slope Elementary School	10828 Old Maple Road		Front Hall (ADA SOUTHEAST ENTRANCE)	Omaha	NE	68164	
+Douglas	GN18	11/6/2018 00:00:00	Sunridge Village Retirement Community	13410 Blondo Street		Community Room (ADA MAIN ENTRANCE)	Omaha	NE	68164	
+Douglas	GN18	11/6/2018 00:00:00	The Center	1941 South 42nd Street		2nd Level Commons (ADA 1ST, 2ND OR 3RD LEVELS)	Omaha	NE	68105	
+Douglas	GN18	11/6/2018 00:00:00	The Village On the Preserve Apartments	18661 Elm Plaza		Clubhouse Party Room (ALL VOTERS USE MAIN ENTR.)	Omaha	NE	68130	
+Douglas	GN18	11/6/2018 00:00:00	The Waterford At Miracle Hills	11909 Miracle Hills Drive		Lobby (ADA MAIN ENTRANCE)	Omaha	NE	68154	
+Douglas	GN18	11/6/2018 00:00:00	The Waterford At Roxbury Park	5728 South 108th Street		Activity Room (ALL VOTERS USE MAIN ENTRANCE)	Omaha	NE	68137	
+Douglas	GN18	11/6/2018 00:00:00	TRI Community United Methodist Church	6001 Fontenelle Blvd.		Fellowship Hall (ADA NORTH & SOUTH ENTRANCE)	Omaha	NE	68111	
+Douglas	GN18	11/6/2018 00:00:00	Trinity Lutheran Church	6340 North 30th Street		Fellowship Hall (ALL VOTERS USE SOUTH ENTRANCE)	Omaha	NE	68111	
+Douglas	GN18	11/6/2018 00:00:00	Twin Rivers Y M C A	6100 Twin Rivers Circle		Teen Center (ADA USE EAST OR SOUTH ENTRANCE)	Valley	NE	68064	
+Douglas	GN18	11/6/2018 00:00:00	Unity Church of Omaha	3424 North 90th Street		Social Hall/Cafeteria (ADA EAST ENTRANCE)	Omaha	NE	68134	
+Douglas	GN18	11/6/2018 00:00:00	UNO Mammel Hall College of Business	6708 Pine Street		Main Atrium (ALL VOTERS USE NW ATRIUM ENTRANCE)	Omaha	NE	68182	
+Douglas	GN18	11/6/2018 00:00:00	Urban League of Nebraska	3040 Lake Street		Conf. Room #100 (ADA SOUTH PARKING & EAST ENTR)	Omaha	NE	68111	
+Douglas	GN18	11/6/2018 00:00:00	VFW Post #2503	8904 Military Road		North Room (ADA EAST ENTRANCE)	Omaha	NE	68134	
+Douglas	GN18	11/6/2018 00:00:00	Village of Boys Town Fire Department	242 Monsky Drive		Truck Bay #1, Station South End (ADA SOUTH ENTR.)	Boys Town	NE	68010	
+Douglas	GN18	11/6/2018 00:00:00	VJ & Angela Skutt Catholic High School	3131 South 156th Street		Auxiliary Gym (ADA MAIN GYM ENTRANCE)	Omaha	NE	68130	
+Douglas	GN18	11/6/2018 00:00:00	W. Clarke Swanson Branch Library	9101 West Dodge Road		Meeting Room (Lower Level) (ADA LOWER E OR S DOOR)	Omaha	NE	68114	
+Douglas	GN18	11/6/2018 00:00:00	W. Dale Clark Library	215 South 15th Street		Meeting Room #1 LL (ADA WEST UPPER OR LOWER)	Omaha	NE	68102	
+Douglas	GN18	11/6/2018 00:00:00	Wakonda Elementary School	4845 Curtis Avenue		Art Room (ADA MAIN ENTRANCE)	Omaha	NE	68104	
+Douglas	GN18	11/6/2018 00:00:00	Walnut Grove Retirement	4901 South 153rd Street		Ambassador Room (ALL VOTERS USE MAIN ENTRANCE)	Omaha	NE	68137	
+Douglas	GN18	11/6/2018 00:00:00	Walnut Hill Elementary School	4370 Hamilton Street		Corridor 1-101 (East Hall) (ADA LOWER EAST ENTR.)	Omaha	NE	68131	
+Douglas	GN18	11/6/2018 00:00:00	West Bay Elementary School	3220 South 188th Street		Front Entryway (All Voters Use Front Entrance)	Omaha	NE	68135	
+Douglas	GN18	11/6/2018 00:00:00	Westside H S West Campus	3534 South 108th Street		Flex Lab, LL (ALL VOTERS USE WEST ENTRANCE)	Omaha	NE	68144	
+Douglas	GN18	11/6/2018 00:00:00	Westwood Heights Baptist Church	3343 South Pedersen Dr		Multi-Purpose Building/Gym (ADA NORTH ENTRANCE)	Omaha	NE	68144	
+Douglas	GN18	11/6/2018 00:00:00	Wildewood Elementary School	8071 Ralston Avenue		Gymnasium (ADA MAIN ENTRANCE)	Ralston	NE	68127	
+Douglas	GN18	11/6/2018 00:00:00	Willa Cather Elementary School	3030 South 139th Plaza		Portable (ALL VOTERS USE PORTABLE ENTRANCE)	Omaha	NE	68144	
+Douglas	GN18	11/6/2018 00:00:00	Wilson Focus School	5141 F Street		Gymnasium (ALL VOTERS USE SW DOOR)	Omaha	NE	68117	
+Douglas	GN18	11/6/2018 00:00:00	Woodhouse Buick GMC of Omaha	11911 'I' Street		Showroom - SE Side (ADA MAIN/SOUTH ENTRANCE)	Omaha	NE	68137	
+Douglas	GN18	11/6/2018 00:00:00	Zion West Lutheran Church	14205 Ida Street		Lakeview Room (ADA MAIN ENTRANCE)	Omaha	NE	68142	
+Dundy	GN18	11/6/2018 00:00:00	Benkelman Community Building					NE		
+Dundy	GN18	11/6/2018 00:00:00	Benkelman Legion Hall				Benkelman	NE	69021	
+Dundy	GN18	11/6/2018 00:00:00	Haigler American Legion Hall	Porter Ave			Haigler	NE	69030	
+Dundy	GN18	11/6/2018 00:00:00	Rainbow Fountain Park	100 Rainbow Ftn	Park		Benkelman	NE	69021	
+Fillmore	GN18	11/6/2018 00:00:00	Exeter Fire Hall - 101	414 5th Street			Exeter	NE	68351	
+Fillmore	GN18	11/6/2018 00:00:00	Fairmont Village Office - 102	635 5th Ave			Fairmont	NE	68354	
+Fillmore	GN18	11/6/2018 00:00:00	Fillmore County Fairgrounds Ag Hall Building - 104	101 Fairgrounds			Geneva	NE	68361	
+Fillmore	GN18	11/6/2018 00:00:00	Fillmore County Fairgrounds Ag Hall Building - 105	101 Fairgrounds			Geneva	NE	68361	
+Fillmore	GN18	11/6/2018 00:00:00	Fillmore County Fairgrounds Ag Hall Building - 106	101 Fairgrounds			Geneva	NE	68361	
+Fillmore	GN18	11/6/2018 00:00:00	Fillmore County Fairgrounds Ag Hall Building - 107	101 Fairgrounds			Geneva	NE	68361	
+Fillmore	GN18	11/6/2018 00:00:00	Fillmore County Fairgrounds Ag Hall Building - 109	101 Fairgrounds			Geneva	NE	68361	
+Fillmore	GN18	11/6/2018 00:00:00	Grafton Community Center - 103	260 N. Washington Ave			Grafton	NE	68365	
+Fillmore	GN18	11/6/2018 00:00:00	Milligan Fire Hall - 108				Milligan	NE	68406	
+Fillmore	GN18	11/6/2018 00:00:00	Shickley Community Building - #110	102 N. Market Street			Shickley	NE	68436	
+Franklin	GN18	11/6/2018 00:00:00	Campbell Community Hall	721 Broad Street			Campbell	NE	68932	
+Franklin	GN18	11/6/2018 00:00:00	Evangelical Free Church	1705 I Street			Franklin	NE	68939	
+Franklin	GN18	11/6/2018 00:00:00	Grace Lutheran Church	1206 N Street			Franklin	NE	68939	
+Franklin	GN18	11/6/2018 00:00:00	Trinity Lutheran Church	502 Sanders Avenue			Hildreth	NE	68947	
+Frontier	GN18	11/6/2018 00:00:00	Commissioner Room Courthouse	#1 Wellington St		P.O. Box 40	Stockville	NE	69042	
+Frontier	GN18	11/6/2018 00:00:00	Eustis Town Hall	106 North Morton Street		P.O. Box 249	Eustis	NE	69028	
+Frontier	GN18	11/6/2018 00:00:00	Garden Prairie Church	Hwy 83			Mccook	NE	69001	
+Frontier	GN18	11/6/2018 00:00:00	Maywood Town Hall	110 South Commercial Street		P.O. Box 33	Maywood	NE	69038	
+Frontier	GN18	11/6/2018 00:00:00	Methodist Church	402 Center Ave.		P.O. Box 28	Curtis	NE	69025	
+Furnas	GN18	11/6/2018 00:00:00	Baptist Christian Church	123 Main Street			Wilsonville	NE	69046	
+Furnas	GN18	11/6/2018 00:00:00	Cambridge City Office Building	722 Patterson Street			Cambridge	NE	69022	
+Furnas	GN18	11/6/2018 00:00:00	Edison City Office Building	123 Main Street			Edison	NE	68936	
+Furnas	GN18	11/6/2018 00:00:00	Ella Missing Center	411 6th Street			Arapahoe	NE	68922	
+Furnas	GN18	11/6/2018 00:00:00	Furnas Co. Courthouse	912 R Street			Beaver City	NE	68926	
+Furnas	GN18	11/6/2018 00:00:00	Golden Generation Center	600 Central St			Oxford	NE	68967	
+Furnas	GN18	11/6/2018 00:00:00	Hendley School Building	410 5th Street			Hendley	NE	68946	
+Furnas	GN18	11/6/2018 00:00:00	Holbrook Community Building	123 Main Street			Holbrook	NE	68948	
+Gage	GN18	11/6/2018 00:00:00	Adams Village Office	730 Main St			Adams	NE	68301	
+Gage	GN18	11/6/2018 00:00:00	Beatrice Public Library	100 N 16th St			Beatrice	NE	68310	
+Gage	GN18	11/6/2018 00:00:00	Christ Community Church 1	2727 Lincoln St			Beatrice	NE	68310	
+Gage	GN18	11/6/2018 00:00:00	Christ Community Church 2	2727 Lincoln St			Beatrice	NE	68310	
+Gage	GN18	11/6/2018 00:00:00	Cortland Community Center	530 Lincoln Ave			Cortland	NE	68331	
+Gage	GN18	11/6/2018 00:00:00	Extension Office	1115 W Scott St.			Beatrice	NE	68310	
+Gage	GN18	11/6/2018 00:00:00	Filley Community Building				Filley	NE	68357	
+Gage	GN18	11/6/2018 00:00:00	Odell Community Building	202 Main St			Odell	NE	68415	
+Gage	GN18	11/6/2018 00:00:00	The Villa	2211 Sunset Dr			Beatrice	NE	68310	
+Gage	GN18	11/6/2018 00:00:00	Wymore Community Center				Wymore	NE	68466	
+Garden	GN18	11/6/2018 00:00:00	All Mail Precinct	Garden County Courthouse	611 Main Street		Oshkosh	NE	69154	
+Garfield	GN18	11/6/2018 00:00:00	Catholic Parish Center	727 I St			Burwell	NE	68823	
+Gosper	GN18	11/6/2018 00:00:00	Courthouse	507 Smith Ave			Elwood	NE	68937	
+Gosper	GN18	11/6/2018 00:00:00	Hope Lutheran Church	74094 Rd 436			Smithfield	NE	68976	
+Gosper	GN18	11/6/2018 00:00:00	Our Redeemer Lutheran Church	704 Smith Ave			Elwood	NE	68937	
+Gosper	GN18	11/6/2018 00:00:00	South County Shop	42423 Rd 728			Arapahoe	NE	68922	
+Grant_Ne	GN18	11/6/2018 00:00:00	Grant Co. Courthouse	105 East Harrison Street			Hyannis	NE	69350	0139
+Greeley	GN18	11/6/2018 00:00:00	Courthouse Assembly Room				Greeley Ne	NE	68842	
+Greeley	GN18	11/6/2018 00:00:00	Scotia Community Center				Scotia Ne	NE	68875	
+Greeley	GN18	11/6/2018 00:00:00	Spalding Auditorium				Spalding Ne	NE	68665	
+Greeley	GN18	11/6/2018 00:00:00	Wolbach Community Center				Wolbach Ne	NE	68882	
+Hall	GN18	11/6/2018 00:00:00	Alda Community Center (Precinct 23)	6410 W Hwy 30			Alda	NE	68810	
+Hall	GN18	11/6/2018 00:00:00	Calvary Lutheran Church (Precinct 9)	1304 N Custer Ave			Grand Island	NE	68803	
+Hall	GN18	11/6/2018 00:00:00	Doniphan Area Event Center (Precinct 25)	103 W Pine Street			Doniphan	NE	68832	
+Hall	GN18	11/6/2018 00:00:00	Evangelical Free Church (Precinct 5)	2609 S Blaine Street			Grand Island	NE	68801	
+Hall	GN18	11/6/2018 00:00:00	First Baptist Church (Precinct 21)	107 E Nile Street			Cairo	NE	68824	
+Hall	GN18	11/6/2018 00:00:00	First Presbyterian Church (Precinct 7)	2103 W Anna Street			Grand Island	NE	68801	
+Hall	GN18	11/6/2018 00:00:00	Fonner Park Cafe (Precinct 4)	700 E Stolley Park Road			Grand Island	NE	68801	
+Hall	GN18	11/6/2018 00:00:00	Golden Towers (Precinct 10)	804 N Boggs Ave			Grand Island	NE	68803	
+Hall	GN18	11/6/2018 00:00:00	Grace Lutheran Church (Precinct 3)	545 Memorial Drive			Grand Island	NE	68801	
+Hall	GN18	11/6/2018 00:00:00	Grand Island Public Library (Precinct 8)	1124 W. Second St			Grand Island	NE	68801	
+Hall	GN18	11/6/2018 00:00:00	Heartland Lutheran High School (Precinct 16)	3900 W Husker Hwy			Grand Island	NE	68803	
+Hall	GN18	11/6/2018 00:00:00	Northridge Assembly of God (Precinct 13)	3025 Independence Ave			Grand Island	NE	68803	
+Hall	GN18	11/6/2018 00:00:00	Peace Lutheran Church (Precinct 14)	1710 N North Road			Grand Island	NE	68803	
+Hall	GN18	11/6/2018 00:00:00	Seedling Mile School (Precinct 17)	3208 Seedling Mile Road			Grand Island	NE	68801	
+Hall	GN18	11/6/2018 00:00:00	St. Leo's Church (Precinct 6)	2410 S Blaine Street			Grand Island	NE	68801	
+Hall	GN18	11/6/2018 00:00:00	St. Mary's Annex (Precinct 2)	112 South Cedar St			Grand Island	NE	68801	
+Hall	GN18	11/6/2018 00:00:00	Third City Christian Church (Precinct 15)	4100 W 13th Street			Grand Island	NE	68803	
+Hall	GN18	11/6/2018 00:00:00	Trinity Lutheran Church (Precinct 1)	212 W 12th Street			Grand Island	NE	68801	
+Hall	GN18	11/6/2018 00:00:00	Trinity United Methodist Church (Precinct 12)	511 N Elm Street			Grand Island	NE	68801	
+Hall	GN18	11/6/2018 00:00:00	United Veterans Club (Precinct 11)	1914 W Capital Ave			Grand Island	NE	68803	
+Hall	GN18	11/6/2018 00:00:00	Wood River Community Center (Precinct 22-Wr City)	108 West 10th Street			Wood River	NE	68883	
+Hamilton	GN18	11/6/2018 00:00:00	Bremer Community Center 11.1	1604 L Street			Aurora	NE	68818	
+Hamilton	GN18	11/6/2018 00:00:00	Bremer Community Center 9.1	1604 L Street			Aurora	NE	68818	
+Hamilton	GN18	11/6/2018 00:00:00	Bremer Community Center10.1	1604 L Street			Aurora	NE	68818	
+Hamilton	GN18	11/6/2018 00:00:00	Hordville Community Hall	110 Main Street			Hordville	NE	68846	
+Hamilton	GN18	11/6/2018 00:00:00	Mail Only					NE		
+Hamilton	GN18	11/6/2018 00:00:00	Marquette Fire Station/City Hall	405 Marquis Ave			Marquette	NE	68854	
+Harlan	GN18	11/6/2018 00:00:00	Courthouse, Meeting Room	Harlan County Courthouse	706 2nd Street		Alma	NE	68920	
+Harlan	GN18	11/6/2018 00:00:00	Courthouse, Supervisor Room	Harlan County Courthouse	706 2nd Street		Alma	NE	68920	
+Harlan	GN18	11/6/2018 00:00:00	Courthouse, West Hall	Harlan County Courthouse	706 2nd Street		Alma	NE	68920	
+Harlan	GN18	11/6/2018 00:00:00	Orleans- Mail in Precinct					NE		
+Harlan	GN18	11/6/2018 00:00:00	Oxford - Mail in Precinct	Mail In Ballots	PO Box 698		Alma	NE	68920	
+Harlan	GN18	11/6/2018 00:00:00	Ragan Fire Hall - Mail in Precinct	PO Box 698			Alma	NE	68920	
+Harlan	GN18	11/6/2018 00:00:00	Republican City - Mail in Precinct	PO Box 698			Alma	NE	68920	
+Harlan	GN18	11/6/2018 00:00:00	Stamford-Mail in Precinct							
+Hayes	GN18	11/6/2018 00:00:00	Ag Building	209 Morton St			Hayes Center	NE	69032	
+Hayes	GN18	11/6/2018 00:00:00	Ag Building 2	209 Morton Street			Hayes Center	NE	69032	
+Hayes	GN18	11/6/2018 00:00:00	Ag Building 3	209 Morton Street			Hayes Center	NE	69032	
+Hitchcock	GN18	11/6/2018 00:00:00	4-H Building Hitchcock County Fairgrounds	315 Railroad Street			Culbertson	NE	69024	
+Hitchcock	GN18	11/6/2018 00:00:00	Hitchcock County Courthouse	229 East D Street			Trenton	NE	69044	
+Hitchcock	GN18	11/6/2018 00:00:00	Mihm Hall	103 North Vennum Street			Palisade	NE	69040	
+Hitchcock	GN18	11/6/2018 00:00:00	Veteran's Memorial Hall	502 Bailey Street			Stratton	NE	69043	
+Holt	GN18	11/6/2018 00:00:00	Atkinson Community Center #2	206 W Fifth Street			Atkinson	NE	68713	
+Holt	GN18	11/6/2018 00:00:00	Atkinson Community Center #9	206 W Fifth Street			Atkinson	NE	68713	
+Holt	GN18	11/6/2018 00:00:00	Chambers Fire Hall	Highway 95			Chambers	NE	68725	
+Holt	GN18	11/6/2018 00:00:00	Ewing Municipal Building	209 East Nebraska Street			Ewing	NE	68735	
+Holt	GN18	11/6/2018 00:00:00	Inman Fire Hall	Main Street			Inman	NE	68742	
+Holt	GN18	11/6/2018 00:00:00	Northeast Community College #10	409 East Adams Street			O'Neill	NE	68763	
+Holt	GN18	11/6/2018 00:00:00	Northeast Community College #11	409 East Adams Street			O'Neill	NE	68763	
+Holt	GN18	11/6/2018 00:00:00	O'neill Kc Hall # 8	West Hwy 20			O'Neill	NE	68763	
+Holt	GN18	11/6/2018 00:00:00	O'neill Kc Hall #4	West Hwy 20			O'Neill	NE	68763	
+Holt	GN18	11/6/2018 00:00:00	O'neill National Guard Armory #12	635 N 4th Street			O'Neill	NE	68763	
+Holt	GN18	11/6/2018 00:00:00	O'neill National Guard Armory #13	635 N 4th St			O'Neill	NE	68763	
+Holt	GN18	11/6/2018 00:00:00	Page Fire Hall	105 N Fifth Street			Page	NE	68766	
+Holt	GN18	11/6/2018 00:00:00	Stuart Auditorium	204 Parnell Street			Stuart	NE	68780	
+Hooker	GN18	11/6/2018 00:00:00	Hooker County Library	102 North Cleveland			Mullen	NE		
+Howard	GN18	11/6/2018 00:00:00	Civic Center	622 Delaware St.			Boelus	NE	68820	
+Howard	GN18	11/6/2018 00:00:00	Columbia Hall	104 N Mill St			Dannebrog	NE	68831	
+Howard	GN18	11/6/2018 00:00:00	Courthouse Assembly Room	612 Indian			St. Paul	NE	68873	
+Howard	GN18	11/6/2018 00:00:00	Drivers Exam Room	612 Indian			St. Paul	NE	68873	
+Howard	GN18	11/6/2018 00:00:00	Elba Community Center	614 New Street			Elba	NE	68835	
+Howard	GN18	11/6/2018 00:00:00	Library Community Room	1301 Howard Ave.			St. Paul	NE	68873	
+Howard	GN18	11/6/2018 00:00:00	Louis Pawlowski Center	300 South Rd.			Farwell	NE	68838	
+Howard	GN18	11/6/2018 00:00:00	St. Libory Fire Station	336 Hwy 281			St. Libory	NE	68872	
+Jefferson	GN18	11/6/2018 00:00:00	4-h Building Fairgrounds Buck-Ant-end	56885 Pwf Rd			Fairbury	NE	68352	
+Jefferson	GN18	11/6/2018 00:00:00	American Legion Cub Creek-Rock Creek	404 Broad Street			Jansen	NE	68377	
+Jefferson	GN18	11/6/2018 00:00:00	American Lutheran Church Fellowship Hall-Ward 4	12th & K Street			Fairbury	NE	68352	
+Jefferson	GN18	11/6/2018 00:00:00	Community Building City Park   Ward 2	601 City Park Rd			Fairbury	NE	68352	
+Jefferson	GN18	11/6/2018 00:00:00	Daykin Community Building, Eureka-Washington	201 Mary Ave			Daykin	NE	68338	
+Jefferson	GN18	11/6/2018 00:00:00	Diller Community Building  Jeff-Pleas-New	503 Commercial Street			Diller	NE	68342	
+Jefferson	GN18	11/6/2018 00:00:00	First Christian Church  Lin-Mer-Fby-Rich	2625 H Street			Fairbury	NE	68352	
+Jefferson	GN18	11/6/2018 00:00:00	Grace Lutheran Church-Foyer  Ward 3	1100 G Street			Fairbury	NE	68352	
+Jefferson	GN18	11/6/2018 00:00:00	Methodist Church Fellowship Hall-Ward 1	605 E Street			Fairbury	NE	68352	
+Jefferson	GN18	11/6/2018 00:00:00	Plymouth Community Building Plymouth-Gibson	313 E Main Street			Plymouth	NE	68424	
+Johnson	GN18	11/6/2018 00:00:00	4-H Building	677 North 1st			Tecumseh	NE	68450	
+Johnson	GN18	11/6/2018 00:00:00	American Legion	160 Broadway			Sterling	NE	68443	
+Johnson	GN18	11/6/2018 00:00:00	Cook Community Building	121 West Main			Cook	NE	68329	
+Johnson	GN18	11/6/2018 00:00:00	Crab Orchard Community Bldg	60838 725 Rd			Crab Orchard	NE	68332	
+Johnson	GN18	11/6/2018 00:00:00	Elk Creek Fire Hall	364 Elk Street			Elk Creek	NE	68348	
+Johnson	GN18	11/6/2018 00:00:00	Tecumseh Community Bldg	355 Clay			Tecumseh	NE	68450	
+Kearney	GN18	11/6/2018 00:00:00	Axtell Community Hall		Main Street		Axtell	NE	68924	
+Kearney	GN18	11/6/2018 00:00:00	Fort Kearny State Park		1020 V Rd	Visitors Center	Kearney	NE	68847	
+Kearney	GN18	11/6/2018 00:00:00	Fredricksburg Lutheran Church		616 33 Road		Minden	NE	68959	
+Kearney	GN18	11/6/2018 00:00:00	Heartwell Community Center		Main Street		Heartwell	NE	68945	
+Kearney	GN18	11/6/2018 00:00:00	Kearney County Courthouse		424 N. Colorado	Assembly Room	Minden	NE	68959	
+Kearney	GN18	11/6/2018 00:00:00	Minden Fire Hall		325 North Colorado		Minden	NE	68959	
+Kearney	GN18	11/6/2018 00:00:00	Minden Senior Center		403 North Colorado Ave		Minden	NE	68959	
+Kearney	GN18	11/6/2018 00:00:00	St Paul Lutheran Church		42 Rd and X Rd	East of Lowell	Gibbon	NE	68840	
+Kearney	GN18	11/6/2018 00:00:00	United Methodist Church		340 North Newell Avenue	South Entrance	Minden	NE	68959	
+Kearney	GN18	11/6/2018 00:00:00	Wilcox Village Hall		107 West Sapp		Wilcox	NE	68982	
+Keith	GN18	11/6/2018 00:00:00	Brule Community Center	212 State St			Brule	NE	69127	
+Keith	GN18	11/6/2018 00:00:00	Keith County Fairgrounds	1000 West Third			Ogallala	NE	69153	
+Keith	GN18	11/6/2018 00:00:00	Keystone Lemoyne Fire Hall	1860 Highway 61 North			Keystone	NE	69144	
+Keith	GN18	11/6/2018 00:00:00	Paxton Community Hall	207 North Oak St.			Paxton	NE	69155	
+Keyapaha	GN18	11/6/2018 00:00:00	Springview Grade School	345 E. Football Ave.			Springview	NE	68778	
+Kimball	GN18	11/6/2018 00:00:00	Bushnell Firehall	312 Birch Street			Bushnell	NE	69128	
+Kimball	GN18	11/6/2018 00:00:00	Dix Firehall	300 Crownover			Dix	NE	69133	
+Kimball	GN18	11/6/2018 00:00:00	Kimball Event Center	615 East 3rd Street			Kimball	NE	69145	
+Knox	GN18	11/6/2018 00:00:00	Bloomfield Community Center	101 S Broadway St			Bloomfield	NE	68718	
+Knox	GN18	11/6/2018 00:00:00	Center Community Hall	207 Main St			Center	NE	68724	
+Knox	GN18	11/6/2018 00:00:00	Crofton City Auditorium	1214 W 2nd St			Crofton	NE	68730	
+Knox	GN18	11/6/2018 00:00:00	Mail Only Precinct	Ballots will be automatically	mailed to you.			NE		
+Knox	GN18	11/6/2018 00:00:00	Walter T. Larson Senior Citizen Center	705 Peabody Ave			Creighton	NE	68729	
+Knox	GN18	11/6/2018 00:00:00	Wausa City Auditorium	406 E Broadway St			Wausa	NE	68786	
+Lancaster	GN18	11/6/2018 00:00:00	Air Park West Rec. Center ^	3720 NW 46th St		(Enter South Door)	Lincoln	NE	68524	
+Lancaster	GN18	11/6/2018 00:00:00	Air Park West Rec. Center ^^	3720 NW 46th St		(Enter South Door)	Lincoln	NE	68524	
+Lancaster	GN18	11/6/2018 00:00:00	Aldersgate United Methodist Church	8320 South St		(Fellowship Hall)	Lincoln	NE	68506	
+Lancaster	GN18	11/6/2018 00:00:00	American Legion Hall	970 Monroe St		(South Entrance)	Bennet	NE	68317	
+Lancaster	GN18	11/6/2018 00:00:00	American Lutheran Church	4200 Vine St		(East Door -> Parish Hall)	Lincoln	NE	68503	
+Lancaster	GN18	11/6/2018 00:00:00	Anderson Branch Library	3635 Touzalin Ave		(NW Meeting Room)	Lincoln	NE	68504	
+Lancaster	GN18	11/6/2018 00:00:00	Auld Pavilion Rec Ctr.	3140 Sumner St		(Enter South Side of Building)	Lincoln	NE	68502	
+Lancaster	GN18	11/6/2018 00:00:00	Belmont Recreation Center ^	1234 Judson St		(West side of School)	Lincoln	NE	68521	
+Lancaster	GN18	11/6/2018 00:00:00	Belmont Recreation Center ^^	1234 Judson St		(West Side of School)	Lincoln	NE	68521	
+Lancaster	GN18	11/6/2018 00:00:00	Bethany Park Enclosed Shelter	65th & Vine St		(West of Parking lot off Vine St.)	Lincoln	NE	68505	
+Lancaster	GN18	11/6/2018 00:00:00	Brownell Elementary School	6000 Aylesworth Ave		(West Door -> North Alcove)	Lincoln	NE	68505	
+Lancaster	GN18	11/6/2018 00:00:00	Calvary Community Church ^	4400 N 1st St		West Center Doors	Lincoln	NE	68521	
+Lancaster	GN18	11/6/2018 00:00:00	Calvary Community Church ^^	4400 N 1st St		West Center Doors	Lincoln	NE	68521	
+Lancaster	GN18	11/6/2018 00:00:00	Campbell Elementary School	2200 Dodge St		(South Door -> Main Hall	Lincoln	NE	68521	
+Lancaster	GN18	11/6/2018 00:00:00	Candlewood Church ^	2640 R St		(South Door -> Chapel)	Lincoln	NE	68503	
+Lancaster	GN18	11/6/2018 00:00:00	Candlewood Church ^^	2640 R St		(South Door -> Chapel)	Lincoln	NE	68503	
+Lancaster	GN18	11/6/2018 00:00:00	Capitol City Christian Ch. ^	7800 Holdrege St		Northwest Entry	Lincoln	NE	68505	
+Lancaster	GN18	11/6/2018 00:00:00	Capitol City Christian Ch. ^^	7800 Holdrege St		Northwest Entry	Lincoln	NE	68505	
+Lancaster	GN18	11/6/2018 00:00:00	Capitol City Christian Ch. ^^^	7800 Holdrege St.		Northwest Entry	Lincoln	NE	68505	
+Lancaster	GN18	11/6/2018 00:00:00	Carol Yoakum Family Resource Ctr.	4621 NW 48th St		(East Door -> Meeting Room)	Lincoln	NE	68524	
+Lancaster	GN18	11/6/2018 00:00:00	Carriage Glen	7005 Shamrock Rd		(Community Room)	Lincoln	NE	68506	
+Lancaster	GN18	11/6/2018 00:00:00	Cavett Elementary School	7701 S 36th St		(Main Hall)	Lincoln	NE	68516	
+Lancaster	GN18	11/6/2018 00:00:00	Cedars	6601 Pioneers Blvd		(Park West -> LL via So. Door)	Lincoln	NE	68506	
+Lancaster	GN18	11/6/2018 00:00:00	Cedars Northbridge Center ^	1533 N 27th St		(North Door #14)	Lincoln	NE	68503	
+Lancaster	GN18	11/6/2018 00:00:00	Cedars Northbridge Center ^^	1533 N 27th St		(North Door #14)	Lincoln	NE	68503	
+Lancaster	GN18	11/6/2018 00:00:00	Christ Lutheran Church	4325 Sumner St		(West door -> Main Hallway)	Lincoln	NE	68506	
+Lancaster	GN18	11/6/2018 00:00:00	Christ Place Church	1111 Old Cheney Rd		(North East Door -> Foyer)	Lincoln	NE	68512	
+Lancaster	GN18	11/6/2018 00:00:00	Christ United Methodist Ch. ^	4530 A St		(North Entrance -> Great Hall)	Lincoln	NE	68510	
+Lancaster	GN18	11/6/2018 00:00:00	Christ United Methodist Ch. ^^	4530 A St		(North Entrance -> Great Hall)	Lincoln	NE	68510	
+Lancaster	GN18	11/6/2018 00:00:00	Clark Jeary Retirement Community	8401 South 33rd St.		Main Entrance	Lincoln	NE	68516	
+Lancaster	GN18	11/6/2018 00:00:00	College View 7th Day Adv. Ch. ^	4801 Prescott Ave		(S.E. Lot -> Lower Level Annex)	Lincoln	NE	68506	
+Lancaster	GN18	11/6/2018 00:00:00	College View 7th Day Adv. Ch. ^^	4801 Prescott Ave		(S. E. Lot -> Lower Level Annex)	Lincoln	NE	68506	
+Lancaster	GN18	11/6/2018 00:00:00	Colonial Heights Apt. Clubhouse	2815 Tierra Drive		(South West Door -> Community Room)	Lincoln	NE	68516	
+Lancaster	GN18	11/6/2018 00:00:00	Communication Workers of America	2448 N St		(Meeting Room)	Lincoln	NE	68510	
+Lancaster	GN18	11/6/2018 00:00:00	Copple YMCA	8700 Yankee Woods Dr  Ste B		Main Entrance -> Meeting Room	Lincoln	NE	68526	
+Lancaster	GN18	11/6/2018 00:00:00	Cotner Center Condo Assoc.	1540 N Cotner Blvd		(Fairfax St. Door -> Gym)	Lincoln	NE	68505	
+Lancaster	GN18	11/6/2018 00:00:00	Crossroads Church ^	4401 N 40th St		East side of building	Lincoln	NE	68504	
+Lancaster	GN18	11/6/2018 00:00:00	Crossroads Church ^^	4401 N 40th St		East side of building	Lincoln	NE	68504	
+Lancaster	GN18	11/6/2018 00:00:00	Culler Middle School	5201 Vine St		(Main Hall)	Lincoln	NE	68504	
+Lancaster	GN18	11/6/2018 00:00:00	Davey Community Hall	17810 N 2nd St			Davey	NE	68336	
+Lancaster	GN18	11/6/2018 00:00:00	Denton Community Building ^	7115 Lancaster Ave			Denton	NE	68339	
+Lancaster	GN18	11/6/2018 00:00:00	East Lincoln Christian Ch. ^	7001 Edenton Rd		(North Entry -> Fellowship Hall)	Lincoln	NE	68516	
+Lancaster	GN18	11/6/2018 00:00:00	East Lincoln Christian Ch. ^^	7001 Edenton Rd		(North Entry -> Fellowship Hall)	Lincoln	NE		6851
+Lancaster	GN18	11/6/2018 00:00:00	Eastmont Towers	6315 O St		(E. Door N. side -> Dining area)	Lincoln	NE	68510	
+Lancaster	GN18	11/6/2018 00:00:00	Eastridge Presbyterian Ch. ^	1135 Eastridge Dr		(West Door -> Atrium)	Lincoln	NE	68510	
+Lancaster	GN18	11/6/2018 00:00:00	Eastridge Presbyterian Ch. ^^	1135 Eastridge Dr		(West Door -> Atrium)	Lincoln	NE	68510	
+Lancaster	GN18	11/6/2018 00:00:00	Eiseley Branch Library	1530 Superior St		(Conference Room)	Lincoln	NE	68521	
+Lancaster	GN18	11/6/2018 00:00:00	Evangelical United Lutheran Ch.	5945 Fremont St		(South Entrance -> Narthex)	Lincoln	NE	68507	
+Lancaster	GN18	11/6/2018 00:00:00	F Street Community Center	1225 F St		(North Door -> 2nd Floor)	Lincoln	NE	68508	
+Lancaster	GN18	11/6/2018 00:00:00	Fellowship Baptist Church ^	1515 W South St		(Fellowship Hall)	Lincoln	NE	68522	
+Lancaster	GN18	11/6/2018 00:00:00	Fellowship Baptist Church ^^	1515 W South St		(Fellowship Hall)	Lincoln	NE	68522	
+Lancaster	GN18	11/6/2018 00:00:00	Fellowship Community Church ^	8451 Eagle Crest Rd		(Enter off Holdrege)	Lincoln	NE	68505	
+Lancaster	GN18	11/6/2018 00:00:00	Fellowship Community Church ^^	8451 Eagle Crest Rd		South Door Entry Hall	Lincoln	NE	68505	
+Lancaster	GN18	11/6/2018 00:00:00	First Christian Church	430 S 16th St		(Southern door on West side)	Lincoln	NE	68508	
+Lancaster	GN18	11/6/2018 00:00:00	First Evangelical Cov Church	6024 L St		South Foyer	Lincoln	NE	68510	
+Lancaster	GN18	11/6/2018 00:00:00	First Free Church	3300 S 84th Street		(South Entrance)	Lincoln	NE	68506	
+Lancaster	GN18	11/6/2018 00:00:00	First Lutheran Church ^	1551 S 70th St		(North Door, East End)	Lincoln	NE	68506	
+Lancaster	GN18	11/6/2018 00:00:00	First Lutheran Church ^^	1551 S 70th St		(North Door, East End)	Lincoln	NE	68506	
+Lancaster	GN18	11/6/2018 00:00:00	First Presbyterian Church	840 S 17th		(East Entrance)	Lincoln	NE	68508	
+Lancaster	GN18	11/6/2018 00:00:00	Firth Community Center	311 Nemaha St			Firth	NE	68358	
+Lancaster	GN18	11/6/2018 00:00:00	Fourth Presbyterian Church	5200 Francis St		(South Door -> East Classroom)	Lincoln	NE	68504	
+Lancaster	GN18	11/6/2018 00:00:00	Gateway Vista	225 N 56th St		(East Door -> Lower Level)	Lincoln	NE	68504	
+Lancaster	GN18	11/6/2018 00:00:00	Gere Branch Library	2400 S 56th St		(Meeting Room on South side)	Lincoln	NE	68506	
+Lancaster	GN18	11/6/2018 00:00:00	Good Shepherd Lutheran Ch. ^	3825 Wildbriar Lane		(South Entrance)	Lincoln	NE	68516	
+Lancaster	GN18	11/6/2018 00:00:00	Good Shepherd Lutheran Ch. ^^	3825 Wildbriar Lane		(South Entrance)	Lincoln	NE	68516	
+Lancaster	GN18	11/6/2018 00:00:00	Good Shepherd Presbyterian Ch.	8300 East Pointe Rd		(S. Door -> Sanctuary)	Lincoln	NE	68506	
+Lancaster	GN18	11/6/2018 00:00:00	Grace Lutheran Church ^	2225 Washington St		(So. Door East side -> Gym)	Lincoln	NE	68502	
+Lancaster	GN18	11/6/2018 00:00:00	Grace Lutheran Church ^^	2225 Washington St		(So. Door East side -> Gym)	Lincoln	NE	68502	
+Lancaster	GN18	11/6/2018 00:00:00	Gramercy Hill	6800 A St		(Lobby Meeting area)	Lincoln	NE	68510	
+Lancaster	GN18	11/6/2018 00:00:00	Grand Lodge at the Preserve	4400 S 80th St		(West Door -> Comm. Rm.)	Lincoln	NE	68516	
+Lancaster	GN18	11/6/2018 00:00:00	Hallam American Legion Hall	348 Main Street		(Oltman-Messman Post 294)	Hallam	NE	68368	
+Lancaster	GN18	11/6/2018 00:00:00	Harbour West Clubhouse	1440 W Plum St		(Conference Room)	Lincoln	NE	68522	
+Lancaster	GN18	11/6/2018 00:00:00	Havelock Christian Church	6520 Colfax Ave		(West side -> North Door)	Lincoln	NE	68507	
+Lancaster	GN18	11/6/2018 00:00:00	Havelock United Methodist Ch.	4140 N 60th St		(East side -> Fellowship Hall)	Lincoln	NE	68507	
+Lancaster	GN18	11/6/2018 00:00:00	Heritage Presbyterian Church	880 S 35th St		(S.E. Door -> Lower Level)	Lincoln	NE	68510	
+Lancaster	GN18	11/6/2018 00:00:00	Hickman Community Center ^	115 Locust St		Mtg Rooms A & B	Hickman	NE	68372	
+Lancaster	GN18	11/6/2018 00:00:00	Hickman Community Center ^^	115 Locust St		(Mtg Rooms A & B)	Hickman	NE	68372	
+Lancaster	GN18	11/6/2018 00:00:00	Highlands Golf Club	5501 NW 12th St		(So. Door -> No. Meeting Rm.)	Lincoln	NE	68521	
+Lancaster	GN18	11/6/2018 00:00:00	Highpointe Apartments Clubhouse	4607 Old Cheney Rd		(Use Office Entrance)	Lincoln	NE	68516	
+Lancaster	GN18	11/6/2018 00:00:00	Holmes Elementary School	5230 Sumner St		(South Door -> Main Hall)	Lincoln	NE	68506	
+Lancaster	GN18	11/6/2018 00:00:00	Homestead Rehabilitation Ctr.	4735 S 54th St		South Door off Main Entrance	Lincoln	NE	68516	
+Lancaster	GN18	11/6/2018 00:00:00	Horizons Community Church ^	3200 Grainger Prkwy			Lincoln	NE	68516	
+Lancaster	GN18	11/6/2018 00:00:00	Horizons Community Church ^^	3200 Grainger Prkwy			Lincoln	NE	68516	
+Lancaster	GN18	11/6/2018 00:00:00	Horizons Community Church ^^^	3200 Grainger Parkway			Lincoln	NE	68516	
+Lancaster	GN18	11/6/2018 00:00:00	Huntington Elementary School	2900 N 46th St		(West Door -> Music Room)	Lincoln	NE	68504	
+Lancaster	GN18	11/6/2018 00:00:00	Huntington Park Apartments	4000 Huntington Ave		(Lobby - Enter North Door off Lot)	Lincoln	NE	68504	
+Lancaster	GN18	11/6/2018 00:00:00	I B E W Local Union #265 ^	1409 Old Farm Rd		(Meeting Room/Banquet Hall)	Lincoln	NE	68512	
+Lancaster	GN18	11/6/2018 00:00:00	I B E W Local Union #265 ^^	1409 Old Farm Rd		(Meeting Room/Banquet Hall)	Lincoln	NE	68512	
+Lancaster	GN18	11/6/2018 00:00:00	Indian Hills Community Church ^	1000 S 84th St		(Enter via South Doors)	Lincoln	NE	68510	
+Lancaster	GN18	11/6/2018 00:00:00	Indian Hills Community Church ^^	1000 S 84th St		(Enter via South Doors)	Lincoln	NE	68510	
+Lancaster	GN18	11/6/2018 00:00:00	Irving Recreation Center	2010 Van Dorn St		(South Entrance only)	Lincoln	NE	68502	
+Lancaster	GN18	11/6/2018 00:00:00	Kloefkorn Elementary School	6601 Glass Ridge Dr			Lincoln	NE	68526	
+Lancaster	GN18	11/6/2018 00:00:00	Knights of Columbus	6044 South St		(Main Hall)	Lincoln	NE	68506	
+Lancaster	GN18	11/6/2018 00:00:00	Kooser Elementary School	7301 N 13th St		(East Door -> Main Hall)	Lincoln	NE	68521	
+Lancaster	GN18	11/6/2018 00:00:00	Lakeview Elementary School	300 Capitol Beach Blvd		(So. Door on East Side by Gym)	Lincoln	NE	68528	
+Lancaster	GN18	11/6/2018 00:00:00	Lakeview United Methodist Church ^	230 Capitol Beach Blvd		(West Door -> Sanctuary)	Lincoln	NE	68528	
+Lancaster	GN18	11/6/2018 00:00:00	Lakeview United Methodist Church ^^	230 Capitol Beach Blvd		(West Door -> Sanctuary)	Lincoln	NE	68528	
+Lancaster	GN18	11/6/2018 00:00:00	Lancaster Manor Rehab. Center ^	1001 South St		(Use Main Entrance)	Lincoln	NE	68502	
+Lancaster	GN18	11/6/2018 00:00:00	Lancaster Manor Rehab. Center ^^	1001 South St		(Use Main Entrance)	Lincoln	NE	68502	
+Lancaster	GN18	11/6/2018 00:00:00	Latvian Social Hall	1231 S 33rd St		(South Door -> Hall)	Lincoln	NE	68510	
+Lancaster	GN18	11/6/2018 00:00:00	Lefler Middle School	1100 S 48th St		(Media Center near Office)	Lincoln	NE	68510	
+Lancaster	GN18	11/6/2018 00:00:00	Linc/Lanc Co Health Dept	3131 O Street		(East Door-Basement Train Rm)	Lincoln	NE	68510	
+Lancaster	GN18	11/6/2018 00:00:00	Lincoln Berean Church ^	6400 S 70th St		(North East Door)	Lincoln	NE	68516	
+Lancaster	GN18	11/6/2018 00:00:00	Lincoln Berean Church ^^	6400 S 70th St		(North East Door)	Lincoln	NE	68516	
+Lancaster	GN18	11/6/2018 00:00:00	Living Faith Free Methodist Church	5910 Holdrege		(East Doors)	Lincoln	NE	68505	
+Lancaster	GN18	11/6/2018 00:00:00	Lux Middle School ^	7800 High St		(South Entrance -> Media Center)	Lincoln	NE	68506	
+Lancaster	GN18	11/6/2018 00:00:00	Lux Middle School ^^	7800 High St		(South Entrance -> Media Center)	Lincoln	NE	68506	
+Lancaster	GN18	11/6/2018 00:00:00	Madonna Proactive Center ^	7111 Stephanie Lane		(Conference Room)	Lincoln	NE	68516	
+Lancaster	GN18	11/6/2018 00:00:00	Madonna Proactive Center ^^	7111 Stephanie Ln		Conference Room	Lincoln	NE	68516	
+Lancaster	GN18	11/6/2018 00:00:00	Madonna Rehab Hospital	5401 South St		(E. side Main Door -> St. Benedict Atrium)	Lincoln	NE	68506	
+Lancaster	GN18	11/6/2018 00:00:00	Maxey Elementary School	5200 S 75th St		(No. Lot -> W. Door -> Main Hall)	Lincoln	NE	68516	
+Lancaster	GN18	11/6/2018 00:00:00	Middlecross Church	2600 N 70th St		(Use Door off South Parking Lot)	Lincoln	NE	68507	
+Lancaster	GN18	11/6/2018 00:00:00	NCEE Labs	4740 Discovery Drive		(West Door -> Meeting Room)	Lincoln	NE	68508	
+Lancaster	GN18	11/6/2018 00:00:00	NE Wesleyan - McDonald Theatre	51st & Huntington		(Foyer)	Lincoln	NE	68504	
+Lancaster	GN18	11/6/2018 00:00:00	Nebraska Student Union	1400 R St		(1st Floor West of Food Court)	Lincoln	NE	68508	
+Lancaster	GN18	11/6/2018 00:00:00	New Covenant Church	6000 S 84th St		(West Door -> Foyer)	Lincoln	NE	68516	
+Lancaster	GN18	11/6/2018 00:00:00	North Gate Garden Estates ^	2425 Folkways Blvd		(LL via Venture Dr. to So. Door)	Lincoln	NE	68521	
+Lancaster	GN18	11/6/2018 00:00:00	North Gate Garden Estates ^^	2425 Folkways Blvd		(LL via Venture Dr. to So. Door)	Lincoln	NE	68521	
+Lancaster	GN18	11/6/2018 00:00:00	North Star High School	5801 N 33rd St		(S. E. Door #3 -> Hall)	Lincoln	NE	68504	
+Lancaster	GN18	11/6/2018 00:00:00	Northbrook Apartments	2901 Fletcher Ave		(Clubhouse -> West Room)	Lincoln	NE	68504	
+Lancaster	GN18	11/6/2018 00:00:00	Northeast Senior Center	6310 Platte Ave		East side multi use rm	Lincoln	NE	68507	
+Lancaster	GN18	11/6/2018 00:00:00	Northeast United Church of Christ	6200 Adams St		(South Door -> Fellowship Hall)	Lincoln	NE	68507	
+Lancaster	GN18	11/6/2018 00:00:00	Northside Seventh Day Adventist Church	1800 N 73rd St		(South Parking Lot -> Gym)	Lincoln	NE	68505	
+Lancaster	GN18	11/6/2018 00:00:00	Oak Lake Evangelical Free Church	3300 N 1st St		(Fellowship Hall, West Entrance)	Lincoln	NE	68521	
+Lancaster	GN18	11/6/2018 00:00:00	Panama Community Center	305 Locust St			Panama	NE	68419	
+Lancaster	GN18	11/6/2018 00:00:00	Park Middle School	855 S 8th St		(Door #4, West Side)	Lincoln	NE	68508	
+Lancaster	GN18	11/6/2018 00:00:00	Pine Lake Heights Clubhouse	7015 S 38th St		(38th & Pine Lake Rd.)	Lincoln	NE	68516	
+Lancaster	GN18	11/6/2018 00:00:00	Pine Lake Medical Plaza	3901 Pine Lake Rd		(So. West Door -> Lower Lobby)	Lincoln	NE	68516	
+Lancaster	GN18	11/6/2018 00:00:00	Pound Middle School	4740 S 45th St		(West Entrance -> Lobby)	Lincoln	NE	68516	
+Lancaster	GN18	11/6/2018 00:00:00	Pyrtle Elementary School	721 S Cottonwood Dr		(Door #17, East Side)	Lincoln	NE	68510	
+Lancaster	GN18	11/6/2018 00:00:00	Raymond Central School	1800  W Agnew Rd		(Jr. High South Entrance)	Raymond	NE	68428	
+Lancaster	GN18	11/6/2018 00:00:00	Raymond Rural Fire District	4210 West Raymond Rd		(South of Water Tower)	Raymond	NE	68428	
+Lancaster	GN18	11/6/2018 00:00:00	Redeemer Lutheran Church	510 S 33rd St		(Lower Level -> Middle Door)	Lincoln	NE	68510	
+Lancaster	GN18	11/6/2018 00:00:00	Roca Community Center	15545  B St			Roca	NE	68430	
+Lancaster	GN18	11/6/2018 00:00:00	Roper Elementary School ^	2323 S Coddington Ave		(West Door North Side)	Lincoln	NE	68522	
+Lancaster	GN18	11/6/2018 00:00:00	Roper Elementary School ^^	2323 S Coddington Ave		(West Door North Side)	Lincoln	NE	68522	
+Lancaster	GN18	11/6/2018 00:00:00	Roper Elementary School ^^^	2323 S Coddington Ave		(West Door North Side)	Lincoln	NE	68522	
+Lancaster	GN18	11/6/2018 00:00:00	Sandhills Publishing ^	120 W Harvest Dr		(South Entrance)	Lincoln	NE	68521	
+Lancaster	GN18	11/6/2018 00:00:00	Sandhills Publishing ^^	120 W Harvest Dr		(South Entrance)	Lincoln	NE	68521	
+Lancaster	GN18	11/6/2018 00:00:00	Savannah Pines ^	3900 Pine Lake Rd		(So. Door -> Overflow Dining Rm)	Lincoln	NE	68516	
+Lancaster	GN18	11/6/2018 00:00:00	Savannah Pines ^^	3900 Pine Lake Rd		(So. Door -> Overflow Dining Rm)	Lincoln	NE	68516	
+Lancaster	GN18	11/6/2018 00:00:00	Schoo Middle School	700 Penrose Drive		(South West Door -> Hall)	Lincoln	NE	68521	
+Lancaster	GN18	11/6/2018 00:00:00	Scott Middle School ^	2200 Pine Lake Rd		(So. East Door -> Hall by Office)	Lincoln	NE	68512	
+Lancaster	GN18	11/6/2018 00:00:00	Scott Middle School ^^	2200 Pine Lake Rd		(So. East Door -> Hall by Office)	Lincoln	NE	68512	
+Lancaster	GN18	11/6/2018 00:00:00	Sheridan Elementary School	3100 Plymouth Ave		(No. Door off Sewell -> Gym Door)	Lincoln	NE	68502	
+Lancaster	GN18	11/6/2018 00:00:00	Sheridan Lutheran Church	6955 Old Cheney Rd		West Entrance Door #4	Lincoln	NE	68516	
+Lancaster	GN18	11/6/2018 00:00:00	Somerset Apt. Community Center	8341 Karl Ridge Rd			Lincoln	NE	68506	
+Lancaster	GN18	11/6/2018 00:00:00	South Gate United Methodist Ch. ^	3500 Pioneers Blvd		(East Entrance -> West Wing)	Lincoln	NE	68506	
+Lancaster	GN18	11/6/2018 00:00:00	South Gate United Methodist Ch. ^^	3500 Pioneers Blvd		(East Entrance -> West Wing)	Lincoln	NE	68506	
+Lancaster	GN18	11/6/2018 00:00:00	Southeast Community College	8800 O St		(East Archway -> Entrance Hall)	Lincoln	NE	68505	
+Lancaster	GN18	11/6/2018 00:00:00	Southeast High School ^	2930 S 37th St		(Van Dorn Entrance -> Gym Hall)	Lincoln	NE	68506	
+Lancaster	GN18	11/6/2018 00:00:00	Southeast High School ^^	2930 S 37th St		(Van Dorn Entrance -> Gym Hall)	Lincoln	NE	68506	
+Lancaster	GN18	11/6/2018 00:00:00	Southern Heights Presbyterian Ch. ^	5750 S 40th St		(Fellowship Hall)	Lincoln	NE	68516	
+Lancaster	GN18	11/6/2018 00:00:00	Southern Heights Presbyterian Ch. ^^	5750 S 40th St.		(Fellowship Hall)	Lincoln	NE	68516	
+Lancaster	GN18	11/6/2018 00:00:00	Southlake Villlage Retirement Ctr	9401 Andermatt Dr		Main Entrance	Lincoln	NE	68526	
+Lancaster	GN18	11/6/2018 00:00:00	Southview Baptist Church ^	3434 S 13th St		(West Door -> Conference Room)	Lincoln	NE	68502	
+Lancaster	GN18	11/6/2018 00:00:00	Southview Baptist Church ^^	3434 S 13th St		(West Door -> Conference Room)	Lincoln	NE	68502	
+Lancaster	GN18	11/6/2018 00:00:00	Southview Christian Church	2040 S 22nd St		(East Door -> Fellowship Hall)	Lincoln	NE	68502	
+Lancaster	GN18	11/6/2018 00:00:00	Southwest High School ^	7001 S 14th St		(North Door -> Main Hall)	Lincoln	NE	68512	9200
+Lancaster	GN18	11/6/2018 00:00:00	Southwest High School ^^	7001 S 14th St		(North Door -> Main Hall)	Lincoln	NE	68512	
+Lancaster	GN18	11/6/2018 00:00:00	Southwest Rural Fire Building ^	705 W Burnham St		(Training Room via N.E. Door)	Lincoln	NE	68522	
+Lancaster	GN18	11/6/2018 00:00:00	Southwest Rural Fire Building ^^	705 W Burnham St		(Training Room via N.E. Door)	Lincoln	NE	68522	
+Lancaster	GN18	11/6/2018 00:00:00	Southwood Community Center	5000 Tipperary Trail		(South Entrance)	Lincoln	NE	68512	
+Lancaster	GN18	11/6/2018 00:00:00	Sprague-Martell Community Ctr	17500 SW 14th St		(East door on So. Side by Gym)	Martell	NE	68404	
+Lancaster	GN18	11/6/2018 00:00:00	St Andrews Lutheran Church ^	1015 Lancaster Ln		(South Door -> Fellowship Hall)	Lincoln	NE	68505	
+Lancaster	GN18	11/6/2018 00:00:00	St Andrews Lutheran Church ^^	1015 Lancaster Ln		(South Door -> Fellowship Hall)	Lincoln	NE	68505	
+Lancaster	GN18	11/6/2018 00:00:00	St Luke United Methodist Church	1621 Superior St		(South Entr. -> Fellowship Hall)	Lincoln	NE	68521	
+Lancaster	GN18	11/6/2018 00:00:00	St Mark's Lutheran Church	3930 S 19th St		(West Door -> Sunday School Rm)	Lincoln	NE	68502	
+Lancaster	GN18	11/6/2018 00:00:00	St Mark's United Methodist Ch. ^^	8550 Pioneers Blvd		(Southwest Entrance)	Lincoln	NE	68520	
+Lancaster	GN18	11/6/2018 00:00:00	St Mark's United Methodist Ch. ^^^	8550 Pioneers Blvd		(Southwest Entrance)	Lincoln	NE	68520	
+Lancaster	GN18	11/6/2018 00:00:00	St. Paul's Lutheran Church	375 South Lincoln St			Malcolm	NE	68402	
+Lancaster	GN18	11/6/2018 00:00:00	Tabitha Health Care Services	4720 Randolph St		(N. E. Door -> Lifequest Center)	Lincoln	NE	68510	
+Lancaster	GN18	11/6/2018 00:00:00	The Ambassador	4405 Normal Blvd		('Family Room' via Main Entrance)	Lincoln	NE	68506	
+Lancaster	GN18	11/6/2018 00:00:00	The Landing @ Williamsburg	3500 Faulkner Dr		(N. W. Door -> LL Rec. Area)	Lincoln	NE	68516	
+Lancaster	GN18	11/6/2018 00:00:00	The Legacy	5600 Pioneers Blvd		(West Entr. -> Fireside Room)	Lincoln	NE	68506	
+Lancaster	GN18	11/6/2018 00:00:00	The Radiant Church ^	740 N 70th St		(East Door -> South Lobby)	Lincoln	NE	68505	
+Lancaster	GN18	11/6/2018 00:00:00	The Radiant Church ^^	740 N 70th St		(East Door -> South Lobby)	Lincoln	NE	68505	
+Lancaster	GN18	11/6/2018 00:00:00	Thomasbrook Apartments	5900 Roose St		(Clubhouse)	Lincoln	NE	68506	
+Lancaster	GN18	11/6/2018 00:00:00	Tifereth Israel Temple	3219 Sheridan Blvd		(Enter off W. Summit Blvd.)	Lincoln	NE	68502	
+Lancaster	GN18	11/6/2018 00:00:00	Trinity United Methodist Ch. ^	7131 Kentwell Lane		(Upper Level)	Lincoln	NE	68512	
+Lancaster	GN18	11/6/2018 00:00:00	Trinity United Methodist Ch. ^^	7130 Kentwell Lane		(Upper Level)	Lincoln	NE	68516	
+Lancaster	GN18	11/6/2018 00:00:00	Van Dorn Villa	3001 S 51st St		(Craft Room)	Lincoln	NE	68506	
+Lancaster	GN18	11/6/2018 00:00:00	Vine Congregational Church	1800 Twin Ridge Rd		(East Door -> Dining Room)	Lincoln	NE	68506	
+Lancaster	GN18	11/6/2018 00:00:00	Walt Branch Library	6701 S 14 St		Meeting Room	Lincoln	NE	68512	
+Lancaster	GN18	11/6/2018 00:00:00	Walter Apartments	5501 Sea Mountain Rd		(South Door -> Conference Room)	Lincoln	NE	68521	
+Lancaster	GN18	11/6/2018 00:00:00	Waverly Intermediate School ^	14621 Heywood St		(East Commons Area)	Waverly	NE	68462	
+Lancaster	GN18	11/6/2018 00:00:00	Waverly Intermediate School ^^	14621 Heywood St		(East Commons Area)	Waverly	NE	68462	
+Lancaster	GN18	11/6/2018 00:00:00	Waverly VFW Post 9875	13820 Guildford St			Waverly	NE	68462	
+Lancaster	GN18	11/6/2018 00:00:00	West Gate Bank ^	6003 Old Cheney Rd		(LL Conference Room)	Lincoln	NE		
+Lancaster	GN18	11/6/2018 00:00:00	West Gate Bank ^^	6003 Old Cheney Road		(LL Conference Room)	Lincoln	NE	68516	
+Lancaster	GN18	11/6/2018 00:00:00	Westminster Presbyterian Ch. ^	2110 Sheridan Blvd		(East Door -> Fellowship Hall)	Lincoln	NE	68502	
+Lancaster	GN18	11/6/2018 00:00:00	Westminster Presbyterian Ch. ^^	2110 Sheridan Blvd		(East Door -> Fellowship Hall)	Lincoln	NE	68502	
+Lancaster	GN18	11/6/2018 00:00:00	Willard Community Center	1245 S Folsom St		(South Door)	Lincoln	NE	68522	
+Lancaster	GN18	11/6/2018 00:00:00	Wood Bridge Apt. Clubhouse	7011 S 22nd St		(Clubhouse Meeting Room)	Lincoln	NE	68512	
+Lancaster	GN18	11/6/2018 00:00:00	Zion Church	5511 S 27th St		(Fellowship Hall)	Lincoln	NE	68512	
+Lancaster	GN18	11/6/2018 00:00:00	Zz Indian Center	1100 Military Rd		(South Door -> Room on Left)	Lincoln	NE	68508	
+Lincoln	GN18	11/6/2018 00:00:00	Autumn Park Community Room	900 Autumn Park Drive			North Platte	NE	69101	
+Lincoln	GN18	11/6/2018 00:00:00	Berean Church	202 West 8th Street			North Platte	NE	69101	
+Lincoln	GN18	11/6/2018 00:00:00	Brady Community Center	121 North Main	Po Box 153		Brady	NE	69123	
+Lincoln	GN18	11/6/2018 00:00:00	Calvary Baptist Church	900 E 2nd St			North Platte	NE	69101	
+Lincoln	GN18	11/6/2018 00:00:00	First Baptist Church	100 McDonald Rd		West Door	North Platte	NE	69101	
+Lincoln	GN18	11/6/2018 00:00:00	Grace Community Church	1021 South Buffalo			North Platte	NE	69101	
+Lincoln	GN18	11/6/2018 00:00:00	Hall School District #5	3199 N Studley Road			North Platte	NE	69101	
+Lincoln	GN18	11/6/2018 00:00:00	Hershey Senior Center	326 N Lincoln Ave	Po Box 93		Hershey	NE	69143	
+Lincoln	GN18	11/6/2018 00:00:00	Holiday Inn Express Convention Center	300 Holiday Frontage Road			North Platte	NE	69101	
+Lincoln	GN18	11/6/2018 00:00:00	Lake Maloney School - SD #44	848 EE Correction Line Rd	Po Box 310		North Platte	NE	69101	
+Lincoln	GN18	11/6/2018 00:00:00	Lincoln County Courthouse	301 North Jeffers Street			North Platte	NE	69101	
+Lincoln	GN18	11/6/2018 00:00:00	Lincoln County Fairgrounds Community Building	5015 West Highway 30			North Platte	NE	69101	
+Lincoln	GN18	11/6/2018 00:00:00	Maxwell City Hall	108 S Pine St	Po Box 58		Maxwell	NE	69151	
+Lincoln	GN18	11/6/2018 00:00:00	McKinley Education Center	301 West F Street	PO Box 1557	South Door	North Platte	NE	69101	
+Lincoln	GN18	11/6/2018 00:00:00	Messiah Lutheran Church - 8th	2700 West A Street		North Door for 8th Precinct	North Platte	NE	69101	
+Lincoln	GN18	11/6/2018 00:00:00	Messiah Lutheran Church - 9th	2700 West A		Enter in the West Door for 9th Precinct	North Platte	NE	69101	
+Lincoln	GN18	11/6/2018 00:00:00	Methodist Church - 5th	1600 West E Street		Use North Door	North Platte	NE	69101	
+Lincoln	GN18	11/6/2018 00:00:00	Methodist Church - 6th	1600 West E St		Use North Door	North Platte	NE	69101	
+Lincoln	GN18	11/6/2018 00:00:00	Methodist Church - Sutherland	631 Pine	Po Box 337		Sutherland	NE	69165	
+Lincoln	GN18	11/6/2018 00:00:00	North Platte Senior Center	901 East 10th Street			North Platte	NE	69101	
+Lincoln	GN18	11/6/2018 00:00:00	Salvation Army Community Center - 13th	1020 North Adams			North Platte	NE	69101	
+Lincoln	GN18	11/6/2018 00:00:00	Valley Christian Church	2001 West State Farm Road			North Platte	NE	69101	
+Lincoln	GN18	11/6/2018 00:00:00	Wallace Legion Post	217 S Commerical Avenue	Po Box 210		Wallace	NE	69169	
+Lincoln	GN18	11/6/2018 00:00:00	Wellfeet Village Hall	507 Nile St	Po Box 39		Wellfleet	NE	69170	
+Logan	GN18	11/6/2018 00:00:00	Logan Co Courthouse	317 MAIN STREET			Stapleton	NE	69163	
+Loup	GN18	11/6/2018 00:00:00	Loup Co. Courthouse	408 4th St.			Taylor	NE	68879	
+Madison	GN18	11/6/2018 00:00:00	American Legion Hall, Tilden	205 East 2nd Street			Tilden	NE	68781	
+Madison	GN18	11/6/2018 00:00:00	Christ Lutheran Church	605 South 5th Street			Norfolk	NE	68701	
+Madison	GN18	11/6/2018 00:00:00	Community Bible Church Gymnasium (Pct. 10)	401 East Park Avenue			Norfolk	NE	68701	
+Madison	GN18	11/6/2018 00:00:00	Community Bible Church Gymnasium (Pct. 11)	401 East Park Avenue			Norfolk	NE	68701	
+Madison	GN18	11/6/2018 00:00:00	Community Bible Church Gymnasium (Pct. 13)	401 East Park Avenue			Norfolk	NE	68701	
+Madison	GN18	11/6/2018 00:00:00	Madison City Auditorium (Pct. 19)	209 South Lincoln Street			Madison	NE	68748	
+Madison	GN18	11/6/2018 00:00:00	Madison City Auditorium (Pct. 20)	209 South Lincoln Street			Madison	NE	68748	
+Madison	GN18	11/6/2018 00:00:00	Madison City Auditorium (Pct. 22)	209 South Lincoln Street			Madison	NE	68748	
+Madison	GN18	11/6/2018 00:00:00	Meadow Grove Fire Station	312 Main Avenue			Meadow Grove	NE	68752	
+Madison	GN18	11/6/2018 00:00:00	Mt. Olive Lutheran Church	1212 South 2nd Street			Norfolk	NE	68701	
+Madison	GN18	11/6/2018 00:00:00	Newman Grove Community Center	413 Hale Avenue			Newman Grove	NE	68758	
+Madison	GN18	11/6/2018 00:00:00	Norfolk City Council Chambers	309 North 5th Street			Norfolk	NE	68701	
+Madison	GN18	11/6/2018 00:00:00	Sacred Heart Parish Center (Pct. 06)	2301 West Madison Avenue			Norfolk	NE	68701	
+Madison	GN18	11/6/2018 00:00:00	Sacred Heart Parish Center (Pct. 14)	2301 West Madison Avenue			Norfolk	NE	68701	
+Madison	GN18	11/6/2018 00:00:00	Sacred Heart Parish Center (Pct. 18)	2301 West Madison Avenue			Norfolk	NE	68701	
+Madison	GN18	11/6/2018 00:00:00	St. John Lutheran Church (Pct. 04)	1300 Benjamin Avenue			Norfolk	NE	68701	
+Madison	GN18	11/6/2018 00:00:00	St. John Lutheran Church (Pct. 05)	1300 Benjamin Avenue			Norfolk	NE	68701	
+Madison	GN18	11/6/2018 00:00:00	St. Patrick Catholic Church	303 West Hale			Battle Creek	NE	68715	
+Madison	GN18	11/6/2018 00:00:00	St. Paul Lutheran Church	1100 Georgia Avenue			Norfolk	NE	68701	
+Madison	GN18	11/6/2018 00:00:00	The Meadows	500 South 18th Street			Norfolk	NE	68701	
+Madison	GN18	11/6/2018 00:00:00	Trinity Episcopal Church	111 South 9th Street			Norfolk	NE	68701	
+Madison	GN18	11/6/2018 00:00:00	Victory Road Evangelical Free Church	1201 N. Victory Road			Norfolk	NE	68701	
+Mcpherson	GN18	11/6/2018 00:00:00	Tryon	McPherson County Courthouse	500 Anderson Street		Tryon	NE	69167	0122
+Merrick	GN18	11/6/2018 00:00:00	Mail Only			Ballots will automatically be mailed to you.		NE		
+Morrill	GN18	11/6/2018 00:00:00	Direct Mail to Broadwater					NE		
+Morrill	GN18	11/6/2018 00:00:00	Direct Mail to East Bayard					NE		
+Morrill	GN18	11/6/2018 00:00:00	Direct Mail to East Camp Clarke					NE		
+Morrill	GN18	11/6/2018 00:00:00	Direct Mail to Gilchrist					NE		
+Morrill	GN18	11/6/2018 00:00:00	Direct Mail to Haynes					NE		
+Morrill	GN18	11/6/2018 00:00:00	Direct Mail to North Camp Clarke					NE		
+Morrill	GN18	11/6/2018 00:00:00	Direct Mail to Redington					NE		
+Morrill	GN18	11/6/2018 00:00:00	Direct Mail to West Bayard					NE		
+Morrill	GN18	11/6/2018 00:00:00	Direct Mail to West Camp Clarke					NE		
+Nance	GN18	11/6/2018 00:00:00	First Nat'l Community Room	230 Broadway St			Fullerton	NE	68638	
+Nance	GN18	11/6/2018 00:00:00	Genoa City Hall 05	313 Willard Ave			Genoa	NE	68640	
+Nance	GN18	11/6/2018 00:00:00	Genoa City Hall 06	313 Willard Ave.			Genoa	NE	68640	
+Nance	GN18	11/6/2018 00:00:00	Genoa City Hall 07	313 Willard Ave			Genoa	NE	68640	
+Nance	GN18	11/6/2018 00:00:00	Mail Only					NE		
+Nance	GN18	11/6/2018 00:00:00	Nance Co Courthouse	209 Esther St			Fullerton	NE	68638	
+Nemaha	GN18	11/6/2018 00:00:00	American Legion Building	303 Main St			Johnson	NE	68378	
+Nemaha	GN18	11/6/2018 00:00:00	Brock Community Building	705 Main St			Brock	NE	68320	
+Nemaha	GN18	11/6/2018 00:00:00	Brownville Village Hall	223 Main St			Brownville	NE	68321	
+Nemaha	GN18	11/6/2018 00:00:00	Nemaha Community Building	404 1st St			Nemaha	NE	68414	
+Nemaha	GN18	11/6/2018 00:00:00	Nemaha County 4-H Building	Corner of Hwy 75 and 9th St			Auburn	NE	68305	
+Nemaha	GN18	11/6/2018 00:00:00	New Life Church	1800 N St			Auburn	NE	68305	
+Nemaha	GN18	11/6/2018 00:00:00	Peru City Hall	614 5th St	Po Box 369		Peru	NE	68421	
+Nemaha	GN18	11/6/2018 00:00:00	St Paul Lutheran Church	2012 O St			Auburn	NE	68305	
+Nuckolls	GN18	11/6/2018 00:00:00	Church of Christ Fellowship Hall-1	564 East 4th			Superior	NE	68978	
+Nuckolls	GN18	11/6/2018 00:00:00	Church of Christ Fellowship Hall-2	564 E 4th St			Superior	NE	68978	
+Nuckolls	GN18	11/6/2018 00:00:00	Church of Christ Fellowship Hall-3	564 E 4th St			Superior	NE	68978	
+Nuckolls	GN18	11/6/2018 00:00:00	Hardy Fire Hall Bldg	404 Kaley St			Hardy	NE	68943	
+Nuckolls	GN18	11/6/2018 00:00:00	Lawrence Fire/city Hall	250 S. Calvert St.			Lawrence	NE	68975	
+Nuckolls	GN18	11/6/2018 00:00:00	Nelson Auditorium	301 S. Main			Nelson	NE	68961	
+Nuckolls	GN18	11/6/2018 00:00:00	Oak Fire Hall Bldg	302 Maple St			Oak	NE	68961	
+Nuckolls	GN18	11/6/2018 00:00:00	Ruskin Comm Bldg	990 Main St			Ruskin	NE	68974	
+Otoe	GN18	11/6/2018 00:00:00	Bethel United Church of Christ NC15	2400 Central Ave			Nebraska City	NE	68410	
+Otoe	GN18	11/6/2018 00:00:00	Bethel United Church of Christ NC16	2400 Central Ave			Nebraska City	NE	68410	
+Otoe	GN18	11/6/2018 00:00:00	Burr Community Building	500 Main St			Burr	NE	68324	
+Otoe	GN18	11/6/2018 00:00:00	Dunbar Firehouse	105 E Nebraska St			Dunbar	NE	68346	
+Otoe	GN18	11/6/2018 00:00:00	Duncan Building	373 Main St			Unadilla	NE	68454	
+Otoe	GN18	11/6/2018 00:00:00	Fair Center	135 Plum St			Syracuse	NE	68446	
+Otoe	GN18	11/6/2018 00:00:00	First Baptist Church NC11	302 S 7th Street			Nebraska City	NE	68410	
+Otoe	GN18	11/6/2018 00:00:00	First Baptist Church NC12	302 S 7th St			Nebraska City	NE	68410	
+Otoe	GN18	11/6/2018 00:00:00	Gage Hall, Methodist Church Nc13	1023 1st Ave			Nebraska City	NE	68410	
+Otoe	GN18	11/6/2018 00:00:00	Gage Hall, Methodist Church Nc14	1023 1st Ave			Nebraska City	NE	68410	
+Otoe	GN18	11/6/2018 00:00:00	Legion Hall	645 C St			Palmyra	NE	68418	
+Otoe	GN18	11/6/2018 00:00:00	Otoe Community Building	314 Locust St			Otoe	NE	68417	
+Otoe	GN18	11/6/2018 00:00:00	Talmage Community Building	400 Main St			Talmage	NE	68448	
+Pawnee	GN18	11/6/2018 00:00:00	Burchard Town Hall	301 2nd St			Burchard	NE	68323	
+Pawnee	GN18	11/6/2018 00:00:00	Pawnee Village	418 11th St			Pawnee City	NE	68420	
+Pawnee	GN18	11/6/2018 00:00:00	Steinauer Old Fire Hall	208 Main St			Steinauer	NE	68441	
+Pawnee	GN18	11/6/2018 00:00:00	Table Rock Fire Hall	412 Houston St			Table Rock	NE	68447	
+Pawnee	GN18	11/6/2018 00:00:00	Union Bank Basement	514 G St			Pawnee City	NE	68420	
+Perkins	GN18	11/6/2018 00:00:00	Perkins County Fairgrounds Building				Grant	NE	69140	
+Phelps	GN18	11/6/2018 00:00:00	All Mail Precinct			''Ballots will automatically be mailed to you.''		NE		
+Phelps	GN18	11/6/2018 00:00:00	Bertrand City Hall	507 Minor Ave			Bertrand	NE	68927	
+Phelps	GN18	11/6/2018 00:00:00	Funk School Community Center	301 N Main			Funk	NE	68940	
+Phelps	GN18	11/6/2018 00:00:00	Loomis Community Bldg	201 Clifton			Loomis	NE	68958	
+Phelps	GN18	11/6/2018 00:00:00	Phelps County Ag Center	1308 2nd St			Holdrege	NE	68949	
+Phelps	GN18	11/6/2018 00:00:00	Phelps County Ag Center-Ward 1	1308 2nd St			Holdrege	NE	68949	
+Phelps	GN18	11/6/2018 00:00:00	Phelps County Ag Center-Ward 2	1308 2nd St			Holdrege	NE	68949	
+Phelps	GN18	11/6/2018 00:00:00	Phelps County Ag Center-Ward 3	1308 2nd St			Holdrege	NE	68949	
+Phelps	GN18	11/6/2018 00:00:00	Phelps County Ag Center-Ward 4	1308 2nd St			Holdrege	NE	68949	
+Pierce	GN18	11/6/2018 00:00:00	Hadar Fire Hall	101 Front St.			Hadar	NE	68738	
+Pierce	GN18	11/6/2018 00:00:00	Osmond City Auditorium	413 N State St.			Osmond	NE	68765	
+Pierce	GN18	11/6/2018 00:00:00	Pierce Fire Hall	106 S 1st St.			Pierce	NE	68767	
+Pierce	GN18	11/6/2018 00:00:00	Pierce Public Library	207 W Court Street			Pierce	NE	68767	
+Pierce	GN18	11/6/2018 00:00:00	Plainview Public Library	209 N. Pine Street			Plainview	NE	68769	
+Platte	GN18	11/6/2018 00:00:00	Brookestone Acres	4715 38th St.			Columbus	NE	68601	
+Platte	GN18	11/6/2018 00:00:00	CHS Adm Bldg, Bd Rm	2508 27th St			Columbus	NE	68601	
+Platte	GN18	11/6/2018 00:00:00	Col. Housing Auth/Heritage Hs	2554 40th Ave.			Columbus	NE	68601	
+Platte	GN18	11/6/2018 00:00:00	Columbus Berean Church	3027 38th St.			Columbus	NE	68601	
+Platte	GN18	11/6/2018 00:00:00	Cottonwood Place	3271 29th Ave.			Columbus	NE	68601	
+Platte	GN18	11/6/2018 00:00:00	Creston Rural Fire Station	365 5th St.			Creston	NE	68631	
+Platte	GN18	11/6/2018 00:00:00	Duncan Village Hall	906 Eighth Street			Duncan	NE	68634	
+Platte	GN18	11/6/2018 00:00:00	Eagles Club Ball Room	3205 12th St.			Columbus	NE	68601	
+Platte	GN18	11/6/2018 00:00:00	ESU7/CPS Student Serv. Bldg.	2563 44th Ave.			Columbus	NE	68601	
+Platte	GN18	11/6/2018 00:00:00	Federated Church	2704 15th St			Columbus	NE	68601	
+Platte	GN18	11/6/2018 00:00:00	Humphrey Community Ctr	608 County Road		PO Box 411	Humphrey	NE	68642	
+Platte	GN18	11/6/2018 00:00:00	Immanuel Lutheran Parish Ctr	1470 24th Ave.			Columbus	NE	68601	
+Platte	GN18	11/6/2018 00:00:00	Knights Of Columbus Hall	3115 6th St	PO Box 205		Columbus	NE	68602	0205
+Platte	GN18	11/6/2018 00:00:00	Lakeview High School	3744 83rd St			Columbus	NE	68601	
+Platte	GN18	11/6/2018 00:00:00	Lindsay Town Hall	121 Pine Street		PO Box 66	Lindsay	NE	68644	
+Platte	GN18	11/6/2018 00:00:00	Monroe North Auditorium	424 Osborn			Monroe	NE	68647	
+Platte	GN18	11/6/2018 00:00:00	Northstar Services	2866 48th Avenue		P.O. Box 1097	Columbus	NE	68602	1097
+Platte	GN18	11/6/2018 00:00:00	Palestine Baptist Church	45219 370th St.			St Edward	NE	68660	
+Platte	GN18	11/6/2018 00:00:00	Peace Lutheran Church	2720 28th St			Columbus	NE	68601	
+Platte	GN18	11/6/2018 00:00:00	Platte County Ag Park	822 15th St.			Columbus	NE	68601	
+Platte	GN18	11/6/2018 00:00:00	Quail Run Club House	327 S. 5th St.			Columbus	NE	68601	
+Platte	GN18	11/6/2018 00:00:00	St Bon's Parish Center	16th St &18th Ave			Columbus	NE	68601	
+Platte	GN18	11/6/2018 00:00:00	St John's Lutheran Church	39452 205th Ave			Columbus	NE	68601	
+Platte	GN18	11/6/2018 00:00:00	St. John's Shell Creek Lutheran Church	10785 280th St.			Columbus	NE	68601	
+Platte	GN18	11/6/2018 00:00:00	St. Joseph Church Parish Center	167 A St.			Platte Center	NE	68653	
+Platte	GN18	11/6/2018 00:00:00	St. Luke's Fellowship Hall	1072 21st Ave.			Columbus	NE	68601	
+Platte	GN18	11/6/2018 00:00:00	Victory Christian Fellowship Church	2665 E 14th Ave			Columbus	NE	68601	
+Polk	GN18	11/6/2018 00:00:00	Polk Senior Center	230 N Main Street			Polk	NE	68654	
+Polk	GN18	11/6/2018 00:00:00	Salem Lutheran Church	610 Commercial Street			Stromsburg	NE	68666	
+Polk	GN18	11/6/2018 00:00:00	Shelby Senior Center	230 N Walnut Street			Shelby	NE	68662	
+Polk	GN18	11/6/2018 00:00:00	St. Vincent's Parish Hall	631 South Street			Osceola	NE	68651	
+Polk	GN18	11/6/2018 00:00:00	Stromsburg Viking Center	117 E 3rd Street			Stromsburg	NE	68666	
+Red_Willow	GN18	11/6/2018 00:00:00	Bartley Town Hall	Main Street			Bartley	NE	69020	
+Red_Willow	GN18	11/6/2018 00:00:00	Bureau Of Reclamation	1706 West 3rd St.			McCook	NE	69001	
+Red_Willow	GN18	11/6/2018 00:00:00	Community Building 2-2	1400 W 5th Street			McCook	NE	69001	
+Red_Willow	GN18	11/6/2018 00:00:00	Community Building NW	1400 W 5th Street			McCook	NE	69001	
+Red_Willow	GN18	11/6/2018 00:00:00	Danbury Community Center	Main Street			Danbury	NE	69026	
+Red_Willow	GN18	11/6/2018 00:00:00	Evangelical Free Church	602 E 14th Street			McCook	NE	69001	
+Red_Willow	GN18	11/6/2018 00:00:00	Grace Baptist Church	1010 East 6th St.			McCook	NE	69001	
+Red_Willow	GN18	11/6/2018 00:00:00	McCook Christian Church 3-1	507 West B Street			McCook	NE	69001	
+Red_Willow	GN18	11/6/2018 00:00:00	McCook Christian Church SW	507 West B St.			McCook	NE	69001	
+Red_Willow	GN18	11/6/2018 00:00:00	McCook KC Hall	309 East 9th St.			McCook	NE	69001	
+Red_Willow	GN18	11/6/2018 00:00:00	Our Savior's Lutheran Church	312 Seminole Dr.			McCook	NE	69001	
+Red_Willow	GN18	11/6/2018 00:00:00	United Methodist Church	402 N. 5th St.			Indianola	NE	69034	
+Richardson	GN18	11/6/2018 00:00:00	All Mail Precinct							
+Richardson	GN18	11/6/2018 00:00:00	Good News Assembly	6th & Reavis St			Falls City	NE	68355	
+Richardson	GN18	11/6/2018 00:00:00	Humboldt Ag Building	1034 4th Street			Humboldt	NE	68376	
+Richardson	GN18	11/6/2018 00:00:00	Prichard Auditorium	312 W 17th St			Falls City	NE	68355	
+Richardson	GN18	11/6/2018 00:00:00	Rulo Library	110 S 1st St			Rulo	NE	68431	
+Richardson	GN18	11/6/2018 00:00:00	Salem Town Hall	2nd E Main St.			Salem	NE	68433	
+Richardson	GN18	11/6/2018 00:00:00	Shubert Community Bldg.	501 Main St			Shubert	NE	68437	
+Richardson	GN18	11/6/2018 00:00:00	St. Mary's Hall	Main St.			Dawson	NE	68337	
+Richardson	GN18	11/6/2018 00:00:00	St. Paul's Lutheran Church	20th & Towle			Falls City	NE	68355	
+Richardson	GN18	11/6/2018 00:00:00	Stella Community Bldg.	224 N Main St.			Stella	NE	68442	
+Richardson	GN18	11/6/2018 00:00:00	The Meeting Place	718 3rd Street			Humboldt	NE	68376	
+Richardson	GN18	11/6/2018 00:00:00	Verdon Community Bldg.	314 Main St.			Verdon	NE	68457	
+Rock	GN18	11/6/2018 00:00:00	Bassett Fire Hall	103 Buchanan ST			Bassett	NE	68714	
+Saline	GN18	11/6/2018 00:00:00	C & B Butler Gym	Doane College			Crete	NE	68333	
+Saline	GN18	11/6/2018 00:00:00	Crete 1 Butler Gym	Doane College			Crete	NE	68333	
+Saline	GN18	11/6/2018 00:00:00	Crete 2 Vfw Club				Crete	NE	68333	
+Saline	GN18	11/6/2018 00:00:00	Crete 3 Wanek's Community Center	1410 Main St			Crete	NE	68333	
+Saline	GN18	11/6/2018 00:00:00	Dewitt Community Building				Dewitt	NE	68341	
+Saline	GN18	11/6/2018 00:00:00	Dorchester Community Building				Dorchester	NE	68343	
+Saline	GN18	11/6/2018 00:00:00	Friend 1 Legion Hall				Friend	NE	68359	
+Saline	GN18	11/6/2018 00:00:00	Friend 2 Fire Hall				Friend	NE	68359	
+Saline	GN18	11/6/2018 00:00:00	Olive Tobias Fire Hall				Tobias	NE	68453	
+Saline	GN18	11/6/2018 00:00:00	South Fork Western Fire Hall				Western	NE	68464	
+Saline	GN18	11/6/2018 00:00:00	Wilber 1 Courthouse	204 S. High St.			Wilber	NE	68465	
+Saline	GN18	11/6/2018 00:00:00	Wilber 2 Sokol Hall				Wilber	NE	68465	
+Sarpy	GN18	11/6/2018 00:00:00	B.V.F.D. Banquet Hall 2	2108 Franklin St.			Bellevue	NE	68005	
+Sarpy	GN18	11/6/2018 00:00:00	Beardmore Event Center 19	3750 Raynor Parkway			Bellevue	NE	68123	
+Sarpy	GN18	11/6/2018 00:00:00	Beautiful Savior Lutheran Church 31	7706 S. 96th St.			La Vista	NE	68128	
+Sarpy	GN18	11/6/2018 00:00:00	Bellevue Public Library 7	1003 Lincoln Rd.			Bellevue	NE	68005	
+Sarpy	GN18	11/6/2018 00:00:00	Bellevue Public Schools Administration 5	2600 Arboretum Dr.			Bellevue	NE	68005	
+Sarpy	GN18	11/6/2018 00:00:00	Bellevue University Student Center 6	1000 S. Galvin Rd.			Bellevue	NE	68005	
+Sarpy	GN18	11/6/2018 00:00:00	Bethel Christian Ministries 17	3702 Giles Rd.			Bellevue	NE	68147	
+Sarpy	GN18	11/6/2018 00:00:00	Bethel Christian Ministries 18	3702 Giles Rd.			Bellevue	NE	68147	
+Sarpy	GN18	11/6/2018 00:00:00	Calvary Christian Church 20	10100 Cedar Island Rd.			Bellevue	NE	68147	
+Sarpy	GN18	11/6/2018 00:00:00	Celebration Covenant Church 52	16868 Giles Rd.			Omaha	NE	68136	
+Sarpy	GN18	11/6/2018 00:00:00	Celebration Covenant Church 55	16868 Giles Rd.			Omaha	NE	68136	
+Sarpy	GN18	11/6/2018 00:00:00	CHI Health Midlands 49	11111 S. 84th St.			Papillion	NE	68046	
+Sarpy	GN18	11/6/2018 00:00:00	Claas 62	8401 S. 132nd St.			Omaha	NE	68138	
+Sarpy	GN18	11/6/2018 00:00:00	Cornerstone Church 32	9505 Harrison St.			La Vista	NE	68128	
+Sarpy	GN18	11/6/2018 00:00:00	Faith Presbyterian Church 35	8100 Giles Rd.			La Vista	NE	68128	
+Sarpy	GN18	11/6/2018 00:00:00	First Baptist Church - Family Life Center 10	204 E. 23rd Ave.			Bellevue	NE	68005	
+Sarpy	GN18	11/6/2018 00:00:00	First Lutheran Church 40	420 N. Washington St.			Papillion	NE	68046	
+Sarpy	GN18	11/6/2018 00:00:00	Fontenelle Forest Nature Center 13	1111 N. Bellevue Blvd.			Bellevue	NE	68005	
+Sarpy	GN18	11/6/2018 00:00:00	Good Shepherd Lutheran Church 51	11204 S. 204th St.			Gretna	NE	68028	
+Sarpy	GN18	11/6/2018 00:00:00	Good Shepherd Lutheran Church 61	11204 S. 204th St.			Gretna	NE	68028	
+Sarpy	GN18	11/6/2018 00:00:00	Gretna Community Church 59	321 S. Hwy. 6			Gretna	NE	68028	
+Sarpy	GN18	11/6/2018 00:00:00	Gretna Public Schools Administration Building 58	11717 S. 216th St.			Gretna	NE	68028	
+Sarpy	GN18	11/6/2018 00:00:00	Hampton Inn & Suites 56	12331 Southport Parkway			La Vista	NE	68128	
+Sarpy	GN18	11/6/2018 00:00:00	Heritage Hill Church of the Nazarene 41	6909 Cornhusker Rd.			Papillion	NE	68133	
+Sarpy	GN18	11/6/2018 00:00:00	Industrial Social Hall, Inc. 9	205 Industrial Dr.			Bellevue	NE	68005	
+Sarpy	GN18	11/6/2018 00:00:00	La Vista Community Center 34	8116 Park View Blvd.			La Vista	NE	68128	
+Sarpy	GN18	11/6/2018 00:00:00	Lifespring Church 11	13904 S. 36th St.			Bellevue	NE	68123	
+Sarpy	GN18	11/6/2018 00:00:00	Marathon Ventures/Herman Nuts 4	901 Ft. Crook Rd. N.			Bellevue	NE	68005	
+Sarpy	GN18	11/6/2018 00:00:00	Meadows Community Center 57	13935 Meadow Ridge Rd.			Omaha	NE	68138	
+Sarpy	GN18	11/6/2018 00:00:00	Metropolitan Community College Sarpy Center 33	9110 Giles Rd.			La Vista	NE	68128	
+Sarpy	GN18	11/6/2018 00:00:00	Papio Natural Resources District 53	8901 S. 154th St.			Omaha	NE	68138	
+Sarpy	GN18	11/6/2018 00:00:00	Papio Natural Resources District 54	8901 S. 154th St.			Omaha	NE	68138	
+Sarpy	GN18	11/6/2018 00:00:00	Pilgrim Lutheran Church 12	2311 Fairview Rd.			Bellevue	NE	68123	
+Sarpy	GN18	11/6/2018 00:00:00	Resurrection Lutheran Church 60	153 S. McKenna Ave.			Gretna	NE	68028	
+Sarpy	GN18	11/6/2018 00:00:00	Sarpy County Courthouse-Conference Rm 2nd Floor 42	1210 Golden Gate Dr.			Papillion	NE	68046	
+Sarpy	GN18	11/6/2018 00:00:00	Sarpy County Sheriff Administration 48	8335 Platteview Rd.			Papillion	NE	68046	
+Sarpy	GN18	11/6/2018 00:00:00	Southroads-East Side North End Mall Entrance1	1001 Ft. Crook Rd. N. Suite 140			Bellevue	NE	68005	
+Sarpy	GN18	11/6/2018 00:00:00	Southroads-East Side South End Mall Entrance3	1001 Ft. Crook Rd. N. Suite 140			Bellevue	NE	68005	
+Sarpy	GN18	11/6/2018 00:00:00	Spirit Life Church 16	4815 Harrison St.			Omaha	NE	68157	
+Sarpy	GN18	11/6/2018 00:00:00	Springfield First United Methodist Church 47	480 Main St.			Springfield	NE	68059	
+Sarpy	GN18	11/6/2018 00:00:00	St. Columbkille Sacred Heart Center 38	543 N. Jefferson St.			Papillion	NE	68046	
+Sarpy	GN18	11/6/2018 00:00:00	St. James United Methodist Church 24	4343 Capehart Rd.			Bellevue	NE	68123	
+Sarpy	GN18	11/6/2018 00:00:00	St. Joseph Catholic Church 46	100 S. 9th St.			Springfield	NE	68059	
+Sarpy	GN18	11/6/2018 00:00:00	St. Paul's United Methodist Church 39	324 S. Jackson St.			Papillion	NE	68046	
+Sarpy	GN18	11/6/2018 00:00:00	Thanksgiving Lutheran Church 21	3702 Hwy. 370 Plaza			Bellevue	NE	68123	
+Sarpy	GN18	11/6/2018 00:00:00	Thanksgiving Lutheran Church 22	3702 Hwy. 370 Plaza			Bellevue	NE	68123	
+Sarpy	GN18	11/6/2018 00:00:00	The Pointe At Rising View Event Center 25	12125 S. 32nd St.			Bellevue	NE	68123	
+Sarpy	GN18	11/6/2018 00:00:00	The Pointe At Rising View Event Center 26	12125 S. 32nd St.			Bellevue	NE	68123	
+Sarpy	GN18	11/6/2018 00:00:00	Tregaron Senior Residences 8	2315 Greenwald St.			Bellevue	NE	68123	
+Sarpy	GN18	11/6/2018 00:00:00	Wel-Life 36	801 N. Adams St.			Papillion	NE	68046	
+Sarpy	GN18	11/6/2018 00:00:00	Wellspring Church 23	1406 East Gold Coast Rd.			Papillion	NE	68046	
+Sarpy	GN18	11/6/2018 00:00:00	Wildewood Christian Church 37	1255 Royal Dr.			Papillion	NE	68046	
+Saunders	GN18	11/6/2018 00:00:00	American Lutheran Church	1941 Silver St			Ashland	NE	68003	
+Saunders	GN18	11/6/2018 00:00:00	Ashland Community Resource Center	1324 Silver St			Ashland	NE	68003	
+Saunders	GN18	11/6/2018 00:00:00	Cedar Bluffs Auditorium	106 W Main St	Po Box 249		Cedar Bluffs	NE	68015	
+Saunders	GN18	11/6/2018 00:00:00	Ceresco Community Center	217 S 2nd St	Po Box 160		Ceresco	NE	68017	
+Saunders	GN18	11/6/2018 00:00:00	Colon Fire Hall - Community Building	112 Spruce			Colon	NE	68018	
+Saunders	GN18	11/6/2018 00:00:00	First Presbyterian Church - Fellowship Hall	981 W 15th St			Wahoo	NE	68066	
+Saunders	GN18	11/6/2018 00:00:00	Malmo Legion Hall	135 Center Ave			Malmo	NE	68040	
+Saunders	GN18	11/6/2018 00:00:00	Mead Convenant Church	1538 County Road 10			Mead	NE	68041	
+Saunders	GN18	11/6/2018 00:00:00	Pohocco Lutheran Church	County Road 11			Fremont	NE	68025	
+Saunders	GN18	11/6/2018 00:00:00	Prague Parish Hall	221  West Center Ave	Po Box 96		Prague	NE	68050	
+Saunders	GN18	11/6/2018 00:00:00	Russell Shanks 4-h Exhibition Hall - Fairgrounds	Saunders County Fairgrounds	635 E 1st St		Wahoo	NE	68066	
+Saunders	GN18	11/6/2018 00:00:00	Union Bank & Trust Co	328 W 3rd St			Wahoo	NE	68066	
+Saunders	GN18	11/6/2018 00:00:00	Valparaiso Senior Center	321 Pine St	Po Box 147		Valparaiso	NE	68065	
+Saunders	GN18	11/6/2018 00:00:00	Wahoo Public Library Meeting Room	637 N Maple St			Wahoo	NE	68066	
+Saunders	GN18	11/6/2018 00:00:00	Weston Legion Hall	325 Elm St			Weston	NE	68070	
+Saunders	GN18	11/6/2018 00:00:00	Word of Hope Lutheran Church	157 S 22nd St			Ashland	NE	68003	
+Saunders	GN18	11/6/2018 00:00:00	Yutan Veterans Country Club	1581 Yutan Road	Po Box 52		Yutan	NE	68073	
+Scottsbluff	GN18	11/6/2018 00:00:00	Berean Bible Church	1701 Avenue K			Scottsbluff	NE	69361	
+Scottsbluff	GN18	11/6/2018 00:00:00	Calvary Lutheran Church	17 E 27th St			Scottsbluff	NE	69361	
+Scottsbluff	GN18	11/6/2018 00:00:00	Carpenter Center	116 Terry Blvd			Gering	NE	69341	
+Scottsbluff	GN18	11/6/2018 00:00:00	Civic Center	1050 M Street			Gering	NE	69341	
+Scottsbluff	GN18	11/6/2018 00:00:00	Community Building	McGrew Village			McGrew	NE	69353	
+Scottsbluff	GN18	11/6/2018 00:00:00	County Admin. Bldg.	1825 10th St.			Gering, Ne	NE	69341	
+Scottsbluff	GN18	11/6/2018 00:00:00	Elks Lodge	1614 1st Avenue			Scottsbluff	NE	69361	
+Scottsbluff	GN18	11/6/2018 00:00:00	First Baptist Church	3009 Avenue I			Scottsbluff	NE	69361	
+Scottsbluff	GN18	11/6/2018 00:00:00	First State Bank	2002 Broadway			Scottsbluff	NE	69361	
+Scottsbluff	GN18	11/6/2018 00:00:00	Guadalupe Center	1200 E 9th St			Scottsbluff	NE	69361	
+Scottsbluff	GN18	11/6/2018 00:00:00	Lake Minatare School	280548 County Road K			Minatare	NE	69356	
+Scottsbluff	GN18	11/6/2018 00:00:00	Lied Scottsbluff Public Library	1809 3rd Avenue			Scottsbluff	NE	69361	
+Scottsbluff	GN18	11/6/2018 00:00:00	Lyman Village Office	414 Jeffers Avenue			Lyman	NE	69352	
+Scottsbluff	GN18	11/6/2018 00:00:00	Masonic Lodge	1315 18th Avenue			Mitchell	NE	69357	
+Scottsbluff	GN18	11/6/2018 00:00:00	Melbeta Fire Hall	Main Street			Melbeta	NE	69355	
+Scottsbluff	GN18	11/6/2018 00:00:00	Mitchell Grade School Gym	1439 13th Avenue			Mitchell	NE	69357	
+Scottsbluff	GN18	11/6/2018 00:00:00	Mitchell Valley Trap Club	60653 Mitchell South Road			Mitchell	NE	69357	
+Scottsbluff	GN18	11/6/2018 00:00:00	Morrill Grade School	505 Center Avenue	PO Box 486		Morrill	NE	69358	
+Scottsbluff	GN18	11/6/2018 00:00:00	Morrill Manor	326 W Charles St			Morrill	NE	69358	
+Scottsbluff	GN18	11/6/2018 00:00:00	Presbyterian Church	502 1st Avenue			Minatare	NE	69356	
+Scottsbluff	GN18	11/6/2018 00:00:00	Un-L Panhandle Station	4502 Ave. I			Scottsbluff	NE	69361	
+Scottsbluff	GN18	11/6/2018 00:00:00	W Ne Community College	1602 E 27th St			Scottsbluff	NE	69361	
+Scottsbluff	GN18	11/6/2018 00:00:00	Zion Evangelical Church	3617 5th Avenue			Scottsbluff	NE	69361	
+Seward	GN18	11/6/2018 00:00:00	Beaver Crossing Fire Hall	611 West Street			Beaver Crossing	NE	68313	
+Seward	GN18	11/6/2018 00:00:00	Bee Fire Hall	200 Elm Street			Bee	NE	68314	
+Seward	GN18	11/6/2018 00:00:00	Cordova Community Hall	Hector St.			Cordova	NE	68330	
+Seward	GN18	11/6/2018 00:00:00	Garland Fire Hall	170 4th Street			Garland	NE	68360	
+Seward	GN18	11/6/2018 00:00:00	Goehner Fire Hall	1221 May Street			Goehner	NE	68364	
+Seward	GN18	11/6/2018 00:00:00	Milford Fire Station	612 First St			Milford	NE	68405	
+Seward	GN18	11/6/2018 00:00:00	Pleasant Dale Community Hall	Ash St.			Pleasant Dale	NE	68423	
+Seward	GN18	11/6/2018 00:00:00	Ruby Town Hall	Ruby NE						
+Seward	GN18	11/6/2018 00:00:00	Seward County Ag Pavilion	500 N 14th St			Seward	NE	68434	
+Seward	GN18	11/6/2018 00:00:00	Staplehurst Community Hall	705 South Street			Staplehurst	NE	68439	
+Seward	GN18	11/6/2018 00:00:00	Utica Senior Center	520 D Street			Utica	NE	68456	
+Sheridan	GN18	11/6/2018 00:00:00	Gordon City Auditorium	311 N Oak Street			Gordon	NE	69343	
+Sheridan	GN18	11/6/2018 00:00:00	Lister Sage Building	311 N Baker Street			Hays Springs	NE	69347	
+Sheridan	GN18	11/6/2018 00:00:00	Methodist Fellowship Hall	119 Sprague Street			Rushville	NE	69360	
+Sheridan	GN18	11/6/2018 00:00:00	Methodist Fellowship Hall (lakeside)	1753 304th Trail			Lakeside	NE	69351	
+Sheridan	GN18	11/6/2018 00:00:00	St. Peters Parish Hall	4448 St Hwy 87			Hays Springs	NE	69347	
+Sherman	GN18	11/6/2018 00:00:00	American Legion/Community Club	325 Center Ave			Ashton	NE	68817	
+Sherman	GN18	11/6/2018 00:00:00	Loup City Community Center CLC	803 O St			Loup City	NE	68853	
+Sherman	GN18	11/6/2018 00:00:00	Loup City Community Center NLC	803 O St			Loup City	NE	68853	
+Sherman	GN18	11/6/2018 00:00:00	Loup City Community Center SLC	803 O St			Loup City	NE	68853	
+Sherman	GN18	11/6/2018 00:00:00	Rockville Gymnasium	540 North Ley		East Entrance	Rockville	NE	68871	
+Sherman	GN18	11/6/2018 00:00:00	Winters Building	204 N Main St			Litchfield	NE	68852	
+Sioux	GN18	11/6/2018 00:00:00	Pathfinder Irrigation District Building	290 Liberty Oil Road		Pathfinder Irrigation District Building	Morrill	NE	69358	
+Sioux	GN18	11/6/2018 00:00:00	Sioux County Courthouse	325 Main St.			Harrison	NE	69346	
+Stanton	GN18	11/6/2018 00:00:00	District Courtroom - Stanton Co Courthouse	804 Ivy St			Stanton	NE	68779	
+Stanton	GN18	11/6/2018 00:00:00	Ivy Manor Meeting Room	1109 Ivy			Stanton	NE	68779	
+Stanton	GN18	11/6/2018 00:00:00	Mail Only Precinct			Ballots will automatically be mailed to you.		NE		
+Thayer	GN18	11/6/2018 00:00:00	Alexandria Community Building	Hwy 53			Alexandria	NE	68303	
+Thayer	GN18	11/6/2018 00:00:00	Bruning Opera House	Opera House	141 E Main		Bruning	NE	68322	
+Thayer	GN18	11/6/2018 00:00:00	Davenport Village Hall	108 N Oak Ave			Davenport	NE	68335	
+Thayer	GN18	11/6/2018 00:00:00	Grace Lutheran Church	224 N 4th St.			Hebron	NE	68370	
+Thayer	GN18	11/6/2018 00:00:00	Sacred Heart Catholic Church	436 N 3rd St			Hebron	NE	68370	
+Thayer	GN18	11/6/2018 00:00:00	St. John's Church	805 Church St.			Chester	NE	68327	
+Thayer	GN18	11/6/2018 00:00:00	Thayer County Activity Center	1206 4th Street			Deshler	NE	68340	
+Thomas	GN18	11/6/2018 00:00:00	Thomas County Courthouse	503 Main Street			Thedford	NE	69166	
+Thurston	GN18	11/6/2018 00:00:00	Emerson/Hubbard Public High School	109 W. 3rd Street			Emerson	NE	68733	
+Thurston	GN18	11/6/2018 00:00:00	Pender Community Center Rm 1	614 Main St			Pender	NE	68047	
+Thurston	GN18	11/6/2018 00:00:00	Pender Public School	609 Whitney St			Pender	NE	68047	
+Thurston	GN18	11/6/2018 00:00:00	Rosalie Town Hall	213 S. Farley			Rosalie	NE	68055	
+Thurston	GN18	11/6/2018 00:00:00	Thurston Fire Hall	Main St			Thurston	NE	68062	
+Thurston	GN18	11/6/2018 00:00:00	Walthill Village Office	222 Main St			Walthill	NE	68067	
+Thurston	GN18	11/6/2018 00:00:00	Wellness Center	Main Street			Macy	NE	68039	
+Thurston	GN18	11/6/2018 00:00:00	Winnebago Fire Hall	103 S Bluff St			Winnebago	NE	68071	
+Valley	GN18	11/6/2018 00:00:00	Arc/Yal/Lib/Vin 007	Community Center, Arcadia	230 N Hawthorne		Arcadia	NE	68815	
+Valley	GN18	11/6/2018 00:00:00	Ely/eur/ger/mch/nbl/ord Tw 001	Veterans Club	246 S 15th St.		Ord	NE	68862	
+Valley	GN18	11/6/2018 00:00:00	North Loup/dc/ind/spr 005	Community Building, North Loup	112 S B St.		North Loup	NE	68859	
+Valley	GN18	11/6/2018 00:00:00	Ord City 1st Ward 003	Ord Fire Hall	1628 M St.		Ord	NE	68862	
+Valley	GN18	11/6/2018 00:00:00	Ord City 2nd Ward 002	Park View Village, Ord	2410 K St.		Ord	NE	68862	
+Valley	GN18	11/6/2018 00:00:00	Ord City 3rd Ward 006	Veterans' Club, Ord	246 S 15th St.		Ord	NE	68862	
+Valley	GN18	11/6/2018 00:00:00	Ord City, Wd 1,2,3/Ent/Ord Twp 004	Courthouse	125 S 15th		Ord	NE	68862	
+Washington	GN18	11/6/2018 00:00:00	Arlington Auditorium	410 W Elm St			Arlington	NE	68002	
+Washington	GN18	11/6/2018 00:00:00	Blair North Fire Station	1873 Nebraska St			Blair	NE	68008	
+Washington	GN18	11/6/2018 00:00:00	Country Bible Church	13121 County Road 16			Blair	NE	68008	
+Washington	GN18	11/6/2018 00:00:00	First Lutheran Church	Social Hall	2146 Wright St		Blair	NE	68008	
+Washington	GN18	11/6/2018 00:00:00	Ft Cal St John Baptist Catholic Church-Sh	Schwertley Hall	215 N 13th St		Ft Calhoun	NE	68023	
+Washington	GN18	11/6/2018 00:00:00	Grace United Methodist Church	418 W 2nd St.			Kennard	NE	68034	
+Washington	GN18	11/6/2018 00:00:00	Herman Community Church	808 Main			Herman	NE	68029	
+Washington	GN18	11/6/2018 00:00:00	Lakeland Community Building	4861 Lakeland Dr			Blair	NE	68008	
+Washington	GN18	11/6/2018 00:00:00	Living Hope Church	10194 S Highway 75			Blair	NE	68008	
+Washington	GN18	11/6/2018 00:00:00	St Francis Borgia Catholic Church	Education Building	2005 Davis St		Blair	NE	68008	
+Washington	GN18	11/6/2018 00:00:00	St Pauls Lutheran Church	8951 County Road 9			Arlington	NE	68002	
+Washington	GN18	11/6/2018 00:00:00	Washington Fire Station	15204 Dorchester Street			Washington	NE	68068	
+Washington	GN18	11/6/2018 00:00:00	WC Annex/Extension Office	597 Grant Street			Blair	NE	68008	
+Wayne	GN18	11/6/2018 00:00:00	Carroll Community Center	502 Main			Carroll	NE	68723	
+Wayne	GN18	11/6/2018 00:00:00	Educational Service Unit #1	211 E 10th			Wakefield	NE	68784	
+Wayne	GN18	11/6/2018 00:00:00	First Presbyterian Church Fellowship Hall	216 W 3rd			Wayne	NE	68787	
+Wayne	GN18	11/6/2018 00:00:00	Hoskins Community Center	101 S Main			Hoskins	NE	68740	
+Wayne	GN18	11/6/2018 00:00:00	Journey Christian Church	1110 E 7th			Wayne	NE	68787	
+Wayne	GN18	11/6/2018 00:00:00	Our Savior Lutheran Church Fellowship Hall	420 Main			Wayne	NE	68787	
+Wayne	GN18	11/6/2018 00:00:00	Villa Wayne	409 Dearborn			Wayne	NE	68787	
+Wayne	GN18	11/6/2018 00:00:00	Wayne Community Activity Center	901 W 7th St			Wayne	NE	68787	
+Wayne	GN18	11/6/2018 00:00:00	Winside Legion Hall	110 Hunter			Winside	NE	68790	
+Webster	GN18	11/6/2018 00:00:00	Bladen Fire Hall				Bladen	NE		
+Webster	GN18	11/6/2018 00:00:00	Blue Hill Senior Community Center				Blue Hill	NE		
+Webster	GN18	11/6/2018 00:00:00	Guide Rock Comm. Center				Guide Rock	NE		
+Webster	GN18	11/6/2018 00:00:00	Red Cloud Community Center				Red Cloud	NE		
+Webster	GN18	11/6/2018 00:00:00	Webster Co. Courthouse				Red Cloud	NE		
+Wheeler	GN18	11/6/2018 00:00:00	Courthouse	301 Third Street	PO Box 127		Bartlett	NE	68622	
+Wheeler	GN18	11/6/2018 00:00:00	Ericson 'Old Gym'	606 Main Street			Ericson	NE	68637	
+York	GN18	11/6/2018 00:00:00	4-h Building	2400 N Nebraska Ave			York	NE	68467	
+York	GN18	11/6/2018 00:00:00	City Auditorium-York	612 N Nebraska Ave			York	NE	68467	
+York	GN18	11/6/2018 00:00:00	City Hall-Henderson	1044 North Main St			Henderson	NE	68371	
+York	GN18	11/6/2018 00:00:00	Community Building-Waco	105 Strickler St			Waco	NE	68460	
+York	GN18	11/6/2018 00:00:00	Community Hall-Mccool	323 E M St			Mccool Jct	NE	68401	
+York	GN18	11/6/2018 00:00:00	Fire Station-Gresham	300 Elm St			Gresham	NE	68367	
+York	GN18	11/6/2018 00:00:00	Lower Level Of Courthouse	510 Lincoln Ave.			York	NE	68467	

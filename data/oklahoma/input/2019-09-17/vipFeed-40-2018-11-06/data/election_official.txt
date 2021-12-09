@@ -1,0 +1,79 @@
+name,title,phone,fax,email,id
+"Jan Wilhite",Secretary,"918-696-7221","918-696-4905","AdairCounty@elections.ok.gov",2201
+"Kelly Stein",Secretary,"580-596-2718","580-596-2778","AlfalfaCounty@elections.ok.gov",2202
+"Racheal Feuerhelm",Secretary,"580-889-5297","580-889-5311","AtokaCounty@elections.ok.gov",2203
+"Christi Lansden",Secretary,"580-625-4742","580-625-4743","BeaverCounty@elections.ok.gov",2204
+"Alexander Joseph",Secretary,"580-928-3314","580-928-9266","BeckhamCounty@elections.ok.gov",2205
+"Brenda Rice",Secretary,"580-623-5518","580-623-5519","BlaineCounty@elections.ok.gov",2206
+"Kimberly Norris",Secretary,"580-924-3228","580-924-2785","BryanCounty@elections.ok.gov",2207
+"Ladonna Phillips",Secretary,"405-247-5001","405-247-2052","CaddoCounty@elections.ok.gov",2208
+"Wanda Armold",Secretary,"405-422-2422","405-422-2450","CanadianCounty@elections.ok.gov",2209
+"Lizbeth Hall",Secretary,"580-223-5290","580-223-8203","CarterCounty@elections.ok.gov",2210
+"Rusty Clark",Secretary,"918-456-2261","918-453-2022","CherokeeCounty@elections.ok.gov",2211
+"CAROLINE HANSEN",Secretary,"580-326-5164","580-317-8245","ChoctawCounty@elections.ok.gov",2212
+"Courtney Menefee",Secretary,"580-544-3377","580-544-3377","CimarronCounty@elections.ok.gov",2213
+"Bryant Rains",Secretary,"405-366-0210","405-366-0209","info@clevelandcountyelectionboard.com",2214
+"Vicky Salmon",Secretary,"580-927-3456","580-927-3710","CoalCounty@elections.ok.gov",2215
+"Amy Sims",Secretary,"580-353-1880","580-353-0049","ComancheCounty@elections.ok.gov",2216
+"Shellie Hart",Secretary,"580-875-3403","580-875-3403","CottonCounty@elections.ok.gov",2217
+"Twila Garrett",Secretary,"918-256-7559","918-256-8173","CraigCounty@elections.ok.gov",2218
+"Joy Naifeh",Secretary,"918-224-3529","918-227-6332","CreekCounty@elections.ok.gov",2219
+"Ann Brown",Secretary,"580-323-5124","580-323-5130","CusterCounty@elections.ok.gov",2220
+"Dixie F Smith",Secretary,"918-253-8762","918-253-3286","DelawareCounty@elections.ok.gov",2221
+"Callee Sander",Secretary,"580-328-5668","580-328-5768","DeweyCounty@elections.ok.gov",2222
+"Trenna Whitson",Secretary,"580-885-7721","580-885-7273","EllisCounty@elections.ok.gov",2223
+"CHERYL PATTERSON",Secretary,"580-237-6016","580-249-5959","GarfieldCounty@elections.ok.gov",2224
+"Doylene Cunningham",Secretary,"405-238-3303","405-238-1140","GarvinCounty@elections.ok.gov",2225
+"SUSAN TURNER",Secretary,"405-224-1430","405-224-6576","GradyCounty@elections.ok.gov",2226
+"ROBYN RAPP",Secretary,"580-395-2862","580-395-2603","GrantCounty@elections.ok.gov",2227
+"Debi Davis",Secretary,"580-782-2307","580-782-2307","GreerCounty@elections.ok.gov",2228
+"Mary Guzman",Secretary,"580-688-2460","580-688-9784","HarmonCounty@elections.ok.gov",2229
+"Pauletta Roberts",Secretary,"580-735-2313","580-735-2311","HarperCounty@elections.ok.gov",2230
+"Rhonda Hurst",Secretary,"918-967-8792","918-967-2199","HaskellCounty@elections.ok.gov",2231
+"Brandy Sue Davis",Secretary,"405-379-2174","405-379-3489","HughesCounty@elections.ok.gov",2232
+"Jennifer Wilson",Secretary,"580-482-2370","580-477-4573","JacksonCounty@elections.ok.gov",2233
+"Tammy Richardson",Secretary,"580-228-3150","580-228-2775","JeffersonCounty@elections.ok.gov",2234
+"Janis Stewart",Secretary,"580-371-3670","580-371-3670","JohnstonCounty@elections.ok.gov",2235
+"Cheryl Howard",Secretary,"580-362-2130","580-362-1100","KayCounty@elections.ok.gov",2236
+"Shawna Butts",Secretary,"405-375-3895","405-375-5962","KingfisherCounty@elections.ok.gov",2237
+"Lynne Morris",Secretary,"580-726-2509","580-726-2124","KiowaCounty@elections.ok.gov",2238
+"Barbara Helmert",Secretary,"918-465-3703","918-465-4019","LatimerCounty@elections.ok.gov",2239
+"SHARON K. STEELE",Secretary,"918-647-3701","918-647-5262","LeFloreCounty@elections.ok.gov",2240
+"Melissa Stambaugh",Secretary,"405-258-1349","405-258-5565","LincolnCounty@elections.ok.gov",2241
+"Sheleen Winscott",Secretary,"405-282-1900","405-282-1994","LoganCounty@elections.ok.gov",2242
+"Carol Wolfe",Secretary,"580-276-2242","580-276-2242","LoveCounty@elections.ok.gov",2243
+"Karen Haley",Secretary,"405-527-3121","405-527-9347","McClainCounty@elections.ok.gov",2244
+"Kelly K. Donaldson",Secretary,"580-286-7405","580-286-7499","McCurtainCounty@elections.ok.gov",2245
+"Carole Hayes",Secretary,"918-689-2452","918-689-2914","McIntoshCounty@elections.ok.gov",2246
+"Sharie Smith",Secretary,"580-227-4520","580-227-1260","MajorCounty@elections.ok.gov",2247
+"LaRue Wilhite",Secretary,"580-795-5460","580-795-5460","MarshallCounty@elections.ok.gov",2248
+"Jill McCullah",Secretary,"918-825-1826","918-825-3848","MayesCounty@elections.ok.gov",2249
+"Tommie Grimes",Secretary,"580-622-3800","580-622-4319","MurrayCounty@elections.ok.gov",2250
+"Kelly G. Beach",Secretary,"918-687-8151","918-687-0382","MuskogeeCounty@elections.ok.gov",2251
+"Pamela McBride",Secretary,"580-336-3527","580-336-2035","NobleCounty@elections.ok.gov",2252
+"-",Secretary,"918-273-0710","918-273-2578","NowataCounty@elections.ok.gov",2253
+"Eric M. Swinford",Secretary,"918-623-0105","918-623-9726","OkfuskeeCounty@elections.ok.gov",2254
+"Doug Sanderson",Secretary,"405-713-1515","405-713-7191","OklahomaCounty@elections.ok.gov",2255
+"Ashley Carnes",Secretary,"918-756-2365","918-758-1275","OkmulgeeCounty@elections.ok.gov",2256
+"Kelly Chouteau",Secretary,"918-287-3036","918-287-4820","OsageCounty@elections.ok.gov",2257
+"Verna L. Ferris",Secretary,"918-542-2893","918-542-3005","OttawaCounty@elections.ok.gov",2258
+"Tonda Miner",Secretary,"918-762-2125","918-762-2387","PawneeCounty@elections.ok.gov",2259
+"Alyson Dawson",Secretary,"405-747-8350","405-747-8393","PayneCounty@elections.ok.gov",2260
+"Cathy Thornton",Secretary,"918-423-3877","918-423-7088","PittsburgCounty@elections.ok.gov",2261
+"CATHLEEN BRANSCUM",Secretary,"580-332-4534","580-421-7765","PontotocCounty@elections.ok.gov",2262
+"Jeannie Stover",Secretary,"405-273-8376","405-275-3240","PottawatomieCounty@elections.ok.gov",2263
+"Denise Morris",Secretary,"580-298-3292","580-298-3292","PushmatahaCounty@elections.ok.gov",2264
+"JANA D MADDUX",Secretary,"580-497-3330","580-497-3546","RogerMillsCounty@elections.ok.gov",2265
+"Julie Dermody",Secretary,"918-341-2965","918-341-4666","RogersCounty@elections.ok.gov",2266
+"David R. Cobb",Secretary,"405-257-2786","405-257-3912","SeminoleCounty@elections.ok.gov",2267
+"Cindy Ann Osborn",Secretary,"918-775-2614","918-775-1205","SequoyahCounty@elections.ok.gov",2268
+"Angela Dunagan",Secretary,"580-255-8782","580-255-3188","StephensCounty@elections.ok.gov",2269
+"Sierra Martinez",Secretary,"580-338-7644","580-338-2618","TexasCounty@elections.ok.gov",2270
+"Sherri Jacobs",Secretary,"580-335-2287","580-335-2699","TillmanCounty@elections.ok.gov",2271
+"Gwen Freeman",Secretary,"918-596-5780","918-596-4536","TulsaCounty@elections.ok.gov",2272
+"Samantha Call",Secretary,"918-485-2142","918-485-8063","WagonerCounty@elections.ok.gov",2273
+"Yvonne House",Secretary,"918-337-2850","918-337-2895","WashingtonCounty@elections.ok.gov",2274
+"Leah Jones",Secretary,"580-832-3658","580-832-4119","WashitaCounty@elections.ok.gov",2275
+"Sandra Koehn",Secretary,"580-327-1452","580-327-6216","WoodsCounty@elections.ok.gov",2276
+"Carol Carrell",Secretary,"580-256-3609","580-254-6877","WoodwardCounty@elections.ok.gov",2277
+"Paul Ziriax",Secretary,"405-521-2391","405-521-6457","info@elections.ok.gov",2299

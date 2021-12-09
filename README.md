@@ -1,20 +1,10 @@
-## U.S. Polling Places (2012-2018)
+## U.S. Polling Places (2012-2020)
 
 Learn more about this data here: [National data release sheds light on past polling place changes.](https://publicintegrity.org/politics/elections/ballotboxbarriers/data-release-sheds-light-on-past-polling-place-changes)
 
-This data release contains standardized data on polling locations that were used in each election cycle since 2012 for all the states covered by the dataset. The initial release contains 30 states, with more to be added in the coming weeks.
+This data release contains standardized data on polling locations that were used in each election cycle since 2012 for all the states covered by the dataset.
 
-### Status
-
-The initial release (2020-09-29) of this data contains data for the following states:
-
-*Alaska, Arizona, Arkansas, Connecticut, Delaware, Illinois, Indiana, Iowa, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Mississippi, Montana, Nebraska, New Jersey, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, Rhode Island, South Carolina, South Dakota, Vermont, Virginia, West Virginia and Wisconsin.*
-
-This release also includes data for the following states but they are missing one or more election cycles:
-
-*Georgia, Michigan, Minnesota, New Hampshire, New Mexico*
-
-Detailed information about current and future coverage in each state is available on the [Status page](STATUS.md).
+Detailed information about the source of the data and coverage is available in state specific README files. This information is also available as a machine-readable file in the `manifest.yaml` file for each state.
 
 ### Provenance
 
@@ -41,6 +31,8 @@ The following reporters were instrumental in preparing this dataset.
 - Chris Zubak-Skees
 - Joe Yerardi
 - Joe Wertz
+- Sophie Austin
+- Amy DiPierro
 
 **Stateline**:
 - Matt Vasilogambros

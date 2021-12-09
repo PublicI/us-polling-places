@@ -1,0 +1,2 @@
+name,vip_id,datetime,description,organization_url,feed_contact_id,tou_url,id
+OKLAHOMA STATE ELECTION BOARD,40,2016-10-04T08:40:49,The Oklahoma State Election Board is the official source of election information for Oklahoma.,http://www.elections.ok.gov,,,0

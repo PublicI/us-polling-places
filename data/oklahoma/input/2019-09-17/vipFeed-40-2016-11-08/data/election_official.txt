@@ -1,0 +1,79 @@
+name,title,phone,fax,email,id
+"Kendra Parker",Secretary,9186967221,9186964905,"adairceb@yahoo.com",2201
+"Kelly Stein",Secretary,5805962718,5805962778,"alfalfaceb@att.net",2202
+"Racheal Feuerhelm",Secretary,5808895297,5808895311,"atokaelection@gmail.com",2203
+"Christi Lansden",Secretary,5806254742,5806254743,"election04@beaver.okcounties.org",2204
+"Deidre O'Briant",Secretary,5809283314,5809289266,"beckhamelectionbd@sbcglobal.net",2205
+"Brenda Rice",Secretary,5806235518,5806235519,"blaineceb@gmail.com",2206
+"Linda Fahrendorf",Secretary,5809243228,5809242785,"bryanelection@gmail.com",2207
+"Doris Sue Hobbs",Secretary,4052475001,4052472052,"caddoceb08@gmail.com",2208
+"Wanda Armold",Secretary,4054222422,4054222450,"votinginfo@canadiancounty.org ",2209
+"Lizbeth Hall",Secretary,5802235290,5802238203,"carterceb10@yahoo.com",2210
+"Rusty Clark",Secretary,9184562261,9184532022,"cherokeecountyelectionboard11@gmail.com ",2211
+"Caroline Hansen",Secretary,5803265164,5803178245,"choctawcountyceb12@sbcglobal.net",2212
+"Courtney Menefee",Secretary,5805443377,5805443377,"electionboard@cimarroncounty.net",2213
+"Bryant Rains",Secretary,4053660210,4053660209,"cceb14@coxinet.net",2214
+"Vicky Salmon",Secretary,5809273456,5809273710,"ceb_15@yahoo.com",2215
+"Amy Sims",Secretary,5803531880,5803530049,"comancheceb16@comanchecounty.us",2216
+"Shellie Hart",Secretary,5808753403,5808753403,"cottonceb17@sbcglobal.net",2217
+"Debbie Davenport",Secretary,9182567559,9182568173,"election18@junct.com",2218
+"Joy Naifeh",Secretary,9182243529,9182276332,"cceb@creekcountyonline.com",2219
+"Ann Brown",Secretary,5803235124,5803235130,"custerceb@gmail.com",2220
+"Dixie F Smith",Secretary,9182538762,9182533286,"dceb@grand.net",2221
+"Callee Sander",Secretary,5803285668,5803285768,"dceb_22@yahoo.com",2222
+"Glenda J. Martin",Secretary,5808857721,5808857273,"ellisceb23@gmail.com",2223
+"Cheryl Patterson",Secretary,5802376016,5802495959,"gceb24@ymail.com",2224
+"Doylene Cunningham",Secretary,4052383303,4052381140,"garvinceb25@att.net",2225
+"SUSAN TURNER",Secretary,4052241430,4052246576,"gradyceb@sbcglobal.net",2226
+"Harvey Bush",Secretary,5803952862,5803952603,"grantceb@gmail.com",2227
+"Debi Davis",Secretary,5807822307,5807822307,"greerceb@yahoo.com",2228
+"DANA RICHARDSON",Secretary,5806882460,5806889784,"hceb29@yahoo.com",2229
+"Pauletta Roberts",Secretary,5807352313,5807352311,"HarperCEB01@pldi.net",2230
+"Rhonda Hurst",Secretary,9189678792,9189672199,"hceb31@yahoo.com",2231
+"Brandy Sue Davis",Secretary,4053792174,4053793489,"hughescountyelectionboard@yahoo.com",2232
+"Jennifer Wilson",Secretary,5804822370,5804774573,"jceb@jacksoncountyok.com",2233
+"Tammy Richardson",Secretary,5802283150,5802282775,"jeffcoeb34@gmail.com",2234
+"Janis Stewart",Secretary,5803713670,5803713670,"johnstoncoelection@yahoo.com",2235
+"Cheryl Howard",Secretary,5803622130,5803621100,"kayceb36@yahoo.com",2236
+"Shawna Butts",Secretary,4053753895,4053755962,"kfrceb2@gmail.com",2237
+"Lynne Morris",Secretary,5807262509,5807262124,"countyceb38@yahoo.com",2238
+"BARBARA HELMERT",Secretary,9184653703,9184654019,"latelecbrd@yahoo.com",2239
+"SHARON K. STEELE",Secretary,9186473701,9186475262,"leflorecountyelectionboard@yahoo.com",2240
+"Melissa Stambaugh",Secretary,4052581349,4052585565,"linelection@cotc.net",2241
+"Erin Dorio",Secretary,4052821900,4052821994,"loganceb42@live.com",2242
+"Carol Wolfe",Secretary,5802762242,5802762242,"loveceb@cableone.net",2243
+"Karen Haley",Secretary,4055273121,4055279347,"mcclainceb@gmail.com",2244
+"Kelly K. Donaldson",Secretary,5802867405,5802867499,"mccurtainelectionb@att.net",2245
+"Carole Hayes",Secretary,9186892452,9186892914,"mcintoshceb_46@yahoo.com",2246
+"Sharie Smith",Secretary,5802274520,5802271260,"majorcountyeb@gmail.com ",2247
+"LaRue Wilhite",Secretary,5807955460,5807955460,"marshallceb48@yahoo.com",2248
+"Jill McCullah",Secretary,9188251826,9188253848,"mayesceb49@yahoo.com",2249
+"Tommie Grimes",Secretary,5806223800,5806224319,"Murrayco50@brightok.net",2250
+"Kelly G. Beach",Secretary,9186878151,9186870382,"muskceb@yahoo.com",2251
+"Pamela McBride",Secretary,5803363527,5803362035,"52@nobleceb.com",2252
+"Loretta Haddox",Secretary,9182730710,9182732578,"voteelections@yahoo.com",2253
+"Eric M. Swinford",Secretary,9186230105,9186231222,"okfuskee_54@yahoo.com",2254
+"Doug Sanderson",Secretary,4057131515,4057137191,"UOCAVA@oklahomacounty.org",2255
+"Ashley Carnes",Secretary,9187562365,9187581275,"okmulgee_elections@yahoo.com",2256
+"Andrea Conner",Secretary,9182873036,9182874820,"oceb@sbcglobal.net",2257
+"Verna L. Ferris",Secretary,9185422893,9185423005,"election58@cableone.net",2258
+"Tonda Miner",Secretary,9187622125,9187622387,"PawneeCEB59@gmail.com",2259
+"Alyson Dawson",Secretary,4057478350,4057478393,"payneceb60@brightok.net",2260
+"Cathy Thornton",Secretary,9184233877,9184237088,"pittceb@gmail.com",2261
+"Marilyn McDaniel",Secretary,5803324534,5804217765,"pontotocceb62@sbcglobal.net",2262
+"Jeannie Stover",Secretary,4052738376,4052753240,"pottceb@sbcglobal.net",2263
+"Jack Matthews",Secretary,5802983292,5802983292,"pushceb1@sbcglobal.net",2264
+"JANA D MADDUX",Secretary,5804973330,5804973546,"rmcelectionbd@yahoo.com",2265
+"Julie Dermody",Secretary,9183412965,9183414666,"electionboard@rogerscounty.org",2266
+"David R. Cobb",Secretary,4052572786,4052573912,"semelectionboard@sbcglobal.net",2267
+"Cindy Ann Osborn",Secretary,9187752614,9187751205,"sequoyahcountyelectionboard@yahoo.com",2268
+"Angela Dunagan",Secretary,5802558782,5802553188,"stephensceb@cableone.net",2269
+"Glenda L. Williams",Secretary,5803387644,5803382618,"vote2txcountyelection@outlook.com",2270
+"Sherri Jacobs",Secretary,5803352287,5803352699,"tillmanelect@pldi.net",2271
+"Patty Bryant",Secretary,9185965780,9185964536,"Tulsaceb72@tulsacounty.org",2272
+"Larry Wilkinson",Secretary,9184852142,9184858063,"elections@wagonercounty.ok.gov",2273
+"Yvonne House",Secretary,9183372850,9183372895,"WashingtonCEB74@countycourthouse.org",2274
+"Leah Jones",Secretary,5808323658,5808324119,"washitaceb75@yahoo.com",2275
+"Sandra Koehn",Secretary,5803271452,5803276216,"woodsceb2@woodscounty.net",2276
+"Carol Carrell",Secretary,5802563609,5802546877,"election@woodwardcounty.org",2277
+"Paul Ziriax",Secretary,4055212391,4055216457,"info@elections.ok.gov",2299
