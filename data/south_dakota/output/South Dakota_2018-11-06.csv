@@ -36,7 +36,7 @@ election_date,state,county_name,jurisdiction,jurisdiction_type,precinct_id,preci
 2018-11-06,SD,Brookings,Brookings,county,,Precinct-02,,vote_center,1-6 McKnight Hall,"228 W. Main St., White",,ORR,2019-10-17,
 2018-11-06,SD,Brown,Brown,county,,Precinct-01,,vote_center,Absentee,"NULL, NULL",,ORR,2019-10-17,
 2018-11-06,SD,Brown,Brown,county,,Precinct-01,,vote_center,AmericInn Event Center,"301 Centennial Street, Aberdeen",,ORR,2019-10-17,
-2018-11-06,SD,Brown,Brown,county,,Precinct-01,,vote_center,Best Western Ramkota Hotel andConvention Center,"1400 8th Ave NW, Aberdeen",,ORR,2019-10-17,
+2018-11-06,SD,Brown,Brown,county,,Precinct-01,,vote_center,Best Western Ramkota Hotel and Convention Center,"1400 8th Ave NW, Aberdeen",,ORR,2019-10-17,
 2018-11-06,SD,Brown,Brown,county,,Precinct-01,,vote_center,Claremont Fire Station,"505 6th St., Claremont",,ORR,2019-10-17,
 2018-11-06,SD,Brown,Brown,county,,Precinct-01,,vote_center,Columbia American Legion,"102 N Broadway, Columbia",,ORR,2019-10-17,
 2018-11-06,SD,Brown,Brown,county,,Precinct-01,,vote_center,Courthouse Community Room,"25 Market St., Aberdeen",,ORR,2019-10-17,
@@ -76,7 +76,7 @@ election_date,state,county_name,jurisdiction,jurisdiction_type,precinct_id,preci
 2018-11-06,SD,Campbell,Campbell,county,,Precinct-2,,polling_place,Pollock Visitors Center,"119 Main St, Pollock",,ORR,2019-10-17,
 2018-11-06,SD,Campbell,Campbell,county,,Precinct-3,,polling_place,Herreid Senior Citizens Center,"202 Main St N, Herreid",,ORR,2019-10-17,
 2018-11-06,SD,Campbell,Campbell,county,,Precinct-4,,polling_place,Mound City Community Center,"349 Campbell St NW, Mound City",,ORR,2019-10-17,
-2018-11-06,SD,Campbell,Campbell,county,,Precinct-5,,polling_place,Campbell County Courthouse/CourtRoom,"111 2nd St NE, Mound City",,ORR,2019-10-17,
+2018-11-06,SD,Campbell,Campbell,county,,Precinct-5,,polling_place,Campbell County Courthouse/Court Room,"111 2nd St NE, Mound City",,ORR,2019-10-17,
 2018-11-06,SD,Charles Mix,Charles Mix,county,,Precinct-01,,polling_place,Wagner Armory,"610 E SD Hwy 46, Wagner",,ORR,2019-10-17,
 2018-11-06,SD,Charles Mix,Charles Mix,county,,Precinct-02,,polling_place,Dante Church,"103 Church Dr, Dante",,ORR,2019-10-17,
 2018-11-06,SD,Charles Mix,Charles Mix,county,,Precinct-03,,polling_place,Wagner Armory,"610 E SD Hwy 46, Wagner",,ORR,2019-10-17,
@@ -160,9 +160,9 @@ election_date,state,county_name,jurisdiction,jurisdiction_type,precinct_id,preci
 2018-11-06,SD,Corson,Corson,county,,Ridgeland Precinct,,polling_place,Trail City Community Hall,"Hwy 20, Trail City",,ORR,2019-10-17,
 2018-11-06,SD,Corson,Corson,county,,Stone Church Precinct,,polling_place,Gary Pederson Residence,"BIA Road #4, 12521 245th Ave, Firesteel",,ORR,2019-10-17,
 2018-11-06,SD,Corson,Corson,county,,Wakpala Precinct,,polling_place,Wakpala Community Center,"Wakpala Community Center, Wakpala",,ORR,2019-10-17,
-2018-11-06,SD,Corson,Corson,county,,West Rural McLaughlinPrecinct,,polling_place,McLaughlin City Auditorium,"Main Street, McLaughlin",,ORR,2019-10-17,
+2018-11-06,SD,Corson,Corson,county,,West Rural McLaughlin Precinct,,polling_place,McLaughlin City Auditorium,"Main Street, McLaughlin",,ORR,2019-10-17,
 2018-11-06,SD,Custer,Custer,county,,Precinct-01,,polling_place,Hermosa United Church of Christ,"102 2nd St N, Hermosa",,ORR,2019-10-17,
-2018-11-06,SD,Custer,Custer,county,,Precinct-02,,polling_place,Fairburn Community & HistoricalCenter,"710 2nd St, Fairburn",,ORR,2019-10-17,
+2018-11-06,SD,Custer,Custer,county,,Precinct-02,,polling_place,Fairburn Community & Historical Center,"710 2nd St, Fairburn",,ORR,2019-10-17,
 2018-11-06,SD,Custer,Custer,county,,Precinct-03,,polling_place,Buffalo Gap Community Center,"209 Main St, Buffalo Gap",,ORR,2019-10-17,
 2018-11-06,SD,Custer,Custer,county,,Precinct-04,,polling_place,Pringle Fire Auxillary Hall,"436 Railway, Pringle",,ORR,2019-10-17,
 2018-11-06,SD,Custer,Custer,county,,Precinct-05,,polling_place,Custer County Courthouse Annex,"447 Crook St, Custer",,ORR,2019-10-17,
@@ -224,12 +224,12 @@ election_date,state,county_name,jurisdiction,jurisdiction_type,precinct_id,preci
 2018-11-06,SD,Dewey,Dewey,county,,Precinct-06 Isabel,,polling_place,Isabel Senior Center,"412 N  Main, Isabel",,ORR,2019-10-17,
 2018-11-06,SD,Dewey,Dewey,county,,Precinct-07 Eagle Butte East,,polling_place,CRST Senior Nutrition Site,"East Knott's Landing Rd, Eagle Butte",,ORR,2019-10-17,
 2018-11-06,SD,Dewey,Dewey,county,,Precinct-08 White Horse,,polling_place,White Horse Community Center,"West Main Avenue, White Horse",,ORR,2019-10-17,
-2018-11-06,SD,Dewey,Dewey,county,,Precinct-09 Promise,,polling_place,St. Catherine Hall/Promise,"S 1806 and N of Promisetownsite, Promise",,ORR,2019-10-17,
-2018-11-06,SD,Dewey,Dewey,county,,Precinct-11Swiftbird/LaPlant,,polling_place,UCC Church Hall/LaPlant,"Virgin Creek Road, LaPlant",,ORR,2019-10-17,
-2018-11-06,SD,Dewey,Dewey,county,,Precinct-12 Eagle ButteNorth,,polling_place,CRST Cultural Center,"Hwy 212, Eagle Butte",,ORR,2019-10-17,
-2018-11-06,SD,Dewey,Dewey,county,,Precinct-13 Eagle ButteNorth,,polling_place,CRST Cultural Center,"Hwy 212, Eagle Butte",,ORR,2019-10-17,
-2018-11-06,SD,Dewey,Dewey,county,,Precinct-14 Eagle ButteSouth,,polling_place,Landmark Hall,"south end of Main St east sideof street, Eagle Butte",,ORR,2019-10-17,
-2018-11-06,SD,Dewey,Dewey,county,,Precinct-15 Eagle ButteWest,,polling_place,Eagle Butte Volunteer Fire Hall,"Willow St, Eagle Butte",,ORR,2019-10-17,
+2018-11-06,SD,Dewey,Dewey,county,,Precinct-09 Promise,,polling_place,St. Catherine Hall/Promise,"S 1806 and N of Promise townsite, Promise",,ORR,2019-10-17,
+2018-11-06,SD,Dewey,Dewey,county,,Precinct-11 Swiftbird/LaPlant,,polling_place,UCC Church Hall/LaPlant,"Virgin Creek Road, LaPlant",,ORR,2019-10-17,
+2018-11-06,SD,Dewey,Dewey,county,,Precinct-12 Eagle Butte North,,polling_place,CRST Cultural Center,"Hwy 212, Eagle Butte",,ORR,2019-10-17,
+2018-11-06,SD,Dewey,Dewey,county,,Precinct-13 Eagle Butte North,,polling_place,CRST Cultural Center,"Hwy 212, Eagle Butte",,ORR,2019-10-17,
+2018-11-06,SD,Dewey,Dewey,county,,Precinct-14 Eagle Butte South,,polling_place,Landmark Hall,"south end of Main St east side of street, Eagle Butte",,ORR,2019-10-17,
+2018-11-06,SD,Dewey,Dewey,county,,Precinct-15 Eagle Butte West,,polling_place,Eagle Butte Volunteer Fire Hall,"Willow St, Eagle Butte",,ORR,2019-10-17,
 2018-11-06,SD,Douglas,Douglas,county,,Precinct-1,,polling_place,Harrison Community Church,"390 Lecocq St., Harrison",,ORR,2019-10-17,
 2018-11-06,SD,Douglas,Douglas,county,,Precinct-2,,polling_place,Community Building- Corsica,"335 East Main St., Corsica",,ORR,2019-10-17,
 2018-11-06,SD,Douglas,Douglas,county,,Precinct-3,,polling_place,Community Center-Delmont,"105 West Main St., Delmont",,ORR,2019-10-17,
@@ -268,7 +268,7 @@ election_date,state,county_name,jurisdiction,jurisdiction_type,precinct_id,preci
 2018-11-06,SD,Grant,Grant,county,,Precinct-43,,polling_place,Big Stone City Community Room,"400 Washington St, Big Stone City",,ORR,2019-10-17,
 2018-11-06,SD,Grant,Grant,county,,Precinct-44,,polling_place,Marvin Hall,"204 S Church St, Marvin",,ORR,2019-10-17,
 2018-11-06,SD,Grant,Grant,county,,Precinct-45,,polling_place,LaBolt Mini Mall,"140 Main St, LaBolt",,ORR,2019-10-17,
-2018-11-06,SD,Grant,Grant,county,,Precinct-46,,polling_place,Whetstone Valley Electric MeetingRoom,"1101 E 4th Ave, Milbank",,ORR,2019-10-17,
+2018-11-06,SD,Grant,Grant,county,,Precinct-46,,polling_place,Whetstone Valley Electric Meeting Room,"1101 E 4th Ave, Milbank",,ORR,2019-10-17,
 2018-11-06,SD,Grant,Grant,county,,Precinct-47,,polling_place,Grant County Library,"207 East Park Ave, Milbank",,ORR,2019-10-17,
 2018-11-06,SD,Grant,Grant,county,,Precinct-52,,polling_place,Stockholm Community Center,"400 E Johnson Ave, Stockholm",,ORR,2019-10-17,
 2018-11-06,SD,Grant,Grant,county,,Precinct-53,,polling_place,Rufer's General Store,"115 Main St., Strandburg",,ORR,2019-10-17,
@@ -325,9 +325,9 @@ election_date,state,county_name,jurisdiction,jurisdiction_type,precinct_id,preci
 2018-11-06,SD,Hutchinson,Hutchinson,county,,Precinct-03,,polling_place,Clayton Township Hall,"27213 427th Ave, Clayton",,ORR,2019-10-17,
 2018-11-06,SD,Hutchinson,Hutchinson,county,,Precinct-04,,polling_place,St. Peter  Paul Parrish Hall,"146 W 1st, Dimock",,ORR,2019-10-17,
 2018-11-06,SD,Hutchinson,Hutchinson,county,,Precinct-05,,polling_place,Parkston American Legion Hall,"221 W Main St, Parkston",,ORR,2019-10-17,
-2018-11-06,SD,Hutchinson,Hutchinson,county,,Precinct-06,,polling_place,Tripp Area Emergency ServiceCenter,"306 S Main Street, Tripp",,ORR,2019-10-17,
+2018-11-06,SD,Hutchinson,Hutchinson,county,,Precinct-06,,polling_place,Tripp Area Emergency Service Center,"306 S Main Street, Tripp",,ORR,2019-10-17,
 2018-11-06,SD,Hutchinson,Hutchinson,county,,Precinct-07,,polling_place,Courthouse Conference Room,"140 Euclid, Olivet",,ORR,2019-10-17,
-2018-11-06,SD,Hyde,Hyde,county,,Precinct-1,,vote_center,Hyde County Memorial Auditorium -Main Arena,"125 2nd ST SW, Highmore",,ORR,2019-10-17,
+2018-11-06,SD,Hyde,Hyde,county,,Precinct-1,,vote_center,Hyde County Memorial Auditorium - Main Arena,"125 2nd ST SW, Highmore",,ORR,2019-10-17,
 2018-11-06,SD,Jackson,Jackson,county,,Precinct-1,,polling_place,Cottonwood Range Field Station,"23720 Fairview Rd, Phillip",,ORR,2019-10-17,
 2018-11-06,SD,Jackson,Jackson,county,,Precinct-2,,polling_place,Interior Community Center,"117 6th Avenue, Interior",,ORR,2019-10-17,
 2018-11-06,SD,Jackson,Jackson,county,,Precinct-3,,polling_place,Jackson County Courthouse 3,"700 Main St, Kadoka",,ORR,2019-10-17,
@@ -351,8 +351,8 @@ election_date,state,county_name,jurisdiction,jurisdiction_type,precinct_id,preci
 2018-11-06,SD,Kingsbury,Kingsbury,county,,Lake Preston Precinct,,polling_place,Lake Preston Community Room,"215 N Main, Lake Preston",,ORR,2019-10-17,
 2018-11-06,SD,Kingsbury,Kingsbury,county,,Oldham Precinct,,polling_place,Oldham School Gym,"112 S Epton Avenue, Oldham",,ORR,2019-10-17,
 2018-11-06,SD,Lake,Lake,county,,Chester-Franklin,,polling_place,Chester Fire Hall,"407 2nd St, Chester",,ORR,2019-10-17,
-2018-11-06,SD,Lake,Lake,county,,Concord-Badus-Wayne/Ramona,,polling_place,Ramona Parish Hall,"120 W 3rd St, Ramona",,ORR,2019-10-17,
-2018-11-06,SD,Lake,Lake,county,,Farmington-Leroy-Clarno-Orland,,polling_place,Dakota Prairie Playhouse,"1205 N Washington Ave, Madison",,ORR,2019-10-17,
+2018-11-06,SD,Lake,Lake,county,,Concord-Badus- Wayne/Ramona,,polling_place,Ramona Parish Hall,"120 W 3rd St, Ramona",,ORR,2019-10-17,
+2018-11-06,SD,Lake,Lake,county,,Farmington-Leroy-Clarno- Orland,,polling_place,Dakota Prairie Playhouse,"1205 N Washington Ave, Madison",,ORR,2019-10-17,
 2018-11-06,SD,Lake,Lake,county,,Herman-Winfred,,polling_place,Dakota Prairie Playhouse,"1205 N Washington Ave, Madison",,ORR,2019-10-17,
 2018-11-06,SD,Lake,Lake,county,,Lakeview,,polling_place,Dakota Prairie Playhouse,"1205 N Washington Ave, Madison",,ORR,2019-10-17,
 2018-11-06,SD,Lake,Lake,county,,Nunda-Summit,,polling_place,Nunda Fire Hall,"410 Main St, Nunda",,ORR,2019-10-17,
@@ -363,13 +363,13 @@ election_date,state,county_name,jurisdiction,jurisdiction_type,precinct_id,preci
 2018-11-06,SD,Lawrence,Lawrence,county,,Precinct-01,,polling_place,Spearfish Senior Citizen's Center,"1306 N 10th Street, Spearfish",,ORR,2019-10-17,
 2018-11-06,SD,Lawrence,Lawrence,county,,Precinct-02,,polling_place,Spearfish Senior Citizen's Center,"1306 N 10th Street, Spearfish",,ORR,2019-10-17,
 2018-11-06,SD,Lawrence,Lawrence,county,,Precinct-03,,polling_place,Spearfish Senior Citizen's Center,"1306 N 10th Street, Spearfish",,ORR,2019-10-17,
-2018-11-06,SD,Lawrence,Lawrence,county,,Precinct-05,,polling_place,Lawrence County AdministrativeAnnex,"90 Sherman Street, Deadwood",,ORR,2019-10-17,
+2018-11-06,SD,Lawrence,Lawrence,county,,Precinct-05,,polling_place,Lawrence County Administrative Annex,"90 Sherman Street, Deadwood",,ORR,2019-10-17,
 2018-11-06,SD,Lawrence,Lawrence,county,,Precinct-06,,polling_place,Nemo Church,"12755 Nemo Road, Nemo",,ORR,2019-10-17,
-2018-11-06,SD,Lawrence,Lawrence,county,,Precinct-07,,polling_place,Lawrence County AdministrativeAnnex,"90 Sherman Street, Deadwood",,ORR,2019-10-17,
+2018-11-06,SD,Lawrence,Lawrence,county,,Precinct-07,,polling_place,Lawrence County Administrative Annex,"90 Sherman Street, Deadwood",,ORR,2019-10-17,
 2018-11-06,SD,Lawrence,Lawrence,county,,Precinct-08,,polling_place,St Onge Community Hall,"234 1st Street, St Onge",,ORR,2019-10-17,
 2018-11-06,SD,Lawrence,Lawrence,county,,Precinct-09,,polling_place,Whitewood City Hall,"1025 Meade Street, Whitewood",,ORR,2019-10-17,
 2018-11-06,SD,Lawrence,Lawrence,county,,Precinct-10,,polling_place,Spearfish Park Pavilion,"115 S Canyon Street, Spearfish",,ORR,2019-10-17,
-2018-11-06,SD,Lincoln,Lincoln,county,,"02-Norway & Fairview,Fairview, Inc",,polling_place,Lands Lutheran Church,"47998 292nd St., Hudson",,ORR,2019-10-17,
+2018-11-06,SD,Lincoln,Lincoln,county,,"02-Norway & Fairview, Fairview, Inc",,polling_place,Lands Lutheran Church,"47998 292nd St., Hudson",,ORR,2019-10-17,
 2018-11-06,SD,Lincoln,Lincoln,county,,06-Highland & Canton,,polling_place,Canton Methodist Church,"621 E. 4th St., Canton",,ORR,2019-10-17,
 2018-11-06,SD,Lincoln,Lincoln,county,,08-Lincoln & Delaware,,polling_place,South Lincoln Rural Water,"28647 472nd Ave, Worthing",,ORR,2019-10-17,
 2018-11-06,SD,Lincoln,Lincoln,county,,11-Grant,,polling_place,West Prairie Lutheran Church,"46788 282nd St., Lennox",,ORR,2019-10-17,
@@ -384,7 +384,7 @@ election_date,state,county_name,jurisdiction,jurisdiction_type,precinct_id,preci
 2018-11-06,SD,Lincoln,Lincoln,county,,24-Tea,,polling_place,Tea City Hall,"600 E. 1st St., Tea",,ORR,2019-10-17,
 2018-11-06,SD,Lincoln,Lincoln,county,,25-Lennox,,polling_place,First English Lutheran Church,"120 E 2nd Ave, Lennox",,ORR,2019-10-17,
 2018-11-06,SD,Lincoln,Lincoln,county,,25-Lennox,,polling_place,Worthing Civic Center,"121 S Main St., Worthing",,ORR,2019-10-17,
-2018-11-06,SD,Lincoln,Lincoln,county,,"26-Brooklyn & Pleasant,Beresford",,polling_place,Beresford Public Library,"115 S. 3rd St., Beresford",,ORR,2019-10-17,
+2018-11-06,SD,Lincoln,Lincoln,county,,"26-Brooklyn & Pleasant, Beresford",,polling_place,Beresford Public Library,"115 S. 3rd St., Beresford",,ORR,2019-10-17,
 2018-11-06,SD,Lincoln,Lincoln,county,,27-Harrisburg 1,,polling_place,United Methodist Church,"204 Grand Ave., Harrisburg",,ORR,2019-10-17,
 2018-11-06,SD,Lincoln,Lincoln,county,,29-Harrisburg 2,,polling_place,United Methodist Church,"204 Grand Ave., Harrisburg",,ORR,2019-10-17,
 2018-11-06,SD,Lincoln,Lincoln,county,,30-Canton 4 & 5,,polling_place,Canton Methodist Church,"621 E. 4th St., Canton",,ORR,2019-10-17,
@@ -402,7 +402,7 @@ election_date,state,county_name,jurisdiction,jurisdiction_type,precinct_id,preci
 2018-11-06,SD,Lyman,Lyman,county,,Precinct-01,,polling_place,#01 IONA COMMUNITY CENTER,"26511 266TH ST, IONA",,ORR,2019-10-17,
 2018-11-06,SD,Lyman,Lyman,county,,Precinct-04,,polling_place,#04 OACOMA COMMUNITY CENTER,"100 E 3RD ST, OACOMA",,ORR,2019-10-17,
 2018-11-06,SD,Lyman,Lyman,county,,Precinct-06,,polling_place,#06 RELIANCE TOWN HALL,"405 E Chamberlain St, RELIANCE",,ORR,2019-10-17,
-2018-11-06,SD,Lyman,Lyman,county,,Precinct-07,,polling_place,#07 GOLDEN BUFFALO CONVENTIONCENTER,"307 CRAZY HORSE ST, LOWER BRULE",,ORR,2019-10-17,
+2018-11-06,SD,Lyman,Lyman,county,,Precinct-07,,polling_place,#07 GOLDEN BUFFALO CONVENTION CENTER,"307 CRAZY HORSE ST, LOWER BRULE",,ORR,2019-10-17,
 2018-11-06,SD,Lyman,Lyman,county,,Precinct-09,,polling_place,#09 LYMAN COUNTY COURTHOUSE,"300 S MAIN ST, KENNEBEC",,ORR,2019-10-17,
 2018-11-06,SD,Lyman,Lyman,county,,Precinct-12,,polling_place,#12 PRESHO METHODIST CHURCH,"100 W WILLOW AVE, PRESHO",,ORR,2019-10-17,
 2018-11-06,SD,Lyman,Lyman,county,,Precinct-13,,polling_place,#13 VIVIAN FIRE HALL,"738 MAIN AVE, VIVIAN",,ORR,2019-10-17,
@@ -413,7 +413,7 @@ election_date,state,county_name,jurisdiction,jurisdiction_type,precinct_id,preci
 2018-11-06,SD,Marshall,Marshall,county,,Precinct-A5,,polling_place,Veblen City Hall,"115 N Flick St, Veblen",,ORR,2019-10-17,
 2018-11-06,SD,Marshall,Marshall,county,,Precinct-A6,,polling_place,Lake City Community Center,"106 W Roy Lake Ave, Lake City",,ORR,2019-10-17,
 2018-11-06,SD,Marshall,Marshall,county,,Precinct-A7,,polling_place,Eden Community Center,"302 Broadway Center, Eden",,ORR,2019-10-17,
-2018-11-06,SD,Marshall,Marshall,county,,Precinct-A8,,polling_place,Norstar Federal Credit UnionMeeting Room,"526 8th St, Britton",,ORR,2019-10-17,
+2018-11-06,SD,Marshall,Marshall,county,,Precinct-A8,,polling_place,Norstar Federal Credit Union Meeting Room,"526 8th St, Britton",,ORR,2019-10-17,
 2018-11-06,SD,Marshall,Marshall,county,,Precinct-A9,,polling_place,North Marshall Fire Hall,"605 Vander Horck Ave, Britton",,ORR,2019-10-17,
 2018-11-06,SD,McCook,McCook,county,,Precinct-02,,polling_place,Spencer Community Center,"320 Main St, Spencer",,ORR,2019-10-17,
 2018-11-06,SD,McCook,McCook,county,,Precinct-03,,polling_place,Canistota Legion Hall,"West Main St, Canistota",,ORR,2019-10-17,
@@ -432,12 +432,12 @@ election_date,state,county_name,jurisdiction,jurisdiction_type,precinct_id,preci
 2018-11-06,SD,Meade,Meade,county,,BLACK HAWK #14,,polling_place,Black Hawk Fire Department,"6010 Peaceful Pines Rd., Black Hawk",,ORR,2019-10-17,
 2018-11-06,SD,Meade,Meade,county,,CENTRAL BLACK HAWK #19,,polling_place,Black Hawk Fire Department,"6010 Peaceful Pines Rd., Black Hawk",,ORR,2019-10-17,
 2018-11-06,SD,Meade,Meade,county,,CENTRAL STURGIS #3,,polling_place,Sturgis Community Center,"1401 Lazelle Street, Sturgis",,ORR,2019-10-17,
-2018-11-06,SD,Meade,Meade,county,,CHALK BUTTE #27,,polling_place,Central Meade Co. CommunityCenter,"19617 Ball Field Rd., Union Center",,ORR,2019-10-17,
+2018-11-06,SD,Meade,Meade,county,,CHALK BUTTE #27,,polling_place,Central Meade Co. Community Center,"19617 Ball Field Rd., Union Center",,ORR,2019-10-17,
 2018-11-06,SD,Meade,Meade,county,,EAST PIEDMONT #12,,polling_place,Piedmont Community Gym,"16159 Second St., Piedmont",,ORR,2019-10-17,
 2018-11-06,SD,Meade,Meade,county,,EAST STURGIS #1,,polling_place,Sturgis Community Center,"1401 Lazelle Street, Sturgis",,ORR,2019-10-17,
 2018-11-06,SD,Meade,Meade,county,,ELK VALE #21,,polling_place,Box Elder Event Center,"420 Villa Dr., Box Elder",,ORR,2019-10-17,
 2018-11-06,SD,Meade,Meade,county,,ELM SPRINGS #18,,polling_place,Elm Springs Fire Department,"17674 Dalzell Rd., Elm Springs",,ORR,2019-10-17,
-2018-11-06,SD,Meade,Meade,county,,FAIRPOINT #29,,polling_place,Central Meade Co. CommunityCenter,"19617 Ball Field Rd., Union Center",,ORR,2019-10-17,
+2018-11-06,SD,Meade,Meade,county,,FAIRPOINT #29,,polling_place,Central Meade Co. Community Center,"19617 Ball Field Rd., Union Center",,ORR,2019-10-17,
 2018-11-06,SD,Meade,Meade,county,,FAITH #31,,polling_place,Faith Community Center,"204 N. Main St., Faith",,ORR,2019-10-17,
 2018-11-06,SD,Meade,Meade,county,,HARMONY #8,,polling_place,Sturgis Community Center,"1401 Lazelle Street, Sturgis",,ORR,2019-10-17,
 2018-11-06,SD,Meade,Meade,county,,HEREFORD #20,,polling_place,Hereford Hall,"15911 Cross S Rd., Hereford",,ORR,2019-10-17,
@@ -486,7 +486,7 @@ election_date,state,county_name,jurisdiction,jurisdiction_type,precinct_id,preci
 2018-11-06,SD,Minnehaha,Minnehaha,county,,Precinct-0203,,polling_place,Morningside Community Center,"2400 S Bahnson Ave, Sioux Falls",,ORR,2019-10-17,
 2018-11-06,SD,Minnehaha,Minnehaha,county,,Precinct-0206,,polling_place,Westminster Presbyterian,"3801 E 26th St, Sioux Falls",,ORR,2019-10-17,
 2018-11-06,SD,Minnehaha,Minnehaha,county,,Precinct-0207,,polling_place,Lord of Life Lutheran Church,"2600 S Sycamore Ave, Sioux Falls",,ORR,2019-10-17,
-2018-11-06,SD,Minnehaha,Minnehaha,county,,Precinct-0208,,polling_place,Avera Prince of Peace RetirementCommunity,"4513 S Prince of Peace Pl, Sioux Falls",,ORR,2019-10-17,
+2018-11-06,SD,Minnehaha,Minnehaha,county,,Precinct-0208,,polling_place,Avera Prince of Peace Retirement Community,"4513 S Prince of Peace Pl, Sioux Falls",,ORR,2019-10-17,
 2018-11-06,SD,Minnehaha,Minnehaha,county,,Precinct-0209,,polling_place,Gloria Dei Lutheran Church,"5500 East 57th St, Sioux Falls",,ORR,2019-10-17,
 2018-11-06,SD,Minnehaha,Minnehaha,county,,Precinct-0214,,polling_place,Eastside Baptist Church,"6101 E 49th St, Sioux Falls",,ORR,2019-10-17,
 2018-11-06,SD,Minnehaha,Minnehaha,county,,Precinct-0305,,polling_place,American Legion,"1701 W Legion Dr, Sioux Falls",,ORR,2019-10-17,
@@ -527,7 +527,7 @@ election_date,state,county_name,jurisdiction,jurisdiction_type,precinct_id,preci
 2018-11-06,SD,Minnehaha,Minnehaha,county,,Precinct-0512,,polling_place,Instructional Planning Center,"201 E 38th St, Sioux Falls",,ORR,2019-10-17,
 2018-11-06,SD,Minnehaha,Minnehaha,county,,Precinct-0513,,polling_place,Instructional Planning Center,"201 E 38th St, Sioux Falls",,ORR,2019-10-17,
 2018-11-06,SD,Minnehaha,Minnehaha,county,,Precinct-0514,,polling_place,Christ the King Church,"1501 W 26th St, Sioux Falls",,ORR,2019-10-17,
-2018-11-06,SD,Minnehaha,Minnehaha,county,,Precinct-0514,,polling_place,USF Cleveland ProfessionalDevelopment Center,"1010 W 26th St, Sioux Falls",,ORR,2019-10-17,
+2018-11-06,SD,Minnehaha,Minnehaha,county,,Precinct-0514,,polling_place,USF Cleveland Professional Development Center,"1010 W 26th St, Sioux Falls",,ORR,2019-10-17,
 2018-11-06,SD,Minnehaha,Minnehaha,county,,Precinct-0518,,polling_place,Faith Family Church,"127 N Spring Ave, Sioux Falls",,ORR,2019-10-17,
 2018-11-06,SD,Minnehaha,Minnehaha,county,,Precinct-0519,,polling_place,St Mark's Lutheran Church,"2001 S Elmwood Ave, Sioux Falls",,ORR,2019-10-17,
 2018-11-06,SD,Minnehaha,Minnehaha,county,,Precinct-0520,,polling_place,Oyate Community Center,"2421 W 15th St, Sioux Falls",,ORR,2019-10-17,
@@ -536,7 +536,7 @@ election_date,state,county_name,jurisdiction,jurisdiction_type,precinct_id,preci
 2018-11-06,SD,Minnehaha,Minnehaha,county,,Precinct-VP02,,polling_place,Split Rock Fire Station,"7201 E Hwy 42, Sioux Falls",,ORR,2019-10-17,
 2018-11-06,SD,Minnehaha,Minnehaha,county,,Precinct-VP03,,polling_place,Brandon Municipal Golf Course,"2100 E Aspen Blvd, Brandon",,ORR,2019-10-17,
 2018-11-06,SD,Minnehaha,Minnehaha,county,,Precinct-VP04,,polling_place,Mapleton Township Hall,"47419 258th St, Renner",,ORR,2019-10-17,
-2018-11-06,SD,Minnehaha,Minnehaha,county,,Precinct-VP05,,polling_place,Brandon City Hall - CouncilChambers,"308 S Main Ave, Brandon",,ORR,2019-10-17,
+2018-11-06,SD,Minnehaha,Minnehaha,county,,Precinct-VP05,,polling_place,Brandon City Hall - Council Chambers,"308 S Main Ave, Brandon",,ORR,2019-10-17,
 2018-11-06,SD,Minnehaha,Minnehaha,county,,Precinct-VP06,,polling_place,MariCar Community Center,"400 N Valley View Rd, Sioux Falls",,ORR,2019-10-17,
 2018-11-06,SD,Minnehaha,Minnehaha,county,,Precinct-VP07,,polling_place,Hartford City Hall,"125 N Main Ave, Hartford",,ORR,2019-10-17,
 2018-11-06,SD,Minnehaha,Minnehaha,county,,Precinct-VP08,,polling_place,Humboldt Community Center,"118 S. Main St, Humboldt",,ORR,2019-10-17,
@@ -549,10 +549,10 @@ election_date,state,county_name,jurisdiction,jurisdiction_type,precinct_id,preci
 2018-11-06,SD,Minnehaha,Minnehaha,county,,Precinct-VP16,,polling_place,Crooks Community Center,"701 S West Ave, Crooks",,ORR,2019-10-17,
 2018-11-06,SD,Minnehaha,Minnehaha,county,,Precinct-VP17,,polling_place,Wall Lake Township Hall,"26452 463rd Ave, Hartford",,ORR,2019-10-17,
 2018-11-06,SD,Minnehaha,Minnehaha,county,,Precinct-VP21,,polling_place,Lutheran Church of Dell Rapids,"701 Orleans Ave, Dell Rapids",,ORR,2019-10-17,
-2018-11-06,SD,Moody,Moody,county,,Precinct-1,,polling_place,William J. Janklow CommunityCenter,"802 W. Community Drive, Flandreau",,ORR,2019-10-17,
+2018-11-06,SD,Moody,Moody,county,,Precinct-1,,polling_place,William J. Janklow Community Center,"802 W. Community Drive, Flandreau",,ORR,2019-10-17,
 2018-11-06,SD,Moody,Moody,county,,Precinct-2,,polling_place,Moody County Courthouse-1st Floor,"101 E Pipestone Ave, Flandreau",,ORR,2019-10-17,
 2018-11-06,SD,Moody,Moody,county,,Precinct-3,,polling_place,Trent Gym,"403 E 3rd St, Trent",,ORR,2019-10-17,
-2018-11-06,SD,Moody,Moody,county,,Precinct-34,,polling_place,William J. Janklow CommunityCenter,"802 W. Community Drive, Flandreau",,ORR,2019-10-17,
+2018-11-06,SD,Moody,Moody,county,,Precinct-34,,polling_place,William J. Janklow Community Center,"802 W. Community Drive, Flandreau",,ORR,2019-10-17,
 2018-11-06,SD,Moody,Moody,county,,Precinct-5,,polling_place,Colman Community Center,"126 N Main, Colman",,ORR,2019-10-17,
 2018-11-06,SD,Oglala Lakota,Oglala Lakota,county,,Batesland,,polling_place,Oglala Lakota County Schools,"School St, Batesland",,ORR,2019-10-17,
 2018-11-06,SD,Oglala Lakota,Oglala Lakota,county,,Cuny Table,,polling_place,Red Shirt School,"BIA HWY 41, Red Shirt Village",,ORR,2019-10-17,
@@ -569,41 +569,41 @@ election_date,state,county_name,jurisdiction,jurisdiction_type,precinct_id,preci
 2018-11-06,SD,Pennington,Pennington,county,,Precinct 1-4,,polling_place,West River Electric Assn (1-4),"3250 E Highway 44, Rapid City",,ORR,2019-10-17,
 2018-11-06,SD,Pennington,Pennington,county,,Precinct 2-1,,polling_place,Rapid City Public Library (2-1/2-5),"610 Quincy St, Rapid City",,ORR,2019-10-17,
 2018-11-06,SD,Pennington,Pennington,county,,Precinct 2-2,,polling_place,Bethel Assembly Church (2-2/4-2),"1202 N Maple Ave, Rapid City",,ORR,2019-10-17,
-2018-11-06,SD,Pennington,Pennington,county,,Precinct 2-3,,polling_place,Walter Taylor 4H Bldg-Fairgrounds (23),"601 E Centre St, Rapid City",,ORR,2019-10-17,
+2018-11-06,SD,Pennington,Pennington,county,,Precinct 2-3,,polling_place,Walter Taylor 4H Bldg-Fairgrounds (2 3),"601 E Centre St, Rapid City",,ORR,2019-10-17,
 2018-11-06,SD,Pennington,Pennington,county,,Precinct 2-4,,polling_place,South Middle School (2-4),"2 Indiana St, Rapid City",,ORR,2019-10-17,
 2018-11-06,SD,Pennington,Pennington,county,,Precinct 2-5,,polling_place,Rapid City Public Library (2-1/2-5),"610 Quincy St, Rapid City",,ORR,2019-10-17,
 2018-11-06,SD,Pennington,Pennington,county,,Precinct 3-1,,polling_place,Jackson Heights Highrise (3-1),"1805 W Fulton, Rapid City",,ORR,2019-10-17,
 2018-11-06,SD,Pennington,Pennington,county,,Precinct 3-2,,polling_place,Calvary Lutheran Church (3-2/3-3),"5311 Sheridan Lake Rd, Rapid City",,ORR,2019-10-17,
 2018-11-06,SD,Pennington,Pennington,county,,Precinct 3-3,,polling_place,Calvary Lutheran Church (3-2/3-3),"5311 Sheridan Lake Rd, Rapid City",,ORR,2019-10-17,
 2018-11-06,SD,Pennington,Pennington,county,,Precinct 3-4,,polling_place,Southwest Middle School (3-4),"4501 Park Dr, Rapid City",,ORR,2019-10-17,
-2018-11-06,SD,Pennington,Pennington,county,,Precinct 3-5,,polling_place,Whispering Pines Fire District (3-5/WP),"7980 Clarkson Rd, Rapid City",,ORR,2019-10-17,
+2018-11-06,SD,Pennington,Pennington,county,,Precinct 3-5,,polling_place,Whispering Pines Fire District (3- 5/WP),"7980 Clarkson Rd, Rapid City",,ORR,2019-10-17,
 2018-11-06,SD,Pennington,Pennington,county,,Precinct 4-2,,polling_place,Bethel Assembly Church (2-2/4-2),"1202 N Maple Ave, Rapid City",,ORR,2019-10-17,
-2018-11-06,SD,Pennington,Pennington,county,,Precinct 4-3,,polling_place,Atonement Lutheran Church (4-3/4-5),"602 Auburn Dr, Rapid City",,ORR,2019-10-17,
+2018-11-06,SD,Pennington,Pennington,county,,Precinct 4-3,,polling_place,Atonement Lutheran Church (4-3/4- 5),"602 Auburn Dr, Rapid City",,ORR,2019-10-17,
 2018-11-06,SD,Pennington,Pennington,county,,Precinct 4-4,,polling_place,General Beadle School (4-1/4-4/5-1),"10 E Van Buren St, Rapid City",,ORR,2019-10-17,
-2018-11-06,SD,Pennington,Pennington,county,,Precinct 4-5,,polling_place,Atonement Lutheran Church (4-3/4-5),"602 Auburn Dr, Rapid City",,ORR,2019-10-17,
+2018-11-06,SD,Pennington,Pennington,county,,Precinct 4-5,,polling_place,Atonement Lutheran Church (4-3/4- 5),"602 Auburn Dr, Rapid City",,ORR,2019-10-17,
 2018-11-06,SD,Pennington,Pennington,county,,Precinct 5-1,,polling_place,General Beadle School (4-1/4-4/5-1),"10 E Van Buren St, Rapid City",,ORR,2019-10-17,
 2018-11-06,SD,Pennington,Pennington,county,,Precinct 5-2,,polling_place,Canyon Lake Senior Center (5-2/CL),"2900 Canyon Lake Dr, Rapid City",,ORR,2019-10-17,
 2018-11-06,SD,Pennington,Pennington,county,,Precinct 5-3,,polling_place,Pinedale School (5-3/5-5),"4901 W Chicago, Rapid City",,ORR,2019-10-17,
 2018-11-06,SD,Pennington,Pennington,county,,Precinct 5-4,,polling_place,West Park Apartments (5-4),"1018 11th St, Rapid City",,ORR,2019-10-17,
 2018-11-06,SD,Pennington,Pennington,county,,Precinct 5-5,,polling_place,Pinedale School (5-3/5-5),"4901 W Chicago, Rapid City",,ORR,2019-10-17,
-2018-11-06,SD,Pennington,Pennington,county,,Precinct AW,,polling_place,Box Elder Event Center(BE/EL/NH/AW),"420 Villa Dr, Box Elder",,ORR,2019-10-17,
-2018-11-06,SD,Pennington,Pennington,county,,Precinct BE,,polling_place,Box Elder Event Center(BE/EL/NH/AW),"420 Villa Dr, Box Elder",,ORR,2019-10-17,
+2018-11-06,SD,Pennington,Pennington,county,,Precinct AW,,polling_place,Box Elder Event Center (BE/EL/NH/AW),"420 Villa Dr, Box Elder",,ORR,2019-10-17,
+2018-11-06,SD,Pennington,Pennington,county,,Precinct BE,,polling_place,Box Elder Event Center (BE/EL/NH/AW),"420 Villa Dr, Box Elder",,ORR,2019-10-17,
 2018-11-06,SD,Pennington,Pennington,county,,Precinct CA,,polling_place,Caputa Community Center (CA),"23501 Main St, Caputa",,ORR,2019-10-17,
 2018-11-06,SD,Pennington,Pennington,county,,Precinct CL,,polling_place,Canyon Lake Senior Center (5-2/CL),"2900 Canyon Lake Dr, Rapid City",,ORR,2019-10-17,
 2018-11-06,SD,Pennington,Pennington,county,,Precinct CR,,polling_place,Wall Community Center (WL/CR),"501 Main St, Wall",,ORR,2019-10-17,
 2018-11-06,SD,Pennington,Pennington,county,,Precinct DT,,polling_place,Doty Fire District (DT),"8770 Nemo Rd, Rapid City",,ORR,2019-10-17,
-2018-11-06,SD,Pennington,Pennington,county,,Precinct EL,,polling_place,Box Elder Event Center(BE/EL/NH/AW),"420 Villa Dr, Box Elder",,ORR,2019-10-17,
+2018-11-06,SD,Pennington,Pennington,county,,Precinct EL,,polling_place,Box Elder Event Center (BE/EL/NH/AW),"420 Villa Dr, Box Elder",,ORR,2019-10-17,
 2018-11-06,SD,Pennington,Pennington,county,,Precinct HC,,polling_place,Hill City Schools Gins Gym (HC),"440 Main St, Hill City",,ORR,2019-10-17,
-2018-11-06,SD,Pennington,Pennington,county,,Precinct HR,,polling_place,Rapid City Christian School at HartRanch (HR),"23757 Arena Dr, Rapid City",,ORR,2019-10-17,
-2018-11-06,SD,Pennington,Pennington,county,,Precinct JS,,polling_place,Rimrock Community Center atJohnson Siding (JS),"12270 W Highway 44, Rapid City",,ORR,2019-10-17,
-2018-11-06,SD,Pennington,Pennington,county,,Precinct NH,,polling_place,Box Elder Event Center(BE/EL/NH/AW),"420 Villa Dr, Box Elder",,ORR,2019-10-17,
-2018-11-06,SD,Pennington,Pennington,county,,Precinct NU,,polling_place,New Underwood Community Center(NU),"500 S A Ave, New Underwood",,ORR,2019-10-17,
+2018-11-06,SD,Pennington,Pennington,county,,Precinct HR,,polling_place,Rapid City Christian School at Hart Ranch (HR),"23757 Arena Dr, Rapid City",,ORR,2019-10-17,
+2018-11-06,SD,Pennington,Pennington,county,,Precinct JS,,polling_place,Rimrock Community Center at Johnson Siding (JS),"12270 W Highway 44, Rapid City",,ORR,2019-10-17,
+2018-11-06,SD,Pennington,Pennington,county,,Precinct NH,,polling_place,Box Elder Event Center (BE/EL/NH/AW),"420 Villa Dr, Box Elder",,ORR,2019-10-17,
+2018-11-06,SD,Pennington,Pennington,county,,Precinct NU,,polling_place,New Underwood Community Center (NU),"500 S A Ave, New Underwood",,ORR,2019-10-17,
 2018-11-06,SD,Pennington,Pennington,county,,Precinct QU,,polling_place,Quinn Community Center (QU),"37 Main St, Quinn",,ORR,2019-10-17,
 2018-11-06,SD,Pennington,Pennington,county,,Precinct RV,,polling_place,Rapid Valley School (RV),"2601 Covington St, Rapid City",,ORR,2019-10-17,
 2018-11-06,SD,Pennington,Pennington,county,,Precinct VF,,polling_place,Rapid Valley Fire District (VF),"3760 Reservoir Rd, Rapid City",,ORR,2019-10-17,
 2018-11-06,SD,Pennington,Pennington,county,,Precinct VV,,polling_place,Valley View School (VV),"4840 Homestead St, Rapid City",,ORR,2019-10-17,
 2018-11-06,SD,Pennington,Pennington,county,,Precinct WL,,polling_place,Wall Community Center (WL/CR),"501 Main St, Wall",,ORR,2019-10-17,
-2018-11-06,SD,Pennington,Pennington,county,,Precinct WP,,polling_place,Whispering Pines Fire District (3-5/WP),"7980 Clarkson Rd, Rapid City",,ORR,2019-10-17,
+2018-11-06,SD,Pennington,Pennington,county,,Precinct WP,,polling_place,Whispering Pines Fire District (3- 5/WP),"7980 Clarkson Rd, Rapid City",,ORR,2019-10-17,
 2018-11-06,SD,Pennington,Pennington,county,,Precinct WS,,polling_place,Wasta Community Center (WS),"38 A Street, Wasta",,ORR,2019-10-17,
 2018-11-06,SD,Perkins,Perkins,county,,Precinct-01,,polling_place,Beeler Community Building,"203 Main Ave, Lemmon",,ORR,2019-10-17,
 2018-11-06,SD,Perkins,Perkins,county,,Precinct-02,,polling_place,Lodgepole Hall,"11006 SD Hwy 75, Lodgepole",,ORR,2019-10-17,
@@ -640,7 +640,7 @@ election_date,state,county_name,jurisdiction,jurisdiction_type,precinct_id,preci
 2018-11-06,SD,Spink,Spink,county,,Precinct-04,,polling_place,Redfield National Guard Armory,"309 W 3rd St, Redfield",,ORR,2019-10-17,
 2018-11-06,SD,Spink,Spink,county,,Precinct-05,,polling_place,Frankfort Community Center,"602 Jefferson Ave, Frankfort",,ORR,2019-10-17,
 2018-11-06,SD,Spink,Spink,county,,Precinct-06,,polling_place,Ashton Community Hall,"102 E Main St, Ashton",,ORR,2019-10-17,
-2018-11-06,SD,Spink,Spink,county,,Precinct-07,,polling_place,Northwestern United MethodistChurch,"232 4th Ave, Mellette",,ORR,2019-10-17,
+2018-11-06,SD,Spink,Spink,county,,Precinct-07,,polling_place,Northwestern United Methodist Church,"232 4th Ave, Mellette",,ORR,2019-10-17,
 2018-11-06,SD,Spink,Spink,county,,Precinct-08,,polling_place,Conde Community Center,"125 Broadway St SW, Conde",,ORR,2019-10-17,
 2018-11-06,SD,Spink,Spink,county,,Precinct-09,,polling_place,Redfield National Guard Armory,"309 W 3rd St, Redfield",,ORR,2019-10-17,
 2018-11-06,SD,Spink,Spink,county,,Precinct-10,,polling_place,Redfield National Guard Armory,"309 W 3rd St, Redfield",,ORR,2019-10-17,
@@ -664,14 +664,14 @@ election_date,state,county_name,jurisdiction,jurisdiction_type,precinct_id,preci
 2018-11-06,SD,Tripp,Tripp,county,,Lake Consolidated,,polling_place,Skatetown,"312 Main St., Colome",,ORR,2019-10-17,
 2018-11-06,SD,Tripp,Tripp,county,,Lamro Consolidated,,polling_place,4-H Center,"815 West 12th St., Winner",,ORR,2019-10-17,
 2018-11-06,SD,Tripp,Tripp,county,,Sully Consolidated,,polling_place,4-H Center,"815 West 12th St., Winner",,ORR,2019-10-17,
-2018-11-06,SD,Tripp,Tripp,county,,WINNER Consolidated SE1ST,,polling_place,4-H Center,"815 West 12th St., Winner",,ORR,2019-10-17,
-2018-11-06,SD,Tripp,Tripp,county,,WINNER Consolidated-E2ND,,polling_place,4-H Center,"815 West 12th St., Winner",,ORR,2019-10-17,
-2018-11-06,SD,Tripp,Tripp,county,,WINNER Consolidated-E3RD,,polling_place,4-H Center,"815 West 12th St., Winner",,ORR,2019-10-17,
-2018-11-06,SD,Tripp,Tripp,county,,WINNER Consolidated-W2ND,,polling_place,4-H Center,"815 West 12th St., Winner",,ORR,2019-10-17,
-2018-11-06,SD,Tripp,Tripp,county,,WINNER Consolidated-W3RD,,polling_place,4-H Center,"815 West 12th St., Winner",,ORR,2019-10-17,
+2018-11-06,SD,Tripp,Tripp,county,,WINNER Consolidated SE 1ST,,polling_place,4-H Center,"815 West 12th St., Winner",,ORR,2019-10-17,
+2018-11-06,SD,Tripp,Tripp,county,,WINNER Consolidated-E 2ND,,polling_place,4-H Center,"815 West 12th St., Winner",,ORR,2019-10-17,
+2018-11-06,SD,Tripp,Tripp,county,,WINNER Consolidated-E 3RD,,polling_place,4-H Center,"815 West 12th St., Winner",,ORR,2019-10-17,
+2018-11-06,SD,Tripp,Tripp,county,,WINNER Consolidated-W 2ND,,polling_place,4-H Center,"815 West 12th St., Winner",,ORR,2019-10-17,
+2018-11-06,SD,Tripp,Tripp,county,,WINNER Consolidated-W 3RD,,polling_place,4-H Center,"815 West 12th St., Winner",,ORR,2019-10-17,
 2018-11-06,SD,Tripp,Tripp,county,,Witten Consolidated,,polling_place,Witten Hall,"117 East 1st St, Witten",,ORR,2019-10-17,
 2018-11-06,SD,Turner,Turner,county,,Precinct-01,,polling_place,Marion Legion Hall,"212 N Broadway, Marion",,ORR,2019-10-17,
-2018-11-06,SD,Turner,Turner,county,,Precinct-02,,polling_place,Turner County CourthouseCommunity Room,"400 S Main, Parker",,ORR,2019-10-17,
+2018-11-06,SD,Turner,Turner,county,,Precinct-02,,polling_place,Turner County Courthouse Community Room,"400 S Main, Parker",,ORR,2019-10-17,
 2018-11-06,SD,Turner,Turner,county,,Precinct-03,,polling_place,Chancellor City Hall,"240 S 2 Ave, Chancellor",,ORR,2019-10-17,
 2018-11-06,SD,Turner,Turner,county,,Precinct-04,,polling_place,Spring Valley Lutheran Church,"44707 289th St, Viborg",,ORR,2019-10-17,
 2018-11-06,SD,Turner,Turner,county,,Precinct-05,,polling_place,Hurley Fire Hall,"311 Main, Hurley",,ORR,2019-10-17,
@@ -686,8 +686,8 @@ election_date,state,county_name,jurisdiction,jurisdiction_type,precinct_id,preci
 2018-11-06,SD,Union,Union,county,,Precinct-06,,polling_place,Beresford Public Library,"115 S. 3rd St., Beresford",,ORR,2019-10-17,
 2018-11-06,SD,Union,Union,county,,Precinct-07,,polling_place,St. Peter's Community Center,"400 Main, Jefferson",,ORR,2019-10-17,
 2018-11-06,SD,Union,Union,county,,Precinct-08,,polling_place,Union County Courthouse,"209 East Main, Elk Point",,ORR,2019-10-17,
-2018-11-06,SD,Union,Union,county,,Precinct-10,,polling_place,North Sioux City Community Center-Fire Hall,"200 Sodrac Dr., North Sioux City",,ORR,2019-10-17,
-2018-11-06,SD,Union,Union,county,,Precinct-11,,polling_place,North Sioux City Community Center-Fire Hall,"200 Sodrac Dr., North Sioux City",,ORR,2019-10-17,
+2018-11-06,SD,Union,Union,county,,Precinct-10,,polling_place,North Sioux City Community Center- Fire Hall,"200 Sodrac Dr., North Sioux City",,ORR,2019-10-17,
+2018-11-06,SD,Union,Union,county,,Precinct-11,,polling_place,North Sioux City Community Center- Fire Hall,"200 Sodrac Dr., North Sioux City",,ORR,2019-10-17,
 2018-11-06,SD,Union,Union,county,,Precinct-12,,polling_place,Saint Teresa of Calcutta Church,"995 Sioux Point Road, Dakota Dunes",,ORR,2019-10-17,
 2018-11-06,SD,Union,Union,county,,Precinct-13,,polling_place,Holy Cross Lutheran Church,"149 Bison Trail, Dakota Dunes",,ORR,2019-10-17,
 2018-11-06,SD,Walworth,Walworth,county,,Precinct-01,,polling_place,Akaska Community Center,"109 Main Street, Akaska",,ORR,2019-10-17,
